@@ -1,0 +1,217 @@
+Picked up JAVA_TOOL_OPTIONS: -Dfile.encoding=UTF8
+Buildfile: /home/johneortega/patching/build.xml
+Duplicated project name in import. Project patching defined first in /home/johneortega/patching/build.xml and again in /home/johneortega/patching/build-jars.xml
+
+clean:
+   [delete] Deleting directory /home/johneortega/patching/classes
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+Picked up JAVA_TOOL_OPTIONS: -Dfile.encoding=UTF8
+Buildfile: /home/johneortega/patching/build.xml
+Duplicated project name in import. Project patching defined first in /home/johneortega/patching/build.xml and again in /home/johneortega/patching/build-jars.xml
+
+build-subprojects:
+
+init:
+    [mkdir] Created dir: /home/johneortega/patching/classes
+
+build-project:
+     [echo] patching: /home/johneortega/patching/build.xml
+    [javac] Compiling 54 source files to /home/johneortega/patching/classes
+    [javac] Note: /home/johneortega/patching/src/es/ua/dlsi/tests/weka/general/normalised/TestPerceptronClassifierGeometricStyleWekaPerceptronOnlyPosWithQuantitativeInfo.java uses or overrides a deprecated API.
+    [javac] Note: Recompile with -Xlint:deprecation for details.
+    [javac] Note: Some input files use unchecked or unsafe operations.
+    [javac] Note: Recompile with -Xlint:unchecked for details.
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+Picked up JAVA_TOOL_OPTIONS: -Dfile.encoding=UTF8
+****************************************************************************
+|================== BEST T~ 0.09090909090909091 ======================|
+un volumen comprendido entre 50 cm3 y 2000 cm3 ; y
+|================== S PRIME ======================|
+a volume of between 50 cm3 and 2000 cm3 ; and
+|================== S X ==========================|
+a volume of between 150 cm3 and 8000 cm3 ; and
+|================== T(1) ==========================|
+un volumen comprendido entre 150 cm3 y 8000 cm3 ; y
+|================== T(Prime) ======================|
+un volumen entre 50 cm3 y 2000 cm3 ; y
+|================== Average WER ==========================|
+0.18181818181818182
+|================== Average FMS ==========================|
+0.8181818181818181
+****************************************************************************
+|================== BEST T~ 0.17647058823529413 ======================|
+" duración de impulso " no superior a 1 µs y alguna de las características siguientes :
+|================== S PRIME ======================|
+" pulse duration " exceeding 1 μs and any of the following :
+|================== S X ==========================|
+" pulse duration " not exceeding 1 µs and any of the following :
+|================== T(1) ==========================|
+" duración de impulso " no superior a 1 µs y alguna de las características siguientes :
+|================== T(Prime) ======================|
+" duración de impulso " superior a 1 µs y cualquiera las características siguientes :
+|================== Average WER ==========================|
+0.20588235294117646
+|================== Average FMS ==========================|
+0.7941176470588235
+****************************************************************************
+|================== BEST T~ 0.25 ======================|
+todas las autorizaciones serán válidas en toda la comunidad .
+|================== S PRIME ======================|
+all the authorisations shall be valid throughout the community .
+|================== S X ==========================|
+the authorisations shall be valid throughout the community .
+|================== T(1) ==========================|
+las autorizaciones serán válidas en toda la comunidad .
+|================== T(Prime) ======================|
+todas las autorizaciones serán válidas en el conjunto de la comunidad .
+|================== Average WER ==========================|
+0.29166666666666663
+|================== Average FMS ==========================|
+0.7083333333333334
+****************************************************************************
+|================== BEST T~ 0.0 ======================|
+el anexo ii se sustituye por el texto recogido en el anexo ii del presente reglamento .
+|================== S PRIME ======================|
+annex ii shall be replaced by the text set out in annex ii to this regulation .
+|================== S X ==========================|
+annex i shall be replaced by the text set out in annex i to this regulation .
+|================== T(1) ==========================|
+el anexo i se sustituye por el texto recogido en el anexo i del presente reglamento .
+|================== T(Prime) ======================|
+el anexo ii se sustituye por el texto recogido en el anexo ii del presente reglamento .
+|================== Average WER ==========================|
+0.058823529411764705
+|================== Average FMS ==========================|
+0.9411764705882353
+****************************************************************************
+|================== BEST T~ 0.0 ======================|
+una " resistencia específica a la tracción " de 76,2 × 103 m o superior ;
+|================== S PRIME ======================|
+a " specific tensile strength " of 76,2 × 103 m or greater ;
+|================== S X ==========================|
+a " specific tensile strength " of 235 × 103 m or greater ;
+|================== T(1) ==========================|
+una " resistencia específica a la tracción " de 235 × 103 m o superior ;
+|================== T(Prime) ======================|
+una " resistencia específica a la tracción " de 76,2 × 103 m o superior ;
+|================== Average WER ==========================|
+0.03125
+|================== Average FMS ==========================|
+0.96875
+****************************************************************************
+|================== BEST T~ 0.5384615384615384 ======================|
+" software " según se indica :
+|================== S PRIME ======================|
+" software " as follows :
+|================== S X ==========================|
+" technology " as follows :
+|================== T(1) ==========================|
+" tecnología " según se indica :
+|================== T(Prime) ======================|
+" equipos lógicos " ( « software » ) según se indica :
+|================== Average WER ==========================|
+0.5384615384615384
+|================== Average FMS ==========================|
+0.46153846153846156
+****************************************************************************
+|================== BEST T~ 0.9147286821705426 ======================|
+partida sa para las materias no originarias utilizadas ( 2 ) complétese sólo cuando proceda . ejemplo : la norma para las prendas de vestir ex capítulo 62 dice que pueden utilizarse fibras no originarias . si un fabricante francés de estas prendas utiliza tejidos fabricados en portugal a partir de fibras no originarias , es suficiente que el suministrador portugués indique en la segunda columna “ fibra ” como material originario utilizado , sin que sea necesario indicar la partida del sistema armonizado ni el valor de la fibra . un fabricante de alambre de hierro clasificado en la partida 7217 del sistema armonizado que lo haya fabricado a partir de barras de hierro no originario debería indicar en la segunda columna “ barras de hierro ” .
+|================== S PRIME ======================|
+hs heading of non-originating materials used ( 2 )
+|================== S X ==========================|
+hs heading of non-originating materials used ( 3 )
+|================== T(1) ==========================|
+partida sa para las materias no originarias utilizadas ( 3 ) complétese sólo cuando proceda . ejemplo : la norma para las prendas de vestir ex capítulo 62 dice que pueden utilizarse fibras no originarias . si un fabricante francés de estas prendas utiliza tejidos fabricados en portugal a partir de fibras no originarias , es suficiente que el suministrador portugués indique en la segunda columna “ fibra ” como material originario utilizado , sin que sea necesario indicar la partida del sistema armonizado ni el valor de la fibra . un fabricante de alambre de hierro clasificado en la partida 7217 del sistema armonizado que lo haya fabricado a partir de barras de hierro no originario debería indicar en la segunda columna “ barras de hierro ” .
+|================== T(Prime) ======================|
+partida sa para las materias no originarias utilizadas ( 2 )
+|================== Average WER ==========================|
+0.9186046511627907
+|================== Average FMS ==========================|
+0.08139534883720934
+****************************************************************************
+|================== BEST T~ 0.05 ======================|
+un ’ punto de fluidez crítica ’ igual o inferior a 239 k ( – 54 ° c ) ;
+|================== S PRIME ======================|
+a ’ pour point ’ at 219 k ( – 54 ° c ) or less ;
+|================== S X ==========================|
+a ’ pour point ’ at 239 k ( – 34 ° c ) or less ;
+|================== T(1) ==========================|
+un ’ punto de fluidez crítica ’ igual o inferior a 239 k ( – 34 ° c ) ;
+|================== T(Prime) ======================|
+un ’ punto de fluidez crítica ’ igual o inferior a 219 k ( – 54 ° c ) ;
+|================== Average WER ==========================|
+0.07500000000000001
+|================== Average FMS ==========================|
+0.925
+****************************************************************************
+|================== BEST T~ 0.16666666666666666 ======================|
+cualquiera de los composiciones siguientes :
+|================== S PRIME ======================|
+any of the following compositions :
+|================== S X ==========================|
+any of the following acids :
+|================== T(1) ==========================|
+cualquiera de los ácidos siguientes :
+|================== T(Prime) ======================|
+cualquiera de las composiciones siguientes :
+|================== Average WER ==========================|
+0.25
+|================== Average FMS ==========================|
+0.75
+****************************************************************************
+|================== BEST T~ 0.0 ======================|
+capacitancia superior a 0,5 μf ; y
+|================== S PRIME ======================|
+capacitance greater than 0,5 μf ; and
+|================== S X ==========================|
+capacitance greater than 0,5 µf ; and
+|================== T(1) ==========================|
+capacitancia superior a 0,5 µf ; y
+|================== T(Prime) ======================|
+capacitancia superior a 0,5 μf ; y
+|================== Average WER ==========================|
+0.07142857142857142
+|================== Average FMS ==========================|
+0.9285714285714286
+****************************************************************************
+|================== BEST T~ 0.0 ======================|
+que funcionen a longitudes de onda entre 9000 nm y 11000 nm ;
+|================== S PRIME ======================|
+operating at wavelengths between 9000 nm and 11000 nm ;
+|================== S X ==========================|
+operating at wavelengths between 300 nm and 800 nm ;
+|================== T(1) ==========================|
+que funcionen a longitudes de onda entre 300 nm y 800 nm ;
+|================== T(Prime) ======================|
+que funcionen a longitudes de onda entre 9000 nm y 11000 nm ;
+|================== Average WER ==========================|
+0.07692307692307693
+|================== Average FMS ==========================|
+0.9230769230769231
+****************************************************************************
+|================== BEST T~ 0.16666666666666666 ======================|
+el anexo iv se sustituye por el texto recogido en el anexo iv del presente reglamento .
+|================== S PRIME ======================|
+annex iv shall be replaced by the text set out in annex ii to this regulation .
+|================== S X ==========================|
+annex i shall be replaced by the text set out in annex i to this regulation .
+|================== T(1) ==========================|
+el anexo i se sustituye por el texto recogido en el anexo i del presente reglamento .
+|================== T(Prime) ======================|
+el anexo iv se sustituye por el texto que figura en el anexo ii del presente reglamento .
+|================== Average WER ==========================|
+0.19444444444444445
+|================== Average FMS ==========================|
+0.8055555555555556
+|================== Average DOC WER ==========================|
+0.2411919177715177
+|================== Amount of Attempted Patches ==========================|
+32
+|================== Amount of Correct Patches ==========================|
+4

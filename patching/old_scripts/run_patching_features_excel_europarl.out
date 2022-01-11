@@ -1,0 +1,47 @@
+Picked up JAVA_TOOL_OPTIONS: -Dfile.encoding=UTF8
+Buildfile: /home/johneortega/patching/build.xml
+Duplicated project name in import. Project patching defined first in /home/johneortega/patching/build.xml and again in /home/johneortega/patching/build-jars.xml
+
+clean:
+   [delete] Deleting directory /home/johneortega/patching/classes
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+Picked up JAVA_TOOL_OPTIONS: -Dfile.encoding=UTF8
+Buildfile: /home/johneortega/patching/build.xml
+Duplicated project name in import. Project patching defined first in /home/johneortega/patching/build.xml and again in /home/johneortega/patching/build-jars.xml
+
+build-subprojects:
+
+init:
+    [mkdir] Created dir: /home/johneortega/patching/classes
+
+build-project:
+     [echo] patching: /home/johneortega/patching/build.xml
+    [javac] Compiling 55 source files to /home/johneortega/patching/classes
+    [javac] Note: /home/johneortega/patching/src/es/ua/dlsi/tests/weka/general/normalised/TestPerceptronClassifierGeometricStyleWekaPerceptronOnlyPosWithQuantitativeInfo.java uses or overrides a deprecated API.
+    [javac] Note: Recompile with -Xlint:deprecation for details.
+    [javac] Note: Some input files use unchecked or unsafe operations.
+    [javac] Note: Recompile with -Xlint:unchecked for details.
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+Picked up JAVA_TOOL_OPTIONS: -Dfile.encoding=UTF8
+0.8|9|10|0|49|11|0.5|0.5|0|2
+0.8888888888888888|9|9|0|49|11|0.5|0.5|0|2
+0.8|9|10|0|49|11|0.5|0.5|0|2
+0.8571428571428572|7|7|0|27|17|0.3333333333333333|0.6666666666666667|0|3
+0.8571428571428572|7|7|0|27|22|0.25|0.75|1|4
+0.8|9|10|0|52|11|0.5|0.5|0|2
+0.8|9|10|0|50|11|0.5|0.5|0|2
+0.8|9|10|0|52|11|0.5|0.5|0|2
+0.875|8|8|0|42|15|1.0|0.0|0|2
+0.875|8|8|0|42|14|1.0|0.0|0|2
+0.875|8|8|0|42|15|1.0|0.0|0|2
+0.875|8|8|0|42|14|1.0|0.0|0|2
+0.8333333333333334|11|12|0|116|15|0.5|0.5|0|2
+0.9090909090909091|11|11|0|95|15|0.5|0.5|0|2
+0.9090909090909091|11|11|0|83|15|0.5|0.5|0|2
+Ending app

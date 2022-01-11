@@ -1,0 +1,2252 @@
+Picked up JAVA_TOOL_OPTIONS: -Dfile.encoding=UTF8
+Buildfile: /home/johneortega/patching/build.xml
+Duplicated project name in import. Project patching defined first in /home/johneortega/patching/build.xml and again in /home/johneortega/patching/build-jars.xml
+
+clean:
+   [delete] Deleting directory /home/johneortega/patching/classes
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+Picked up JAVA_TOOL_OPTIONS: -Dfile.encoding=UTF8
+Buildfile: /home/johneortega/patching/build.xml
+Duplicated project name in import. Project patching defined first in /home/johneortega/patching/build.xml and again in /home/johneortega/patching/build-jars.xml
+
+build-subprojects:
+
+init:
+    [mkdir] Created dir: /home/johneortega/patching/classes
+     [copy] Copying 2 files to /home/johneortega/patching/classes
+
+build-project:
+     [echo] patching: /home/johneortega/patching/build.xml
+    [javac] Compiling 50 source files to /home/johneortega/patching/classes
+    [javac] Note: /home/johneortega/patching/src/es/ua/dlsi/tests/weka/general/normalised/TestPerceptronClassifierGeometricStyleWekaPerceptronOnlyPosWithQuantitativeInfo.java uses or overrides a deprecated API.
+    [javac] Note: Recompile with -Xlint:deprecation for details.
+    [javac] Note: Some input files use unchecked or unsafe operations.
+    [javac] Note: Recompile with -Xlint:unchecked for details.
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 4 seconds
+Picked up JAVA_TOOL_OPTIONS: -Dfile.encoding=UTF8
+Segment Sentence Size1
+Seg word: 57856-11-8 
+====>>>>> 
+This Sentences SubSeg word: véase 
+This Segment passed in word is: 57856-11-8 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: 57856-11-8 
+====>>>>> 
+This Sentences SubSeg word: la 
+This Segment passed in word is: 57856-11-8 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: 57856-11-8 
+====>>>>> 
+This Sentences SubSeg word: relación 
+This Segment passed in word is: 57856-11-8 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: 57856-11-8 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Segment passed in word is: 57856-11-8 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: 57856-11-8 
+====>>>>> 
+This Sentences SubSeg word: material 
+This Segment passed in word is: 57856-11-8 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: 57856-11-8 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Segment passed in word is: 57856-11-8 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: 57856-11-8 
+====>>>>> 
+This Sentences SubSeg word: defensa 
+This Segment passed in word is: 57856-11-8 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: 57856-11-8 
+====>>>>> 
+This Sentences SubSeg word: en 
+This Segment passed in word is: 57856-11-8 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: 57856-11-8 
+====>>>>> 
+This Sentences SubSeg word: lo 
+This Segment passed in word is: 57856-11-8 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: 57856-11-8 
+====>>>>> 
+This Sentences SubSeg word: que 
+This Segment passed in word is: 57856-11-8 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: 57856-11-8 
+====>>>>> 
+This Sentences SubSeg word: respecta 
+This Segment passed in word is: 57856-11-8 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: 57856-11-8 
+====>>>>> 
+This Sentences SubSeg word: a 
+This Segment passed in word is: 57856-11-8 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: 57856-11-8 
+====>>>>> 
+This Sentences SubSeg word: metilfosfonito 
+This Segment passed in word is: 57856-11-8 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: 57856-11-8 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Segment passed in word is: 57856-11-8 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: 57856-11-8 
+====>>>>> 
+This Sentences SubSeg word: o-etil-2-diisopropilaminoetilo 
+This Segment passed in word is: 57856-11-8 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: 57856-11-8 
+====>>>>> 
+This Sentences SubSeg word: ( 
+This Segment passed in word is: 57856-11-8 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: 57856-11-8 
+====>>>>> 
+This Sentences SubSeg word: 57856-11-8 
+This Segment passed in word is: 57856-11-8 
+<<<<<====>>>>> 
+Segment match with: 16 and 17
+Segment Sentence Size1
+Seg word: 57856-11-8 
+====>>>>> 
+This Sentences SubSeg word: ) 
+This Segment passed in word is: 57856-11-8 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: 57856-11-8 
+====>>>>> 
+This Sentences SubSeg word: ; 
+This Segment passed in word is: 57856-11-8 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ( 
+Seg word: 57856-11-8 
+====>>>>> 
+This Sentences SubSeg word: véase 
+This Sentences SubSeg word: la 
+This Segment passed in word is: ( 
+This Segment passed in word is: 57856-11-8 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ( 
+Seg word: 57856-11-8 
+====>>>>> 
+This Sentences SubSeg word: la 
+This Sentences SubSeg word: relación 
+This Segment passed in word is: ( 
+This Segment passed in word is: 57856-11-8 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ( 
+Seg word: 57856-11-8 
+====>>>>> 
+This Sentences SubSeg word: relación 
+This Sentences SubSeg word: de 
+This Segment passed in word is: ( 
+This Segment passed in word is: 57856-11-8 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ( 
+Seg word: 57856-11-8 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Sentences SubSeg word: material 
+This Segment passed in word is: ( 
+This Segment passed in word is: 57856-11-8 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ( 
+Seg word: 57856-11-8 
+====>>>>> 
+This Sentences SubSeg word: material 
+This Sentences SubSeg word: de 
+This Segment passed in word is: ( 
+This Segment passed in word is: 57856-11-8 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ( 
+Seg word: 57856-11-8 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Sentences SubSeg word: defensa 
+This Segment passed in word is: ( 
+This Segment passed in word is: 57856-11-8 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ( 
+Seg word: 57856-11-8 
+====>>>>> 
+This Sentences SubSeg word: defensa 
+This Sentences SubSeg word: en 
+This Segment passed in word is: ( 
+This Segment passed in word is: 57856-11-8 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ( 
+Seg word: 57856-11-8 
+====>>>>> 
+This Sentences SubSeg word: en 
+This Sentences SubSeg word: lo 
+This Segment passed in word is: ( 
+This Segment passed in word is: 57856-11-8 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ( 
+Seg word: 57856-11-8 
+====>>>>> 
+This Sentences SubSeg word: lo 
+This Sentences SubSeg word: que 
+This Segment passed in word is: ( 
+This Segment passed in word is: 57856-11-8 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ( 
+Seg word: 57856-11-8 
+====>>>>> 
+This Sentences SubSeg word: que 
+This Sentences SubSeg word: respecta 
+This Segment passed in word is: ( 
+This Segment passed in word is: 57856-11-8 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ( 
+Seg word: 57856-11-8 
+====>>>>> 
+This Sentences SubSeg word: respecta 
+This Sentences SubSeg word: a 
+This Segment passed in word is: ( 
+This Segment passed in word is: 57856-11-8 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ( 
+Seg word: 57856-11-8 
+====>>>>> 
+This Sentences SubSeg word: a 
+This Sentences SubSeg word: metilfosfonito 
+This Segment passed in word is: ( 
+This Segment passed in word is: 57856-11-8 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ( 
+Seg word: 57856-11-8 
+====>>>>> 
+This Sentences SubSeg word: metilfosfonito 
+This Sentences SubSeg word: de 
+This Segment passed in word is: ( 
+This Segment passed in word is: 57856-11-8 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ( 
+Seg word: 57856-11-8 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Sentences SubSeg word: o-etil-2-diisopropilaminoetilo 
+This Segment passed in word is: ( 
+This Segment passed in word is: 57856-11-8 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ( 
+Seg word: 57856-11-8 
+====>>>>> 
+This Sentences SubSeg word: o-etil-2-diisopropilaminoetilo 
+This Sentences SubSeg word: ( 
+This Segment passed in word is: ( 
+This Segment passed in word is: 57856-11-8 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ( 
+Seg word: 57856-11-8 
+====>>>>> 
+This Sentences SubSeg word: ( 
+This Sentences SubSeg word: 57856-11-8 
+This Segment passed in word is: ( 
+This Segment passed in word is: 57856-11-8 
+<<<<<====>>>>> 
+Segment match with: 15 and 17
+Segment Sentence Size2
+Seg word: ( 
+Seg word: 57856-11-8 
+====>>>>> 
+This Sentences SubSeg word: 57856-11-8 
+This Sentences SubSeg word: ) 
+This Segment passed in word is: ( 
+This Segment passed in word is: 57856-11-8 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ( 
+Seg word: 57856-11-8 
+====>>>>> 
+This Sentences SubSeg word: ) 
+This Sentences SubSeg word: ; 
+This Segment passed in word is: ( 
+This Segment passed in word is: 57856-11-8 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: 57856-11-8 
+Seg word: ) 
+====>>>>> 
+This Sentences SubSeg word: véase 
+This Sentences SubSeg word: la 
+This Segment passed in word is: 57856-11-8 
+This Segment passed in word is: ) 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: 57856-11-8 
+Seg word: ) 
+====>>>>> 
+This Sentences SubSeg word: la 
+This Sentences SubSeg word: relación 
+This Segment passed in word is: 57856-11-8 
+This Segment passed in word is: ) 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: 57856-11-8 
+Seg word: ) 
+====>>>>> 
+This Sentences SubSeg word: relación 
+This Sentences SubSeg word: de 
+This Segment passed in word is: 57856-11-8 
+This Segment passed in word is: ) 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: 57856-11-8 
+Seg word: ) 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Sentences SubSeg word: material 
+This Segment passed in word is: 57856-11-8 
+This Segment passed in word is: ) 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: 57856-11-8 
+Seg word: ) 
+====>>>>> 
+This Sentences SubSeg word: material 
+This Sentences SubSeg word: de 
+This Segment passed in word is: 57856-11-8 
+This Segment passed in word is: ) 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: 57856-11-8 
+Seg word: ) 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Sentences SubSeg word: defensa 
+This Segment passed in word is: 57856-11-8 
+This Segment passed in word is: ) 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: 57856-11-8 
+Seg word: ) 
+====>>>>> 
+This Sentences SubSeg word: defensa 
+This Sentences SubSeg word: en 
+This Segment passed in word is: 57856-11-8 
+This Segment passed in word is: ) 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: 57856-11-8 
+Seg word: ) 
+====>>>>> 
+This Sentences SubSeg word: en 
+This Sentences SubSeg word: lo 
+This Segment passed in word is: 57856-11-8 
+This Segment passed in word is: ) 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: 57856-11-8 
+Seg word: ) 
+====>>>>> 
+This Sentences SubSeg word: lo 
+This Sentences SubSeg word: que 
+This Segment passed in word is: 57856-11-8 
+This Segment passed in word is: ) 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: 57856-11-8 
+Seg word: ) 
+====>>>>> 
+This Sentences SubSeg word: que 
+This Sentences SubSeg word: respecta 
+This Segment passed in word is: 57856-11-8 
+This Segment passed in word is: ) 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: 57856-11-8 
+Seg word: ) 
+====>>>>> 
+This Sentences SubSeg word: respecta 
+This Sentences SubSeg word: a 
+This Segment passed in word is: 57856-11-8 
+This Segment passed in word is: ) 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: 57856-11-8 
+Seg word: ) 
+====>>>>> 
+This Sentences SubSeg word: a 
+This Sentences SubSeg word: metilfosfonito 
+This Segment passed in word is: 57856-11-8 
+This Segment passed in word is: ) 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: 57856-11-8 
+Seg word: ) 
+====>>>>> 
+This Sentences SubSeg word: metilfosfonito 
+This Sentences SubSeg word: de 
+This Segment passed in word is: 57856-11-8 
+This Segment passed in word is: ) 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: 57856-11-8 
+Seg word: ) 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Sentences SubSeg word: o-etil-2-diisopropilaminoetilo 
+This Segment passed in word is: 57856-11-8 
+This Segment passed in word is: ) 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: 57856-11-8 
+Seg word: ) 
+====>>>>> 
+This Sentences SubSeg word: o-etil-2-diisopropilaminoetilo 
+This Sentences SubSeg word: ( 
+This Segment passed in word is: 57856-11-8 
+This Segment passed in word is: ) 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: 57856-11-8 
+Seg word: ) 
+====>>>>> 
+This Sentences SubSeg word: ( 
+This Sentences SubSeg word: 57856-11-8 
+This Segment passed in word is: 57856-11-8 
+This Segment passed in word is: ) 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: 57856-11-8 
+Seg word: ) 
+====>>>>> 
+This Sentences SubSeg word: 57856-11-8 
+This Sentences SubSeg word: ) 
+This Segment passed in word is: 57856-11-8 
+This Segment passed in word is: ) 
+<<<<<====>>>>> 
+Segment match with: 16 and 18
+Segment Sentence Size2
+Seg word: 57856-11-8 
+Seg word: ) 
+====>>>>> 
+This Sentences SubSeg word: ) 
+This Sentences SubSeg word: ; 
+This Segment passed in word is: 57856-11-8 
+This Segment passed in word is: ) 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: véase 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: la 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: relación 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: material 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: defensa 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: en 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: lo 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: que 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: respecta 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: a 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: metilfosfonito 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: o-etil-2-diisopropilaminoetilo 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: ( 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: 57856-11-8 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: ) 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment match with: 18 and 19
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: véase 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: la 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: relación 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: material 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: defensa 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: en 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: lo 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: que 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: respecta 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: a 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: metilfosfonito 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: o-etil-2-diisopropilaminoetilo 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: ( 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: 57856-11-8 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: ) 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment match with: 18 and 19
+Segment Sentence Size2
+Seg word: ) 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: véase 
+This Sentences SubSeg word: la 
+This Segment passed in word is: ) 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ) 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: la 
+This Sentences SubSeg word: relación 
+This Segment passed in word is: ) 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ) 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: relación 
+This Sentences SubSeg word: de 
+This Segment passed in word is: ) 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ) 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Sentences SubSeg word: material 
+This Segment passed in word is: ) 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ) 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: material 
+This Sentences SubSeg word: de 
+This Segment passed in word is: ) 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ) 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Sentences SubSeg word: defensa 
+This Segment passed in word is: ) 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ) 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: defensa 
+This Sentences SubSeg word: en 
+This Segment passed in word is: ) 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ) 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: en 
+This Sentences SubSeg word: lo 
+This Segment passed in word is: ) 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ) 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: lo 
+This Sentences SubSeg word: que 
+This Segment passed in word is: ) 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ) 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: que 
+This Sentences SubSeg word: respecta 
+This Segment passed in word is: ) 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ) 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: respecta 
+This Sentences SubSeg word: a 
+This Segment passed in word is: ) 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ) 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: a 
+This Sentences SubSeg word: metilfosfonito 
+This Segment passed in word is: ) 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ) 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: metilfosfonito 
+This Sentences SubSeg word: de 
+This Segment passed in word is: ) 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ) 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Sentences SubSeg word: o-etil-2-diisopropilaminoetilo 
+This Segment passed in word is: ) 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ) 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: o-etil-2-diisopropilaminoetilo 
+This Sentences SubSeg word: ( 
+This Segment passed in word is: ) 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ) 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: ( 
+This Sentences SubSeg word: 57856-11-8 
+This Segment passed in word is: ) 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ) 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: 57856-11-8 
+This Sentences SubSeg word: ) 
+This Segment passed in word is: ) 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ) 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: ) 
+This Sentences SubSeg word: ; 
+This Segment passed in word is: ) 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment match with: 17 and 19
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: véase 
+This Sentences SubSeg word: la 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: la 
+This Sentences SubSeg word: relación 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: relación 
+This Sentences SubSeg word: de 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Sentences SubSeg word: material 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: material 
+This Sentences SubSeg word: de 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Sentences SubSeg word: defensa 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: defensa 
+This Sentences SubSeg word: en 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: en 
+This Sentences SubSeg word: lo 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: lo 
+This Sentences SubSeg word: que 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: que 
+This Sentences SubSeg word: respecta 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: respecta 
+This Sentences SubSeg word: a 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: a 
+This Sentences SubSeg word: metilfosfonito 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: metilfosfonito 
+This Sentences SubSeg word: de 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Sentences SubSeg word: o-etil-2-diisopropilaminoetilo 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: o-etil-2-diisopropilaminoetilo 
+This Sentences SubSeg word: ( 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: ( 
+This Sentences SubSeg word: 57856-11-8 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: 57856-11-8 
+This Sentences SubSeg word: ) 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: ) 
+This Sentences SubSeg word: ; 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: véase 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: la 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: relación 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: material 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: defensa 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: en 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: lo 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: que 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: respecta 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: a 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: metilfosfonito 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: o-etil-2-diisopropilaminoetilo 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: ( 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: 57856-11-8 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: ) 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment match with: 18 and 19
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: véase 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: la 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: relación 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: material 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: defensa 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: en 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: lo 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: que 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: respecta 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: a 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: metilfosfonito 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: o-etil-2-diisopropilaminoetilo 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: ( 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: 57856-11-8 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: ) 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment match with: 18 and 19
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: véase 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: la 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: relación 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: material 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: defensa 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: en 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: lo 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: que 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: respecta 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: a 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: metilfosfonito 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: o-etil-2-diisopropilaminoetilo 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: ( 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: 57856-11-8 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: ) 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment match with: 18 and 19
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: véase 
+This Sentences SubSeg word: la 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: la 
+This Sentences SubSeg word: relación 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: relación 
+This Sentences SubSeg word: de 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Sentences SubSeg word: material 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: material 
+This Sentences SubSeg word: de 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Sentences SubSeg word: defensa 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: defensa 
+This Sentences SubSeg word: en 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: en 
+This Sentences SubSeg word: lo 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: lo 
+This Sentences SubSeg word: que 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: que 
+This Sentences SubSeg word: respecta 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: respecta 
+This Sentences SubSeg word: a 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: a 
+This Sentences SubSeg word: metilfosfonito 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: metilfosfonito 
+This Sentences SubSeg word: de 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Sentences SubSeg word: o-etil-2-diisopropilaminoetilo 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: o-etil-2-diisopropilaminoetilo 
+This Sentences SubSeg word: ( 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: ( 
+This Sentences SubSeg word: 57856-11-8 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: 57856-11-8 
+This Sentences SubSeg word: ) 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: ) 
+This Sentences SubSeg word: ; 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: véase 
+This Sentences SubSeg word: la 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: la 
+This Sentences SubSeg word: relación 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: relación 
+This Sentences SubSeg word: de 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Sentences SubSeg word: material 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: material 
+This Sentences SubSeg word: de 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Sentences SubSeg word: defensa 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: defensa 
+This Sentences SubSeg word: en 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: en 
+This Sentences SubSeg word: lo 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: lo 
+This Sentences SubSeg word: que 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: que 
+This Sentences SubSeg word: respecta 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: respecta 
+This Sentences SubSeg word: a 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: a 
+This Sentences SubSeg word: metilfosfonito 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: metilfosfonito 
+This Sentences SubSeg word: de 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Sentences SubSeg word: o-etil-2-diisopropilaminoetilo 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: o-etil-2-diisopropilaminoetilo 
+This Sentences SubSeg word: ( 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: ( 
+This Sentences SubSeg word: 57856-11-8 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: 57856-11-8 
+This Sentences SubSeg word: ) 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: ) 
+This Sentences SubSeg word: ; 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: véase 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: la 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: relación 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: material 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: defensa 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: en 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: lo 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: que 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: respecta 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: a 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: metilfosfonito 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: o-etil-2-diisopropilaminoetilo 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: ( 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: 57856-11-8 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: ) 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment match with: 18 and 19
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: véase 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: la 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: relación 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: material 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: defensa 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: en 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: lo 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: que 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: respecta 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: a 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: metilfosfonito 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: o-etil-2-diisopropilaminoetilo 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: ( 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: 57856-11-8 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: ) 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size1
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment match with: 18 and 19
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: véase 
+This Sentences SubSeg word: la 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: la 
+This Sentences SubSeg word: relación 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: relación 
+This Sentences SubSeg word: de 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Sentences SubSeg word: material 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: material 
+This Sentences SubSeg word: de 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Sentences SubSeg word: defensa 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: defensa 
+This Sentences SubSeg word: en 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: en 
+This Sentences SubSeg word: lo 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: lo 
+This Sentences SubSeg word: que 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: que 
+This Sentences SubSeg word: respecta 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: respecta 
+This Sentences SubSeg word: a 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: a 
+This Sentences SubSeg word: metilfosfonito 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: metilfosfonito 
+This Sentences SubSeg word: de 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Sentences SubSeg word: o-etil-2-diisopropilaminoetilo 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: o-etil-2-diisopropilaminoetilo 
+This Sentences SubSeg word: ( 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: ( 
+This Sentences SubSeg word: 57856-11-8 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: 57856-11-8 
+This Sentences SubSeg word: ) 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: ) 
+This Sentences SubSeg word: ; 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: véase 
+This Sentences SubSeg word: la 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: la 
+This Sentences SubSeg word: relación 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: relación 
+This Sentences SubSeg word: de 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Sentences SubSeg word: material 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: material 
+This Sentences SubSeg word: de 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Sentences SubSeg word: defensa 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: defensa 
+This Sentences SubSeg word: en 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: en 
+This Sentences SubSeg word: lo 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: lo 
+This Sentences SubSeg word: que 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: que 
+This Sentences SubSeg word: respecta 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: respecta 
+This Sentences SubSeg word: a 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: a 
+This Sentences SubSeg word: metilfosfonito 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: metilfosfonito 
+This Sentences SubSeg word: de 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: de 
+This Sentences SubSeg word: o-etil-2-diisopropilaminoetilo 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: o-etil-2-diisopropilaminoetilo 
+This Sentences SubSeg word: ( 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: ( 
+This Sentences SubSeg word: 57856-11-8 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: 57856-11-8 
+This Sentences SubSeg word: ) 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+Segment Sentence Size2
+Seg word: ; 
+Seg word: ; 
+====>>>>> 
+This Sentences SubSeg word: ) 
+This Sentences SubSeg word: ; 
+This Segment passed in word is: ; 
+This Segment passed in word is: ; 
+<<<<<====>>>>> 
+

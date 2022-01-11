@@ -1,0 +1,374 @@
+Buildfile: /home/johneortega/patching/build.xml
+Duplicated project name in import. Project patching defined first in /home/johneortega/patching/build.xml and again in /home/johneortega/patching/build-jars.xml
+
+clean:
+   [delete] Deleting directory /home/johneortega/patching/classes
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+Buildfile: /home/johneortega/patching/build.xml
+Duplicated project name in import. Project patching defined first in /home/johneortega/patching/build.xml and again in /home/johneortega/patching/build-jars.xml
+
+build-subprojects:
+
+init:
+    [mkdir] Created dir: /home/johneortega/patching/classes
+     [copy] Copying 1 file to /home/johneortega/patching/classes
+
+build-project:
+     [echo] patching: /home/johneortega/patching/build.xml
+    [javac] Compiling 50 source files to /home/johneortega/patching/classes
+    [javac] Note: /home/johneortega/patching/src/es/ua/dlsi/tests/weka/general/normalised/TestPerceptronClassifierGeometricStyleWekaPerceptronOnlyPosWithQuantitativeInfo.java uses or overrides a deprecated API.
+    [javac] Note: Recompile with -Xlint:deprecation for details.
+    [javac] Note: Some input files use unchecked or unsafe operations.
+    [javac] Note: Recompile with -Xlint:unchecked for details.
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+===============================================
+CurrOp newPos is: 4
+CurrOp newPos is: 6
+LastOp is: 5
+LastOp is: 8
+tempOps size2
+Patch operator positions: 1, 1
+Patch operator type YES
+blue 
+Patch operator positions: 4, 6
+Patch operator type YES
+loud on the 
+===============================================
+CurrOp newPos is: 5
+CurrOp newPos is: 8
+LastOp is: 5
+LastOp is: 8
+tempOps size4
+Patch operator positions: 1, 1
+Patch operator type YES
+blue 
+Patch operator positions: 4, 6
+Patch operator type YES
+loud on the 
+Patch operator positions: 4, 6
+Patch operator type NO
+loud on the 
+Patch operator positions: 5, 8
+Patch operator type YES
+in saturday nights ; 
+tempOps size after new0
+===============================================
+CurrOp newPos is: 5
+CurrOp newPos is: 8
+LastOp is: 5
+LastOp is: 8
+tempOps size5
+Patch operator positions: 1, 1
+Patch operator type YES
+blue 
+Patch operator positions: 4, 6
+Patch operator type YES
+loud on the 
+Patch operator positions: 4, 6
+Patch operator type NO
+loud on the 
+Patch operator positions: 5, 8
+Patch operator type YES
+in saturday nights ; 
+Patch operator positions: 5, 8
+Patch operator type NO
+in saturday nights ; 
+tempOps size after new0
+===============================================
+CurrOp newPos is: 4
+CurrOp newPos is: 6
+LastOp is: 5
+LastOp is: 8
+tempOps size7
+Patch operator positions: 1, 1
+Patch operator type YES
+blue 
+Patch operator positions: 4, 6
+Patch operator type YES
+loud on the 
+Patch operator positions: 4, 6
+Patch operator type NO
+loud on the 
+Patch operator positions: 5, 8
+Patch operator type YES
+in saturday nights ; 
+Patch operator positions: 5, 8
+Patch operator type NO
+in saturday nights ; 
+Patch operator positions: 1, 1
+Patch operator type NO
+blue 
+Patch operator positions: 4, 6
+Patch operator type YES
+loud on the 
+===============================================
+CurrOp newPos is: 5
+CurrOp newPos is: 8
+LastOp is: 5
+LastOp is: 8
+tempOps size9
+Patch operator positions: 1, 1
+Patch operator type YES
+blue 
+Patch operator positions: 4, 6
+Patch operator type YES
+loud on the 
+Patch operator positions: 4, 6
+Patch operator type NO
+loud on the 
+Patch operator positions: 5, 8
+Patch operator type YES
+in saturday nights ; 
+Patch operator positions: 5, 8
+Patch operator type NO
+in saturday nights ; 
+Patch operator positions: 1, 1
+Patch operator type NO
+blue 
+Patch operator positions: 4, 6
+Patch operator type YES
+loud on the 
+Patch operator positions: 4, 6
+Patch operator type NO
+loud on the 
+Patch operator positions: 5, 8
+Patch operator type YES
+in saturday nights ; 
+tempOps size after new0
+===============================================
+CurrOp newPos is: 5
+CurrOp newPos is: 8
+LastOp is: 5
+LastOp is: 8
+tempOps size10
+Patch operator positions: 1, 1
+Patch operator type YES
+blue 
+Patch operator positions: 4, 6
+Patch operator type YES
+loud on the 
+Patch operator positions: 4, 6
+Patch operator type NO
+loud on the 
+Patch operator positions: 5, 8
+Patch operator type YES
+in saturday nights ; 
+Patch operator positions: 5, 8
+Patch operator type NO
+in saturday nights ; 
+Patch operator positions: 1, 1
+Patch operator type NO
+blue 
+Patch operator positions: 4, 6
+Patch operator type YES
+loud on the 
+Patch operator positions: 4, 6
+Patch operator type NO
+loud on the 
+Patch operator positions: 5, 8
+Patch operator type YES
+in saturday nights ; 
+Patch operator positions: 5, 8
+Patch operator type NO
+in saturday nights ; 
+tempOps size after new0
+This is the final list of all possible patch operator sequences:
+=======================================================
+<><><><><><><><><><><><><><><><><><><><><><><>>><><>><>
+Candidate Possible List Size: 10
+Patch operator positions: 1, 1
+Patch operator type YES
+blue 
+Patch operator positions: 4, 6
+Patch operator type YES
+loud on the 
+Patch operator positions: 4, 6
+Patch operator type NO
+loud on the 
+Patch operator positions: 5, 8
+Patch operator type YES
+in saturday nights ; 
+Patch operator positions: 5, 8
+Patch operator type NO
+in saturday nights ; 
+Patch operator positions: 1, 1
+Patch operator type NO
+blue 
+Patch operator positions: 4, 6
+Patch operator type YES
+loud on the 
+Patch operator positions: 4, 6
+Patch operator type NO
+loud on the 
+Patch operator positions: 5, 8
+Patch operator type YES
+in saturday nights ; 
+Patch operator positions: 5, 8
+Patch operator type NO
+in saturday nights ; 
+<><><><><><><><><><><><><><><><><><><><><><><>>><><>><>
+Candidate Possible List Size: 10
+Patch operator positions: 1, 1
+Patch operator type YES
+blue 
+Patch operator positions: 4, 6
+Patch operator type YES
+loud on the 
+Patch operator positions: 4, 6
+Patch operator type NO
+loud on the 
+Patch operator positions: 5, 8
+Patch operator type YES
+in saturday nights ; 
+Patch operator positions: 5, 8
+Patch operator type NO
+in saturday nights ; 
+Patch operator positions: 1, 1
+Patch operator type NO
+blue 
+Patch operator positions: 4, 6
+Patch operator type YES
+loud on the 
+Patch operator positions: 4, 6
+Patch operator type NO
+loud on the 
+Patch operator positions: 5, 8
+Patch operator type YES
+in saturday nights ; 
+Patch operator positions: 5, 8
+Patch operator type NO
+in saturday nights ; 
+<><><><><><><><><><><><><><><><><><><><><><><>>><><>><>
+Candidate Possible List Size: 10
+Patch operator positions: 1, 1
+Patch operator type YES
+blue 
+Patch operator positions: 4, 6
+Patch operator type YES
+loud on the 
+Patch operator positions: 4, 6
+Patch operator type NO
+loud on the 
+Patch operator positions: 5, 8
+Patch operator type YES
+in saturday nights ; 
+Patch operator positions: 5, 8
+Patch operator type NO
+in saturday nights ; 
+Patch operator positions: 1, 1
+Patch operator type NO
+blue 
+Patch operator positions: 4, 6
+Patch operator type YES
+loud on the 
+Patch operator positions: 4, 6
+Patch operator type NO
+loud on the 
+Patch operator positions: 5, 8
+Patch operator type YES
+in saturday nights ; 
+Patch operator positions: 5, 8
+Patch operator type NO
+in saturday nights ; 
+<><><><><><><><><><><><><><><><><><><><><><><>>><><>><>
+Candidate Possible List Size: 10
+Patch operator positions: 1, 1
+Patch operator type YES
+blue 
+Patch operator positions: 4, 6
+Patch operator type YES
+loud on the 
+Patch operator positions: 4, 6
+Patch operator type NO
+loud on the 
+Patch operator positions: 5, 8
+Patch operator type YES
+in saturday nights ; 
+Patch operator positions: 5, 8
+Patch operator type NO
+in saturday nights ; 
+Patch operator positions: 1, 1
+Patch operator type NO
+blue 
+Patch operator positions: 4, 6
+Patch operator type YES
+loud on the 
+Patch operator positions: 4, 6
+Patch operator type NO
+loud on the 
+Patch operator positions: 5, 8
+Patch operator type YES
+in saturday nights ; 
+Patch operator positions: 5, 8
+Patch operator type NO
+in saturday nights ; 
+<><><><><><><><><><><><><><><><><><><><><><><>>><><>><>
+Candidate Possible List Size: 10
+Patch operator positions: 1, 1
+Patch operator type YES
+blue 
+Patch operator positions: 4, 6
+Patch operator type YES
+loud on the 
+Patch operator positions: 4, 6
+Patch operator type NO
+loud on the 
+Patch operator positions: 5, 8
+Patch operator type YES
+in saturday nights ; 
+Patch operator positions: 5, 8
+Patch operator type NO
+in saturday nights ; 
+Patch operator positions: 1, 1
+Patch operator type NO
+blue 
+Patch operator positions: 4, 6
+Patch operator type YES
+loud on the 
+Patch operator positions: 4, 6
+Patch operator type NO
+loud on the 
+Patch operator positions: 5, 8
+Patch operator type YES
+in saturday nights ; 
+Patch operator positions: 5, 8
+Patch operator type NO
+in saturday nights ; 
+<><><><><><><><><><><><><><><><><><><><><><><>>><><>><>
+Candidate Possible List Size: 10
+Patch operator positions: 1, 1
+Patch operator type YES
+blue 
+Patch operator positions: 4, 6
+Patch operator type YES
+loud on the 
+Patch operator positions: 4, 6
+Patch operator type NO
+loud on the 
+Patch operator positions: 5, 8
+Patch operator type YES
+in saturday nights ; 
+Patch operator positions: 5, 8
+Patch operator type NO
+in saturday nights ; 
+Patch operator positions: 1, 1
+Patch operator type NO
+blue 
+Patch operator positions: 4, 6
+Patch operator type YES
+loud on the 
+Patch operator positions: 4, 6
+Patch operator type NO
+loud on the 
+Patch operator positions: 5, 8
+Patch operator type YES
+in saturday nights ; 
+Patch operator positions: 5, 8
+Patch operator type NO
+in saturday nights ; 

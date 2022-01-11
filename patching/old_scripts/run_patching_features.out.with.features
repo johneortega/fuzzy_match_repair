@@ -1,0 +1,1027 @@
+Picked up JAVA_TOOL_OPTIONS: -Dfile.encoding=UTF8
+Buildfile: /home/johneortega/patching/build.xml
+Duplicated project name in import. Project patching defined first in /home/johneortega/patching/build.xml and again in /home/johneortega/patching/build-jars.xml
+
+clean:
+   [delete] Deleting directory /home/johneortega/patching/classes
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+Picked up JAVA_TOOL_OPTIONS: -Dfile.encoding=UTF8
+Buildfile: /home/johneortega/patching/build.xml
+Duplicated project name in import. Project patching defined first in /home/johneortega/patching/build.xml and again in /home/johneortega/patching/build-jars.xml
+
+build-subprojects:
+
+init:
+    [mkdir] Created dir: /home/johneortega/patching/classes
+
+build-project:
+     [echo] patching: /home/johneortega/patching/build.xml
+    [javac] Compiling 54 source files to /home/johneortega/patching/classes
+    [javac] Note: /home/johneortega/patching/src/es/ua/dlsi/tests/weka/general/normalised/TestPerceptronClassifierGeometricStyleWekaPerceptronOnlyPosWithQuantitativeInfo.java uses or overrides a deprecated API.
+    [javac] Note: Recompile with -Xlint:deprecation for details.
+    [javac] Note: Some input files use unchecked or unsafe operations.
+    [javac] Note: Recompile with -Xlint:unchecked for details.
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+Picked up JAVA_TOOL_OPTIONS: -Dfile.encoding=UTF8
+****************************************************************************
+|================== BEST T~ 0.0 ======================|
+véase la relación de material de defensa en lo que respecta a metilfosfonito de o-etil-2-diisopropilaminoetilo ( ql ) ( 57856-11-8 ) ;
+|================== S PRIME ======================|
+see military goods controls for o-ethyl-2-diisopropylaminoethyl methyl phosphonite ( ql ) ( 57856-11-8 ) ;
+|================== S X ==========================|
+see military goods controls for o-ethyl-2-diisopropylaminoethyl methyl phosphonite ( 57856-11-8 ) ;
+|================== T(1) ==========================|
+véase la relación de material de defensa en lo que respecta a metilfosfonito de o-etil-2-diisopropilaminoetilo ( 57856-11-8 ) ;
+|================== T(Prime) ======================|
+véase la relación de material de defensa en lo que respecta a metilfosfonito de o-etil-2-diisopropilaminoetilo ( ql ) ( 57856-11-8 ) ;
+|================== Average WER ==========================|
+0.06818181818181818
+|================== Average FMS ==========================|
+0.9318181818181819
+****************************************************************************
+|================== BEST T~ 0.17391304347826086 ======================|
+polibifenilenetersulfona que tenga una temperatura de transición vítrea ( tg ) superior a 513 k ( 240 oc ) .
+|================== S PRIME ======================|
+polybiphenylenethersulphone having a ’ glass transition temperature ( tg ) ’ exceeding 513 k ( 240 ° c ) .
+|================== S X ==========================|
+polybiphenylenethersulphone having a glass transition temperature ( tg ) exceeding 513 k ( 240 ° c ) .
+|================== T(1) ==========================|
+polibifenilenetersulfona que tenga una temperatura de transición vítrea ( tg ) superior a 513 k ( 240 oc ) .
+|================== T(Prime) ======================|
+polibifenilenetersulfona que tenga una ’ temperatura de transición vítrea ’ ( tg ) superior a 513 k ( 240 ° c ) .
+|================== Average WER ==========================|
+0.19565217391304346
+|================== Average FMS ==========================|
+0.8043478260869565
+****************************************************************************
+|================== BEST T~ 0.08695652173913043 ======================|
+polibifenilenetersulfona que tenga una temperatura de transición vítrea ( tg ) superior a 513 k ( 240 ° c ) .
+|================== S PRIME ======================|
+polybiphenylenethersulphone having a ’ glass transition temperature ( tg ) ’ exceeding 513 k ( 240 ° c ) .
+|================== S X ==========================|
+polybiphenylenethersulphone having a glass transition temperature ( tg ) exceeding 513 k ( 240 ° c ) .
+|================== T(2) ==========================|
+polibifenilenetersulfona que tenga una temperatura de transición vítrea ( tg ) superior a 513 k ( 240 ° c ) .
+|================== T(Prime) ======================|
+polibifenilenetersulfona que tenga una ’ temperatura de transición vítrea ’ ( tg ) superior a 513 k ( 240 ° c ) .
+|================== Average WER ==========================|
+0.10869565217391304
+|================== Average FMS ==========================|
+0.8913043478260869
+****************************************************************************
+|================== BEST T~ 0.038461538461538464 ======================|
+equipos de grabación digital de vídeo en cinta magnética que posean una velocidad máxima transferencia en la interfaz digital superior a 360 mbit / s ;
+|================== S PRIME ======================|
+digital video magnetic tape recorders having a maximum digital interface transfer rate exceeding 360 mbit / s ;
+|================== S X ==========================|
+digital video magnetic tape recorders having a maximum digital interface transfer rate exceeding 360 mbits / s ;
+|================== T(1) ==========================|
+equipos de grabación digital de vídeo en cinta magnética que posean una velocidad máxima transferencia en la interfaz digital superior a 360 mbit / s ;
+|================== T(Prime) ======================|
+equipos de grabación digital de vídeo en cinta magnética que tengan una velocidad máxima transferencia en la interfaz digital superior a 360 mbit / s ;
+|================== Average WER ==========================|
+0.05626780626780627
+|================== Average FMS ==========================|
+0.9437321937321937
+****************************************************************************
+|================== BEST T~ 0.4166666666666667 ======================|
+longitud de onda de salida de 150 nm o más , pero no superior a 520 nm y cualquiera de las características siguientes :
+|================== S PRIME ======================|
+a wavelength of 150 nm or more but not exceeding 800 nm and having any of the following :
+|================== S X ==========================|
+output wavelength of 150 nm or more but not exceeding 520 nm and any of the following :
+|================== T(1) ==========================|
+longitud de onda de salida de 150 nm o más , pero no superior a 520 nm y cualquiera de las características siguientes :
+|================== T(Prime) ======================|
+longitud de onda igual o superior a 150 nm pero no superior a 800 nm y que tengan cualquiera de las características siguientes :
+|================== Average WER ==========================|
+0.42833333333333334
+|================== Average FMS ==========================|
+0.5716666666666667
+****************************************************************************
+|================== BEST T~ 0.0625 ======================|
+0,05 nt ( rms ) / hz1 / 2 a frecuencias inferiores a 1 hz ;
+|================== S PRIME ======================|
+0,05 nt ( rms ) per square root hz at frequencies of less than 1 hz ;
+|================== S X ==========================|
+nt ( rms ) per square root hz at frequencies of less than 1 hz ;
+|================== T(1) ==========================|
+0,05 nt ( rms ) / hz1 / 2 a frecuencias inferiores a 1 hz ;
+|================== T(Prime) ======================|
+0,05 nt ( ) / hz1 / 2 a frecuencias inferiores a 1 hz ;
+|================== Average WER ==========================|
+0.0900735294117647
+|================== Average FMS ==========================|
+0.9099264705882353
+****************************************************************************
+|================== BEST T~ 0.0625 ======================|
+0,05 nt ( rms ) / hz1 / 2 a frecuencias inferiores a 1 hz ;
+|================== S PRIME ======================|
+0,05 nt ( rms ) per square root hz at frequencies of less than 1 hz ;
+|================== S X ==========================|
+0,05 nt rms / square root hz at frequencies of less than 1 hz ;
+|================== T(2) ==========================|
+0,05 nt rms / hz1 / 2 a frecuencias inferiores a 1 hz ;
+|================== T(Prime) ======================|
+0,05 nt ( ) / hz1 / 2 a frecuencias inferiores a 1 hz ;
+|================== Average WER ==========================|
+0.09503676470588235
+|================== Average FMS ==========================|
+0.9049632352941176
+****************************************************************************
+|================== BEST T~ 0.09090909090909091 ======================|
+un volumen comprendido entre 50 cm3 y 2000 cm3 ; y
+|================== S PRIME ======================|
+a volume of between 50 cm3 and 2000 cm3 ; and
+|================== S X ==========================|
+a volume of between 150 cm3 and 8000 cm3 ; and
+|================== T(1) ==========================|
+un volumen comprendido entre 150 cm3 y 8000 cm3 ; y
+|================== T(Prime) ======================|
+un volumen entre 50 cm3 y 2000 cm3 ; y
+|================== Average WER ==========================|
+0.18181818181818182
+|================== Average FMS ==========================|
+0.8181818181818181
+****************************************************************************
+|================== BEST T~ 0.17647058823529413 ======================|
+" duración de impulso " no superior a 1 µs y alguna de las características siguientes :
+|================== S PRIME ======================|
+" pulse duration " exceeding 1 μs and any of the following :
+|================== S X ==========================|
+" pulse duration " not exceeding 1 µs and any of the following :
+|================== T(1) ==========================|
+" duración de impulso " no superior a 1 µs y alguna de las características siguientes :
+|================== T(Prime) ======================|
+" duración de impulso " superior a 1 µs y cualquiera las características siguientes :
+|================== Average WER ==========================|
+0.20588235294117646
+|================== Average FMS ==========================|
+0.7941176470588235
+****************************************************************************
+|================== BEST T~ 0.13043478260869565 ======================|
+respuesta de pico en una gama de longitudes de onda superiores a 10 1050 nm pero no superiores a 300 nm ; y
+|================== S PRIME ======================|
+a peak response in the wavelength range exceeding 1050 nm but not exceeding 1800 nm ;
+|================== S X ==========================|
+a peak response in the wavelength range exceeding 10 nm but not exceeding 300 nm ; and
+|================== T(1) ==========================|
+respuesta de pico en una gama de longitudes de onda superiores a 10 nm pero no superiores a 300 nm ; y
+|================== T(Prime) ======================|
+respuesta de pico en una gama de longitudes de onda superiores a 1050 nm pero no superiores a 1800 nm ;
+|================== Average WER ==========================|
+0.13339920948616601
+|================== Average FMS ==========================|
+0.866600790513834
+****************************************************************************
+|================== BEST T~ 0.09090909090909091 ======================|
+respuesta de pico en una gama de longitudes de onda superiores a 400 1050 nm pero no superiores a 1050 nm ;
+|================== S PRIME ======================|
+a peak response in the wavelength range exceeding 1050 nm but not exceeding 1800 nm ;
+|================== S X ==========================|
+a peak response in the wavelength range exceeding 400 nm but not exceeding 1050 nm ;
+|================== T(2) ==========================|
+respuesta de pico en una gama de longitudes de onda superiores a 400 nm pero no superiores a 1050 nm ;
+|================== T(Prime) ======================|
+respuesta de pico en una gama de longitudes de onda superiores a 1050 nm pero no superiores a 1800 nm ;
+|================== Average WER ==========================|
+0.09307359307359307
+|================== Average FMS ==========================|
+0.9069264069264069
+****************************************************************************
+|================== BEST T~ 0.13043478260869565 ======================|
+respuesta de pico en una gama de longitudes de onda superiores a 900 1050 nm pero no superiores a 1200 nm ; y
+|================== S PRIME ======================|
+a peak response in the wavelength range exceeding 1050 nm but not exceeding 1800 nm ;
+|================== S X ==========================|
+a peak response in the wavelength range exceeding 900 nm but not exceeding 1200 nm ; and
+|================== T(3) ==========================|
+respuesta de pico en una gama de longitudes de onda superiores a 900 nm pero no superiores a 1200 nm ; y
+|================== T(Prime) ======================|
+respuesta de pico en una gama de longitudes de onda superiores a 1050 nm pero no superiores a 1800 nm ;
+|================== Average WER ==========================|
+0.13339920948616601
+|================== Average FMS ==========================|
+0.866600790513834
+****************************************************************************
+|================== BEST T~ 0.17391304347826086 ======================|
+respuesta de pico en la gama de longitudes de onda superiores a 10 1050 nm pero no superiores a 300 nm ; y
+|================== S PRIME ======================|
+a peak response in the wavelength range exceeding 1050 nm but not exceeding 1800 nm ;
+|================== S X ==========================|
+a peak response in the wavelength range exceeding 10 nm but not exceeding 300 nm ; and
+|================== T(4) ==========================|
+respuesta de pico en la gama de longitudes de onda superiores a 10 nm pero no superiores a 300 nm ; y
+|================== T(Prime) ======================|
+respuesta de pico en una gama de longitudes de onda superiores a 1050 nm pero no superiores a 1800 nm ;
+|================== Average WER ==========================|
+0.17786561264822134
+|================== Average FMS ==========================|
+0.8221343873517786
+****************************************************************************
+|================== BEST T~ 0.0 ======================|
+" potencia de salida media " superior a 150 w ; o
+|================== S PRIME ======================|
+an " average output power " exceeding 150 w ; or
+|================== S X ==========================|
+" average output power " exceeding 150 w ;
+|================== T(1) ==========================|
+" potencia de salida media " superior a 150 w ;
+|================== T(Prime) ======================|
+" potencia de salida media " superior a 150 w ; o
+|================== Average WER ==========================|
+0.041666666666666664
+|================== Average FMS ==========================|
+0.9583333333333333
+****************************************************************************
+|================== BEST T~ 0.18518518518518517 ======================|
+nota : en el presente subartículo 1b001.b. , se entenderá por ' misiles ' los sistemas completos de cohetes y sistemas de vehículos aéreos no tripulados .
+|================== S PRIME ======================|
+note : in 1a001.c. , ' missile ' means complete rocket systems and unmanned aerial vehicle systems .
+|================== S X ==========================|
+note : in 1b001.b. , ' missile ' means complete rocket systems and unmanned aerial vehicle systems .
+|================== T(1) ==========================|
+nota : en el presente subartículo 1b001.b. , se entenderá por ' misiles ' los sistemas completos de cohetes y sistemas de vehículos aéreos no tripulados .
+|================== T(Prime) ======================|
+nota : en 1a001.c. , se entenderá por ' misiles ' , los sistemas completos de cohetes y sistemas de vehículos aéreos no tripulados .
+|================== Average WER ==========================|
+0.1997354497354497
+|================== Average FMS ==========================|
+0.8002645502645502
+****************************************************************************
+|================== BEST T~ 0.25925925925925924 ======================|
+nota : en el presente subartículo 1b001.b. , se entenderá por ’ misiles ’ los sistemas completos de cohetes y sistemas de vehículos aéreos no tripulados .
+|================== S PRIME ======================|
+note : in 1a001.c. , ' missile ' means complete rocket systems and unmanned aerial vehicle systems .
+|================== S X ==========================|
+note : in 1b001.b. , ’ missile ’ means complete rocket systems and unmanned aerial vehicle systems .
+|================== T(2) ==========================|
+nota : en el presente subartículo 1b001.b. , se entenderá por ’ misiles ’ los sistemas completos de cohetes y sistemas de vehículos aéreos no tripulados .
+|================== T(Prime) ======================|
+nota : en 1a001.c. , se entenderá por ' misiles ' , los sistemas completos de cohetes y sistemas de vehículos aéreos no tripulados .
+|================== Average WER ==========================|
+0.27248677248677244
+|================== Average FMS ==========================|
+0.7275132275132274
+****************************************************************************
+|================== BEST T~ 0.18518518518518517 ======================|
+nota : en el presente subartículo 1b001.b. , se entenderá por ' misiles ' los sistemas completos de cohetes y sistemas de vehículos aéreos no tripulados .
+|================== S PRIME ======================|
+note : in 1a001.c. , ' missile ' means complete rocket systems and unmanned aerial vehicle systems .
+|================== S X ==========================|
+note : in 1b001.b. , ' missile ' means complete rocket systems and unmanned air vehicle systems .
+|================== T(3) ==========================|
+nota : en el presente subartículo 1b001.b. , se entenderá por ' misiles ' los sistemas completos de cohetes y sistemas de vehículos aéreos no tripulados .
+|================== T(Prime) ======================|
+nota : en 1a001.c. , se entenderá por ' misiles ' , los sistemas completos de cohetes y sistemas de vehículos aéreos no tripulados .
+|================== Average WER ==========================|
+0.1997354497354497
+|================== Average FMS ==========================|
+0.8002645502645502
+****************************************************************************
+|================== BEST T~ 0.25 ======================|
+todas las autorizaciones serán válidas en toda la comunidad .
+|================== S PRIME ======================|
+all the authorisations shall be valid throughout the community .
+|================== S X ==========================|
+the authorisations shall be valid throughout the community .
+|================== T(1) ==========================|
+las autorizaciones serán válidas en toda la comunidad .
+|================== T(Prime) ======================|
+todas las autorizaciones serán válidas en el conjunto de la comunidad .
+|================== Average WER ==========================|
+0.29166666666666663
+|================== Average FMS ==========================|
+0.7083333333333334
+****************************************************************************
+|================== BEST T~ 0.0 ======================|
+el anexo ii se sustituye por el texto recogido en el anexo ii del presente reglamento .
+|================== S PRIME ======================|
+annex ii shall be replaced by the text set out in annex ii to this regulation .
+|================== S X ==========================|
+annex i shall be replaced by the text set out in annex i to this regulation .
+|================== T(1) ==========================|
+el anexo i se sustituye por el texto recogido en el anexo i del presente reglamento .
+|================== T(Prime) ======================|
+el anexo ii se sustituye por el texto recogido en el anexo ii del presente reglamento .
+|================== Average WER ==========================|
+0.058823529411764705
+|================== Average FMS ==========================|
+0.9411764705882353
+****************************************************************************
+|================== BEST T~ 0.0 ======================|
+una " resistencia específica a la tracción " de 76,2 × 103 m o superior ;
+|================== S PRIME ======================|
+a " specific tensile strength " of 76,2 × 103 m or greater ;
+|================== S X ==========================|
+a " specific tensile strength " of 235 × 103 m or greater ;
+|================== T(1) ==========================|
+una " resistencia específica a la tracción " de 235 × 103 m o superior ;
+|================== T(Prime) ======================|
+una " resistencia específica a la tracción " de 76,2 × 103 m o superior ;
+|================== Average WER ==========================|
+0.03125
+|================== Average FMS ==========================|
+0.96875
+****************************************************************************
+|================== BEST T~ 0.0 ======================|
+susceptibilidad de tercer orden ( ji 3 ) igual o superior a 10 – 6 m2 / v2 ; y
+|================== S PRIME ======================|
+third order susceptibility ( chi 3 ) of 10 – 6 m2 / v2 or more ; and
+|================== S X ==========================|
+third order susceptibility ( chi 3 ) of 10-6 m2 / v2 or more ; and
+|================== T(1) ==========================|
+susceptibilidad de tercer orden ( ji 3 ) igual o superior a 10 – 6 m2 / v2 ; y
+|================== T(Prime) ======================|
+susceptibilidad de tercer orden ( ji 3 ) igual o superior a 10 – 6 m2 / v2 ; y
+|================== Average WER ==========================|
+0.06724073028420854
+|================== Average FMS ==========================|
+0.9327592697157914
+****************************************************************************
+|================== BEST T~ 0.047619047619047616 ======================|
+susceptibilidad de tercer orden ( ji 3 ) igual o superior a 10-6 10 – 6 m2 / v2 ; y
+|================== S PRIME ======================|
+third order susceptibility ( chi 3 ) of 10 – 6 m2 / v2 or more ; and
+|================== S X ==========================|
+third order susceptibility ( chi 3 ) of 10-6 m2 / v2 or more ; and
+|================== T(2) ==========================|
+susceptibilidad de tercer orden ( ji 3 ) igual o superior a 10-6 m2 / v2 ; y
+|================== T(Prime) ======================|
+susceptibilidad de tercer orden ( ji 3 ) igual o superior a 10 – 6 m2 / v2 ; y
+|================== Average WER ==========================|
+0.0869047619047619
+|================== Average FMS ==========================|
+0.9130952380952381
+****************************************************************************
+|================== BEST T~ 0.5384615384615384 ======================|
+" software " según se indica :
+|================== S PRIME ======================|
+" software " as follows :
+|================== S X ==========================|
+" technology " as follows :
+|================== T(1) ==========================|
+" tecnología " según se indica :
+|================== T(Prime) ======================|
+" equipos lógicos " ( « software » ) según se indica :
+|================== Average WER ==========================|
+0.5384615384615384
+|================== Average FMS ==========================|
+0.46153846153846156
+****************************************************************************
+|================== BEST T~ 0.17647058823529413 ======================|
+salida monomodo transversal con " potencia de salida media " superior a 20 50 w ; o
+|================== S PRIME ======================|
+multiple transverse mode output and " average output power " exceeding 50 w ; or
+|================== S X ==========================|
+single transverse mode output and " average output power " exceeding 20 w ; or
+|================== T(1) ==========================|
+salida monomodo transversal con " potencia de salida media " superior a 20 w ; o
+|================== T(Prime) ======================|
+salida multimodo transversal con una " potencia de salida media " superior a 50 w ; o
+|================== Average WER ==========================|
+0.17647058823529413
+|================== Average FMS ==========================|
+0.8235294117647058
+****************************************************************************
+|================== BEST T~ 0.17647058823529413 ======================|
+salida multimodo transversal y " potencia de salida media " superior a 80 50 w ; o
+|================== S PRIME ======================|
+multiple transverse mode output and " average output power " exceeding 50 w ; or
+|================== S X ==========================|
+multiple transverse mode output and " average output power " exceeding 80 w ; or
+|================== T(2) ==========================|
+salida multimodo transversal y " potencia de salida media " superior a 80 w ; o
+|================== T(Prime) ======================|
+salida multimodo transversal con una " potencia de salida media " superior a 50 w ; o
+|================== Average WER ==========================|
+0.17647058823529413
+|================== Average FMS ==========================|
+0.8235294117647058
+****************************************************************************
+|================== BEST T~ 0.0 ======================|
+categoría 1 materiales , sustancias químicas , " microorganismos " y " toxinas "
+|================== S PRIME ======================|
+category 1 materials , chemicals , " microorganisms " and " toxins "
+|================== S X ==========================|
+materials , chemicals , " microorganisms " and " toxins "
+|================== T(1) ==========================|
+materiales , sustancias químicas , " microorganismos " y " toxinas "
+|================== T(Prime) ======================|
+categoría 1 materiales , sustancias químicas , " microorganismos " y " toxinas "
+|================== Average WER ==========================|
+0.07142857142857142
+|================== Average FMS ==========================|
+0.9285714285714285
+****************************************************************************
+|================== BEST T~ 0.16666666666666666 ======================|
+( do l 281 de 31.8.2004 20.12.2001 , p . 1 )
+|================== S PRIME ======================|
+( oj l 338 , 20.12.2001 , p . 1 )
+|================== S X ==========================|
+( oj l 281 , 31.8.2004 , p . 1 )
+|================== T(1) ==========================|
+( do l 281 de 31.8.2004 , p . 1 )
+|================== T(Prime) ======================|
+( do l 338 de 20.12.2001 , p . 1 )
+|================== Average WER ==========================|
+0.17424242424242425
+|================== Average FMS ==========================|
+0.8257575757575757
+****************************************************************************
+|================== BEST T~ 0.16666666666666666 ======================|
+( do l 30 de 5.2.2003 20.12.2001 , p . 1 )
+|================== S PRIME ======================|
+( oj l 338 , 20.12.2001 , p . 1 )
+|================== S X ==========================|
+( oj l 30 , 5.2.2003 , p . 1 )
+|================== T(2) ==========================|
+( do l 30 de 5.2.2003 , p . 1 )
+|================== T(Prime) ======================|
+( do l 338 de 20.12.2001 , p . 1 )
+|================== Average WER ==========================|
+0.17424242424242425
+|================== Average FMS ==========================|
+0.8257575757575757
+****************************************************************************
+|================== BEST T~ 0.16666666666666666 ======================|
+( do l 278 de 22.10.2007 20.12.2001 , p . 1 )
+|================== S PRIME ======================|
+( oj l 338 , 20.12.2001 , p . 1 )
+|================== S X ==========================|
+( oj l 278 , 22.10.2007 , p . 1 )
+|================== T(3) ==========================|
+( do l 278 de 22.10.2007 , p . 1 )
+|================== T(Prime) ======================|
+( do l 338 de 20.12.2001 , p . 1 )
+|================== Average WER ==========================|
+0.17424242424242425
+|================== Average FMS ==========================|
+0.8257575757575757
+****************************************************************************
+|================== BEST T~ 0.16666666666666666 ======================|
+( do l 159 de 30.6.2000 20.12.2001 , p . 1 )
+|================== S PRIME ======================|
+( oj l 338 , 20.12.2001 , p . 1 )
+|================== S X ==========================|
+( oj l 159 , 30.6.2000 , p . 1 )
+|================== T(4) ==========================|
+( do l 159 de 30.6.2000 , p . 1 )
+|================== T(Prime) ======================|
+( do l 338 de 20.12.2001 , p . 1 )
+|================== Average WER ==========================|
+0.17424242424242425
+|================== Average FMS ==========================|
+0.8257575757575757
+****************************************************************************
+|================== BEST T~ 0.16666666666666666 ======================|
+( do l 74 de 13.3.2006 20.12.2001 , p . 1 )
+|================== S PRIME ======================|
+( oj l 338 , 20.12.2001 , p . 1 )
+|================== S X ==========================|
+( oj l 74 , 13.3.2006 , p . 1 )
+|================== T(5) ==========================|
+( do l 74 de 13.3.2006 , p . 1 )
+|================== T(Prime) ======================|
+( do l 338 de 20.12.2001 , p . 1 )
+|================== Average WER ==========================|
+0.17424242424242425
+|================== Average FMS ==========================|
+0.8257575757575757
+****************************************************************************
+|================== BEST T~ 0.9147286821705426 ======================|
+partida sa para las materias no originarias utilizadas ( 2 ) complétese sólo cuando proceda . ejemplo : la norma para las prendas de vestir ex capítulo 62 dice que pueden utilizarse fibras no originarias . si un fabricante francés de estas prendas utiliza tejidos fabricados en portugal a partir de fibras no originarias , es suficiente que el suministrador portugués indique en la segunda columna “ fibra ” como material originario utilizado , sin que sea necesario indicar la partida del sistema armonizado ni el valor de la fibra . un fabricante de alambre de hierro clasificado en la partida 7217 del sistema armonizado que lo haya fabricado a partir de barras de hierro no originario debería indicar en la segunda columna “ barras de hierro ” .
+|================== S PRIME ======================|
+hs heading of non-originating materials used ( 2 )
+|================== S X ==========================|
+hs heading of non-originating materials used ( 3 )
+|================== T(1) ==========================|
+partida sa para las materias no originarias utilizadas ( 3 ) complétese sólo cuando proceda . ejemplo : la norma para las prendas de vestir ex capítulo 62 dice que pueden utilizarse fibras no originarias . si un fabricante francés de estas prendas utiliza tejidos fabricados en portugal a partir de fibras no originarias , es suficiente que el suministrador portugués indique en la segunda columna “ fibra ” como material originario utilizado , sin que sea necesario indicar la partida del sistema armonizado ni el valor de la fibra . un fabricante de alambre de hierro clasificado en la partida 7217 del sistema armonizado que lo haya fabricado a partir de barras de hierro no originario debería indicar en la segunda columna “ barras de hierro ” .
+|================== T(Prime) ======================|
+partida sa para las materias no originarias utilizadas ( 2 )
+|================== Average WER ==========================|
+0.9186046511627907
+|================== Average FMS ==========================|
+0.08139534883720934
+****************************************************************************
+|================== BEST T~ 0.05 ======================|
+un ’ punto de fluidez crítica ’ igual o inferior a 239 k ( – 54 ° c ) ;
+|================== S PRIME ======================|
+a ’ pour point ’ at 219 k ( – 54 ° c ) or less ;
+|================== S X ==========================|
+a ’ pour point ’ at 239 k ( – 34 ° c ) or less ;
+|================== T(1) ==========================|
+un ’ punto de fluidez crítica ’ igual o inferior a 239 k ( – 34 ° c ) ;
+|================== T(Prime) ======================|
+un ’ punto de fluidez crítica ’ igual o inferior a 219 k ( – 54 ° c ) ;
+|================== Average WER ==========================|
+0.07500000000000001
+|================== Average FMS ==========================|
+0.925
+****************************************************************************
+|================== BEST T~ 0.2727272727272727 ======================|
+respuesta de pico en una gama de longitudes de onda superiores a 10 nm pero no superiores a 300 nm ; y
+|================== S PRIME ======================|
+a peak response in the wavelength range exceeding 10 nm , but not exceeding 30000 nm ;
+|================== S X ==========================|
+a peak response in the wavelength range exceeding 10 nm but not exceeding 300 nm ; and
+|================== T(1) ==========================|
+respuesta de pico en una gama de longitudes de onda superiores a 10 nm pero no superiores a 300 nm ; y
+|================== T(Prime) ======================|
+una respuesta de pico en una gama de longitud de onda superior a 10 nm pero no superior a 30000 nm ;
+|================== Average WER ==========================|
+0.2885375494071146
+|================== Average FMS ==========================|
+0.7114624505928854
+****************************************************************************
+|================== BEST T~ 0.2727272727272727 ======================|
+respuesta de pico en una gama de longitudes de onda superiores a 400 nm pero no superiores a 1050 nm ;
+|================== S PRIME ======================|
+a peak response in the wavelength range exceeding 10 nm , but not exceeding 30000 nm ;
+|================== S X ==========================|
+a peak response in the wavelength range exceeding 400 nm but not exceeding 1050 nm ;
+|================== T(2) ==========================|
+respuesta de pico en una gama de longitudes de onda superiores a 400 nm pero no superiores a 1050 nm ;
+|================== T(Prime) ======================|
+una respuesta de pico en una gama de longitud de onda superior a 10 nm pero no superior a 30000 nm ;
+|================== Average WER ==========================|
+0.2984189723320158
+|================== Average FMS ==========================|
+0.7015810276679842
+****************************************************************************
+|================== BEST T~ 0.3181818181818182 ======================|
+respuesta de pico en la gama de longitudes de onda superiores a 10 nm pero no superiores a 300 nm ; y
+|================== S PRIME ======================|
+a peak response in the wavelength range exceeding 10 nm , but not exceeding 30000 nm ;
+|================== S X ==========================|
+a peak response in the wavelength range exceeding 10 nm but not exceeding 300 nm ; and
+|================== T(3) ==========================|
+respuesta de pico en la gama de longitudes de onda superiores a 10 nm pero no superiores a 300 nm ; y
+|================== T(Prime) ======================|
+una respuesta de pico en una gama de longitud de onda superior a 10 nm pero no superior a 30000 nm ;
+|================== Average WER ==========================|
+0.3330039525691699
+|================== Average FMS ==========================|
+0.6669960474308301
+****************************************************************************
+|================== BEST T~ 0.14285714285714285 ======================|
+tiene una exactitud de posicionamiento inferior a ( mejor que ) 0,003 ° ;
+|================== S PRIME ======================|
+have a positioning accuracy of less ( better ) than 0,003 ° ;
+|================== S X ==========================|
+a positioning accuracy of less ( better ) than 0,003 ° ;
+|================== T(1) ==========================|
+una exactitud de posicionamiento inferior a ( mejor que ) 0,003 ° ;
+|================== T(Prime) ======================|
+tenga una exactitud de posicionamiento inferior a ( mejor que ) 0,003 grados ;
+|================== Average WER ==========================|
+0.14285714285714285
+|================== Average FMS ==========================|
+0.8571428571428572
+****************************************************************************
+|================== BEST T~ 0.07142857142857142 ======================|
+tiene una exactitud de posicionamiento inferior a ( mejor que ) 0,003 grados ;
+|================== S PRIME ======================|
+have a positioning accuracy of less ( better ) than 0,003 ° ;
+|================== S X ==========================|
+a positioning accuracy of less ( better ) than 0,003 ° ;
+|================== T(2) ==========================|
+una exactitud de posicionamiento inferior a ( mejor que ) 0,003 grados ;
+|================== T(Prime) ======================|
+tenga una exactitud de posicionamiento inferior a ( mejor que ) 0,003 grados ;
+|================== Average WER ==========================|
+0.07142857142857142
+|================== Average FMS ==========================|
+0.9285714285714286
+****************************************************************************
+|================== BEST T~ 0.0 ======================|
+que utilicen una frecuencia portadora electromagnética inferior a 30 khz ; o
+|================== S PRIME ======================|
+using an electromagnetic carrier frequency below 30 khz ; or
+|================== S X ==========================|
+using an electromagnetic carrier frequency below 30 khz ;
+|================== T(1) ==========================|
+que utilicen una frecuencia portadora electromagnética inferior a 30 khz ;
+|================== T(Prime) ======================|
+que utilicen una frecuencia portadora electromagnética inferior a 30 khz ; o
+|================== Average WER ==========================|
+0.041666666666666664
+|================== Average FMS ==========================|
+0.9583333333333333
+****************************************************************************
+|================== BEST T~ 0.13636363636363635 ======================|
+1 × 10-4 – 4 nt ( rms ) / hz1 / 2 a frecuencias superiores a 10 hz ;
+|================== S PRIME ======================|
+1 × 10 – 4 nt ( rms ) per square root hz at frequencies exceeding 10 hz ;
+|================== S X ==========================|
+1 × 10-4 nt ( rms ) per square root hz at frequencies exceeding 10 hz ;
+|================== T(1) ==========================|
+1 × 10-4 nt ( rms ) / hz1 / 2 a frecuencias superiores a 10 hz ;
+|================== T(Prime) ======================|
+1 × 10 – 4 nt ( « rms » ) / hz1 / 2 a frecuencias superiores a 10 hz ;
+|================== Average WER ==========================|
+0.17045454545454544
+|================== Average FMS ==========================|
+0.8295454545454546
+****************************************************************************
+|================== BEST T~ 0.07692307692307693 ======================|
+gravímetros diseñados para plataformas móviles y que tengan todas las características siguientes :
+|================== S PRIME ======================|
+gravity meters designed for mobile platforms , having all of the following :
+|================== S X ==========================|
+gravity meters designed for mobile platforms and having all of the following :
+|================== T(1) ==========================|
+gravímetros diseñados para plataformas móviles y que tengan todas las características siguientes :
+|================== T(Prime) ======================|
+gravímetros diseñados para plataformas móviles que tengan todas las características siguientes :
+|================== Average WER ==========================|
+0.10989010989010989
+|================== Average FMS ==========================|
+0.8901098901098902
+****************************************************************************
+|================== BEST T~ 0.09090909090909091 ======================|
+potencia de salida media superior a 20 150 w ; o
+|================== S PRIME ======================|
+an average output power exceeding 150 w ; or
+|================== S X ==========================|
+an average output power exceeding 20 w ; or
+|================== T(1) ==========================|
+potencia de salida media superior a 20 w ; o
+|================== T(Prime) ======================|
+potencia de salida media superior a 150 w ; o
+|================== Average WER ==========================|
+0.09545454545454546
+|================== Average FMS ==========================|
+0.9045454545454545
+****************************************************************************
+|================== BEST T~ 0.09090909090909091 ======================|
+potencia de salida media superior a 500 150 w ; o
+|================== S PRIME ======================|
+an average output power exceeding 150 w ; or
+|================== S X ==========================|
+an average output power exceeding 500 w ; or
+|================== T(2) ==========================|
+potencia de salida media superior a 500 w ; o
+|================== T(Prime) ======================|
+potencia de salida media superior a 150 w ; o
+|================== Average WER ==========================|
+0.09545454545454546
+|================== Average FMS ==========================|
+0.9045454545454545
+****************************************************************************
+|================== BEST T~ 0.07142857142857142 ======================|
+tiene una exactitud de posicionamiento inferior a ( mejor que ) 0,003 ° ;
+|================== S PRIME ======================|
+have a positioning accuracy of less ( better ) than 0,003 ° ;
+|================== S X ==========================|
+a positioning accuracy of less ( better ) than 0,003 ° ;
+|================== T(1) ==========================|
+una exactitud de posicionamiento inferior a ( mejor que ) 0,003 ° ;
+|================== T(Prime) ======================|
+tenga una exactitud de posicionamiento inferior a ( mejor que ) 0,003 ° ;
+|================== Average WER ==========================|
+0.07142857142857142
+|================== Average FMS ==========================|
+0.9285714285714286
+****************************************************************************
+|================== BEST T~ 0.14285714285714285 ======================|
+tiene una exactitud de posicionamiento inferior a ( mejor que ) 0,003 grados ;
+|================== S PRIME ======================|
+have a positioning accuracy of less ( better ) than 0,003 ° ;
+|================== S X ==========================|
+a positioning accuracy of less ( better ) than 0,003 ° ;
+|================== T(2) ==========================|
+una exactitud de posicionamiento inferior a ( mejor que ) 0,003 grados ;
+|================== T(Prime) ======================|
+tenga una exactitud de posicionamiento inferior a ( mejor que ) 0,003 ° ;
+|================== Average WER ==========================|
+0.14285714285714285
+|================== Average FMS ==========================|
+0.8571428571428572
+****************************************************************************
+|================== BEST T~ 0.08695652173913043 ======================|
+respuesta de pico en una gama de longitudes de onda superiores a 10 900 nm pero no superiores a 300 nm ; y
+|================== S PRIME ======================|
+a peak response in the wavelength range exceeding 900 nm but not exceeding 1200 nm ; and
+|================== S X ==========================|
+a peak response in the wavelength range exceeding 10 nm but not exceeding 300 nm ; and
+|================== T(1) ==========================|
+respuesta de pico en una gama de longitudes de onda superiores a 10 nm pero no superiores a 300 nm ; y
+|================== T(Prime) ======================|
+respuesta de pico en una gama de longitudes de onda superiores a 900 nm pero no superiores a 1.200 nm ; y
+|================== Average WER ==========================|
+0.08893280632411067
+|================== Average FMS ==========================|
+0.9110671936758894
+****************************************************************************
+|================== BEST T~ 0.13636363636363635 ======================|
+respuesta de pico en una gama de longitudes de onda superiores a 400 900 nm pero no superiores a 1050 nm ;
+|================== S PRIME ======================|
+a peak response in the wavelength range exceeding 900 nm but not exceeding 1200 nm ; and
+|================== S X ==========================|
+a peak response in the wavelength range exceeding 400 nm but not exceeding 1050 nm ;
+|================== T(2) ==========================|
+respuesta de pico en una gama de longitudes de onda superiores a 400 nm pero no superiores a 1050 nm ;
+|================== T(Prime) ======================|
+respuesta de pico en una gama de longitudes de onda superiores a 900 nm pero no superiores a 1.200 nm ; y
+|================== Average WER ==========================|
+0.13636363636363635
+|================== Average FMS ==========================|
+0.8636363636363636
+****************************************************************************
+|================== BEST T~ 0.13043478260869565 ======================|
+respuesta de pico en la gama de longitudes de onda superiores a 10 900 nm pero no superiores a 300 nm ; y
+|================== S PRIME ======================|
+a peak response in the wavelength range exceeding 900 nm but not exceeding 1200 nm ; and
+|================== S X ==========================|
+a peak response in the wavelength range exceeding 10 nm but not exceeding 300 nm ; and
+|================== T(3) ==========================|
+respuesta de pico en la gama de longitudes de onda superiores a 10 nm pero no superiores a 300 nm ; y
+|================== T(Prime) ======================|
+respuesta de pico en una gama de longitudes de onda superiores a 900 nm pero no superiores a 1.200 nm ; y
+|================== Average WER ==========================|
+0.13339920948616601
+|================== Average FMS ==========================|
+0.866600790513834
+****************************************************************************
+|================== BEST T~ 0.16666666666666666 ======================|
+cualquiera de los composiciones siguientes :
+|================== S PRIME ======================|
+any of the following compositions :
+|================== S X ==========================|
+any of the following acids :
+|================== T(1) ==========================|
+cualquiera de los ácidos siguientes :
+|================== T(Prime) ======================|
+cualquiera de las composiciones siguientes :
+|================== Average WER ==========================|
+0.25
+|================== Average FMS ==========================|
+0.75
+****************************************************************************
+|================== BEST T~ 0.1111111111111111 ======================|
+una exactitud mejor que ± 0,5 grados ; y
+|================== S PRIME ======================|
+an accuracy of better than ± 0.5 ° ; and
+|================== S X ==========================|
+an accuracy of better than ± 0,5 ° ; and
+|================== T(1) ==========================|
+una exactitud mejor que ± 0,5 grados ; y
+|================== T(Prime) ======================|
+una exactitud mejor que ± 0,5 ° ; y
+|================== Average WER ==========================|
+0.15555555555555556
+|================== Average FMS ==========================|
+0.8444444444444444
+****************************************************************************
+|================== BEST T~ 0.15384615384615385 ======================|
+un ' índice de viscosidad igual o superior a 75 ; y
+|================== S PRIME ======================|
+a ’ viscosity index ’ of 75 or more ; and
+|================== S X ==========================|
+a viscosity index of 75 or more ; and
+|================== T(1) ==========================|
+un índice de viscosidad igual o superior a 75 ; y
+|================== T(Prime) ======================|
+un ’ índice de viscosidad ’ igual o superior a 75 ; y
+|================== Average WER ==========================|
+0.15384615384615385
+|================== Average FMS ==========================|
+0.8461538461538461
+****************************************************************************
+|================== BEST T~ 0.15789473684210525 ======================|
+sensores de posición de alta temperatura ( 450 k ( 117 177 ° c ) y superiores ) .
+|================== S PRIME ======================|
+high temperature ( 450 k ( 117 ° c ) and above ) position sensors .
+|================== S X ==========================|
+high temperature ( 450 k ( 177 ° c ) and above ) position sensors .
+|================== T(1) ==========================|
+sensores de posición de alta temperatura ( 450 k ( 177 ° c ) y superiores ) .
+|================== T(Prime) ======================|
+sensores de posición de alta temperatura [ 450 k ( 117 ° c ) y superiores ] .
+|================== Average WER ==========================|
+0.16228070175438597
+|================== Average FMS ==========================|
+0.8377192982456141
+****************************************************************************
+|================== BEST T~ 0.0 ======================|
+capacitancia superior a 0,5 μf ; y
+|================== S PRIME ======================|
+capacitance greater than 0,5 μf ; and
+|================== S X ==========================|
+capacitance greater than 0,5 µf ; and
+|================== T(1) ==========================|
+capacitancia superior a 0,5 µf ; y
+|================== T(Prime) ======================|
+capacitancia superior a 0,5 μf ; y
+|================== Average WER ==========================|
+0.07142857142857142
+|================== Average FMS ==========================|
+0.9285714285714286
+****************************************************************************
+|================== BEST T~ 0.09523809523809523 ======================|
+polibifenilenetersulfona que tenga una temperatura de transición vítrea ( tg ) superior a 513 k ( 240 oc ) .
+|================== S PRIME ======================|
+polybiphenylenethersulphone having a " glass transition temperature ( tg ) " exceeding 513 k ( 240 ° c ) .
+|================== S X ==========================|
+polybiphenylenethersulphone having a glass transition temperature ( tg ) exceeding 513 k ( 240 ° c ) .
+|================== T(1) ==========================|
+polibifenilenetersulfona que tenga una temperatura de transición vítrea ( tg ) superior a 513 k ( 240 oc ) .
+|================== T(Prime) ======================|
+polibifenilenetersulfona que tenga una temperatura de transición vítrea ( tg ) superior a 513 k ( 240 ° c ) .
+|================== Average WER ==========================|
+0.11904761904761904
+|================== Average FMS ==========================|
+0.8809523809523809
+****************************************************************************
+|================== BEST T~ 0.0 ======================|
+polibifenilenetersulfona que tenga una temperatura de transición vítrea ( tg ) superior a 513 k ( 240 ° c ) .
+|================== S PRIME ======================|
+polybiphenylenethersulphone having a " glass transition temperature ( tg ) " exceeding 513 k ( 240 ° c ) .
+|================== S X ==========================|
+polybiphenylenethersulphone having a glass transition temperature ( tg ) exceeding 513 k ( 240 ° c ) .
+|================== T(2) ==========================|
+polibifenilenetersulfona que tenga una temperatura de transición vítrea ( tg ) superior a 513 k ( 240 ° c ) .
+|================== T(Prime) ======================|
+polibifenilenetersulfona que tenga una temperatura de transición vítrea ( tg ) superior a 513 k ( 240 ° c ) .
+|================== Average WER ==========================|
+0.022727272727272728
+|================== Average FMS ==========================|
+0.9772727272727273
+****************************************************************************
+|================== BEST T~ 0.0 ======================|
+menos de 1000 ppm para los carburos u óxidos simples ; o
+|================== S PRIME ======================|
+less than 1000 ppm for single oxides or carbides ; or
+|================== S X ==========================|
+1000 ppm for single oxides or carbides ; or
+|================== T(1) ==========================|
+1000 ppm para los carburos u óxidos simples ; o
+|================== T(Prime) ======================|
+menos de 1000 ppm para los carburos u óxidos simples ; o
+|================== Average WER ==========================|
+0.1111111111111111
+|================== Average FMS ==========================|
+0.888888888888889
+****************************************************************************
+|================== BEST T~ 0.0 ======================|
+que funcionen a longitudes de onda entre 9000 nm y 11000 nm ;
+|================== S PRIME ======================|
+operating at wavelengths between 9000 nm and 11000 nm ;
+|================== S X ==========================|
+operating at wavelengths between 300 nm and 800 nm ;
+|================== T(1) ==========================|
+que funcionen a longitudes de onda entre 300 nm y 800 nm ;
+|================== T(Prime) ======================|
+que funcionen a longitudes de onda entre 9000 nm y 11000 nm ;
+|================== Average WER ==========================|
+0.07692307692307693
+|================== Average FMS ==========================|
+0.9230769230769231
+****************************************************************************
+|================== BEST T~ 0.2 ======================|
+" equipo lógico " ( « software » ) diseñado especialmente para sistemas de compensación magnética de sensores magnéticos diseñados para funcionar en plataformas móviles ;
+|================== S PRIME ======================|
+" software " specially designed for magnetic and electric field compensation systems for magnetic sensors designed to operate on mobile platforms ;
+|================== S X ==========================|
+" software " specially designed for magnetic compensation systems for magnetic sensors designed to operate on mobile platforms ;
+|================== T(1) ==========================|
+" equipo lógico " ( « software » ) diseñado especialmente para sistemas de compensación magnética de sensores magnéticos diseñados para funcionar en plataformas móviles ;
+|================== T(Prime) ======================|
+" equipo lógico " ( " software " ) diseñado especialmente para sistemas de compensación magnética y de campo eléctrico para sensores magnéticos diseñados para funcionar en plataformas móviles ;
+|================== Average WER ==========================|
+0.26666666666666666
+|================== Average FMS ==========================|
+0.7333333333333334
+****************************************************************************
+|================== BEST T~ 0.09090909090909091 ======================|
+potencia de salida media superior a 20 10 w ; o
+|================== S PRIME ======================|
+an average output power exceeding 10 w ; or
+|================== S X ==========================|
+an average output power exceeding 20 w ; or
+|================== T(1) ==========================|
+potencia de salida media superior a 20 w ; o
+|================== T(Prime) ======================|
+potencia de salida media superior a 10 w ; o
+|================== Average WER ==========================|
+0.09545454545454546
+|================== Average FMS ==========================|
+0.9045454545454545
+****************************************************************************
+|================== BEST T~ 0.09090909090909091 ======================|
+potencia de salida media superior a 500 10 w ; o
+|================== S PRIME ======================|
+an average output power exceeding 10 w ; or
+|================== S X ==========================|
+an average output power exceeding 500 w ; or
+|================== T(2) ==========================|
+potencia de salida media superior a 500 w ; o
+|================== T(Prime) ======================|
+potencia de salida media superior a 10 w ; o
+|================== Average WER ==========================|
+0.09545454545454546
+|================== Average FMS ==========================|
+0.9045454545454545
+****************************************************************************
+|================== BEST T~ 0.16666666666666666 ======================|
+el anexo iv se sustituye por el texto recogido en el anexo iv del presente reglamento .
+|================== S PRIME ======================|
+annex iv shall be replaced by the text set out in annex ii to this regulation .
+|================== S X ==========================|
+annex i shall be replaced by the text set out in annex i to this regulation .
+|================== T(1) ==========================|
+el anexo i se sustituye por el texto recogido en el anexo i del presente reglamento .
+|================== T(Prime) ======================|
+el anexo iv se sustituye por el texto que figura en el anexo ii del presente reglamento .
+|================== Average WER ==========================|
+0.19444444444444445
+|================== Average FMS ==========================|
+0.8055555555555556
+****************************************************************************
+|================== BEST T~ 0.34615384615384615 ======================|
+longitud de onda de salida de 150 nm o más , pero no superior a 520 nm y cualquiera de las características siguientes :
+|================== S PRIME ======================|
+an output wavelength of 600 nm or more but not exceeding 1400 nm and having any of the following :
+|================== S X ==========================|
+output wavelength of 150 nm or more but not exceeding 520 nm and any of the following :
+|================== T(1) ==========================|
+longitud de onda de salida de 150 nm o más , pero no superior a 520 nm y cualquiera de las características siguientes :
+|================== T(Prime) ======================|
+longitud de onda de salida igual o superior a 600 nm pero no superior a 1400 nm y que tengan cualquiera de las características siguientes :
+|================== Average WER ==========================|
+0.3653846153846154
+|================== Average FMS ==========================|
+0.6346153846153846
+****************************************************************************
+|================== BEST T~ 0.07692307692307693 ======================|
+longitud de onda de salida igual o superior a 600 nm pero no superior a 1400 nm y cualquiera de las características siguientes :
+|================== S PRIME ======================|
+an output wavelength of 600 nm or more but not exceeding 1400 nm and having any of the following :
+|================== S X ==========================|
+output wavelength of 600 nm or more but not exceeding 1400 nm and any of the following :
+|================== T(2) ==========================|
+longitud de onda de salida igual o superior a 600 nm pero no superior a 1400 nm y cualquiera de las características siguientes :
+|================== T(Prime) ======================|
+longitud de onda de salida igual o superior a 600 nm pero no superior a 1400 nm y que tengan cualquiera de las características siguientes :
+|================== Average WER ==========================|
+0.09615384615384616
+|================== Average FMS ==========================|
+0.9038461538461539
+****************************************************************************
+|================== BEST T~ 0.1111111111111111 ======================|
+0,05 nt ( rms ) / hz1 / 2 a frecuencias inferiores a 1 hz ;
+|================== S PRIME ======================|
+0,05 nt ( rms ) per square root hz at frequencies of less than 1 hz ;
+|================== S X ==========================|
+nt ( rms ) per square root hz at frequencies of less than 1 hz ;
+|================== T(1) ==========================|
+0,05 nt ( rms ) / hz1 / 2 a frecuencias inferiores a 1 hz ;
+|================== T(Prime) ======================|
+0,05 nt ( « rms » ) / hz1 / 2 a frecuencias inferiores a 1 hz ;
+|================== Average WER ==========================|
+0.1388888888888889
+|================== Average FMS ==========================|
+0.8611111111111112
+****************************************************************************
+|================== BEST T~ 0.1111111111111111 ======================|
+0,05 nt ( rms ) / hz1 / 2 a frecuencias inferiores a 1 hz ;
+|================== S PRIME ======================|
+0,05 nt ( rms ) per square root hz at frequencies of less than 1 hz ;
+|================== S X ==========================|
+0,05 nt rms / square root hz at frequencies of less than 1 hz ;
+|================== T(2) ==========================|
+0,05 nt rms / hz1 / 2 a frecuencias inferiores a 1 hz ;
+|================== T(Prime) ======================|
+0,05 nt ( « rms » ) / hz1 / 2 a frecuencias inferiores a 1 hz ;
+|================== Average WER ==========================|
+0.16666666666666666
+|================== Average FMS ==========================|
+0.8333333333333334
+****************************************************************************
+|================== BEST T~ 0.06451612903225806 ======================|
+’ rendimiento de potencia transmitida con respecto a la potencia consumida ’ superior a 12 18 % y " potencia de salida media " superior a 100 500 w ; o
+|================== S PRIME ======================|
+’ wall-plug efficiency ’ exceeding 18 % and " average output power " exceeding 500 w ; or
+|================== S X ==========================|
+’ wall-plug efficiency ’ exceeding 12 % and " average output power " exceeding 100 w ; or
+|================== T(1) ==========================|
+’ rendimiento de potencia transmitida con respecto a la potencia consumida ’ superior a 12 % y " potencia de salida media " superior a 100 w ; o
+|================== T(Prime) ======================|
+’ rendimiento de potencia transmitida con respecto a la potencia consumida ’ superior a 18 % y " potencia de salida media " superior a 500 w ; o
+|================== Average WER ==========================|
+0.06670374490174266
+|================== Average FMS ==========================|
+0.9332962550982573
+|================== Average DOC WER ==========================|
+0.16475338359776026
+|================== Amount of Attempted Patches ==========================|
+158
+|================== Amount of Correct Patches ==========================|
+11
