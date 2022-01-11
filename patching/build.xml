@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project basedir="." default="build" name="patching">
+    <property environment="env"/>
+    <property name="debuglevel" value="source,lines,vars"/>
+    <property name="target" value="1.7"/>
+    <property name="source" value="1.7"/>
+    <import file="build-jars.xml"/>
+    <path id="patching.classpath">
+        <pathelement location="classes"/>
+        <pathelement location="jars/commons-collections-3.2.1.jar"/>
+        <pathelement location="jars/commons-collections-3.2.1-sources.jar"/>
+        <pathelement location="jars/commons-collections-testframework-3.2.1.jar"/>
+        <pathelement location="jars/commons-collections-3.2.1-javadoc.jar"/>
+        <pathelement location="jars/commons-lang-2.6.jar"/>
+        <pathelement location="jars/junit-4.11.jar"/>
+        <pathelement location="jars/weka-3-7-7-monolithic.jar"/>
+        <pathelement location="jars/libsvm.jar"/>
+        <pathelement location="jars/SnowBall.jar"/>
+        <pathelement location="jars/WKRecommending.jar"/>
+        <pathelement location="jars/TestWKR.jar"/>
+    </path>
+    <target name="init">
+        <mkdir dir="classes"/>
+        <copy includeemptydirs="false" todir="classes">
+            <fileset dir="src">
+                <exclude name="**/*.launch"/>
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+    </target>
+    <target name="clean">
+        <delete dir="classes"/>
+    </target>
+    <target depends="clean" name="cleanall"/>
+    <target depends="build-subprojects,build-project" name="build"/>
+    <target name="build-subprojects"/>
+    <target depends="init" name="build-project">
+        <echo message="${ant.project.name}: ${ant.file}"/>
+        <javac debug="true" debuglevel="${debuglevel}" destdir="classes" source="${source}" target="${target}">
+            <src path="src"/>
+            <classpath refid="patching.classpath"/>
+        </javac>
+    </target>
+</project>
+

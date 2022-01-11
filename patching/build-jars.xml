@@ -1,0 +1,7 @@
+<project basedir="." default="build" name="patching">
+<target depends="build" name="jars">
+<jar destfile="jars/patching.jar" basedir="classes">
+</jar>
+</target>
+</project>
+
