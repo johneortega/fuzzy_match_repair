@@ -1,0 +1,7 @@
+ multi-bleu.perl reference < mt-output
+http://www.statmt.org/moses/?n=Moses.SupportTools
+
+used for amta 2016, script was directly downloaded from repo
+johneortega@aruba:~/patching/output-bleu$ perl multi-bleu.pl es.omega.test es < en_es.mt.apertium
+BLEU = 18.60, 56.5/25.2/13.0/7.0 (BP=0.981, ratio=0.981, hyp_len=44383, ref_len=45220)
+
