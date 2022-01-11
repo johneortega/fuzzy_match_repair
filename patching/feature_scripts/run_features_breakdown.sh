@@ -1,0 +1,21 @@
+#!/bin/bash
+awk -v OFS='\t' -F'\t' {'print $1'} features.dev.tz > features.dev.bb1.tz
+awk -v OFS='\t' -F'\t' {'print $2'} features.dev.tz > features.dev.bb2.tz
+awk -v OFS='\t' -F'\t' {'print $3'} features.dev.tz > features.dev.bb3.tz
+awk -v OFS='\t' -F'\t' {'print $4'} features.dev.tz > features.dev.bb4.tz
+awk -v OFS='\t' -F'\t' {'print $5'} features.dev.tz > features.dev.bb5.tz
+awk -v OFS='\t' -F'\t' {'print $6'} features.dev.tz > features.dev.bb6.tz
+awk -v OFS='\t' -F'\t' {'print $7'} features.dev.tz > features.dev.gb1.tz
+awk -v OFS='\t' -F'\t' {'print $8'} features.dev.tz > features.dev.gb2.tz
+awk -v OFS='\t' -F'\t' {'print $9'} features.dev.tz > features.dev.gb3.tz
+awk -v OFS='\t' -F'\t' {'print $10'} features.dev.tz > features.dev.gb4.tz
+awk -v OFS='\t' -F'\t' {'print $11'} features.dev.tz > features.dev.gb5.tz
+awk -v OFS='\t' -F'\t' {'print $12'} features.dev.tz > features.dev.gb6.tz
+awk -v OFS='\t' -F'\t' {'print $13'} features.dev.tz > features.dev.gb7.tz
+awk -v OFS='\t' -F'\t' {'print $14'} features.dev.tz > features.dev.gb8.tz
+awk -v OFS='\t' -F'\t' {'print $15'} features.dev.tz > features.dev.gb9.tz
+awk -v OFS='\t' -F'\t' {'print $16'} features.dev.tz > features.dev.gb10.tz
+awk -v OFS='\t' -F'\t' {'print $17'} features.dev.tz > features.dev.gb11.tz
+awk -v OFS='\t' -F'\t' {'print $18'} features.dev.tz > features.dev.gb12.tz
+awk -v OFS='\t' -F'\t' {'print $19'} features.dev.tz > features.dev.gb14.tz
+awk -v OFS='\t' -F'\t' {'print $20'} features.dev.tz > features.dev.gb15.tz
