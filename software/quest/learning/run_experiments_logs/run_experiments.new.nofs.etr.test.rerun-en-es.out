@@ -1,0 +1,104 @@
+Running the __none__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_60.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$27.16$}  & 
+\multicolumn{1}{r|}{$23.41$}  & 
+\multicolumn{1}{r|}{$23.24$}  & 
+\multicolumn{1}{r|}{$0.96$}   & 
+\multicolumn{1}{r|}{$0.023323$}   & 
+\multicolumn{1}{r|}{$0.034416$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$2375,8744$}  & 
+\multicolumn{1}{r|}{$2027,8659$}  & 
+\multicolumn{1}{r|}{$2015,8669$}  & 
+\multicolumn{1}{r|}{$0.96$}   & 
+\multicolumn{1}{r|}{$0.023323$}   & 
+\multicolumn{1}{r|}{$0.034416$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.none_27.16_23.41_23.24_0.96.pkl to model_file_en_es_new
+Running the __none__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_70.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$22.83$}  & 
+\multicolumn{1}{r|}{$19.43$}  & 
+\multicolumn{1}{r|}{$19.32$}  & 
+\multicolumn{1}{r|}{$0.97$}   & 
+\multicolumn{1}{r|}{$0.021016$}   & 
+\multicolumn{1}{r|}{$0.029715$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1450,6350$}  & 
+\multicolumn{1}{r|}{$1226,6310$}  & 
+\multicolumn{1}{r|}{$1220,6314$}  & 
+\multicolumn{1}{r|}{$0.97$}   & 
+\multicolumn{1}{r|}{$0.021016$}   & 
+\multicolumn{1}{r|}{$0.029715$}   & 
+saving modelfile: model_file_new_70_fms_Etr_test.nofs.none_22.83_19.43_19.32_0.97.pkl to model_file_en_es_new
+Running the __none__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_80.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$17.31$}  & 
+\multicolumn{1}{r|}{$14.32$}  & 
+\multicolumn{1}{r|}{$14.31$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.015157$}   & 
+\multicolumn{1}{r|}{$0.021301$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$547,3160$}  & 
+\multicolumn{1}{r|}{$448,3129$}  & 
+\multicolumn{1}{r|}{$448,3130$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.015157$}   & 
+\multicolumn{1}{r|}{$0.021301$}   & 
+saving modelfile: model_file_new_80_fms_Etr_test.nofs.none_17.31_14.32_14.31_1.00.pkl to model_file_en_es_new
+Running the __none__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_90.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$11.63$}  & 
+\multicolumn{1}{r|}{$5.85$}  & 
+\multicolumn{1}{r|}{$5.85$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.025397$}   & 
+\multicolumn{1}{r|}{$0.029435$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$166,1427$}  & 
+\multicolumn{1}{r|}{$75,1281$}  & 
+\multicolumn{1}{r|}{$75,1282$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.025397$}   & 
+\multicolumn{1}{r|}{$0.029435$}   & 
+saving modelfile: model_file_new_90_fms_Etr_test.nofs.none_11.63_5.85_5.85_1.00.pkl to model_file_en_es_new

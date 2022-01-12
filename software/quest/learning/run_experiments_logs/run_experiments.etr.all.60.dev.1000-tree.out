@@ -1,0 +1,1063 @@
+Running the __none__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_60.test.bbandbothgrounding.wer.new: No such file or directory
+gzip: run_global_scenario_combined_60.train.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$27.49$}  & 
+\multicolumn{1}{r|}{$26.37$}  & 
+\multicolumn{1}{r|}{$24.15$}  & 
+\multicolumn{1}{r|}{$0.33$}   & 
+\multicolumn{1}{r|}{$0.061703$}   & 
+\multicolumn{1}{r|}{$0.087094$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$973,3540$}  & 
+\multicolumn{1}{r|}{$934,3542$}  & 
+\multicolumn{1}{r|}{$857,3549$}  & 
+\multicolumn{1}{r|}{$0.33$}   & 
+\multicolumn{1}{r|}{$0.061703$}   & 
+\multicolumn{1}{r|}{$0.087094$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.none_27.49_26.37_24.15_0.33.pkl to model_file_en_es_new
+Running the __none__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_60.test.bbandbothgrounding.wer.new: No such file or directory
+gzip: run_global_scenario_combined_60.train.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$21.48$}  & 
+\multicolumn{1}{r|}{$18.89$}  & 
+\multicolumn{1}{r|}{$16.95$}  & 
+\multicolumn{1}{r|}{$0.57$}   & 
+\multicolumn{1}{r|}{$0.053816$}   & 
+\multicolumn{1}{r|}{$0.078186$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$869,4045$}  & 
+\multicolumn{1}{r|}{$756,4002$}  & 
+\multicolumn{1}{r|}{$675,3983$}  & 
+\multicolumn{1}{r|}{$0.57$}   & 
+\multicolumn{1}{r|}{$0.053816$}   & 
+\multicolumn{1}{r|}{$0.078186$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.none_21.48_18.89_16.95_0.57.pkl to model_file_es_pt_new
+Running the __none__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_60.test.bbandbothgrounding.wer.new: No such file or directory
+gzip: run_global_scenario_combined_60.train.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$16.65$}  & 
+\multicolumn{1}{r|}{$14.87$}  & 
+\multicolumn{1}{r|}{$11.91$}  & 
+\multicolumn{1}{r|}{$0.38$}   & 
+\multicolumn{1}{r|}{$0.103981$}   & 
+\multicolumn{1}{r|}{$0.120877$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$464,2787$}  & 
+\multicolumn{1}{r|}{$411,2764$}  & 
+\multicolumn{1}{r|}{$325,2729$}  & 
+\multicolumn{1}{r|}{$0.38$}   & 
+\multicolumn{1}{r|}{$0.103981$}   & 
+\multicolumn{1}{r|}{$0.120877$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.none_16.65_14.87_11.91_0.38.pkl to model_file_es_fr_new
+Running the __esplagomis__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_60.test.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+gzip: run_global_scenario_combined_60.train.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$21.36$}  & 
+\multicolumn{1}{r|}{$18.92$}  & 
+\multicolumn{1}{r|}{$18.08$}  & 
+\multicolumn{1}{r|}{$0.74$}   & 
+\multicolumn{1}{r|}{$0.036491$}   & 
+\multicolumn{1}{r|}{$0.048947$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$530,2481$}  & 
+\multicolumn{1}{r|}{$471,2489$}  & 
+\multicolumn{1}{r|}{$449,2484$}  & 
+\multicolumn{1}{r|}{$0.74$}   & 
+\multicolumn{1}{r|}{$0.036491$}   & 
+\multicolumn{1}{r|}{$0.048947$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.esplagomis_21.36_18.92_18.08_0.74.pkl to model_file_en_es_new
+Running the __esplagomis__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_60.test.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+gzip: run_global_scenario_combined_60.train.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$16.21$}  & 
+\multicolumn{1}{r|}{$13.43$}  & 
+\multicolumn{1}{r|}{$11.96$}  & 
+\multicolumn{1}{r|}{$0.65$}   & 
+\multicolumn{1}{r|}{$0.039751$}   & 
+\multicolumn{1}{r|}{$0.053217$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$497,3066$}  & 
+\multicolumn{1}{r|}{$406,3023$}  & 
+\multicolumn{1}{r|}{$361,3018$}  & 
+\multicolumn{1}{r|}{$0.65$}   & 
+\multicolumn{1}{r|}{$0.039751$}   & 
+\multicolumn{1}{r|}{$0.053217$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.esplagomis_16.21_13.43_11.96_0.65.pkl to model_file_es_pt_new
+Running the __esplagomis__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_60.test.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+gzip: run_global_scenario_combined_60.train.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$9.42$}  & 
+\multicolumn{1}{r|}{$8.17$}  & 
+\multicolumn{1}{r|}{$5.01$}  & 
+\multicolumn{1}{r|}{$0.28$}   & 
+\multicolumn{1}{r|}{$0.068093$}   & 
+\multicolumn{1}{r|}{$0.082651$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$181,1922$}  & 
+\multicolumn{1}{r|}{$155,1897$}  & 
+\multicolumn{1}{r|}{$94,1876$}  & 
+\multicolumn{1}{r|}{$0.28$}   & 
+\multicolumn{1}{r|}{$0.068093$}   & 
+\multicolumn{1}{r|}{$0.082651$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.esplagomis_9.42_8.17_5.01_0.28.pkl to model_file_es_fr_new
+Running the __none__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_60.test.bbandbothgrounding.wer.new: No such file or directory
+gzip: run_global_scenario_combined_60.train.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$27.49$}  & 
+\multicolumn{1}{r|}{$26.60$}  & 
+\multicolumn{1}{r|}{$24.15$}  & 
+\multicolumn{1}{r|}{$0.27$}   & 
+\multicolumn{1}{r|}{$0.060547$}   & 
+\multicolumn{1}{r|}{$0.085962$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$973,3540$}  & 
+\multicolumn{1}{r|}{$942,3542$}  & 
+\multicolumn{1}{r|}{$857,3549$}  & 
+\multicolumn{1}{r|}{$0.27$}   & 
+\multicolumn{1}{r|}{$0.060547$}   & 
+\multicolumn{1}{r|}{$0.085962$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.none_27.49_26.60_24.15_0.27.pkl to model_file_en_es_new
+Running the __none__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_60.test.bbandbothgrounding.wer.new: No such file or directory
+gzip: run_global_scenario_combined_60.train.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$21.48$}  & 
+\multicolumn{1}{r|}{$18.89$}  & 
+\multicolumn{1}{r|}{$16.95$}  & 
+\multicolumn{1}{r|}{$0.57$}   & 
+\multicolumn{1}{r|}{$0.052700$}   & 
+\multicolumn{1}{r|}{$0.077486$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$869,4045$}  & 
+\multicolumn{1}{r|}{$756,4003$}  & 
+\multicolumn{1}{r|}{$675,3983$}  & 
+\multicolumn{1}{r|}{$0.57$}   & 
+\multicolumn{1}{r|}{$0.052700$}   & 
+\multicolumn{1}{r|}{$0.077486$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.none_21.48_18.89_16.95_0.57.pkl to model_file_es_pt_new
+Running the __none__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_60.test.bbandbothgrounding.wer.new: No such file or directory
+gzip: run_global_scenario_combined_60.train.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$16.65$}  & 
+\multicolumn{1}{r|}{$15.43$}  & 
+\multicolumn{1}{r|}{$11.91$}  & 
+\multicolumn{1}{r|}{$0.26$}   & 
+\multicolumn{1}{r|}{$0.103534$}   & 
+\multicolumn{1}{r|}{$0.120202$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$464,2787$}  & 
+\multicolumn{1}{r|}{$427,2768$}  & 
+\multicolumn{1}{r|}{$325,2729$}  & 
+\multicolumn{1}{r|}{$0.26$}   & 
+\multicolumn{1}{r|}{$0.103534$}   & 
+\multicolumn{1}{r|}{$0.120202$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.none_16.65_15.43_11.91_0.26.pkl to model_file_es_fr_new
+Running the __esplagomis__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_60.test.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+gzip: run_global_scenario_combined_60.train.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$21.36$}  & 
+\multicolumn{1}{r|}{$19.12$}  & 
+\multicolumn{1}{r|}{$18.08$}  & 
+\multicolumn{1}{r|}{$0.68$}   & 
+\multicolumn{1}{r|}{$0.036041$}   & 
+\multicolumn{1}{r|}{$0.048953$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$530,2481$}  & 
+\multicolumn{1}{r|}{$476,2490$}  & 
+\multicolumn{1}{r|}{$449,2484$}  & 
+\multicolumn{1}{r|}{$0.68$}   & 
+\multicolumn{1}{r|}{$0.036041$}   & 
+\multicolumn{1}{r|}{$0.048953$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.esplagomis_21.36_19.12_18.08_0.68.pkl to model_file_en_es_new
+Running the __esplagomis__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_60.test.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+gzip: run_global_scenario_combined_60.train.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$16.21$}  & 
+\multicolumn{1}{r|}{$13.37$}  & 
+\multicolumn{1}{r|}{$11.96$}  & 
+\multicolumn{1}{r|}{$0.67$}   & 
+\multicolumn{1}{r|}{$0.040138$}   & 
+\multicolumn{1}{r|}{$0.053594$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$497,3066$}  & 
+\multicolumn{1}{r|}{$404,3021$}  & 
+\multicolumn{1}{r|}{$361,3018$}  & 
+\multicolumn{1}{r|}{$0.67$}   & 
+\multicolumn{1}{r|}{$0.040138$}   & 
+\multicolumn{1}{r|}{$0.053594$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.esplagomis_16.21_13.37_11.96_0.67.pkl to model_file_es_pt_new
+Running the __esplagomis__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_60.test.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+gzip: run_global_scenario_combined_60.train.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$9.42$}  & 
+\multicolumn{1}{r|}{$7.92$}  & 
+\multicolumn{1}{r|}{$5.01$}  & 
+\multicolumn{1}{r|}{$0.34$}   & 
+\multicolumn{1}{r|}{$0.068002$}   & 
+\multicolumn{1}{r|}{$0.082495$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$181,1922$}  & 
+\multicolumn{1}{r|}{$150,1895$}  & 
+\multicolumn{1}{r|}{$94,1876$}  & 
+\multicolumn{1}{r|}{$0.34$}   & 
+\multicolumn{1}{r|}{$0.068002$}   & 
+\multicolumn{1}{r|}{$0.082495$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.esplagomis_9.42_7.92_5.01_0.34.pkl to model_file_es_fr_new
+Running the __none__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_60.test.bbandbothgrounding.wer.new: No such file or directory
+gzip: run_global_scenario_combined_60.train.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$27.49$}  & 
+\multicolumn{1}{r|}{$26.54$}  & 
+\multicolumn{1}{r|}{$24.15$}  & 
+\multicolumn{1}{r|}{$0.28$}   & 
+\multicolumn{1}{r|}{$0.062819$}   & 
+\multicolumn{1}{r|}{$0.088277$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$973,3540$}  & 
+\multicolumn{1}{r|}{$940,3542$}  & 
+\multicolumn{1}{r|}{$857,3549$}  & 
+\multicolumn{1}{r|}{$0.28$}   & 
+\multicolumn{1}{r|}{$0.062819$}   & 
+\multicolumn{1}{r|}{$0.088277$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.none_27.49_26.54_24.15_0.28.pkl to model_file_en_es_new
+Running the __none__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_60.test.bbandbothgrounding.wer.new: No such file or directory
+gzip: run_global_scenario_combined_60.train.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$21.48$}  & 
+\multicolumn{1}{r|}{$19.05$}  & 
+\multicolumn{1}{r|}{$16.95$}  & 
+\multicolumn{1}{r|}{$0.54$}   & 
+\multicolumn{1}{r|}{$0.053216$}   & 
+\multicolumn{1}{r|}{$0.077722$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$869,4045$}  & 
+\multicolumn{1}{r|}{$762,4000$}  & 
+\multicolumn{1}{r|}{$675,3983$}  & 
+\multicolumn{1}{r|}{$0.54$}   & 
+\multicolumn{1}{r|}{$0.053216$}   & 
+\multicolumn{1}{r|}{$0.077722$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.none_21.48_19.05_16.95_0.54.pkl to model_file_es_pt_new
+Running the __none__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_60.test.bbandbothgrounding.wer.new: No such file or directory
+gzip: run_global_scenario_combined_60.train.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$16.65$}  & 
+\multicolumn{1}{r|}{$15.08$}  & 
+\multicolumn{1}{r|}{$11.91$}  & 
+\multicolumn{1}{r|}{$0.33$}   & 
+\multicolumn{1}{r|}{$0.104370$}   & 
+\multicolumn{1}{r|}{$0.121270$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$464,2787$}  & 
+\multicolumn{1}{r|}{$418,2772$}  & 
+\multicolumn{1}{r|}{$325,2729$}  & 
+\multicolumn{1}{r|}{$0.33$}   & 
+\multicolumn{1}{r|}{$0.104370$}   & 
+\multicolumn{1}{r|}{$0.121270$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.none_16.65_15.08_11.91_0.33.pkl to model_file_es_fr_new
+Running the __esplagomis__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_60.test.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+gzip: run_global_scenario_combined_60.train.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$21.36$}  & 
+\multicolumn{1}{r|}{$19.01$}  & 
+\multicolumn{1}{r|}{$18.08$}  & 
+\multicolumn{1}{r|}{$0.72$}   & 
+\multicolumn{1}{r|}{$0.036043$}   & 
+\multicolumn{1}{r|}{$0.048782$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$530,2481$}  & 
+\multicolumn{1}{r|}{$473,2488$}  & 
+\multicolumn{1}{r|}{$449,2484$}  & 
+\multicolumn{1}{r|}{$0.72$}   & 
+\multicolumn{1}{r|}{$0.036043$}   & 
+\multicolumn{1}{r|}{$0.048782$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.esplagomis_21.36_19.01_18.08_0.72.pkl to model_file_en_es_new
+Running the __esplagomis__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_60.test.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+gzip: run_global_scenario_combined_60.train.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$16.21$}  & 
+\multicolumn{1}{r|}{$13.29$}  & 
+\multicolumn{1}{r|}{$11.96$}  & 
+\multicolumn{1}{r|}{$0.69$}   & 
+\multicolumn{1}{r|}{$0.039448$}   & 
+\multicolumn{1}{r|}{$0.052970$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$497,3066$}  & 
+\multicolumn{1}{r|}{$402,3024$}  & 
+\multicolumn{1}{r|}{$361,3018$}  & 
+\multicolumn{1}{r|}{$0.69$}   & 
+\multicolumn{1}{r|}{$0.039448$}   & 
+\multicolumn{1}{r|}{$0.052970$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.esplagomis_16.21_13.29_11.96_0.69.pkl to model_file_es_pt_new
+Running the __esplagomis__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_60.test.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+gzip: run_global_scenario_combined_60.train.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$9.42$}  & 
+\multicolumn{1}{r|}{$7.92$}  & 
+\multicolumn{1}{r|}{$5.01$}  & 
+\multicolumn{1}{r|}{$0.34$}   & 
+\multicolumn{1}{r|}{$0.066839$}   & 
+\multicolumn{1}{r|}{$0.081116$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$181,1922$}  & 
+\multicolumn{1}{r|}{$150,1895$}  & 
+\multicolumn{1}{r|}{$94,1876$}  & 
+\multicolumn{1}{r|}{$0.34$}   & 
+\multicolumn{1}{r|}{$0.066839$}   & 
+\multicolumn{1}{r|}{$0.081116$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.esplagomis_9.42_7.92_5.01_0.34.pkl to model_file_es_fr_new
+Running the __none__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_60.test.bbandbothgrounding.wer.new: No such file or directory
+gzip: run_global_scenario_combined_60.train.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$27.49$}  & 
+\multicolumn{1}{r|}{$26.52$}  & 
+\multicolumn{1}{r|}{$24.15$}  & 
+\multicolumn{1}{r|}{$0.29$}   & 
+\multicolumn{1}{r|}{$0.062020$}   & 
+\multicolumn{1}{r|}{$0.087563$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$973,3540$}  & 
+\multicolumn{1}{r|}{$940,3544$}  & 
+\multicolumn{1}{r|}{$857,3549$}  & 
+\multicolumn{1}{r|}{$0.29$}   & 
+\multicolumn{1}{r|}{$0.062020$}   & 
+\multicolumn{1}{r|}{$0.087563$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.none_27.49_26.52_24.15_0.29.pkl to model_file_en_es_new
+Running the __none__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_60.test.bbandbothgrounding.wer.new: No such file or directory
+gzip: run_global_scenario_combined_60.train.bbandbothgrounding.wer.new: No such file or directory
+uniq: write error: No space left on device
+close failed in file object destructor:
+sys.excepthook is missing
+lost sys.stderr
+(standard_in) 1: syntax error
+(standard_in) 2: syntax error
+(standard_in) 2: syntax error
+(standard_in) 1: syntax error
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$$}  & 
+\multicolumn{1}{r|}{$$}  & 
+\multicolumn{1}{r|}{$$}  & 
+\multicolumn{1}{r|}{$$}   & 
+\multicolumn{1}{r|}{$$}   & 
+\multicolumn{1}{r|}{$$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multigzip: run_global_scenario_es_fr_60.test.bbandbothgrounding.wer.new: No such file or directory
+gzip: run_global_scenario_combined_60.train.bbandbothgrounding.wer.new: No such file or directory
+uniq: write error: No space left on device
+close failed in file object destructor:
+sys.excepthook is missing
+lost sys.stderr
+(standard_in) 1: syntax error
+(standard_in) 2: syntax error
+(standard_in) 2: syntax error
+(standard_in) 1: syntax error
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$$}  & 
+\multicolumn{1}{r|}{$$}  & 
+\multicolumn{1}{r|}{$$}  & 
+\multicolumn{1}{r|}{$$}   & 
+\multicolumn{1}{r|}{$$}   & 
+\multicolumn{1}{r|}{$$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$,$}  & 
+\multicolumn{1}{r|}{$,$}  & 
+\multicolumn{1}{r|}{$,$}  & 
+\multicolumn{1}{r|}{$$}   & 
+\multicolumn{1}{r|}{$$}   & 
+\multicolumn{1}{r|}{$$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.none____.pkl to model_file_es_fr_new
+Running the __esplagomis__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_60.test.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+gzip: run_global_scenario_combined_60.train.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+uniq: write error: No space left on device
+close failed in file object destructor:
+sys.excepthook is missing
+lost sys.stderr
+(standard_in) 1: syntax error
+(standard_in) 2: syntax error
+(standard_in) 2: syntax error
+(standard_in) 1: syntax error
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$$}  & 
+\multicolumn{1}{r|}{$$}  & 
+\multicolumn{1}{r|}{$$}  & 
+\multicolumn{1}{r|}{$$}   & 
+\multicolumn{1}{r|}{$$}   & 
+\multicolumn{1}{r|}{$$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$,$}  & 
+\multicolumn{1}{r|}{$,$}  & 
+\multicolumn{1}{r|}{$,$}  & 
+\multicolumn{1}{r|}{$$}   & 
+\multicolumn{1}{r|}{$$}   & 
+\multicolumn{1}{r|}{$$}   & 
+saving modelfile: mgzip: run_global_scenario_es_pt_60.test.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+gzip: run_global_scenario_combined_60.train.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+uniq: write error: No space left on device
+close failed in file object destructor:
+sys.excepthook is missing
+lost sys.stderr
+(standard_in) 1: syntax error
+(standard_in) 2: syntax error
+(standard_in) 2: syntax error
+(standard_in) 1: syntax error
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$$}  & 
+\multicolumn{1}{r|}{$$}  & 
+\multicolumn{1}{r|}{$$}  & 
+\multicolumn{1}{r|}{$$}   & 
+\multicolumn{1}{r|}{$$}   & 
+\multicolumn{1}{r|}{$$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$,$}  & 
+\multicolumn{1}{r|}{$,$}  & 
+\multicolumn{1}{r|}{$,$}  & 
+\multicolumn{1}{r|}{$$}   & 
+\multicolumn{1}{r|}{$$}   & 
+\multicolumn{1}{r|}{$$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.esplagomis____.pkl to model_file_es_pt_new
+Running the __esplagomis__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_60.test.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+gzip: run_global_scenario_combined_60.train.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+uniq: write error: No space left on device
+close failed in file object destructor:
+sys.excepthook is missing
+lost sys.stderr
+(standard_in) 1: syntax error
+(standard_in) 2: syntax error
+(standard_in) 2: syntax error
+(standard_in) 1: syntax error
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$$}  & 
+\multicolumn{1}{r|}{$$}  & 
+\multicolumn{1}{r|}{$$}  & 
+\multicolumn{1}{r|}{$$}   & 
+\multicolumn{1}{r|}{$$}   & 
+\multicolumn{1}{r|}{$$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$,$}  & 
+\multicolumn{1}{r|}{$,$}  & 
+\multicolumn{1}{r|}{$,$}  & 
+\multicolumn{1}{r|}{$$}   & 
+\multicolumn{1}{r|}{$$}   & 
+\multicogzip: run_global_scenario_en_es_60.test.bbandbothgrounding.wer.new: No such file or directory
+gzip: run_global_scenario_combined_60.train.bbandbothgrounding.wer.new: No such file or directory
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$27.49$}  & 
+\multicolumn{1}{r|}{$26.52$}  & 
+\multicolumn{1}{r|}{$24.15$}  & 
+\multicolumn{1}{r|}{$0.29$}   & 
+\multicolumn{1}{r|}{$$}   & 
+\multicolumn{1}{r|}{$$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$973,3540$}  & 
+\multicolumn{1}{r|}{$940,3544$}  & 
+\multicolumn{1}{r|}{$857,3549$}  & 
+\multicolumn{1}{r|}{$0.29$}   & 
+\multicolumn{1}{r|}{$$}   & 
+\multicolumn{1}{r|}{$$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.none_27.49_26.52_24.15_0.29.pkl to model_file_en_es_new
+mv: cannot stat 'model_file.pkl': No such file or directory
+Running the __none__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_60.test.bbandbothgrounding.wer.new: No such file or directory
+gzip: run_global_scenario_combined_60.train.bbandbothgrounding.wer.new: No such file or directory
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$21.48$}  & 
+\multicolumn{1}{r|}{$21.66$}  & 
+\multicolumn{1}{r|}{$20.94$}  & 
+\multicolumn{1}{r|}{$-0.32$}   & 
+\multicolumn{1}{r|}{$$}   & 
+\multicolumn{1}{r|}{$$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$869,4045$}  & 
+\multicolumn{1}{r|}{$877,4049$}  & 
+\multicolumn{1}{r|}{$848,4050$}  & 
+\multicolumn{1}{r|}{$-0.32$}   & 
+\multicolumn{1}{r|}{$$}   & 
+\multicolumn{1}{r|}{$$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.none_21.48_21.66_20.94_-0.32.pkl to model_file_es_pt_new
+mv: cannot stat 'model_file.pkl': No such file or directory
+Running the __none__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_60.test.bbandbothgrounding.wer.new: No such file or directory
+gzip: run_global_scenario_combined_60.train.bbandbothgrounding.wer.new: No such file or directory
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$16.65$}  & 
+\multicolumn{1}{r|}{$16.73$}  & 
+\multicolumn{1}{r|}{$15.97$}  & 
+\multicolumn{1}{r|}{$-0.11$}   & 
+\multicolumn{1}{r|}{$$}   & 
+\multicolumn{1}{r|}{$$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$464,2787$}  & 
+\multicolumn{1}{r|}{$467,2792$}  & 
+\multicolumn{1}{r|}{$442,2768$}  & 
+\multicolumn{1}{r|}{$-0.11$}   & 
+\multicolumn{1}{r|}{$$}   & 
+\multicolumn{1}{r|}{$$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.none_16.65_16.73_15.97_-0.11.pkl to model_file_es_fr_new
+mv: cannot stat 'model_file.pkl': No such file or directory
+Running the __esplagomis__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_60.test.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+gzip: run_global_scenario_combined_60.train.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+uniq: write error: No space left on device
+close failed in file object destructor:
+sys.excepthook is missing
+lost sys.stderr
+(standard_in) 1: syntax error
+(standard_in) 2: syntax error
+(standard_in) 2: syntax error
+(standard_in) 1: syntax error
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$$}  & 
+\multicolumn{1}{r|}{$$}  & 
+\multicolumn{1}{r|}{$$}  & 
+\multicolumn{1}{r|}{$$}   & 
+\multicolumn{1}{r|}{$$}   & 
+\multicolumn{1}{r|}{$$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$,$}  & 
+\multicolumn{1}{r|}{$,$}  & 
+\multicolumn{1}{r|}{$,$}  & 
+\multicolumn{1}{r|}{$$}   & 
+\multicolumn{1}{r|}{$$}   & 
+\multicolumn{1}{r|}{$$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.esplagomis____.pkl to model_file_en_es_new
+mv: cannot stat 'model_file.pkl': No such file or directory
+Running the __esplagomis__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_60.test.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+gzip: run_global_scenario_combined_60.train.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+uniq: write error: No space left on device
+close failed in file object destructor:
+sys.excepthook is missing
+lost sys.stderr
+(standard_in) 1: syntax error
+(standard_in) 2: syntax error
+(standard_in) 2: syntax error
+(standard_in) 1: syntax error
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$$}  & 
+\multicolumn{1}{r|}{$$}  & 
+\multicolumn{1}{r|}{$$}  & 
+\multicolumn{1}{r|}{$$}   & 
+\multicolumn{gzip: run_global_scenario_es_fr_60.test.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+gzip: run_global_scenario_combined_60.train.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+uniq: write error: No space left on device
+close failed in file object destructor:
+sys.excepthook is missing
+lost sys.stderr
+(standard_in) 1: syntax error
+(standard_in) 2: syntax error
+(standard_in) 2: syntax error
+(standard_in) 1: syntax error
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$$}  & 
+\multicolumn{1}{r|}{$$}  & 
+\multicolumn{1}{r|}{$$}  & 
+\multicolumn{1}{r|}{$$}   & 
+\multicolumn{1}{r|}{$$}   & 
+\multicolumn{1}{r|}{$$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$,$}  & 
+\multicolumn{1}{r|}{$,$}  & 
+\multicolumn{1}{r|}{$,$}  & 
+\multicolumn{1}{r|}{$$}   & 
+\multicolumn{1}{r|}{$$}   & 
+\multicolumn{1}{r|}{$$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.esplagomis____.pkl to model_file_es_fr_new
+mv: cannot stat 'model_file.pkl': No such file or directory

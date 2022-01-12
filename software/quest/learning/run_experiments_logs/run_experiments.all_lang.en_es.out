@@ -1,0 +1,1680 @@
+Running the __none__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$27.49$}  & 
+\multicolumn{1}{r|}{$25.68$}  & 
+\multicolumn{1}{r|}{$24.15$}  & 
+\multicolumn{1}{r|}{$0.54$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$973,3540$}  & 
+\multicolumn{1}{r|}{$910,3543$}  & 
+\multicolumn{1}{r|}{$857,3549$}  & 
+\multicolumn{1}{r|}{$0.54$}   & 
+saving modelfile: model_file_60fms_etr_nofs.none_27.49_25.68_24.15_0.54.pkl
+Running the __esplagomis__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$21.36$}  & 
+\multicolumn{1}{r|}{$19.15$}  & 
+\multicolumn{1}{r|}{$18.08$}  & 
+\multicolumn{1}{r|}{$0.67$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$530,2481$}  & 
+\multicolumn{1}{r|}{$475,2481$}  & 
+\multicolumn{1}{r|}{$449,2484$}  & 
+\multicolumn{1}{r|}{$0.67$}   & 
+saving modelfile: model_file_60fms_etr_nofs.esplagomis_21.36_19.15_18.08_0.67.pkl
+Running the __none__ training set with 70 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$23.16$}  & 
+\multicolumn{1}{r|}{$21.93$}  & 
+\multicolumn{1}{r|}{$20.26$}  & 
+\multicolumn{1}{r|}{$0.42$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$634,2738$}  & 
+\multicolumn{1}{r|}{$604,2754$}  & 
+\multicolumn{1}{r|}{$557,2749$}  & 
+\multicolumn{1}{r|}{$0.42$}   & 
+saving modelfile: model_file_70fms_etr_nofs.none_23.16_21.93_20.26_0.42.pkl
+Running the __esplagomis__ training set with 70 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$18.04$}  & 
+\multicolumn{1}{r|}{$15.78$}  & 
+\multicolumn{1}{r|}{$15.10$}  & 
+\multicolumn{1}{r|}{$0.77$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$359,1990$}  & 
+\multicolumn{1}{r|}{$314,1990$}  & 
+\multicolumn{1}{r|}{$301,1993$}  & 
+\multicolumn{1}{r|}{$0.77$}   & 
+saving modelfile: model_file_70fms_etr_nofs.esplagomis_18.04_15.78_15.10_0.77.pkl
+Running the __none__ training set with 80 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$18.52$}  & 
+\multicolumn{1}{r|}{$17.60$}  & 
+\multicolumn{1}{r|}{$16.58$}  & 
+\multicolumn{1}{r|}{$0.47$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$190,1026$}  & 
+\multicolumn{1}{r|}{$179,1017$}  & 
+\multicolumn{1}{r|}{$169,1019$}  & 
+\multicolumn{1}{r|}{$0.47$}   & 
+saving modelfile: model_file_80fms_etr_nofs.none_18.52_17.60_16.58_0.47.pkl
+Running the __esplagomis__ training set with 80 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$8.67$}  & 
+\multicolumn{1}{r|}{$6.24$}  & 
+\multicolumn{1}{r|}{$5.88$}  & 
+\multicolumn{1}{r|}{$0.87$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$50,577$}  & 
+\multicolumn{1}{r|}{$35,561$}  & 
+\multicolumn{1}{r|}{$33,561$}  & 
+\multicolumn{1}{r|}{$0.87$}   & 
+saving modelfile: model_file_80fms_etr_nofs.esplagomis_8.67_6.24_5.88_0.87.pkl
+Running the __none__ training set with 90 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$20.95$}  & 
+\multicolumn{1}{r|}{$18.73$}  & 
+\multicolumn{1}{r|}{$18.20$}  & 
+\multicolumn{1}{r|}{$0.81$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$132,630$}  & 
+\multicolumn{1}{r|}{$115,614$}  & 
+\multicolumn{1}{r|}{$113,621$}  & 
+\multicolumn{1}{r|}{$0.81$}   & 
+saving modelfile: model_file_90fms_etr_nofs.none_20.95_18.73_18.20_0.81.pkl
+Running the __esplagomis__ training set with 90 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$8.40$}  & 
+\multicolumn{1}{r|}{$2.55$}  & 
+\multicolumn{1}{r|}{$2.14$}  & 
+\multicolumn{1}{r|}{$0.93$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$21,250$}  & 
+\multicolumn{1}{r|}{$6,235$}  & 
+\multicolumn{1}{r|}{$5,234$}  & 
+\multicolumn{1}{r|}{$0.93$}   & 
+saving modelfile: model_file_90fms_etr_nofs.esplagomis_8.40_2.55_2.14_0.93.pkl
+Running the __none__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$27.49$}  & 
+\multicolumn{1}{r|}{$25.73$}  & 
+\multicolumn{1}{r|}{$24.15$}  & 
+\multicolumn{1}{r|}{$0.53$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$973,3540$}  & 
+\multicolumn{1}{r|}{$913,3548$}  & 
+\multicolumn{1}{r|}{$857,3549$}  & 
+\multicolumn{1}{r|}{$0.53$}   & 
+saving modelfile: model_file_60fms_etr_nofs.none_27.49_25.73_24.15_0.53.pkl
+Running the __esplagomis__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$21.36$}  & 
+\multicolumn{1}{r|}{$18.94$}  & 
+\multicolumn{1}{r|}{$18.08$}  & 
+\multicolumn{1}{r|}{$0.74$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$530,2481$}  & 
+\multicolumn{1}{r|}{$470,2482$}  & 
+\multicolumn{1}{r|}{$449,2484$}  & 
+\multicolumn{1}{r|}{$0.74$}   & 
+saving modelfile: model_file_60fms_etr_nofs.esplagomis_21.36_18.94_18.08_0.74.pkl
+Running the __none__ training set with 70 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$23.16$}  & 
+\multicolumn{1}{r|}{$21.12$}  & 
+\multicolumn{1}{r|}{$20.26$}  & 
+\multicolumn{1}{r|}{$0.70$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$634,2738$}  & 
+\multicolumn{1}{r|}{$579,2741$}  & 
+\multicolumn{1}{r|}{$557,2749$}  & 
+\multicolumn{1}{r|}{$0.70$}   & 
+saving modelfile: model_file_70fms_etr_nofs.none_23.16_21.12_20.26_0.70.pkl
+Running the __esplagomis__ training set with 70 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$18.04$}  & 
+\multicolumn{1}{r|}{$15.43$}  & 
+\multicolumn{1}{r|}{$15.10$}  & 
+\multicolumn{1}{r|}{$0.89$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$359,1990$}  & 
+\multicolumn{1}{r|}{$307,1990$}  & 
+\multicolumn{1}{r|}{$301,1993$}  & 
+\multicolumn{1}{r|}{$0.89$}   & 
+saving modelfile: model_file_70fms_etr_nofs.esplagomis_18.04_15.43_15.10_0.89.pkl
+Running the __none__ training set with 80 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$18.52$}  & 
+\multicolumn{1}{r|}{$17.56$}  & 
+\multicolumn{1}{r|}{$16.58$}  & 
+\multicolumn{1}{r|}{$0.50$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$190,1026$}  & 
+\multicolumn{1}{r|}{$177,1008$}  & 
+\multicolumn{1}{r|}{$169,1019$}  & 
+\multicolumn{1}{r|}{$0.50$}   & 
+saving modelfile: model_file_80fms_etr_nofs.none_18.52_17.56_16.58_0.50.pkl
+Running the __esplagomis__ training set with 80 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$8.67$}  & 
+\multicolumn{1}{r|}{$6.23$}  & 
+\multicolumn{1}{r|}{$5.88$}  & 
+\multicolumn{1}{r|}{$0.88$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$50,577$}  & 
+\multicolumn{1}{r|}{$35,562$}  & 
+\multicolumn{1}{r|}{$33,561$}  & 
+\multicolumn{1}{r|}{$0.88$}   & 
+saving modelfile: model_file_80fms_etr_nofs.esplagomis_8.67_6.23_5.88_0.88.pkl
+Running the __none__ training set with 90 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$20.95$}  & 
+\multicolumn{1}{r|}{$18.73$}  & 
+\multicolumn{1}{r|}{$18.20$}  & 
+\multicolumn{1}{r|}{$0.81$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$132,630$}  & 
+\multicolumn{1}{r|}{$115,614$}  & 
+\multicolumn{1}{r|}{$113,621$}  & 
+\multicolumn{1}{r|}{$0.81$}   & 
+saving modelfile: model_file_90fms_etr_nofs.none_20.95_18.73_18.20_0.81.pkl
+Running the __esplagomis__ training set with 90 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$8.40$}  & 
+\multicolumn{1}{r|}{$2.55$}  & 
+\multicolumn{1}{r|}{$2.14$}  & 
+\multicolumn{1}{r|}{$0.93$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$21,250$}  & 
+\multicolumn{1}{r|}{$6,235$}  & 
+\multicolumn{1}{r|}{$5,234$}  & 
+\multicolumn{1}{r|}{$0.93$}   & 
+saving modelfile: model_file_90fms_etr_nofs.esplagomis_8.40_2.55_2.14_0.93.pkl
+Running the __none__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$27.49$}  & 
+\multicolumn{1}{r|}{$25.62$}  & 
+\multicolumn{1}{r|}{$24.15$}  & 
+\multicolumn{1}{r|}{$0.56$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$973,3540$}  & 
+\multicolumn{1}{r|}{$908,3544$}  & 
+\multicolumn{1}{r|}{$857,3549$}  & 
+\multicolumn{1}{r|}{$0.56$}   & 
+saving modelfile: model_file_60fms_etr_nofs.none_27.49_25.62_24.15_0.56.pkl
+Running the __esplagomis__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$21.36$}  & 
+\multicolumn{1}{r|}{$18.98$}  & 
+\multicolumn{1}{r|}{$18.08$}  & 
+\multicolumn{1}{r|}{$0.73$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$530,2481$}  & 
+\multicolumn{1}{r|}{$471,2482$}  & 
+\multicolumn{1}{r|}{$449,2484$}  & 
+\multicolumn{1}{r|}{$0.73$}   & 
+saving modelfile: model_file_60fms_etr_nofs.esplagomis_21.36_18.98_18.08_0.73.pkl
+Running the __none__ training set with 70 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$23.16$}  & 
+\multicolumn{1}{r|}{$22.06$}  & 
+\multicolumn{1}{r|}{$20.26$}  & 
+\multicolumn{1}{r|}{$0.38$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$634,2738$}  & 
+\multicolumn{1}{r|}{$608,2756$}  & 
+\multicolumn{1}{r|}{$557,2749$}  & 
+\multicolumn{1}{r|}{$0.38$}   & 
+saving modelfile: model_file_70fms_etr_nofs.none_23.16_22.06_20.26_0.38.pkl
+Running the __esplagomis__ training set with 70 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$18.04$}  & 
+\multicolumn{1}{r|}{$15.57$}  & 
+\multicolumn{1}{r|}{$15.10$}  & 
+\multicolumn{1}{r|}{$0.84$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$359,1990$}  & 
+\multicolumn{1}{r|}{$310,1991$}  & 
+\multicolumn{1}{r|}{$301,1993$}  & 
+\multicolumn{1}{r|}{$0.84$}   & 
+saving modelfile: model_file_70fms_etr_nofs.esplagomis_18.04_15.57_15.10_0.84.pkl
+Running the __none__ training set with 80 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$18.52$}  & 
+\multicolumn{1}{r|}{$17.37$}  & 
+\multicolumn{1}{r|}{$16.58$}  & 
+\multicolumn{1}{r|}{$0.59$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$190,1026$}  & 
+\multicolumn{1}{r|}{$176,1013$}  & 
+\multicolumn{1}{r|}{$169,1019$}  & 
+\multicolumn{1}{r|}{$0.59$}   & 
+saving modelfile: model_file_80fms_etr_nofs.none_18.52_17.37_16.58_0.59.pkl
+Running the __esplagomis__ training set with 80 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$8.67$}  & 
+\multicolumn{1}{r|}{$6.06$}  & 
+\multicolumn{1}{r|}{$5.88$}  & 
+\multicolumn{1}{r|}{$0.94$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$50,577$}  & 
+\multicolumn{1}{r|}{$34,561$}  & 
+\multicolumn{1}{r|}{$33,561$}  & 
+\multicolumn{1}{r|}{$0.94$}   & 
+saving modelfile: model_file_80fms_etr_nofs.esplagomis_8.67_6.06_5.88_0.94.pkl
+Running the __none__ training set with 90 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$20.95$}  & 
+\multicolumn{1}{r|}{$20.00$}  & 
+\multicolumn{1}{r|}{$18.20$}  & 
+\multicolumn{1}{r|}{$0.35$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$132,630$}  & 
+\multicolumn{1}{r|}{$125,625$}  & 
+\multicolumn{1}{r|}{$113,621$}  & 
+\multicolumn{1}{r|}{$0.35$}   & 
+saving modelfile: model_file_90fms_etr_nofs.none_20.95_20.00_18.20_0.35.pkl
+Running the __esplagomis__ training set with 90 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$8.40$}  & 
+\multicolumn{1}{r|}{$2.14$}  & 
+\multicolumn{1}{r|}{$2.14$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$21,250$}  & 
+\multicolumn{1}{r|}{$5,234$}  & 
+\multicolumn{1}{r|}{$5,234$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+saving modelfile: model_file_90fms_etr_nofs.esplagomis_8.40_2.14_2.14_1.00.pkl
+Running the __none__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$27.49$}  & 
+\multicolumn{1}{r|}{$25.81$}  & 
+\multicolumn{1}{r|}{$24.15$}  & 
+\multicolumn{1}{r|}{$0.50$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$973,3540$}  & 
+\multicolumn{1}{r|}{$917,3553$}  & 
+\multicolumn{1}{r|}{$857,3549$}  & 
+\multicolumn{1}{r|}{$0.50$}   & 
+saving modelfile: model_file_60fms_etr_nofs.none_27.49_25.81_24.15_0.50.pkl
+Running the __esplagomis__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$21.36$}  & 
+\multicolumn{1}{r|}{$19.05$}  & 
+\multicolumn{1}{r|}{$18.08$}  & 
+\multicolumn{1}{r|}{$0.70$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$530,2481$}  & 
+\multicolumn{1}{r|}{$473,2483$}  & 
+\multicolumn{1}{r|}{$449,2484$}  & 
+\multicolumn{1}{r|}{$0.70$}   & 
+saving modelfile: model_file_60fms_etr_nofs.esplagomis_21.36_19.05_18.08_0.70.pkl
+Running the __none__ training set with 70 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$23.16$}  & 
+\multicolumn{1}{r|}{$21.44$}  & 
+\multicolumn{1}{r|}{$20.26$}  & 
+\multicolumn{1}{r|}{$0.59$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$634,2738$}  & 
+\multicolumn{1}{r|}{$588,2742$}  & 
+\multicolumn{1}{r|}{$557,2749$}  & 
+\multicolumn{1}{r|}{$0.59$}   & 
+saving modelfile: model_file_70fms_etr_nofs.none_23.16_21.44_20.26_0.59.pkl
+Running the __esplagomis__ training set with 70 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$18.04$}  & 
+\multicolumn{1}{r|}{$15.53$}  & 
+\multicolumn{1}{r|}{$15.10$}  & 
+\multicolumn{1}{r|}{$0.86$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$359,1990$}  & 
+\multicolumn{1}{r|}{$309,1990$}  & 
+\multicolumn{1}{r|}{$301,1993$}  & 
+\multicolumn{1}{r|}{$0.86$}   & 
+saving modelfile: model_file_70fms_etr_nofs.esplagomis_18.04_15.53_15.10_0.86.pkl
+Running the __none__ training set with 80 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$18.52$}  & 
+\multicolumn{1}{r|}{$17.62$}  & 
+\multicolumn{1}{r|}{$16.58$}  & 
+\multicolumn{1}{r|}{$0.47$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$190,1026$}  & 
+\multicolumn{1}{r|}{$179,1016$}  & 
+\multicolumn{1}{r|}{$169,1019$}  & 
+\multicolumn{1}{r|}{$0.47$}   & 
+saving modelfile: model_file_80fms_etr_nofs.none_18.52_17.62_16.58_0.47.pkl
+Running the __esplagomis__ training set with 80 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$8.67$}  & 
+\multicolumn{1}{r|}{$6.06$}  & 
+\multicolumn{1}{r|}{$5.88$}  & 
+\multicolumn{1}{r|}{$0.94$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$50,577$}  & 
+\multicolumn{1}{r|}{$34,561$}  & 
+\multicolumn{1}{r|}{$33,561$}  & 
+\multicolumn{1}{r|}{$0.94$}   & 
+saving modelfile: model_file_80fms_etr_nofs.esplagomis_8.67_6.06_5.88_0.94.pkl
+Running the __none__ training set with 90 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$20.95$}  & 
+\multicolumn{1}{r|}{$20.16$}  & 
+\multicolumn{1}{r|}{$18.20$}  & 
+\multicolumn{1}{r|}{$0.29$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$132,630$}  & 
+\multicolumn{1}{r|}{$126,625$}  & 
+\multicolumn{1}{r|}{$113,621$}  & 
+\multicolumn{1}{r|}{$0.29$}   & 
+saving modelfile: model_file_90fms_etr_nofs.none_20.95_20.16_18.20_0.29.pkl
+Running the __esplagomis__ training set with 90 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$8.40$}  & 
+\multicolumn{1}{r|}{$2.55$}  & 
+\multicolumn{1}{r|}{$2.14$}  & 
+\multicolumn{1}{r|}{$0.93$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$21,250$}  & 
+\multicolumn{1}{r|}{$6,235$}  & 
+\multicolumn{1}{r|}{$5,234$}  & 
+\multicolumn{1}{r|}{$0.93$}   & 
+saving modelfile: model_file_90fms_etr_nofs.esplagomis_8.40_2.55_2.14_0.93.pkl
+Running the __none__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$27.49$}  & 
+\multicolumn{1}{r|}{$26.30$}  & 
+\multicolumn{1}{r|}{$24.15$}  & 
+\multicolumn{1}{r|}{$0.36$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$973,3540$}  & 
+\multicolumn{1}{r|}{$931,3540$}  & 
+\multicolumn{1}{r|}{$857,3549$}  & 
+\multicolumn{1}{r|}{$0.36$}   & 
+saving modelfile: model_file_60fms_etr_nofs.none_27.49_26.30_24.15_0.36.pkl
+Running the __esplagomis__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$21.36$}  & 
+\multicolumn{1}{r|}{$19.10$}  & 
+\multicolumn{1}{r|}{$18.08$}  & 
+\multicolumn{1}{r|}{$0.69$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$530,2481$}  & 
+\multicolumn{1}{r|}{$475,2487$}  & 
+\multicolumn{1}{r|}{$449,2484$}  & 
+\multicolumn{1}{r|}{$0.69$}   & 
+saving modelfile: model_file_60fms_etr_nofs.esplagomis_21.36_19.10_18.08_0.69.pkl
+Running the __none__ training set with 70 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$23.16$}  & 
+\multicolumn{1}{r|}{$21.45$}  & 
+\multicolumn{1}{r|}{$20.26$}  & 
+\multicolumn{1}{r|}{$0.59$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$634,2738$}  & 
+\multicolumn{1}{r|}{$590,2750$}  & 
+\multicolumn{1}{r|}{$557,2749$}  & 
+\multicolumn{1}{r|}{$0.59$}   & 
+saving modelfile: model_file_70fms_etr_nofs.none_23.16_21.45_20.26_0.59.pkl
+Running the __esplagomis__ training set with 70 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$18.04$}  & 
+\multicolumn{1}{r|}{$15.53$}  & 
+\multicolumn{1}{r|}{$15.10$}  & 
+\multicolumn{1}{r|}{$0.86$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$359,1990$}  & 
+\multicolumn{1}{r|}{$309,1990$}  & 
+\multicolumn{1}{r|}{$301,1993$}  & 
+\multicolumn{1}{r|}{$0.86$}   & 
+saving modelfile: model_file_70fms_etr_nofs.esplagomis_18.04_15.53_15.10_0.86.pkl
+Running the __none__ training set with 80 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$18.52$}  & 
+\multicolumn{1}{r|}{$18.08$}  & 
+\multicolumn{1}{r|}{$16.58$}  & 
+\multicolumn{1}{r|}{$0.22$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$190,1026$}  & 
+\multicolumn{1}{r|}{$185,1023$}  & 
+\multicolumn{1}{r|}{$169,1019$}  & 
+\multicolumn{1}{r|}{$0.22$}   & 
+saving modelfile: model_file_80fms_etr_nofs.none_18.52_18.08_16.58_0.22.pkl
+Running the __esplagomis__ training set with 80 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$8.67$}  & 
+\multicolumn{1}{r|}{$6.23$}  & 
+\multicolumn{1}{r|}{$5.88$}  & 
+\multicolumn{1}{r|}{$0.88$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$50,577$}  & 
+\multicolumn{1}{r|}{$35,562$}  & 
+\multicolumn{1}{r|}{$33,561$}  & 
+\multicolumn{1}{r|}{$0.88$}   & 
+saving modelfile: model_file_80fms_etr_nofs.esplagomis_8.67_6.23_5.88_0.88.pkl
+Running the __none__ training set with 90 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$20.95$}  & 
+\multicolumn{1}{r|}{$18.73$}  & 
+\multicolumn{1}{r|}{$18.20$}  & 
+\multicolumn{1}{r|}{$0.81$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$132,630$}  & 
+\multicolumn{1}{r|}{$115,614$}  & 
+\multicolumn{1}{r|}{$113,621$}  & 
+\multicolumn{1}{r|}{$0.81$}   & 
+saving modelfile: model_file_90fms_etr_nofs.none_20.95_18.73_18.20_0.81.pkl
+Running the __esplagomis__ training set with 90 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$8.40$}  & 
+\multicolumn{1}{r|}{$2.55$}  & 
+\multicolumn{1}{r|}{$2.14$}  & 
+\multicolumn{1}{r|}{$0.93$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$21,250$}  & 
+\multicolumn{1}{r|}{$6,235$}  & 
+\multicolumn{1}{r|}{$5,234$}  & 
+\multicolumn{1}{r|}{$0.93$}   & 
+saving modelfile: model_file_90fms_etr_nofs.esplagomis_8.40_2.55_2.14_0.93.pkl
+Running the __none__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$27.49$}  & 
+\multicolumn{1}{r|}{$25.82$}  & 
+\multicolumn{1}{r|}{$24.15$}  & 
+\multicolumn{1}{r|}{$0.50$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$973,3540$}  & 
+\multicolumn{1}{r|}{$916,3548$}  & 
+\multicolumn{1}{r|}{$857,3549$}  & 
+\multicolumn{1}{r|}{$0.50$}   & 
+saving modelfile: model_file_60fms_etr_nofs.none_27.49_25.82_24.15_0.50.pkl
+Running the __esplagomis__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$21.36$}  & 
+\multicolumn{1}{r|}{$18.94$}  & 
+\multicolumn{1}{r|}{$18.08$}  & 
+\multicolumn{1}{r|}{$0.74$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$530,2481$}  & 
+\multicolumn{1}{r|}{$470,2482$}  & 
+\multicolumn{1}{r|}{$449,2484$}  & 
+\multicolumn{1}{r|}{$0.74$}   & 
+saving modelfile: model_file_60fms_etr_nofs.esplagomis_21.36_18.94_18.08_0.74.pkl
+Running the __none__ training set with 70 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$23.16$}  & 
+\multicolumn{1}{r|}{$21.82$}  & 
+\multicolumn{1}{r|}{$20.26$}  & 
+\multicolumn{1}{r|}{$0.46$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$634,2738$}  & 
+\multicolumn{1}{r|}{$601,2754$}  & 
+\multicolumn{1}{r|}{$557,2749$}  & 
+\multicolumn{1}{r|}{$0.46$}   & 
+saving modelfile: model_file_70fms_etr_nofs.none_23.16_21.82_20.26_0.46.pkl
+Running the __esplagomis__ training set with 70 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$18.04$}  & 
+\multicolumn{1}{r|}{$15.48$}  & 
+\multicolumn{1}{r|}{$15.10$}  & 
+\multicolumn{1}{r|}{$0.87$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$359,1990$}  & 
+\multicolumn{1}{r|}{$308,1990$}  & 
+\multicolumn{1}{r|}{$301,1993$}  & 
+\multicolumn{1}{r|}{$0.87$}   & 
+saving modelfile: model_file_70fms_etr_nofs.esplagomis_18.04_15.48_15.10_0.87.pkl
+Running the __none__ training set with 80 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$18.52$}  & 
+\multicolumn{1}{r|}{$18.10$}  & 
+\multicolumn{1}{r|}{$16.58$}  & 
+\multicolumn{1}{r|}{$0.22$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$190,1026$}  & 
+\multicolumn{1}{r|}{$185,1022$}  & 
+\multicolumn{1}{r|}{$169,1019$}  & 
+\multicolumn{1}{r|}{$0.22$}   & 
+saving modelfile: model_file_80fms_etr_nofs.none_18.52_18.10_16.58_0.22.pkl
+Running the __esplagomis__ training set with 80 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$8.67$}  & 
+\multicolumn{1}{r|}{$6.06$}  & 
+\multicolumn{1}{r|}{$5.88$}  & 
+\multicolumn{1}{r|}{$0.94$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$50,577$}  & 
+\multicolumn{1}{r|}{$34,561$}  & 
+\multicolumn{1}{r|}{$33,561$}  & 
+\multicolumn{1}{r|}{$0.94$}   & 
+saving modelfile: model_file_80fms_etr_nofs.esplagomis_8.67_6.06_5.88_0.94.pkl
+Running the __none__ training set with 90 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$20.95$}  & 
+\multicolumn{1}{r|}{$18.73$}  & 
+\multicolumn{1}{r|}{$18.20$}  & 
+\multicolumn{1}{r|}{$0.81$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$132,630$}  & 
+\multicolumn{1}{r|}{$115,614$}  & 
+\multicolumn{1}{r|}{$113,621$}  & 
+\multicolumn{1}{r|}{$0.81$}   & 
+saving modelfile: model_file_90fms_etr_nofs.none_20.95_18.73_18.20_0.81.pkl
+Running the __esplagomis__ training set with 90 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$8.40$}  & 
+\multicolumn{1}{r|}{$2.14$}  & 
+\multicolumn{1}{r|}{$2.14$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$21,250$}  & 
+\multicolumn{1}{r|}{$5,234$}  & 
+\multicolumn{1}{r|}{$5,234$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+saving modelfile: model_file_90fms_etr_nofs.esplagomis_8.40_2.14_2.14_1.00.pkl
+Running the __none__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$27.49$}  & 
+\multicolumn{1}{r|}{$25.68$}  & 
+\multicolumn{1}{r|}{$24.15$}  & 
+\multicolumn{1}{r|}{$0.54$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$973,3540$}  & 
+\multicolumn{1}{r|}{$910,3544$}  & 
+\multicolumn{1}{r|}{$857,3549$}  & 
+\multicolumn{1}{r|}{$0.54$}   & 
+saving modelfile: model_file_60fms_etr_nofs.none_27.49_25.68_24.15_0.54.pkl
+Running the __esplagomis__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$21.36$}  & 
+\multicolumn{1}{r|}{$19.15$}  & 
+\multicolumn{1}{r|}{$18.08$}  & 
+\multicolumn{1}{r|}{$0.67$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$530,2481$}  & 
+\multicolumn{1}{r|}{$476,2485$}  & 
+\multicolumn{1}{r|}{$449,2484$}  & 
+\multicolumn{1}{r|}{$0.67$}   & 
+saving modelfile: model_file_60fms_etr_nofs.esplagomis_21.36_19.15_18.08_0.67.pkl
+Running the __none__ training set with 70 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$23.16$}  & 
+\multicolumn{1}{r|}{$22.25$}  & 
+\multicolumn{1}{r|}{$20.26$}  & 
+\multicolumn{1}{r|}{$0.31$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$634,2738$}  & 
+\multicolumn{1}{r|}{$610,2742$}  & 
+\multicolumn{1}{r|}{$557,2749$}  & 
+\multicolumn{1}{r|}{$0.31$}   & 
+saving modelfile: model_file_70fms_etr_nofs.none_23.16_22.25_20.26_0.31.pkl
+Running the __esplagomis__ training set with 70 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$18.04$}  & 
+\multicolumn{1}{r|}{$15.82$}  & 
+\multicolumn{1}{r|}{$15.10$}  & 
+\multicolumn{1}{r|}{$0.76$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$359,1990$}  & 
+\multicolumn{1}{r|}{$315,1991$}  & 
+\multicolumn{1}{r|}{$301,1993$}  & 
+\multicolumn{1}{r|}{$0.76$}   & 
+saving modelfile: model_file_70fms_etr_nofs.esplagomis_18.04_15.82_15.10_0.76.pkl
+Running the __none__ training set with 80 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$18.52$}  & 
+\multicolumn{1}{r|}{$17.44$}  & 
+\multicolumn{1}{r|}{$16.58$}  & 
+\multicolumn{1}{r|}{$0.56$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$190,1026$}  & 
+\multicolumn{1}{r|}{$177,1015$}  & 
+\multicolumn{1}{r|}{$169,1019$}  & 
+\multicolumn{1}{r|}{$0.56$}   & 
+saving modelfile: model_file_80fms_etr_nofs.none_18.52_17.44_16.58_0.56.pkl
+Running the __esplagomis__ training set with 80 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$8.67$}  & 
+\multicolumn{1}{r|}{$6.06$}  & 
+\multicolumn{1}{r|}{$5.88$}  & 
+\multicolumn{1}{r|}{$0.94$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$50,577$}  & 
+\multicolumn{1}{r|}{$34,561$}  & 
+\multicolumn{1}{r|}{$33,561$}  & 
+\multicolumn{1}{r|}{$0.94$}   & 
+saving modelfile: model_file_80fms_etr_nofs.esplagomis_8.67_6.06_5.88_0.94.pkl
+Running the __none__ training set with 90 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$20.95$}  & 
+\multicolumn{1}{r|}{$18.73$}  & 
+\multicolumn{1}{r|}{$18.20$}  & 
+\multicolumn{1}{r|}{$0.81$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$132,630$}  & 
+\multicolumn{1}{r|}{$115,614$}  & 
+\multicolumn{1}{r|}{$113,621$}  & 
+\multicolumn{1}{r|}{$0.81$}   & 
+saving modelfile: model_file_90fms_etr_nofs.none_20.95_18.73_18.20_0.81.pkl
+Running the __esplagomis__ training set with 90 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$8.40$}  & 
+\multicolumn{1}{r|}{$2.55$}  & 
+\multicolumn{1}{r|}{$2.14$}  & 
+\multicolumn{1}{r|}{$0.93$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$21,250$}  & 
+\multicolumn{1}{r|}{$6,235$}  & 
+\multicolumn{1}{r|}{$5,234$}  & 
+\multicolumn{1}{r|}{$0.93$}   & 
+saving modelfile: model_file_90fms_etr_nofs.esplagomis_8.40_2.55_2.14_0.93.pkl
+Running the __none__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$27.49$}  & 
+\multicolumn{1}{r|}{$26.01$}  & 
+\multicolumn{1}{r|}{$24.15$}  & 
+\multicolumn{1}{r|}{$0.44$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$973,3540$}  & 
+\multicolumn{1}{r|}{$924,3552$}  & 
+\multicolumn{1}{r|}{$857,3549$}  & 
+\multicolumn{1}{r|}{$0.44$}   & 
+saving modelfile: model_file_60fms_etr_nofs.none_27.49_26.01_24.15_0.44.pkl
+Running the __esplagomis__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$21.36$}  & 
+\multicolumn{1}{r|}{$19.14$}  & 
+\multicolumn{1}{r|}{$18.08$}  & 
+\multicolumn{1}{r|}{$0.68$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$530,2481$}  & 
+\multicolumn{1}{r|}{$475,2482$}  & 
+\multicolumn{1}{r|}{$449,2484$}  & 
+\multicolumn{1}{r|}{$0.68$}   & 
+saving modelfile: model_file_60fms_etr_nofs.esplagomis_21.36_19.14_18.08_0.68.pkl
+Running the __none__ training set with 70 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$23.16$}  & 
+\multicolumn{1}{r|}{$21.48$}  & 
+\multicolumn{1}{r|}{$20.26$}  & 
+\multicolumn{1}{r|}{$0.58$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$634,2738$}  & 
+\multicolumn{1}{r|}{$592,2756$}  & 
+\multicolumn{1}{r|}{$557,2749$}  & 
+\multicolumn{1}{r|}{$0.58$}   & 
+saving modelfile: model_file_70fms_etr_nofs.none_23.16_21.48_20.26_0.58.pkl
+Running the __esplagomis__ training set with 70 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$18.04$}  & 
+\multicolumn{1}{r|}{$15.68$}  & 
+\multicolumn{1}{r|}{$15.10$}  & 
+\multicolumn{1}{r|}{$0.80$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$359,1990$}  & 
+\multicolumn{1}{r|}{$312,1990$}  & 
+\multicolumn{1}{r|}{$301,1993$}  & 
+\multicolumn{1}{r|}{$0.80$}   & 
+saving modelfile: model_file_70fms_etr_nofs.esplagomis_18.04_15.68_15.10_0.80.pkl
+Running the __none__ training set with 80 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$18.52$}  & 
+\multicolumn{1}{r|}{$17.36$}  & 
+\multicolumn{1}{r|}{$16.58$}  & 
+\multicolumn{1}{r|}{$0.60$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$190,1026$}  & 
+\multicolumn{1}{r|}{$176,1014$}  & 
+\multicolumn{1}{r|}{$169,1019$}  & 
+\multicolumn{1}{r|}{$0.60$}   & 
+saving modelfile: model_file_80fms_etr_nofs.none_18.52_17.36_16.58_0.60.pkl
+Running the __esplagomis__ training set with 80 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$8.67$}  & 
+\multicolumn{1}{r|}{$6.06$}  & 
+\multicolumn{1}{r|}{$5.88$}  & 
+\multicolumn{1}{r|}{$0.94$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$50,577$}  & 
+\multicolumn{1}{r|}{$34,561$}  & 
+\multicolumn{1}{r|}{$33,561$}  & 
+\multicolumn{1}{r|}{$0.94$}   & 
+saving modelfile: model_file_80fms_etr_nofs.esplagomis_8.67_6.06_5.88_0.94.pkl
+Running the __none__ training set with 90 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$20.95$}  & 
+\multicolumn{1}{r|}{$18.73$}  & 
+\multicolumn{1}{r|}{$18.20$}  & 
+\multicolumn{1}{r|}{$0.81$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$132,630$}  & 
+\multicolumn{1}{r|}{$115,614$}  & 
+\multicolumn{1}{r|}{$113,621$}  & 
+\multicolumn{1}{r|}{$0.81$}   & 
+saving modelfile: model_file_90fms_etr_nofs.none_20.95_18.73_18.20_0.81.pkl
+Running the __esplagomis__ training set with 90 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$8.40$}  & 
+\multicolumn{1}{r|}{$2.14$}  & 
+\multicolumn{1}{r|}{$2.14$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$21,250$}  & 
+\multicolumn{1}{r|}{$5,234$}  & 
+\multicolumn{1}{r|}{$5,234$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+saving modelfile: model_file_90fms_etr_nofs.esplagomis_8.40_2.14_2.14_1.00.pkl
+Running the __none__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$27.49$}  & 
+\multicolumn{1}{r|}{$25.50$}  & 
+\multicolumn{1}{r|}{$24.15$}  & 
+\multicolumn{1}{r|}{$0.59$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$973,3540$}  & 
+\multicolumn{1}{r|}{$904,3545$}  & 
+\multicolumn{1}{r|}{$857,3549$}  & 
+\multicolumn{1}{r|}{$0.59$}   & 
+saving modelfile: model_file_60fms_etr_nofs.none_27.49_25.50_24.15_0.59.pkl
+Running the __esplagomis__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$21.36$}  & 
+\multicolumn{1}{r|}{$18.84$}  & 
+\multicolumn{1}{r|}{$18.08$}  & 
+\multicolumn{1}{r|}{$0.77$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$530,2481$}  & 
+\multicolumn{1}{r|}{$468,2484$}  & 
+\multicolumn{1}{r|}{$449,2484$}  & 
+\multicolumn{1}{r|}{$0.77$}   & 
+saving modelfile: model_file_60fms_etr_nofs.esplagomis_21.36_18.84_18.08_0.77.pkl
+Running the __none__ training set with 70 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$23.16$}  & 
+\multicolumn{1}{r|}{$21.57$}  & 
+\multicolumn{1}{r|}{$20.26$}  & 
+\multicolumn{1}{r|}{$0.55$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$634,2738$}  & 
+\multicolumn{1}{r|}{$594,2754$}  & 
+\multicolumn{1}{r|}{$557,2749$}  & 
+\multicolumn{1}{r|}{$0.55$}   & 
+saving modelfile: model_file_70fms_etr_nofs.none_23.16_21.57_20.26_0.55.pkl
+Running the __esplagomis__ training set with 70 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$18.04$}  & 
+\multicolumn{1}{r|}{$15.57$}  & 
+\multicolumn{1}{r|}{$15.10$}  & 
+\multicolumn{1}{r|}{$0.84$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$359,1990$}  & 
+\multicolumn{1}{r|}{$310,1991$}  & 
+\multicolumn{1}{r|}{$301,1993$}  & 
+\multicolumn{1}{r|}{$0.84$}   & 
+saving modelfile: model_file_70fms_etr_nofs.esplagomis_18.04_15.57_15.10_0.84.pkl
+Running the __none__ training set with 80 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$18.52$}  & 
+\multicolumn{1}{r|}{$18.28$}  & 
+\multicolumn{1}{r|}{$16.58$}  & 
+\multicolumn{1}{r|}{$0.12$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$190,1026$}  & 
+\multicolumn{1}{r|}{$187,1023$}  & 
+\multicolumn{1}{r|}{$169,1019$}  & 
+\multicolumn{1}{r|}{$0.12$}   & 
+saving modelfile: model_file_80fms_etr_nofs.none_18.52_18.28_16.58_0.12.pkl
+Running the __esplagomis__ training set with 80 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$8.67$}  & 
+\multicolumn{1}{r|}{$6.23$}  & 
+\multicolumn{1}{r|}{$5.88$}  & 
+\multicolumn{1}{r|}{$0.88$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$50,577$}  & 
+\multicolumn{1}{r|}{$35,562$}  & 
+\multicolumn{1}{r|}{$33,561$}  & 
+\multicolumn{1}{r|}{$0.88$}   & 
+saving modelfile: model_file_80fms_etr_nofs.esplagomis_8.67_6.23_5.88_0.88.pkl
+Running the __none__ training set with 90 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$20.95$}  & 
+\multicolumn{1}{r|}{$20.16$}  & 
+\multicolumn{1}{r|}{$18.20$}  & 
+\multicolumn{1}{r|}{$0.29$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$132,630$}  & 
+\multicolumn{1}{r|}{$126,625$}  & 
+\multicolumn{1}{r|}{$113,621$}  & 
+\multicolumn{1}{r|}{$0.29$}   & 
+saving modelfile: model_file_90fms_etr_nofs.none_20.95_20.16_18.20_0.29.pkl
+Running the __esplagomis__ training set with 90 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$8.40$}  & 
+\multicolumn{1}{r|}{$2.55$}  & 
+\multicolumn{1}{r|}{$2.14$}  & 
+\multicolumn{1}{r|}{$0.93$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$21,250$}  & 
+\multicolumn{1}{r|}{$6,235$}  & 
+\multicolumn{1}{r|}{$5,234$}  & 
+\multicolumn{1}{r|}{$0.93$}   & 
+saving modelfile: model_file_90fms_etr_nofs.esplagomis_8.40_2.55_2.14_0.93.pkl
+Running the __none__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$27.49$}  & 
+\multicolumn{1}{r|}{$25.76$}  & 
+\multicolumn{1}{r|}{$24.15$}  & 
+\multicolumn{1}{r|}{$0.52$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$973,3540$}  & 
+\multicolumn{1}{r|}{$913,3544$}  & 
+\multicolumn{1}{r|}{$857,3549$}  & 
+\multicolumn{1}{r|}{$0.52$}   & 
+saving modelfile: model_file_60fms_etr_nofs.none_27.49_25.76_24.15_0.52.pkl
+Running the __esplagomis__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$21.36$}  & 
+\multicolumn{1}{r|}{$19.11$}  & 
+\multicolumn{1}{r|}{$18.08$}  & 
+\multicolumn{1}{r|}{$0.69$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$530,2481$}  & 
+\multicolumn{1}{r|}{$474,2481$}  & 
+\multicolumn{1}{r|}{$449,2484$}  & 
+\multicolumn{1}{r|}{$0.69$}   & 
+saving modelfile: model_file_60fms_etr_nofs.esplagomis_21.36_19.11_18.08_0.69.pkl
+Running the __none__ training set with 70 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$23.16$}  & 
+\multicolumn{1}{r|}{$21.67$}  & 
+\multicolumn{1}{r|}{$20.26$}  & 
+\multicolumn{1}{r|}{$0.51$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$634,2738$}  & 
+\multicolumn{1}{r|}{$596,2750$}  & 
+\multicolumn{1}{r|}{$557,2749$}  & 
+\multicolumn{1}{r|}{$0.51$}   & 
+saving modelfile: model_file_70fms_etr_nofs.none_23.16_21.67_20.26_0.51.pkl
+Running the __esplagomis__ training set with 70 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$18.04$}  & 
+\multicolumn{1}{r|}{$15.62$}  & 
+\multicolumn{1}{r|}{$15.10$}  & 
+\multicolumn{1}{r|}{$0.82$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$359,1990$}  & 
+\multicolumn{1}{r|}{$311,1991$}  & 
+\multicolumn{1}{r|}{$301,1993$}  & 
+\multicolumn{1}{r|}{$0.82$}   & 
+saving modelfile: model_file_70fms_etr_nofs.esplagomis_18.04_15.62_15.10_0.82.pkl
+Running the __none__ training set with 80 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$18.52$}  & 
+\multicolumn{1}{r|}{$17.29$}  & 
+\multicolumn{1}{r|}{$16.58$}  & 
+\multicolumn{1}{r|}{$0.63$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$190,1026$}  & 
+\multicolumn{1}{r|}{$175,1012$}  & 
+\multicolumn{1}{r|}{$169,1019$}  & 
+\multicolumn{1}{r|}{$0.63$}   & 
+saving modelfile: model_file_80fms_etr_nofs.none_18.52_17.29_16.58_0.63.pkl
+Running the __esplagomis__ training set with 80 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$8.67$}  & 
+\multicolumn{1}{r|}{$6.06$}  & 
+\multicolumn{1}{r|}{$5.88$}  & 
+\multicolumn{1}{r|}{$0.94$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$50,577$}  & 
+\multicolumn{1}{r|}{$34,561$}  & 
+\multicolumn{1}{r|}{$33,561$}  & 
+\multicolumn{1}{r|}{$0.94$}   & 
+saving modelfile: model_file_80fms_etr_nofs.esplagomis_8.67_6.06_5.88_0.94.pkl
+Running the __none__ training set with 90 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$20.95$}  & 
+\multicolumn{1}{r|}{$20.16$}  & 
+\multicolumn{1}{r|}{$18.20$}  & 
+\multicolumn{1}{r|}{$0.29$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$132,630$}  & 
+\multicolumn{1}{r|}{$126,625$}  & 
+\multicolumn{1}{r|}{$113,621$}  & 
+\multicolumn{1}{r|}{$0.29$}   & 
+saving modelfile: model_file_90fms_etr_nofs.none_20.95_20.16_18.20_0.29.pkl
+Running the __esplagomis__ training set with 90 fms and using __dev__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$8.40$}  & 
+\multicolumn{1}{r|}{$2.55$}  & 
+\multicolumn{1}{r|}{$2.14$}  & 
+\multicolumn{1}{r|}{$0.93$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$21,250$}  & 
+\multicolumn{1}{r|}{$6,235$}  & 
+\multicolumn{1}{r|}{$5,234$}  & 
+\multicolumn{1}{r|}{$0.93$}   & 
+saving modelfile: model_file_90fms_etr_nofs.esplagomis_8.40_2.55_2.14_0.93.pkl

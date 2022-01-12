@@ -1,0 +1,96 @@
+Running the __esplagomis__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+Copying model_file_en_es/model_file_60fms_etr_nofs.esplagomis.pkl model_file.pkl
+gzip: run_global_scenario_en_es_60.dev.bbandbothgrounding.wer.esplagomis: No such file or directory
+.17345257707695928453
+saving modelfile: model_file_60fms_etr_nofs.esplagomis_1794_12521_2048_12558_2211_12747.pkl
+Running the __none__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+Copying model_file_en_es/model_file_60fms_etr_nofs.pkl model_file.pkl
+gzip: run_global_scenario_en_es_60.dev.bbandbothgrounding.wer: No such file or directory
+.21224674736228882128
+saving modelfile: model_file_60fms_etr_nofs.none_2815_15298_3236_15503_3279_15449.pkl
+Running the __esplagomis__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+Copying model_file_es_fr/model_file_60fms_etr_nofs.esplagomis_*.pkl model_file.pkl
+gzip: run_global_scenario_es_fr_60.dev.bbandbothgrounding.wer.esplagomis: No such file or directory
+.15267605633802816901
+saving modelfile: model_file_60fms_etr_nofs.esplagomis_1872_17314_2496_17472_2710_17750.pkl
+Running the __none__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+Copying model_file_es_fr/model_file_60fms_etr_nofs.wer_*.pkl model_file.pkl
+gzip: run_global_scenario_es_fr_60.dev.bbandbothgrounding.wer: No such file or directory
+.19778196839080459770
+saving modelfile: model_file_60fms_etr_nofs.none_3366_21939_4271_22466_4405_22272.pkl
+Running the __esplagomis__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+Copying model_file_en_es/model_file_70fms_etr_nofs.esplagomis.pkl model_file.pkl
+gzip: run_global_scenario_en_es_70.dev.bbandbothgrounding.wer.esplagomis: No such file or directory
+.14737426035502958579
+saving modelfile: model_file_70fms_etr_nofs.esplagomis_1241_10625_1514_10672_1594_10816.pkl
+Running the __none__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+Copying model_file_en_es/model_file_70fms_etr_nofs.pkl model_file.pkl
+gzip: run_global_scenario_en_es_70.dev.bbandbothgrounding.wer: No such file or directory
+.17325301204819277108
+saving modelfile: model_file_70fms_etr_nofs.none_1778_12331_2123_12547_2157_12450.pkl
+Running the __esplagomis__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+Copying model_file_es_fr/model_file_70fms_etr_nofs.esplagomis_*.pkl model_file.pkl
+gzip: run_global_scenario_es_fr_70.dev.bbandbothgrounding.wer.esplagomis: No such file or directory
+.12165757616070240787
+saving modelfile: model_file_70fms_etr_nofs.esplagomis_1289_14793_1748_14847_1829_15034.pkl
+Running the __none__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+Copying model_file_es_fr/model_file_70fms_etr_nofs.wer_*.pkl model_file.pkl
+gzip: run_global_scenario_es_fr_70.dev.bbandbothgrounding.wer: No such file or directory
+.15969581749049429657
+saving modelfile: model_file_70fms_etr_nofs.none_2287_18260_2903_18631_2940_18410.pkl
+Running the __esplagomis__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+Copying model_file_en_es/model_file_80fms_etr_nofs.esplagomis.pkl model_file.pkl
+gzip: run_global_scenario_en_es_80.dev.bbandbothgrounding.wer.esplagomis: No such file or directory
+.11206532451077009714
+saving modelfile: model_file_80fms_etr_nofs.esplagomis_556_6952_669_7004_796_7103.pkl
+Running the __none__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+Copying model_file_en_es/model_file_80fms_etr_nofs.pkl model_file.pkl
+gzip: run_global_scenario_en_es_80.dev.bbandbothgrounding.wer: No such file or directory
+.13992628992628992628
+saving modelfile: model_file_80fms_etr_nofs.none_889_8064_1071_8068_1139_8140.pkl
+Running the __esplagomis__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+Copying model_file_es_fr/model_file_80fms_etr_nofs.esplagomis_*.pkl model_file.pkl
+gzip: run_global_scenario_es_fr_80.dev.bbandbothgrounding.wer.esplagomis: No such file or directory
+.09839928495977898756
+saving modelfile: model_file_80fms_etr_nofs.esplagomis_797_12145_996_12155_1211_12307.pkl
+Running the __none__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+Copying model_file_es_fr/model_file_80fms_etr_nofs.wer_*.pkl model_file.pkl
+gzip: run_global_scenario_es_fr_80.dev.bbandbothgrounding.wer: No such file or directory
+.12476317451406918812
+saving modelfile: model_file_80fms_etr_nofs.none_1330_14186_1566_14176_1778_14251.pkl
+Running the __esplagomis__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+Copying model_file_en_es/model_file_90fms_etr_nofs.esplagomis.pkl model_file.pkl
+gzip: run_global_scenario_en_es_90.dev.bbandbothgrounding.wer.esplagomis: No such file or directory
+.07541519194119248570
+saving modelfile: model_file_90fms_etr_nofs.esplagomis_139_3540_184_3575_277_3673.pkl
+Running the __none__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+Copying model_file_en_es/model_file_90fms_etr_nofs.pkl model_file.pkl
+gzip: run_global_scenario_en_es_90.dev.bbandbothgrounding.wer: No such file or directory
+.08549222797927461139
+saving modelfile: model_file_90fms_etr_nofs.none_192_3801_203_3790_330_3860.pkl
+Running the __esplagomis__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+Copying model_file_es_fr/model_file_90fms_etr_nofs.esplagomis_*.pkl model_file.pkl
+gzip: run_global_scenario_es_fr_90.dev.bbandbothgrounding.wer.esplagomis: No such file or directory
+.06338371526084836665
+saving modelfile: model_file_90fms_etr_nofs.esplagomis_225_6002_308_5999_390_6153.pkl
+Running the __none__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+Copying model_file_es_fr/model_file_90fms_etr_nofs.wer_*.pkl model_file.pkl
+gzip: run_global_scenario_es_fr_90.dev.bbandbothgrounding.wer: No such file or directory
+.07711334206314564236
+saving modelfile: model_file_90fms_etr_nofs.none_366_6822_432_6787_530_6873.pkl

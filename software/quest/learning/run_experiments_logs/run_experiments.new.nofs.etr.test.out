@@ -1,0 +1,3183 @@
+Running the __none__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_60.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$21.22$}  & 
+\multicolumn{1}{r|}{$18.40$}  & 
+\multicolumn{1}{r|}{$18.40$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.026621$}   & 
+\multicolumn{1}{r|}{$0.046733$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$3279,15449$}  & 
+\multicolumn{1}{r|}{$2812,15280$}  & 
+\multicolumn{1}{r|}{$2815,15298$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.026621$}   & 
+\multicolumn{1}{r|}{$0.046733$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.none_21.22_18.40_18.40_1.00.pkl to model_file_en_es_new
+Running the __esplagomis__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_60.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$17.35$}  & 
+\multicolumn{1}{r|}{$14.37$}  & 
+\multicolumn{1}{r|}{$14.33$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.016992$}   & 
+\multicolumn{1}{r|}{$0.023129$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$2211,12747$}  & 
+\multicolumn{1}{r|}{$1797,12504$}  & 
+\multicolumn{1}{r|}{$1794,12521$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.016992$}   & 
+\multicolumn{1}{r|}{$0.023129$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.esplagomis_17.35_14.37_14.33_0.99.pkl to model_file_en_es_new
+Running the __none__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_70.train.bbandbothgrounding.wer.new: No such file or directory
+gzip: run_global_scenario_en_es_70.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$17.33$}  & 
+\multicolumn{1}{r|}{$14.41$}  & 
+\multicolumn{1}{r|}{$14.42$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.028392$}   & 
+\multicolumn{1}{r|}{$0.059250$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$2157,12450$}  & 
+\multicolumn{1}{r|}{$1776,12322$}  & 
+\multicolumn{1}{r|}{$1778,12331$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.028392$}   & 
+\multicolumn{1}{r|}{$0.059250$}   & 
+saving modelfile: model_file_new_70_fms_Etr_test.nofs.none_17.33_14.41_14.42_1.00.pkl to model_file_en_es_new
+Running the __esplagomis__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_70.train.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+gzip: run_global_scenario_en_es_70.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$14.74$}  & 
+\multicolumn{1}{r|}{$11.78$}  & 
+\multicolumn{1}{r|}{$11.68$}  & 
+\multicolumn{1}{r|}{$0.97$}   & 
+\multicolumn{1}{r|}{$0.017337$}   & 
+\multicolumn{1}{r|}{$0.026114$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1594,10816$}  & 
+\multicolumn{1}{r|}{$1250,10615$}  & 
+\multicolumn{1}{r|}{$1241,10625$}  & 
+\multicolumn{1}{r|}{$0.97$}   & 
+\multicolumn{1}{r|}{$0.017337$}   & 
+\multicolumn{1}{r|}{$0.026114$}   & 
+saving modelfile: model_file_new_70_fms_Etr_test.nofs.esplagomis_14.74_11.78_11.68_0.97.pkl to model_file_en_es_new
+Running the __none__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_80.train.bbandbothgrounding.wer.new: No such file or directory
+gzip: run_global_scenario_en_es_80.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$13.99$}  & 
+\multicolumn{1}{r|}{$11.02$}  & 
+\multicolumn{1}{r|}{$11.02$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.029254$}   & 
+\multicolumn{1}{r|}{$0.084475$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1139,8140$}  & 
+\multicolumn{1}{r|}{$888,8059$}  & 
+\multicolumn{1}{r|}{$889,8064$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.029254$}   & 
+\multicolumn{1}{r|}{$0.084475$}   & 
+saving modelfile: model_file_new_80_fms_Etr_test.nofs.none_13.99_11.02_11.02_1.00.pkl to model_file_en_es_new
+Running the __esplagomis__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_80.train.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+gzip: run_global_scenario_en_es_80.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$11.21$}  & 
+\multicolumn{1}{r|}{$8.01$}  & 
+\multicolumn{1}{r|}{$8.00$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.010259$}   & 
+\multicolumn{1}{r|}{$0.016904$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$796,7103$}  & 
+\multicolumn{1}{r|}{$556,6937$}  & 
+\multicolumn{1}{r|}{$556,6952$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.010259$}   & 
+\multicolumn{1}{r|}{$0.016904$}   & 
+saving modelfile: model_file_new_80_fms_Etr_test.nofs.esplagomis_11.21_8.01_8.00_0.99.pkl to model_file_en_es_new
+Running the __none__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_90.train.bbandbothgrounding.wer.new: No such file or directory
+gzip: run_global_scenario_en_es_90.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$8.55$}  & 
+\multicolumn{1}{r|}{$5.05$}  & 
+\multicolumn{1}{r|}{$5.05$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.006387$}   & 
+\multicolumn{1}{r|}{$0.018403$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$330,3860$}  & 
+\multicolumn{1}{r|}{$192,3801$}  & 
+\multicolumn{1}{r|}{$192,3801$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.006387$}   & 
+\multicolumn{1}{r|}{$0.018403$}   & 
+saving modelfile: model_file_new_90_fms_Etr_test.nofs.none_8.55_5.05_5.05_1.00.pkl to model_file_en_es_new
+Running the __esplagomis__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_90.train.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+gzip: run_global_scenario_en_es_90.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$7.54$}  & 
+\multicolumn{1}{r|}{$3.93$}  & 
+\multicolumn{1}{r|}{$3.93$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.004226$}   & 
+\multicolumn{1}{r|}{$0.008861$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$277,3673$}  & 
+\multicolumn{1}{r|}{$139,3540$}  & 
+\multicolumn{1}{r|}{$139,3540$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.004226$}   & 
+\multicolumn{1}{r|}{$0.008861$}   & 
+saving modelfile: model_file_new_90_fms_Etr_test.nofs.esplagomis_7.54_3.93_3.93_1.00.pkl to model_file_en_es_new
+Running the __none__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_60.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$19.78$}  & 
+\multicolumn{1}{r|}{$15.36$}  & 
+\multicolumn{1}{r|}{$15.34$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.017698$}   & 
+\multicolumn{1}{r|}{$0.028799$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$4405,22272$}  & 
+\multicolumn{1}{r|}{$3368,21922$}  & 
+\multicolumn{1}{r|}{$3366,21939$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.017698$}   & 
+\multicolumn{1}{r|}{$0.028799$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.none_19.78_15.36_15.34_1.00.pkl to model_file_es_fr_new
+Running the __esplagomis__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_60.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$15.27$}  & 
+\multicolumn{1}{r|}{$10.83$}  & 
+\multicolumn{1}{r|}{$10.81$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.011281$}   & 
+\multicolumn{1}{r|}{$0.017748$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$2710,17750$}  & 
+\multicolumn{1}{r|}{$1874,17304$}  & 
+\multicolumn{1}{r|}{$1872,17314$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.011281$}   & 
+\multicolumn{1}{r|}{$0.017748$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.esplagomis_15.27_10.83_10.81_1.00.pkl to model_file_es_fr_new
+Running the __none__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+cp: cannot stat 'model_file_es_fr_new/model_file_new_70_fms_Etr_test.nofs.none_*.pkl': No such file or directory
+gzip: run_global_scenario_es_fr_70.train.bbandbothgrounding.wer.new: No such file or directory
+gzip: run_global_scenario_es_fr_70.dev.bbandbothgrounding.wer.new: No such file or directory
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$15.97$}  & 
+\multicolumn{1}{r|}{$15.81$}  & 
+\multicolumn{1}{r|}{$15.78$}  & 
+\multicolumn{1}{r|}{$0.88$}   & 
+\multicolumn{1}{r|}{$$}   & 
+\multicolumn{1}{r|}{$$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$2940,18410$}  & 
+\multicolumn{1}{r|}{$2863,18113$}  & 
+\multicolumn{1}{r|}{$2861,18127$}  & 
+\multicolumn{1}{r|}{$0.88$}   & 
+\multicolumn{1}{r|}{$$}   & 
+\multicolumn{1}{r|}{$$}   & 
+saving modelfile: model_file_new_70_fms_Etr_test.nofs.none_15.97_15.81_15.78_0.88.pkl to model_file_es_fr_new
+Running the __esplagomis__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_70.train.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+gzip: run_global_scenario_es_fr_70.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$12.17$}  & 
+\multicolumn{1}{r|}{$8.73$}  & 
+\multicolumn{1}{r|}{$8.71$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.010007$}   & 
+\multicolumn{1}{r|}{$0.014728$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1829,15034$}  & 
+\multicolumn{1}{r|}{$1290,14784$}  & 
+\multicolumn{1}{r|}{$1289,14793$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.010007$}   & 
+\multicolumn{1}{r|}{$0.014728$}   & 
+saving modelfile: model_file_new_70_fms_Etr_test.nofs.esplagomis_12.17_8.73_8.71_1.00.pkl to model_file_es_fr_new
+Running the __none__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_80.train.bbandbothgrounding.wer.new: No such file or directory
+gzip: run_global_scenario_es_fr_80.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$12.48$}  & 
+\multicolumn{1}{r|}{$9.41$}  & 
+\multicolumn{1}{r|}{$9.38$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.013594$}   & 
+\multicolumn{1}{r|}{$0.025907$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1778,14251$}  & 
+\multicolumn{1}{r|}{$1334,14178$}  & 
+\multicolumn{1}{r|}{$1330,14186$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.013594$}   & 
+\multicolumn{1}{r|}{$0.025907$}   & 
+saving modelfile: model_file_new_80_fms_Etr_test.nofs.none_12.48_9.41_9.38_0.99.pkl to model_file_es_fr_new
+Running the __esplagomis__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_80.train.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+gzip: run_global_scenario_es_fr_80.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$9.84$}  & 
+\multicolumn{1}{r|}{$6.59$}  & 
+\multicolumn{1}{r|}{$6.56$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.011346$}   & 
+\multicolumn{1}{r|}{$0.016545$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1211,12307$}  & 
+\multicolumn{1}{r|}{$800,12139$}  & 
+\multicolumn{1}{r|}{$797,12145$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.011346$}   & 
+\multicolumn{1}{r|}{$0.016545$}   & 
+saving modelfile: model_file_new_80_fms_Etr_test.nofs.esplagomis_9.84_6.59_6.56_0.99.pkl to model_file_es_fr_new
+Running the __none__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_90.train.bbandbothgrounding.wer.new: No such file or directory
+gzip: run_global_scenario_es_fr_90.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$7.71$}  & 
+\multicolumn{1}{r|}{$5.37$}  & 
+\multicolumn{1}{r|}{$5.36$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.003528$}   & 
+\multicolumn{1}{r|}{$0.006990$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$530,6873$}  & 
+\multicolumn{1}{r|}{$366,6810$}  & 
+\multicolumn{1}{r|}{$366,6822$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.003528$}   & 
+\multicolumn{1}{r|}{$0.006990$}   & 
+saving modelfile: model_file_new_90_fms_Etr_test.nofs.none_7.71_5.37_5.36_1.00.pkl to model_file_es_fr_new
+Running the __esplagomis__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_90.train.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+gzip: run_global_scenario_es_fr_90.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$6.34$}  & 
+\multicolumn{1}{r|}{$3.75$}  & 
+\multicolumn{1}{r|}{$3.75$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.005414$}   & 
+\multicolumn{1}{r|}{$0.009765$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$390,6153$}  & 
+\multicolumn{1}{r|}{$225,5997$}  & 
+\multicolumn{1}{r|}{$225,6002$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.005414$}   & 
+\multicolumn{1}{r|}{$0.009765$}   & 
+saving modelfile: model_file_new_90_fms_Etr_test.nofs.esplagomis_6.34_3.75_3.75_1.00.pkl to model_file_es_fr_new
+Running the __none__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_60.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$22.08$}  & 
+\multicolumn{1}{r|}{$15.89$}  & 
+\multicolumn{1}{r|}{$15.86$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.022042$}   & 
+\multicolumn{1}{r|}{$0.036060$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$4714,21347$}  & 
+\multicolumn{1}{r|}{$3318,20880$}  & 
+\multicolumn{1}{r|}{$3312,20886$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.022042$}   & 
+\multicolumn{1}{r|}{$0.036060$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.none_22.08_15.89_15.86_0.99.pkl to model_file_es_pt_new
+Running the __esplagomis__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_60.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$17.29$}  & 
+\multicolumn{1}{r|}{$10.08$}  & 
+\multicolumn{1}{r|}{$10.07$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.012404$}   & 
+\multicolumn{1}{r|}{$0.018534$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$2655,15360$}  & 
+\multicolumn{1}{r|}{$1504,14925$}  & 
+\multicolumn{1}{r|}{$1504,14931$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.012404$}   & 
+\multicolumn{1}{r|}{$0.018534$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.esplagomis_17.29_10.08_10.07_1.00.pkl to model_file_es_pt_new
+Running the __none__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_70.train.bbandbothgrounding.wer.new: No such file or directory
+gzip: run_global_scenario_es_pt_70.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$18.20$}  & 
+\multicolumn{1}{r|}{$13.44$}  & 
+\multicolumn{1}{r|}{$13.41$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.012157$}   & 
+\multicolumn{1}{r|}{$0.019682$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$3164,17388$}  & 
+\multicolumn{1}{r|}{$2312,17202$}  & 
+\multicolumn{1}{r|}{$2308,17207$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.012157$}   & 
+\multicolumn{1}{r|}{$0.019682$}   & 
+saving modelfile: model_file_new_70_fms_Etr_test.nofs.none_18.20_13.44_13.41_0.99.pkl to model_file_es_pt_new
+Running the __esplagomis__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_70.train.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+gzip: run_global_scenario_es_pt_70.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$13.63$}  & 
+\multicolumn{1}{r|}{$8.04$}  & 
+\multicolumn{1}{r|}{$8.03$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.010425$}   & 
+\multicolumn{1}{r|}{$0.014895$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1705,12505$}  & 
+\multicolumn{1}{r|}{$991,12321$}  & 
+\multicolumn{1}{r|}{$990,12329$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.010425$}   & 
+\multicolumn{1}{r|}{$0.014895$}   & 
+saving modelfile: model_file_new_70_fms_Etr_test.nofs.esplagomis_13.63_8.04_8.03_1.00.pkl to model_file_es_pt_new
+Running the __none__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_80.train.bbandbothgrounding.wer.new: No such file or directory
+gzip: run_global_scenario_es_pt_80.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$15.29$}  & 
+\multicolumn{1}{r|}{$11.17$}  & 
+\multicolumn{1}{r|}{$11.13$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.014384$}   & 
+\multicolumn{1}{r|}{$0.023293$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$2042,13351$}  & 
+\multicolumn{1}{r|}{$1482,13264$}  & 
+\multicolumn{1}{r|}{$1477,13267$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.014384$}   & 
+\multicolumn{1}{r|}{$0.023293$}   & 
+saving modelfile: model_file_new_80_fms_Etr_test.nofs.none_15.29_11.17_11.13_0.99.pkl to model_file_es_pt_new
+Running the __esplagomis__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_80.train.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+gzip: run_global_scenario_es_pt_80.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$10.62$}  & 
+\multicolumn{1}{r|}{$5.53$}  & 
+\multicolumn{1}{r|}{$5.52$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.011685$}   & 
+\multicolumn{1}{r|}{$0.016359$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1010,9509$}  & 
+\multicolumn{1}{r|}{$521,9425$}  & 
+\multicolumn{1}{r|}{$521,9430$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.011685$}   & 
+\multicolumn{1}{r|}{$0.016359$}   & 
+saving modelfile: model_file_new_80_fms_Etr_test.nofs.esplagomis_10.62_5.53_5.52_1.00.pkl to model_file_es_pt_new
+Running the __none__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_90.train.bbandbothgrounding.wer.new: No such file or directory
+gzip: run_global_scenario_es_pt_90.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$10.42$}  & 
+\multicolumn{1}{r|}{$7.72$}  & 
+\multicolumn{1}{r|}{$7.69$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.006494$}   & 
+\multicolumn{1}{r|}{$0.015651$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$662,6351$}  & 
+\multicolumn{1}{r|}{$486,6292$}  & 
+\multicolumn{1}{r|}{$484,6297$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.006494$}   & 
+\multicolumn{1}{r|}{$0.015651$}   & 
+saving modelfile: model_file_new_90_fms_Etr_test.nofs.none_10.42_7.72_7.69_0.99.pkl to model_file_es_pt_new
+Running the __esplagomis__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_90.train.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+gzip: run_global_scenario_es_pt_90.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$7.24$}  & 
+\multicolumn{1}{r|}{$3.98$}  & 
+\multicolumn{1}{r|}{$3.97$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.006009$}   & 
+\multicolumn{1}{r|}{$0.009514$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$365,5039$}  & 
+\multicolumn{1}{r|}{$198,4978$}  & 
+\multicolumn{1}{r|}{$198,4984$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.006009$}   & 
+\multicolumn{1}{r|}{$0.009514$}   & 
+saving modelfile: model_file_new_90_fms_Etr_test.nofs.esplagomis_7.24_3.98_3.97_1.00.pkl to model_file_es_pt_new
+Running the __none__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_60.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$21.22$}  & 
+\multicolumn{1}{r|}{$18.40$}  & 
+\multicolumn{1}{r|}{$18.40$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.026621$}   & 
+\multicolumn{1}{r|}{$0.046733$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$3279,15449$}  & 
+\multicolumn{1}{r|}{$2812,15280$}  & 
+\multicolumn{1}{r|}{$2815,15298$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.026621$}   & 
+\multicolumn{1}{r|}{$0.046733$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.none_21.22_18.40_18.40_1.00.pkl to model_file_en_es_new
+Running the __esplagomis__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_60.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$17.35$}  & 
+\multicolumn{1}{r|}{$14.37$}  & 
+\multicolumn{1}{r|}{$14.33$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.016992$}   & 
+\multicolumn{1}{r|}{$0.023129$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$2211,12747$}  & 
+\multicolumn{1}{r|}{$1797,12504$}  & 
+\multicolumn{1}{r|}{$1794,12521$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.016992$}   & 
+\multicolumn{1}{r|}{$0.023129$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.esplagomis_17.35_14.37_14.33_0.99.pkl to model_file_en_es_new
+Running the __none__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_70.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$17.33$}  & 
+\multicolumn{1}{r|}{$14.41$}  & 
+\multicolumn{1}{r|}{$14.42$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.028392$}   & 
+\multicolumn{1}{r|}{$0.059250$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$2157,12450$}  & 
+\multicolumn{1}{r|}{$1776,12322$}  & 
+\multicolumn{1}{r|}{$1778,12331$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.028392$}   & 
+\multicolumn{1}{r|}{$0.059250$}   & 
+saving modelfile: model_file_new_70_fms_Etr_test.nofs.none_17.33_14.41_14.42_1.00.pkl to model_file_en_es_new
+Running the __esplagomis__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_70.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$14.74$}  & 
+\multicolumn{1}{r|}{$11.78$}  & 
+\multicolumn{1}{r|}{$11.68$}  & 
+\multicolumn{1}{r|}{$0.97$}   & 
+\multicolumn{1}{r|}{$0.017337$}   & 
+\multicolumn{1}{r|}{$0.026114$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1594,10816$}  & 
+\multicolumn{1}{r|}{$1250,10615$}  & 
+\multicolumn{1}{r|}{$1241,10625$}  & 
+\multicolumn{1}{r|}{$0.97$}   & 
+\multicolumn{1}{r|}{$0.017337$}   & 
+\multicolumn{1}{r|}{$0.026114$}   & 
+saving modelfile: model_file_new_70_fms_Etr_test.nofs.esplagomis_14.74_11.78_11.68_0.97.pkl to model_file_en_es_new
+Running the __none__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_80.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$13.99$}  & 
+\multicolumn{1}{r|}{$11.02$}  & 
+\multicolumn{1}{r|}{$11.02$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.029254$}   & 
+\multicolumn{1}{r|}{$0.084475$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1139,8140$}  & 
+\multicolumn{1}{r|}{$888,8059$}  & 
+\multicolumn{1}{r|}{$889,8064$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.029254$}   & 
+\multicolumn{1}{r|}{$0.084475$}   & 
+saving modelfile: model_file_new_80_fms_Etr_test.nofs.none_13.99_11.02_11.02_1.00.pkl to model_file_en_es_new
+Running the __esplagomis__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_80.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$11.21$}  & 
+\multicolumn{1}{r|}{$8.01$}  & 
+\multicolumn{1}{r|}{$8.00$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.010259$}   & 
+\multicolumn{1}{r|}{$0.016904$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$796,7103$}  & 
+\multicolumn{1}{r|}{$556,6937$}  & 
+\multicolumn{1}{r|}{$556,6952$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.010259$}   & 
+\multicolumn{1}{r|}{$0.016904$}   & 
+saving modelfile: model_file_new_80_fms_Etr_test.nofs.esplagomis_11.21_8.01_8.00_0.99.pkl to model_file_en_es_new
+Running the __none__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_90.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$8.55$}  & 
+\multicolumn{1}{r|}{$5.05$}  & 
+\multicolumn{1}{r|}{$5.05$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.006387$}   & 
+\multicolumn{1}{r|}{$0.018403$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$330,3860$}  & 
+\multicolumn{1}{r|}{$192,3801$}  & 
+\multicolumn{1}{r|}{$192,3801$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.006387$}   & 
+\multicolumn{1}{r|}{$0.018403$}   & 
+saving modelfile: model_file_new_90_fms_Etr_test.nofs.none_8.55_5.05_5.05_1.00.pkl to model_file_en_es_new
+Running the __esplagomis__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_90.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$7.54$}  & 
+\multicolumn{1}{r|}{$3.93$}  & 
+\multicolumn{1}{r|}{$3.93$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.004226$}   & 
+\multicolumn{1}{r|}{$0.008861$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$277,3673$}  & 
+\multicolumn{1}{r|}{$139,3540$}  & 
+\multicolumn{1}{r|}{$139,3540$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.004226$}   & 
+\multicolumn{1}{r|}{$0.008861$}   & 
+saving modelfile: model_file_new_90_fms_Etr_test.nofs.esplagomis_7.54_3.93_3.93_1.00.pkl to model_file_en_es_new
+Running the __none__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_60.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$19.78$}  & 
+\multicolumn{1}{r|}{$15.36$}  & 
+\multicolumn{1}{r|}{$15.34$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.017698$}   & 
+\multicolumn{1}{r|}{$0.028799$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$4405,22272$}  & 
+\multicolumn{1}{r|}{$3368,21922$}  & 
+\multicolumn{1}{r|}{$3366,21939$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.017698$}   & 
+\multicolumn{1}{r|}{$0.028799$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.none_19.78_15.36_15.34_1.00.pkl to model_file_es_fr_new
+Running the __esplagomis__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_60.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$15.27$}  & 
+\multicolumn{1}{r|}{$10.83$}  & 
+\multicolumn{1}{r|}{$10.81$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.011281$}   & 
+\multicolumn{1}{r|}{$0.017748$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$2710,17750$}  & 
+\multicolumn{1}{r|}{$1874,17304$}  & 
+\multicolumn{1}{r|}{$1872,17314$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.011281$}   & 
+\multicolumn{1}{r|}{$0.017748$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.esplagomis_15.27_10.83_10.81_1.00.pkl to model_file_es_fr_new
+Running the __none__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+cp: cannot stat 'model_file_es_fr_new/model_file_new_70_fms_Etr_test.nofs.none_*.pkl': No such file or directory
+gzip: run_global_scenario_es_fr_70.dev.bbandbothgrounding.wer.new: No such file or directory
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$15.97$}  & 
+\multicolumn{1}{r|}{$15.81$}  & 
+\multicolumn{1}{r|}{$15.78$}  & 
+\multicolumn{1}{r|}{$0.88$}   & 
+\multicolumn{1}{r|}{$$}   & 
+\multicolumn{1}{r|}{$$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$2940,18410$}  & 
+\multicolumn{1}{r|}{$2863,18113$}  & 
+\multicolumn{1}{r|}{$2861,18127$}  & 
+\multicolumn{1}{r|}{$0.88$}   & 
+\multicolumn{1}{r|}{$$}   & 
+\multicolumn{1}{r|}{$$}   & 
+saving modelfile: model_file_new_70_fms_Etr_test.nofs.none_15.97_15.81_15.78_0.88.pkl to model_file_es_fr_new
+Running the __esplagomis__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_70.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$12.17$}  & 
+\multicolumn{1}{r|}{$8.73$}  & 
+\multicolumn{1}{r|}{$8.71$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.010007$}   & 
+\multicolumn{1}{r|}{$0.014728$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1829,15034$}  & 
+\multicolumn{1}{r|}{$1290,14784$}  & 
+\multicolumn{1}{r|}{$1289,14793$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.010007$}   & 
+\multicolumn{1}{r|}{$0.014728$}   & 
+saving modelfile: model_file_new_70_fms_Etr_test.nofs.esplagomis_12.17_8.73_8.71_1.00.pkl to model_file_es_fr_new
+Running the __none__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_80.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$12.48$}  & 
+\multicolumn{1}{r|}{$9.41$}  & 
+\multicolumn{1}{r|}{$9.38$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.013594$}   & 
+\multicolumn{1}{r|}{$0.025907$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1778,14251$}  & 
+\multicolumn{1}{r|}{$1334,14178$}  & 
+\multicolumn{1}{r|}{$1330,14186$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.013594$}   & 
+\multicolumn{1}{r|}{$0.025907$}   & 
+saving modelfile: model_file_new_80_fms_Etr_test.nofs.none_12.48_9.41_9.38_0.99.pkl to model_file_es_fr_new
+Running the __esplagomis__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_80.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$9.84$}  & 
+\multicolumn{1}{r|}{$6.59$}  & 
+\multicolumn{1}{r|}{$6.56$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.011346$}   & 
+\multicolumn{1}{r|}{$0.016545$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1211,12307$}  & 
+\multicolumn{1}{r|}{$800,12139$}  & 
+\multicolumn{1}{r|}{$797,12145$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.011346$}   & 
+\multicolumn{1}{r|}{$0.016545$}   & 
+saving modelfile: model_file_new_80_fms_Etr_test.nofs.esplagomis_9.84_6.59_6.56_0.99.pkl to model_file_es_fr_new
+Running the __none__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_90.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$7.71$}  & 
+\multicolumn{1}{r|}{$5.37$}  & 
+\multicolumn{1}{r|}{$5.36$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.003528$}   & 
+\multicolumn{1}{r|}{$0.006990$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$530,6873$}  & 
+\multicolumn{1}{r|}{$366,6810$}  & 
+\multicolumn{1}{r|}{$366,6822$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.003528$}   & 
+\multicolumn{1}{r|}{$0.006990$}   & 
+saving modelfile: model_file_new_90_fms_Etr_test.nofs.none_7.71_5.37_5.36_1.00.pkl to model_file_es_fr_new
+Running the __esplagomis__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_90.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$6.34$}  & 
+\multicolumn{1}{r|}{$3.75$}  & 
+\multicolumn{1}{r|}{$3.75$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.005414$}   & 
+\multicolumn{1}{r|}{$0.009765$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$390,6153$}  & 
+\multicolumn{1}{r|}{$225,5997$}  & 
+\multicolumn{1}{r|}{$225,6002$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.005414$}   & 
+\multicolumn{1}{r|}{$0.009765$}   & 
+saving modelfile: model_file_new_90_fms_Etr_test.nofs.esplagomis_6.34_3.75_3.75_1.00.pkl to model_file_es_fr_new
+Running the __none__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_60.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$22.08$}  & 
+\multicolumn{1}{r|}{$15.89$}  & 
+\multicolumn{1}{r|}{$15.86$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.022042$}   & 
+\multicolumn{1}{r|}{$0.036060$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$4714,21347$}  & 
+\multicolumn{1}{r|}{$3318,20880$}  & 
+\multicolumn{1}{r|}{$3312,20886$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.022042$}   & 
+\multicolumn{1}{r|}{$0.036060$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.none_22.08_15.89_15.86_0.99.pkl to model_file_es_pt_new
+Running the __esplagomis__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_60.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$17.29$}  & 
+\multicolumn{1}{r|}{$10.08$}  & 
+\multicolumn{1}{r|}{$10.07$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.012404$}   & 
+\multicolumn{1}{r|}{$0.018534$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$2655,15360$}  & 
+\multicolumn{1}{r|}{$1504,14925$}  & 
+\multicolumn{1}{r|}{$1504,14931$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.012404$}   & 
+\multicolumn{1}{r|}{$0.018534$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.esplagomis_17.29_10.08_10.07_1.00.pkl to model_file_es_pt_new
+Running the __none__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_70.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$18.20$}  & 
+\multicolumn{1}{r|}{$13.44$}  & 
+\multicolumn{1}{r|}{$13.41$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.012157$}   & 
+\multicolumn{1}{r|}{$0.019682$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$3164,17388$}  & 
+\multicolumn{1}{r|}{$2312,17202$}  & 
+\multicolumn{1}{r|}{$2308,17207$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.012157$}   & 
+\multicolumn{1}{r|}{$0.019682$}   & 
+saving modelfile: model_file_new_70_fms_Etr_test.nofs.none_18.20_13.44_13.41_0.99.pkl to model_file_es_pt_new
+Running the __esplagomis__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_70.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$13.63$}  & 
+\multicolumn{1}{r|}{$8.04$}  & 
+\multicolumn{1}{r|}{$8.03$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.010425$}   & 
+\multicolumn{1}{r|}{$0.014895$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1705,12505$}  & 
+\multicolumn{1}{r|}{$991,12321$}  & 
+\multicolumn{1}{r|}{$990,12329$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.010425$}   & 
+\multicolumn{1}{r|}{$0.014895$}   & 
+saving modelfile: model_file_new_70_fms_Etr_test.nofs.esplagomis_13.63_8.04_8.03_1.00.pkl to model_file_es_pt_new
+Running the __none__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_80.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$15.29$}  & 
+\multicolumn{1}{r|}{$11.17$}  & 
+\multicolumn{1}{r|}{$11.13$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.014384$}   & 
+\multicolumn{1}{r|}{$0.023293$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$2042,13351$}  & 
+\multicolumn{1}{r|}{$1482,13264$}  & 
+\multicolumn{1}{r|}{$1477,13267$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.014384$}   & 
+\multicolumn{1}{r|}{$0.023293$}   & 
+saving modelfile: model_file_new_80_fms_Etr_test.nofs.none_15.29_11.17_11.13_0.99.pkl to model_file_es_pt_new
+Running the __esplagomis__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_80.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$10.62$}  & 
+\multicolumn{1}{r|}{$5.53$}  & 
+\multicolumn{1}{r|}{$5.52$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.011685$}   & 
+\multicolumn{1}{r|}{$0.016359$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1010,9509$}  & 
+\multicolumn{1}{r|}{$521,9425$}  & 
+\multicolumn{1}{r|}{$521,9430$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.011685$}   & 
+\multicolumn{1}{r|}{$0.016359$}   & 
+saving modelfile: model_file_new_80_fms_Etr_test.nofs.esplagomis_10.62_5.53_5.52_1.00.pkl to model_file_es_pt_new
+Running the __none__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_90.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$10.42$}  & 
+\multicolumn{1}{r|}{$7.72$}  & 
+\multicolumn{1}{r|}{$7.69$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.006494$}   & 
+\multicolumn{1}{r|}{$0.015651$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$662,6351$}  & 
+\multicolumn{1}{r|}{$486,6292$}  & 
+\multicolumn{1}{r|}{$484,6297$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.006494$}   & 
+\multicolumn{1}{r|}{$0.015651$}   & 
+saving modelfile: model_file_new_90_fms_Etr_test.nofs.none_10.42_7.72_7.69_0.99.pkl to model_file_es_pt_new
+Running the __esplagomis__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_90.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$7.24$}  & 
+\multicolumn{1}{r|}{$3.98$}  & 
+\multicolumn{1}{r|}{$3.97$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.006009$}   & 
+\multicolumn{1}{r|}{$0.009514$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$365,5039$}  & 
+\multicolumn{1}{r|}{$198,4978$}  & 
+\multicolumn{1}{r|}{$198,4984$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.006009$}   & 
+\multicolumn{1}{r|}{$0.009514$}   & 
+saving modelfile: model_file_new_90_fms_Etr_test.nofs.esplagomis_7.24_3.98_3.97_1.00.pkl to model_file_es_pt_new
+Running the __none__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_60.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$21.22$}  & 
+\multicolumn{1}{r|}{$18.40$}  & 
+\multicolumn{1}{r|}{$18.40$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.026621$}   & 
+\multicolumn{1}{r|}{$0.046733$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$3279,15449$}  & 
+\multicolumn{1}{r|}{$2812,15280$}  & 
+\multicolumn{1}{r|}{$2815,15298$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.026621$}   & 
+\multicolumn{1}{r|}{$0.046733$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.none_21.22_18.40_18.40_1.00.pkl to model_file_en_es_new
+Running the __esplagomis__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_60.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$17.35$}  & 
+\multicolumn{1}{r|}{$14.37$}  & 
+\multicolumn{1}{r|}{$14.33$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.016992$}   & 
+\multicolumn{1}{r|}{$0.023129$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$2211,12747$}  & 
+\multicolumn{1}{r|}{$1797,12504$}  & 
+\multicolumn{1}{r|}{$1794,12521$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.016992$}   & 
+\multicolumn{1}{r|}{$0.023129$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.esplagomis_17.35_14.37_14.33_0.99.pkl to model_file_en_es_new
+Running the __none__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_70.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$17.33$}  & 
+\multicolumn{1}{r|}{$14.41$}  & 
+\multicolumn{1}{r|}{$14.42$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.028392$}   & 
+\multicolumn{1}{r|}{$0.059250$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$2157,12450$}  & 
+\multicolumn{1}{r|}{$1776,12322$}  & 
+\multicolumn{1}{r|}{$1778,12331$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.028392$}   & 
+\multicolumn{1}{r|}{$0.059250$}   & 
+saving modelfile: model_file_new_70_fms_Etr_test.nofs.none_17.33_14.41_14.42_1.00.pkl to model_file_en_es_new
+Running the __esplagomis__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_70.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$14.74$}  & 
+\multicolumn{1}{r|}{$11.78$}  & 
+\multicolumn{1}{r|}{$11.68$}  & 
+\multicolumn{1}{r|}{$0.97$}   & 
+\multicolumn{1}{r|}{$0.017337$}   & 
+\multicolumn{1}{r|}{$0.026114$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1594,10816$}  & 
+\multicolumn{1}{r|}{$1250,10615$}  & 
+\multicolumn{1}{r|}{$1241,10625$}  & 
+\multicolumn{1}{r|}{$0.97$}   & 
+\multicolumn{1}{r|}{$0.017337$}   & 
+\multicolumn{1}{r|}{$0.026114$}   & 
+saving modelfile: model_file_new_70_fms_Etr_test.nofs.esplagomis_14.74_11.78_11.68_0.97.pkl to model_file_en_es_new
+Running the __none__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_80.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$13.99$}  & 
+\multicolumn{1}{r|}{$11.02$}  & 
+\multicolumn{1}{r|}{$11.02$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.029254$}   & 
+\multicolumn{1}{r|}{$0.084475$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1139,8140$}  & 
+\multicolumn{1}{r|}{$888,8059$}  & 
+\multicolumn{1}{r|}{$889,8064$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.029254$}   & 
+\multicolumn{1}{r|}{$0.084475$}   & 
+saving modelfile: model_file_new_80_fms_Etr_test.nofs.none_13.99_11.02_11.02_1.00.pkl to model_file_en_es_new
+Running the __esplagomis__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_80.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$11.21$}  & 
+\multicolumn{1}{r|}{$8.01$}  & 
+\multicolumn{1}{r|}{$8.00$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.010259$}   & 
+\multicolumn{1}{r|}{$0.016904$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$796,7103$}  & 
+\multicolumn{1}{r|}{$556,6937$}  & 
+\multicolumn{1}{r|}{$556,6952$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.010259$}   & 
+\multicolumn{1}{r|}{$0.016904$}   & 
+saving modelfile: model_file_new_80_fms_Etr_test.nofs.esplagomis_11.21_8.01_8.00_0.99.pkl to model_file_en_es_new
+Running the __none__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_90.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$8.55$}  & 
+\multicolumn{1}{r|}{$5.05$}  & 
+\multicolumn{1}{r|}{$5.05$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.006387$}   & 
+\multicolumn{1}{r|}{$0.018403$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$330,3860$}  & 
+\multicolumn{1}{r|}{$192,3801$}  & 
+\multicolumn{1}{r|}{$192,3801$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.006387$}   & 
+\multicolumn{1}{r|}{$0.018403$}   & 
+saving modelfile: model_file_new_90_fms_Etr_test.nofs.none_8.55_5.05_5.05_1.00.pkl to model_file_en_es_new
+Running the __esplagomis__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_90.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$7.54$}  & 
+\multicolumn{1}{r|}{$3.93$}  & 
+\multicolumn{1}{r|}{$3.93$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.004226$}   & 
+\multicolumn{1}{r|}{$0.008861$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$277,3673$}  & 
+\multicolumn{1}{r|}{$139,3540$}  & 
+\multicolumn{1}{r|}{$139,3540$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.004226$}   & 
+\multicolumn{1}{r|}{$0.008861$}   & 
+saving modelfile: model_file_new_90_fms_Etr_test.nofs.esplagomis_7.54_3.93_3.93_1.00.pkl to model_file_en_es_new
+Running the __none__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_60.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$19.78$}  & 
+\multicolumn{1}{r|}{$15.36$}  & 
+\multicolumn{1}{r|}{$15.34$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.017698$}   & 
+\multicolumn{1}{r|}{$0.028799$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$4405,22272$}  & 
+\multicolumn{1}{r|}{$3368,21922$}  & 
+\multicolumn{1}{r|}{$3366,21939$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.017698$}   & 
+\multicolumn{1}{r|}{$0.028799$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.none_19.78_15.36_15.34_1.00.pkl to model_file_es_fr_new
+Running the __esplagomis__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_60.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$15.27$}  & 
+\multicolumn{1}{r|}{$10.83$}  & 
+\multicolumn{1}{r|}{$10.81$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.011281$}   & 
+\multicolumn{1}{r|}{$0.017748$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$2710,17750$}  & 
+\multicolumn{1}{r|}{$1874,17304$}  & 
+\multicolumn{1}{r|}{$1872,17314$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.011281$}   & 
+\multicolumn{1}{r|}{$0.017748$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.esplagomis_15.27_10.83_10.81_1.00.pkl to model_file_es_fr_new
+Running the __none__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+cp: cannot stat 'model_file_es_fr_new/model_file_new_70_fms_Etr_test.nofs.none_*.pkl': No such file or directory
+gzip: run_global_scenario_es_fr_70.dev.bbandbothgrounding.wer.new: No such file or directory
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$15.97$}  & 
+\multicolumn{1}{r|}{$15.81$}  & 
+\multicolumn{1}{r|}{$15.78$}  & 
+\multicolumn{1}{r|}{$0.88$}   & 
+\multicolumn{1}{r|}{$$}   & 
+\multicolumn{1}{r|}{$$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$2940,18410$}  & 
+\multicolumn{1}{r|}{$2863,18113$}  & 
+\multicolumn{1}{r|}{$2861,18127$}  & 
+\multicolumn{1}{r|}{$0.88$}   & 
+\multicolumn{1}{r|}{$$}   & 
+\multicolumn{1}{r|}{$$}   & 
+saving modelfile: model_file_new_70_fms_Etr_test.nofs.none_15.97_15.81_15.78_0.88.pkl to model_file_es_fr_new
+Running the __esplagomis__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_70.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$12.17$}  & 
+\multicolumn{1}{r|}{$8.73$}  & 
+\multicolumn{1}{r|}{$8.71$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.010007$}   & 
+\multicolumn{1}{r|}{$0.014728$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1829,15034$}  & 
+\multicolumn{1}{r|}{$1290,14784$}  & 
+\multicolumn{1}{r|}{$1289,14793$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.010007$}   & 
+\multicolumn{1}{r|}{$0.014728$}   & 
+saving modelfile: model_file_new_70_fms_Etr_test.nofs.esplagomis_12.17_8.73_8.71_1.00.pkl to model_file_es_fr_new
+Running the __none__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_80.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$12.48$}  & 
+\multicolumn{1}{r|}{$9.41$}  & 
+\multicolumn{1}{r|}{$9.38$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.013594$}   & 
+\multicolumn{1}{r|}{$0.025907$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1778,14251$}  & 
+\multicolumn{1}{r|}{$1334,14178$}  & 
+\multicolumn{1}{r|}{$1330,14186$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.013594$}   & 
+\multicolumn{1}{r|}{$0.025907$}   & 
+saving modelfile: model_file_new_80_fms_Etr_test.nofs.none_12.48_9.41_9.38_0.99.pkl to model_file_es_fr_new
+Running the __esplagomis__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_80.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$9.84$}  & 
+\multicolumn{1}{r|}{$6.59$}  & 
+\multicolumn{1}{r|}{$6.56$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.011346$}   & 
+\multicolumn{1}{r|}{$0.016545$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1211,12307$}  & 
+\multicolumn{1}{r|}{$800,12139$}  & 
+\multicolumn{1}{r|}{$797,12145$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.011346$}   & 
+\multicolumn{1}{r|}{$0.016545$}   & 
+saving modelfile: model_file_new_80_fms_Etr_test.nofs.esplagomis_9.84_6.59_6.56_0.99.pkl to model_file_es_fr_new
+Running the __none__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_90.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$7.71$}  & 
+\multicolumn{1}{r|}{$5.37$}  & 
+\multicolumn{1}{r|}{$5.36$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.003528$}   & 
+\multicolumn{1}{r|}{$0.006990$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$530,6873$}  & 
+\multicolumn{1}{r|}{$366,6810$}  & 
+\multicolumn{1}{r|}{$366,6822$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.003528$}   & 
+\multicolumn{1}{r|}{$0.006990$}   & 
+saving modelfile: model_file_new_90_fms_Etr_test.nofs.none_7.71_5.37_5.36_1.00.pkl to model_file_es_fr_new
+Running the __esplagomis__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_90.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$6.34$}  & 
+\multicolumn{1}{r|}{$3.75$}  & 
+\multicolumn{1}{r|}{$3.75$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.005414$}   & 
+\multicolumn{1}{r|}{$0.009765$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$390,6153$}  & 
+\multicolumn{1}{r|}{$225,5997$}  & 
+\multicolumn{1}{r|}{$225,6002$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.005414$}   & 
+\multicolumn{1}{r|}{$0.009765$}   & 
+saving modelfile: model_file_new_90_fms_Etr_test.nofs.esplagomis_6.34_3.75_3.75_1.00.pkl to model_file_es_fr_new
+Running the __none__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_60.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$22.08$}  & 
+\multicolumn{1}{r|}{$15.89$}  & 
+\multicolumn{1}{r|}{$15.86$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.022042$}   & 
+\multicolumn{1}{r|}{$0.036060$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$4714,21347$}  & 
+\multicolumn{1}{r|}{$3318,20880$}  & 
+\multicolumn{1}{r|}{$3312,20886$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.022042$}   & 
+\multicolumn{1}{r|}{$0.036060$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.none_22.08_15.89_15.86_0.99.pkl to model_file_es_pt_new
+Running the __esplagomis__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_60.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$17.29$}  & 
+\multicolumn{1}{r|}{$10.08$}  & 
+\multicolumn{1}{r|}{$10.07$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.012404$}   & 
+\multicolumn{1}{r|}{$0.018534$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$2655,15360$}  & 
+\multicolumn{1}{r|}{$1504,14925$}  & 
+\multicolumn{1}{r|}{$1504,14931$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.012404$}   & 
+\multicolumn{1}{r|}{$0.018534$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.esplagomis_17.29_10.08_10.07_1.00.pkl to model_file_es_pt_new
+Running the __none__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_70.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$18.20$}  & 
+\multicolumn{1}{r|}{$13.44$}  & 
+\multicolumn{1}{r|}{$13.41$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.012157$}   & 
+\multicolumn{1}{r|}{$0.019682$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$3164,17388$}  & 
+\multicolumn{1}{r|}{$2312,17202$}  & 
+\multicolumn{1}{r|}{$2308,17207$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.012157$}   & 
+\multicolumn{1}{r|}{$0.019682$}   & 
+saving modelfile: model_file_new_70_fms_Etr_test.nofs.none_18.20_13.44_13.41_0.99.pkl to model_file_es_pt_new
+Running the __esplagomis__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_70.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$13.63$}  & 
+\multicolumn{1}{r|}{$8.04$}  & 
+\multicolumn{1}{r|}{$8.03$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.010425$}   & 
+\multicolumn{1}{r|}{$0.014895$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1705,12505$}  & 
+\multicolumn{1}{r|}{$991,12321$}  & 
+\multicolumn{1}{r|}{$990,12329$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.010425$}   & 
+\multicolumn{1}{r|}{$0.014895$}   & 
+saving modelfile: model_file_new_70_fms_Etr_test.nofs.esplagomis_13.63_8.04_8.03_1.00.pkl to model_file_es_pt_new
+Running the __none__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_80.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$15.29$}  & 
+\multicolumn{1}{r|}{$11.17$}  & 
+\multicolumn{1}{r|}{$11.13$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.014384$}   & 
+\multicolumn{1}{r|}{$0.023293$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$2042,13351$}  & 
+\multicolumn{1}{r|}{$1482,13264$}  & 
+\multicolumn{1}{r|}{$1477,13267$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.014384$}   & 
+\multicolumn{1}{r|}{$0.023293$}   & 
+saving modelfile: model_file_new_80_fms_Etr_test.nofs.none_15.29_11.17_11.13_0.99.pkl to model_file_es_pt_new
+Running the __esplagomis__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_80.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$10.62$}  & 
+\multicolumn{1}{r|}{$5.53$}  & 
+\multicolumn{1}{r|}{$5.52$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.011685$}   & 
+\multicolumn{1}{r|}{$0.016359$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1010,9509$}  & 
+\multicolumn{1}{r|}{$521,9425$}  & 
+\multicolumn{1}{r|}{$521,9430$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.011685$}   & 
+\multicolumn{1}{r|}{$0.016359$}   & 
+saving modelfile: model_file_new_80_fms_Etr_test.nofs.esplagomis_10.62_5.53_5.52_1.00.pkl to model_file_es_pt_new
+Running the __none__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_90.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$10.42$}  & 
+\multicolumn{1}{r|}{$7.72$}  & 
+\multicolumn{1}{r|}{$7.69$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.006494$}   & 
+\multicolumn{1}{r|}{$0.015651$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$662,6351$}  & 
+\multicolumn{1}{r|}{$486,6292$}  & 
+\multicolumn{1}{r|}{$484,6297$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.006494$}   & 
+\multicolumn{1}{r|}{$0.015651$}   & 
+saving modelfile: model_file_new_90_fms_Etr_test.nofs.none_10.42_7.72_7.69_0.99.pkl to model_file_es_pt_new
+Running the __esplagomis__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_90.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$7.24$}  & 
+\multicolumn{1}{r|}{$3.98$}  & 
+\multicolumn{1}{r|}{$3.97$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.006009$}   & 
+\multicolumn{1}{r|}{$0.009514$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$365,5039$}  & 
+\multicolumn{1}{r|}{$198,4978$}  & 
+\multicolumn{1}{r|}{$198,4984$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.006009$}   & 
+\multicolumn{1}{r|}{$0.009514$}   & 
+saving modelfile: model_file_new_90_fms_Etr_test.nofs.esplagomis_7.24_3.98_3.97_1.00.pkl to model_file_es_pt_new
+Running the __none__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_60.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$21.22$}  & 
+\multicolumn{1}{r|}{$18.40$}  & 
+\multicolumn{1}{r|}{$18.40$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.026621$}   & 
+\multicolumn{1}{r|}{$0.046733$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$3279,15449$}  & 
+\multicolumn{1}{r|}{$2812,15280$}  & 
+\multicolumn{1}{r|}{$2815,15298$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.026621$}   & 
+\multicolumn{1}{r|}{$0.046733$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.none_21.22_18.40_18.40_1.00.pkl to model_file_en_es_new
+Running the __esplagomis__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_60.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$17.35$}  & 
+\multicolumn{1}{r|}{$14.37$}  & 
+\multicolumn{1}{r|}{$14.33$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.016992$}   & 
+\multicolumn{1}{r|}{$0.023129$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$2211,12747$}  & 
+\multicolumn{1}{r|}{$1797,12504$}  & 
+\multicolumn{1}{r|}{$1794,12521$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.016992$}   & 
+\multicolumn{1}{r|}{$0.023129$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.esplagomis_17.35_14.37_14.33_0.99.pkl to model_file_en_es_new
+Running the __none__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_70.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$17.33$}  & 
+\multicolumn{1}{r|}{$14.41$}  & 
+\multicolumn{1}{r|}{$14.42$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.028392$}   & 
+\multicolumn{1}{r|}{$0.059250$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$2157,12450$}  & 
+\multicolumn{1}{r|}{$1776,12322$}  & 
+\multicolumn{1}{r|}{$1778,12331$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.028392$}   & 
+\multicolumn{1}{r|}{$0.059250$}   & 
+saving modelfile: model_file_new_70_fms_Etr_test.nofs.none_17.33_14.41_14.42_1.00.pkl to model_file_en_es_new
+Running the __esplagomis__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_70.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$14.74$}  & 
+\multicolumn{1}{r|}{$11.78$}  & 
+\multicolumn{1}{r|}{$11.68$}  & 
+\multicolumn{1}{r|}{$0.97$}   & 
+\multicolumn{1}{r|}{$0.017337$}   & 
+\multicolumn{1}{r|}{$0.026114$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1594,10816$}  & 
+\multicolumn{1}{r|}{$1250,10615$}  & 
+\multicolumn{1}{r|}{$1241,10625$}  & 
+\multicolumn{1}{r|}{$0.97$}   & 
+\multicolumn{1}{r|}{$0.017337$}   & 
+\multicolumn{1}{r|}{$0.026114$}   & 
+saving modelfile: model_file_new_70_fms_Etr_test.nofs.esplagomis_14.74_11.78_11.68_0.97.pkl to model_file_en_es_new
+Running the __none__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_80.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$13.99$}  & 
+\multicolumn{1}{r|}{$11.02$}  & 
+\multicolumn{1}{r|}{$11.02$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.029254$}   & 
+\multicolumn{1}{r|}{$0.084475$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1139,8140$}  & 
+\multicolumn{1}{r|}{$888,8059$}  & 
+\multicolumn{1}{r|}{$889,8064$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.029254$}   & 
+\multicolumn{1}{r|}{$0.084475$}   & 
+saving modelfile: model_file_new_80_fms_Etr_test.nofs.none_13.99_11.02_11.02_1.00.pkl to model_file_en_es_new
+Running the __esplagomis__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_80.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$11.21$}  & 
+\multicolumn{1}{r|}{$8.01$}  & 
+\multicolumn{1}{r|}{$8.00$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.010259$}   & 
+\multicolumn{1}{r|}{$0.016904$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$796,7103$}  & 
+\multicolumn{1}{r|}{$556,6937$}  & 
+\multicolumn{1}{r|}{$556,6952$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.010259$}   & 
+\multicolumn{1}{r|}{$0.016904$}   & 
+saving modelfile: model_file_new_80_fms_Etr_test.nofs.esplagomis_11.21_8.01_8.00_0.99.pkl to model_file_en_es_new
+Running the __none__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_90.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$8.55$}  & 
+\multicolumn{1}{r|}{$5.05$}  & 
+\multicolumn{1}{r|}{$5.05$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.006387$}   & 
+\multicolumn{1}{r|}{$0.018403$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$330,3860$}  & 
+\multicolumn{1}{r|}{$192,3801$}  & 
+\multicolumn{1}{r|}{$192,3801$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.006387$}   & 
+\multicolumn{1}{r|}{$0.018403$}   & 
+saving modelfile: model_file_new_90_fms_Etr_test.nofs.none_8.55_5.05_5.05_1.00.pkl to model_file_en_es_new
+Running the __esplagomis__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_90.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$7.54$}  & 
+\multicolumn{1}{r|}{$3.93$}  & 
+\multicolumn{1}{r|}{$3.93$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.004226$}   & 
+\multicolumn{1}{r|}{$0.008861$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$277,3673$}  & 
+\multicolumn{1}{r|}{$139,3540$}  & 
+\multicolumn{1}{r|}{$139,3540$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.004226$}   & 
+\multicolumn{1}{r|}{$0.008861$}   & 
+saving modelfile: model_file_new_90_fms_Etr_test.nofs.esplagomis_7.54_3.93_3.93_1.00.pkl to model_file_en_es_new
+Running the __none__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_60.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$19.78$}  & 
+\multicolumn{1}{r|}{$15.36$}  & 
+\multicolumn{1}{r|}{$15.34$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.017698$}   & 
+\multicolumn{1}{r|}{$0.028799$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$4405,22272$}  & 
+\multicolumn{1}{r|}{$3368,21922$}  & 
+\multicolumn{1}{r|}{$3366,21939$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.017698$}   & 
+\multicolumn{1}{r|}{$0.028799$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.none_19.78_15.36_15.34_1.00.pkl to model_file_es_fr_new
+Running the __esplagomis__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_60.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$15.27$}  & 
+\multicolumn{1}{r|}{$10.83$}  & 
+\multicolumn{1}{r|}{$10.81$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.011281$}   & 
+\multicolumn{1}{r|}{$0.017748$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$2710,17750$}  & 
+\multicolumn{1}{r|}{$1874,17304$}  & 
+\multicolumn{1}{r|}{$1872,17314$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.011281$}   & 
+\multicolumn{1}{r|}{$0.017748$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.esplagomis_15.27_10.83_10.81_1.00.pkl to model_file_es_fr_new
+Running the __none__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+cp: cannot stat 'model_file_es_fr_new/model_file_new_70_fms_Etr_test.nofs.none_*.pkl': No such file or directory
+gzip: run_global_scenario_es_fr_70.dev.bbandbothgrounding.wer.new: No such file or directory
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$15.97$}  & 
+\multicolumn{1}{r|}{$15.81$}  & 
+\multicolumn{1}{r|}{$15.78$}  & 
+\multicolumn{1}{r|}{$0.88$}   & 
+\multicolumn{1}{r|}{$$}   & 
+\multicolumn{1}{r|}{$$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$2940,18410$}  & 
+\multicolumn{1}{r|}{$2863,18113$}  & 
+\multicolumn{1}{r|}{$2861,18127$}  & 
+\multicolumn{1}{r|}{$0.88$}   & 
+\multicolumn{1}{r|}{$$}   & 
+\multicolumn{1}{r|}{$$}   & 
+saving modelfile: model_file_new_70_fms_Etr_test.nofs.none_15.97_15.81_15.78_0.88.pkl to model_file_es_fr_new
+Running the __esplagomis__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_70.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$12.17$}  & 
+\multicolumn{1}{r|}{$8.73$}  & 
+\multicolumn{1}{r|}{$8.71$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.010007$}   & 
+\multicolumn{1}{r|}{$0.014728$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1829,15034$}  & 
+\multicolumn{1}{r|}{$1290,14784$}  & 
+\multicolumn{1}{r|}{$1289,14793$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.010007$}   & 
+\multicolumn{1}{r|}{$0.014728$}   & 
+saving modelfile: model_file_new_70_fms_Etr_test.nofs.esplagomis_12.17_8.73_8.71_1.00.pkl to model_file_es_fr_new
+Running the __none__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_80.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$12.48$}  & 
+\multicolumn{1}{r|}{$9.41$}  & 
+\multicolumn{1}{r|}{$9.38$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.013594$}   & 
+\multicolumn{1}{r|}{$0.025907$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1778,14251$}  & 
+\multicolumn{1}{r|}{$1334,14178$}  & 
+\multicolumn{1}{r|}{$1330,14186$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.013594$}   & 
+\multicolumn{1}{r|}{$0.025907$}   & 
+saving modelfile: model_file_new_80_fms_Etr_test.nofs.none_12.48_9.41_9.38_0.99.pkl to model_file_es_fr_new
+Running the __esplagomis__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_80.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$9.84$}  & 
+\multicolumn{1}{r|}{$6.59$}  & 
+\multicolumn{1}{r|}{$6.56$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.011346$}   & 
+\multicolumn{1}{r|}{$0.016545$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1211,12307$}  & 
+\multicolumn{1}{r|}{$800,12139$}  & 
+\multicolumn{1}{r|}{$797,12145$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.011346$}   & 
+\multicolumn{1}{r|}{$0.016545$}   & 
+saving modelfile: model_file_new_80_fms_Etr_test.nofs.esplagomis_9.84_6.59_6.56_0.99.pkl to model_file_es_fr_new
+Running the __none__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_90.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$7.71$}  & 
+\multicolumn{1}{r|}{$5.37$}  & 
+\multicolumn{1}{r|}{$5.36$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.003528$}   & 
+\multicolumn{1}{r|}{$0.006990$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$530,6873$}  & 
+\multicolumn{1}{r|}{$366,6810$}  & 
+\multicolumn{1}{r|}{$366,6822$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.003528$}   & 
+\multicolumn{1}{r|}{$0.006990$}   & 
+saving modelfile: model_file_new_90_fms_Etr_test.nofs.none_7.71_5.37_5.36_1.00.pkl to model_file_es_fr_new
+Running the __esplagomis__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_90.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$6.34$}  & 
+\multicolumn{1}{r|}{$3.75$}  & 
+\multicolumn{1}{r|}{$3.75$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.005414$}   & 
+\multicolumn{1}{r|}{$0.009765$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$390,6153$}  & 
+\multicolumn{1}{r|}{$225,5997$}  & 
+\multicolumn{1}{r|}{$225,6002$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.005414$}   & 
+\multicolumn{1}{r|}{$0.009765$}   & 
+saving modelfile: model_file_new_90_fms_Etr_test.nofs.esplagomis_6.34_3.75_3.75_1.00.pkl to model_file_es_fr_new
+Running the __none__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_60.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$22.08$}  & 
+\multicolumn{1}{r|}{$15.89$}  & 
+\multicolumn{1}{r|}{$15.86$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.022042$}   & 
+\multicolumn{1}{r|}{$0.036060$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$4714,21347$}  & 
+\multicolumn{1}{r|}{$3318,20880$}  & 
+\multicolumn{1}{r|}{$3312,20886$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.022042$}   & 
+\multicolumn{1}{r|}{$0.036060$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.none_22.08_15.89_15.86_0.99.pkl to model_file_es_pt_new
+Running the __esplagomis__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_60.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$17.29$}  & 
+\multicolumn{1}{r|}{$10.08$}  & 
+\multicolumn{1}{r|}{$10.07$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.012404$}   & 
+\multicolumn{1}{r|}{$0.018534$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$2655,15360$}  & 
+\multicolumn{1}{r|}{$1504,14925$}  & 
+\multicolumn{1}{r|}{$1504,14931$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.012404$}   & 
+\multicolumn{1}{r|}{$0.018534$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.esplagomis_17.29_10.08_10.07_1.00.pkl to model_file_es_pt_new
+Running the __none__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_70.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$18.20$}  & 
+\multicolumn{1}{r|}{$13.44$}  & 
+\multicolumn{1}{r|}{$13.41$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.012157$}   & 
+\multicolumn{1}{r|}{$0.019682$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$3164,17388$}  & 
+\multicolumn{1}{r|}{$2312,17202$}  & 
+\multicolumn{1}{r|}{$2308,17207$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.012157$}   & 
+\multicolumn{1}{r|}{$0.019682$}   & 
+saving modelfile: model_file_new_70_fms_Etr_test.nofs.none_18.20_13.44_13.41_0.99.pkl to model_file_es_pt_new
+Running the __esplagomis__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_70.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$13.63$}  & 
+\multicolumn{1}{r|}{$8.04$}  & 
+\multicolumn{1}{r|}{$8.03$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.010425$}   & 
+\multicolumn{1}{r|}{$0.014895$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1705,12505$}  & 
+\multicolumn{1}{r|}{$991,12321$}  & 
+\multicolumn{1}{r|}{$990,12329$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.010425$}   & 
+\multicolumn{1}{r|}{$0.014895$}   & 
+saving modelfile: model_file_new_70_fms_Etr_test.nofs.esplagomis_13.63_8.04_8.03_1.00.pkl to model_file_es_pt_new
+Running the __none__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_80.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$15.29$}  & 
+\multicolumn{1}{r|}{$11.17$}  & 
+\multicolumn{1}{r|}{$11.13$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.014384$}   & 
+\multicolumn{1}{r|}{$0.023293$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$2042,13351$}  & 
+\multicolumn{1}{r|}{$1482,13264$}  & 
+\multicolumn{1}{r|}{$1477,13267$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.014384$}   & 
+\multicolumn{1}{r|}{$0.023293$}   & 
+saving modelfile: model_file_new_80_fms_Etr_test.nofs.none_15.29_11.17_11.13_0.99.pkl to model_file_es_pt_new
+Running the __esplagomis__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_80.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$10.62$}  & 
+\multicolumn{1}{r|}{$5.53$}  & 
+\multicolumn{1}{r|}{$5.52$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.011685$}   & 
+\multicolumn{1}{r|}{$0.016359$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1010,9509$}  & 
+\multicolumn{1}{r|}{$521,9425$}  & 
+\multicolumn{1}{r|}{$521,9430$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.011685$}   & 
+\multicolumn{1}{r|}{$0.016359$}   & 
+saving modelfile: model_file_new_80_fms_Etr_test.nofs.esplagomis_10.62_5.53_5.52_1.00.pkl to model_file_es_pt_new
+Running the __none__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_90.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$10.42$}  & 
+\multicolumn{1}{r|}{$7.72$}  & 
+\multicolumn{1}{r|}{$7.69$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.006494$}   & 
+\multicolumn{1}{r|}{$0.015651$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$662,6351$}  & 
+\multicolumn{1}{r|}{$486,6292$}  & 
+\multicolumn{1}{r|}{$484,6297$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.006494$}   & 
+\multicolumn{1}{r|}{$0.015651$}   & 
+saving modelfile: model_file_new_90_fms_Etr_test.nofs.none_10.42_7.72_7.69_0.99.pkl to model_file_es_pt_new
+Running the __esplagomis__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_90.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$7.24$}  & 
+\multicolumn{1}{r|}{$3.98$}  & 
+\multicolumn{1}{r|}{$3.97$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.006009$}   & 
+\multicolumn{1}{r|}{$0.009514$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$365,5039$}  & 
+\multicolumn{1}{r|}{$198,4978$}  & 
+\multicolumn{1}{r|}{$198,4984$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.006009$}   & 
+\multicolumn{1}{r|}{$0.009514$}   & 
+saving modelfile: model_file_new_90_fms_Etr_test.nofs.esplagomis_7.24_3.98_3.97_1.00.pkl to model_file_es_pt_new
+Running the __none__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_60.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$21.22$}  & 
+\multicolumn{1}{r|}{$18.40$}  & 
+\multicolumn{1}{r|}{$18.40$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.026621$}   & 
+\multicolumn{1}{r|}{$0.046733$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$3279,15449$}  & 
+\multicolumn{1}{r|}{$2812,15280$}  & 
+\multicolumn{1}{r|}{$2815,15298$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.026621$}   & 
+\multicolumn{1}{r|}{$0.046733$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.none_21.22_18.40_18.40_1.00.pkl to model_file_en_es_new
+Running the __esplagomis__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_60.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$17.35$}  & 
+\multicolumn{1}{r|}{$14.37$}  & 
+\multicolumn{1}{r|}{$14.33$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.016992$}   & 
+\multicolumn{1}{r|}{$0.023129$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$2211,12747$}  & 
+\multicolumn{1}{r|}{$1797,12504$}  & 
+\multicolumn{1}{r|}{$1794,12521$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.016992$}   & 
+\multicolumn{1}{r|}{$0.023129$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.esplagomis_17.35_14.37_14.33_0.99.pkl to model_file_en_es_new
+Running the __none__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_70.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$17.33$}  & 
+\multicolumn{1}{r|}{$14.41$}  & 
+\multicolumn{1}{r|}{$14.42$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.028392$}   & 
+\multicolumn{1}{r|}{$0.059250$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$2157,12450$}  & 
+\multicolumn{1}{r|}{$1776,12322$}  & 
+\multicolumn{1}{r|}{$1778,12331$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.028392$}   & 
+\multicolumn{1}{r|}{$0.059250$}   & 
+saving modelfile: model_file_new_70_fms_Etr_test.nofs.none_17.33_14.41_14.42_1.00.pkl to model_file_en_es_new
+Running the __esplagomis__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_70.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$14.74$}  & 
+\multicolumn{1}{r|}{$11.78$}  & 
+\multicolumn{1}{r|}{$11.68$}  & 
+\multicolumn{1}{r|}{$0.97$}   & 
+\multicolumn{1}{r|}{$0.017337$}   & 
+\multicolumn{1}{r|}{$0.026114$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1594,10816$}  & 
+\multicolumn{1}{r|}{$1250,10615$}  & 
+\multicolumn{1}{r|}{$1241,10625$}  & 
+\multicolumn{1}{r|}{$0.97$}   & 
+\multicolumn{1}{r|}{$0.017337$}   & 
+\multicolumn{1}{r|}{$0.026114$}   & 
+saving modelfile: model_file_new_70_fms_Etr_test.nofs.esplagomis_14.74_11.78_11.68_0.97.pkl to model_file_en_es_new
+Running the __none__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_80.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$13.99$}  & 
+\multicolumn{1}{r|}{$11.02$}  & 
+\multicolumn{1}{r|}{$11.02$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.029254$}   & 
+\multicolumn{1}{r|}{$0.084475$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1139,8140$}  & 
+\multicolumn{1}{r|}{$888,8059$}  & 
+\multicolumn{1}{r|}{$889,8064$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.029254$}   & 
+\multicolumn{1}{r|}{$0.084475$}   & 
+saving modelfile: model_file_new_80_fms_Etr_test.nofs.none_13.99_11.02_11.02_1.00.pkl to model_file_en_es_new
+Running the __esplagomis__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_80.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$11.21$}  & 
+\multicolumn{1}{r|}{$8.01$}  & 
+\multicolumn{1}{r|}{$8.00$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.010259$}   & 
+\multicolumn{1}{r|}{$0.016904$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$796,7103$}  & 
+\multicolumn{1}{r|}{$556,6937$}  & 
+\multicolumn{1}{r|}{$556,6952$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.010259$}   & 
+\multicolumn{1}{r|}{$0.016904$}   & 
+saving modelfile: model_file_new_80_fms_Etr_test.nofs.esplagomis_11.21_8.01_8.00_0.99.pkl to model_file_en_es_new
+Running the __none__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_90.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$8.55$}  & 
+\multicolumn{1}{r|}{$5.05$}  & 
+\multicolumn{1}{r|}{$5.05$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.006387$}   & 
+\multicolumn{1}{r|}{$0.018403$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$330,3860$}  & 
+\multicolumn{1}{r|}{$192,3801$}  & 
+\multicolumn{1}{r|}{$192,3801$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.006387$}   & 
+\multicolumn{1}{r|}{$0.018403$}   & 
+saving modelfile: model_file_new_90_fms_Etr_test.nofs.none_8.55_5.05_5.05_1.00.pkl to model_file_en_es_new
+Running the __esplagomis__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_90.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$7.54$}  & 
+\multicolumn{1}{r|}{$3.93$}  & 
+\multicolumn{1}{r|}{$3.93$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.004226$}   & 
+\multicolumn{1}{r|}{$0.008861$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$277,3673$}  & 
+\multicolumn{1}{r|}{$139,3540$}  & 
+\multicolumn{1}{r|}{$139,3540$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.004226$}   & 
+\multicolumn{1}{r|}{$0.008861$}   & 
+saving modelfile: model_file_new_90_fms_Etr_test.nofs.esplagomis_7.54_3.93_3.93_1.00.pkl to model_file_en_es_new
+Running the __none__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_60.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$19.78$}  & 
+\multicolumn{1}{r|}{$15.36$}  & 
+\multicolumn{1}{r|}{$15.34$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.017698$}   & 
+\multicolumn{1}{r|}{$0.028799$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$4405,22272$}  & 
+\multicolumn{1}{r|}{$3368,21922$}  & 
+\multicolumn{1}{r|}{$3366,21939$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.017698$}   & 
+\multicolumn{1}{r|}{$0.028799$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.none_19.78_15.36_15.34_1.00.pkl to model_file_es_fr_new
+Running the __esplagomis__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_60.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$15.27$}  & 
+\multicolumn{1}{r|}{$10.83$}  & 
+\multicolumn{1}{r|}{$10.81$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.011281$}   & 
+\multicolumn{1}{r|}{$0.017748$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$2710,17750$}  & 
+\multicolumn{1}{r|}{$1874,17304$}  & 
+\multicolumn{1}{r|}{$1872,17314$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.011281$}   & 
+\multicolumn{1}{r|}{$0.017748$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.esplagomis_15.27_10.83_10.81_1.00.pkl to model_file_es_fr_new
+Running the __none__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+cp: cannot stat 'model_file_es_fr_new/model_file_new_70_fms_Etr_test.nofs.none_*.pkl': No such file or directory
+gzip: run_global_scenario_es_fr_70.dev.bbandbothgrounding.wer.new: No such file or directory
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "rounder.py", line 5, in <module>
+    rnd=sys.argv[3]
+IndexError: list index out of range
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$15.97$}  & 
+\multicolumn{1}{r|}{$15.81$}  & 
+\multicolumn{1}{r|}{$15.78$}  & 
+\multicolumn{1}{r|}{$0.88$}   & 
+\multicolumn{1}{r|}{$$}   & 
+\multicolumn{1}{r|}{$$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$2940,18410$}  & 
+\multicolumn{1}{r|}{$2863,18113$}  & 
+\multicolumn{1}{r|}{$2861,18127$}  & 
+\multicolumn{1}{r|}{$0.88$}   & 
+\multicolumn{1}{r|}{$$}   & 
+\multicolumn{1}{r|}{$$}   & 
+saving modelfile: model_file_new_70_fms_Etr_test.nofs.none_15.97_15.81_15.78_0.88.pkl to model_file_es_fr_new
+Running the __esplagomis__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_70.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$12.17$}  & 
+\multicolumn{1}{r|}{$8.73$}  & 
+\multicolumn{1}{r|}{$8.71$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.010007$}   & 
+\multicolumn{1}{r|}{$0.014728$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1829,15034$}  & 
+\multicolumn{1}{r|}{$1290,14784$}  & 
+\multicolumn{1}{r|}{$1289,14793$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.010007$}   & 
+\multicolumn{1}{r|}{$0.014728$}   & 
+saving modelfile: model_file_new_70_fms_Etr_test.nofs.esplagomis_12.17_8.73_8.71_1.00.pkl to model_file_es_fr_new
+Running the __none__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_80.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$12.48$}  & 
+\multicolumn{1}{r|}{$9.41$}  & 
+\multicolumn{1}{r|}{$9.38$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.013594$}   & 
+\multicolumn{1}{r|}{$0.025907$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1778,14251$}  & 
+\multicolumn{1}{r|}{$1334,14178$}  & 
+\multicolumn{1}{r|}{$1330,14186$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.013594$}   & 
+\multicolumn{1}{r|}{$0.025907$}   & 
+saving modelfile: model_file_new_80_fms_Etr_test.nofs.none_12.48_9.41_9.38_0.99.pkl to model_file_es_fr_new
+Running the __esplagomis__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_80.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$9.84$}  & 
+\multicolumn{1}{r|}{$6.59$}  & 
+\multicolumn{1}{r|}{$6.56$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.011346$}   & 
+\multicolumn{1}{r|}{$0.016545$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1211,12307$}  & 
+\multicolumn{1}{r|}{$800,12139$}  & 
+\multicolumn{1}{r|}{$797,12145$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.011346$}   & 
+\multicolumn{1}{r|}{$0.016545$}   & 
+saving modelfile: model_file_new_80_fms_Etr_test.nofs.esplagomis_9.84_6.59_6.56_0.99.pkl to model_file_es_fr_new
+Running the __none__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_90.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$7.71$}  & 
+\multicolumn{1}{r|}{$5.37$}  & 
+\multicolumn{1}{r|}{$5.36$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.003528$}   & 
+\multicolumn{1}{r|}{$0.006990$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$530,6873$}  & 
+\multicolumn{1}{r|}{$366,6810$}  & 
+\multicolumn{1}{r|}{$366,6822$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.003528$}   & 
+\multicolumn{1}{r|}{$0.006990$}   & 
+saving modelfile: model_file_new_90_fms_Etr_test.nofs.none_7.71_5.37_5.36_1.00.pkl to model_file_es_fr_new
+Running the __esplagomis__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_90.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$6.34$}  & 
+\multicolumn{1}{r|}{$3.75$}  & 
+\multicolumn{1}{r|}{$3.75$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.005414$}   & 
+\multicolumn{1}{r|}{$0.009765$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$390,6153$}  & 
+\multicolumn{1}{r|}{$225,5997$}  & 
+\multicolumn{1}{r|}{$225,6002$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.005414$}   & 
+\multicolumn{1}{r|}{$0.009765$}   & 
+saving modelfile: model_file_new_90_fms_Etr_test.nofs.esplagomis_6.34_3.75_3.75_1.00.pkl to model_file_es_fr_new
+Running the __none__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_60.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$22.08$}  & 
+\multicolumn{1}{r|}{$15.89$}  & 
+\multicolumn{1}{r|}{$15.86$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.022042$}   & 
+\multicolumn{1}{r|}{$0.036060$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$4714,21347$}  & 
+\multicolumn{1}{r|}{$3318,20880$}  & 
+\multicolumn{1}{r|}{$3312,20886$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.022042$}   & 
+\multicolumn{1}{r|}{$0.036060$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.none_22.08_15.89_15.86_0.99.pkl to model_file_es_pt_new
+Running the __esplagomis__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_60.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$17.29$}  & 
+\multicolumn{1}{r|}{$10.08$}  & 
+\multicolumn{1}{r|}{$10.07$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.012404$}   & 
+\multicolumn{1}{r|}{$0.018534$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$2655,15360$}  & 
+\multicolumn{1}{r|}{$1504,14925$}  & 
+\multicolumn{1}{r|}{$1504,14931$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.012404$}   & 
+\multicolumn{1}{r|}{$0.018534$}   & 
+saving modelfile: model_file_new_60_fms_Etr_test.nofs.esplagomis_17.29_10.08_10.07_1.00.pkl to model_file_es_pt_new
+Running the __none__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_70.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$18.20$}  & 
+\multicolumn{1}{r|}{$13.44$}  & 
+\multicolumn{1}{r|}{$13.41$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.012157$}   & 
+\multicolumn{1}{r|}{$0.019682$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$3164,17388$}  & 
+\multicolumn{1}{r|}{$2312,17202$}  & 
+\multicolumn{1}{r|}{$2308,17207$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.012157$}   & 
+\multicolumn{1}{r|}{$0.019682$}   & 
+saving modelfile: model_file_new_70_fms_Etr_test.nofs.none_18.20_13.44_13.41_0.99.pkl to model_file_es_pt_new
+Running the __esplagomis__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_70.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$13.63$}  & 
+\multicolumn{1}{r|}{$8.04$}  & 
+\multicolumn{1}{r|}{$8.03$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.010425$}   & 
+\multicolumn{1}{r|}{$0.014895$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1705,12505$}  & 
+\multicolumn{1}{r|}{$991,12321$}  & 
+\multicolumn{1}{r|}{$990,12329$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.010425$}   & 
+\multicolumn{1}{r|}{$0.014895$}   & 
+saving modelfile: model_file_new_70_fms_Etr_test.nofs.esplagomis_13.63_8.04_8.03_1.00.pkl to model_file_es_pt_new
+Running the __none__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_80.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$15.29$}  & 
+\multicolumn{1}{r|}{$11.17$}  & 
+\multicolumn{1}{r|}{$11.13$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.014384$}   & 
+\multicolumn{1}{r|}{$0.023293$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$2042,13351$}  & 
+\multicolumn{1}{r|}{$1482,13264$}  & 
+\multicolumn{1}{r|}{$1477,13267$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.014384$}   & 
+\multicolumn{1}{r|}{$0.023293$}   & 
+saving modelfile: model_file_new_80_fms_Etr_test.nofs.none_15.29_11.17_11.13_0.99.pkl to model_file_es_pt_new
+Running the __esplagomis__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_80.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$10.62$}  & 
+\multicolumn{1}{r|}{$5.53$}  & 
+\multicolumn{1}{r|}{$5.52$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.011685$}   & 
+\multicolumn{1}{r|}{$0.016359$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1010,9509$}  & 
+\multicolumn{1}{r|}{$521,9425$}  & 
+\multicolumn{1}{r|}{$521,9430$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.011685$}   & 
+\multicolumn{1}{r|}{$0.016359$}   & 
+saving modelfile: model_file_new_80_fms_Etr_test.nofs.esplagomis_10.62_5.53_5.52_1.00.pkl to model_file_es_pt_new
+Running the __none__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_90.dev.bbandbothgrounding.wer.new: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$10.42$}  & 
+\multicolumn{1}{r|}{$7.72$}  & 
+\multicolumn{1}{r|}{$7.69$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.006494$}   & 
+\multicolumn{1}{r|}{$0.015651$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$662,6351$}  & 
+\multicolumn{1}{r|}{$486,6292$}  & 
+\multicolumn{1}{r|}{$484,6297$}  & 
+\multicolumn{1}{r|}{$0.99$}   & 
+\multicolumn{1}{r|}{$0.006494$}   & 
+\multicolumn{1}{r|}{$0.015651$}   & 
+saving modelfile: model_file_new_90_fms_Etr_test.nofs.none_10.42_7.72_7.69_0.99.pkl to model_file_es_pt_new
+Running the __esplagomis__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_90.dev.bbandbothgrounding.wer.new.esplagomis: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$7.24$}  & 
+\multicolumn{1}{r|}{$3.98$}  & 
+\multicolumn{1}{r|}{$3.97$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.006009$}   & 
+\multicolumn{1}{r|}{$0.009514$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$365,5039$}  & 
+\multicolumn{1}{r|}{$198,4978$}  & 
+\multicolumn{1}{r|}{$198,4984$}  & 
+\multicolumn{1}{r|}{$1.00$}   & 
+\multicolumn{1}{r|}{$0.006009$}   & 
+\multicolumn{1}{r|}{$0.009514$}   & 
+saving modelfile: model_file_new_90_fms_Etr_test.nofs.esplagomis_7.24_3.98_3.97_1.00.pkl to model_file_es_pt_new

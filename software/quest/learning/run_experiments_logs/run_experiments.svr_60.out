@@ -1,0 +1,43 @@
+Running the __none__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+Copying model_file_en_es/model_file_60fms_etr_nofs.pkl model_file.pkl
+Running the __none__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+Copying model_file_en_es/model_file_60fms_etr_nofs.pkl model_file.pkl
+.21224674736228882128
+saving modelfile: model_file_60fms_etr_nofs.none_2815_15298_3236_15503_3279_15449.pkl
+Running the __esplagomis__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+Copying model_file_en_es/model_file_60fms_etr_nofs.esplagomis.pkl model_file.pkl
+.17345257707695928453
+saving modelfile: model_file_60fms_etr_nofs.esplagomis_1794_12521_2112_12605_2211_12747.pkl
+Running the __none__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+Copying model_file_en_es/model_file_70fms_etr_nofs.pkl model_file.pkl
+.17325301204819277108
+saving modelfile: model_file_70fms_etr_nofs.none_1778_12331_2003_12407_2157_12450.pkl
+Running the __esplagomis__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+Copying model_file_en_es/model_file_70fms_etr_nofs.esplagomis.pkl model_file.pkl
+.14737426035502958579
+saving modelfile: model_file_70fms_etr_nofs.esplagomis_1241_10625_1476_10665_1594_10816.pkl
+Running the __none__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+Copying model_file_en_es/model_file_80fms_etr_nofs.pkl model_file.pkl
+.13992628992628992628
+saving modelfile: model_file_80fms_etr_nofs.none_889_8064_1096_8188_1139_8140.pkl
+Running the __esplagomis__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+Copying model_file_en_es/model_file_80fms_etr_nofs.esplagomis.pkl model_file.pkl
+.11206532451077009714
+saving modelfile: model_file_80fms_etr_nofs.esplagomis_556_6952_699_6969_796_7103.pkl
+Running the __none__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+Copying model_file_en_es/model_file_90fms_etr_nofs.pkl model_file.pkl
+.08549222797927461139
+saving modelfile: model_file_90fms_etr_nofs.none_192_3801_234_3817_330_3860.pkl
+Running the __esplagomis__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+Copying model_file_en_es/model_file_90fms_etr_nofs.esplagomis.pkl model_file.pkl
+.07541519194119248570
+saving modelfile: model_file_90fms_etr_nofs.esplagomis_139_3540_194_3536_277_3673.pkl

@@ -1,0 +1,174 @@
+Running the __esplagomis__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$17.29$}  & 
+\multicolumn{1}{r|}{$13.17$}  & 
+\multicolumn{1}{r|}{$10.07$}  & 
+\multicolumn{1}{r|}{$0.57$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$2655,15360$}  & 
+\multicolumn{1}{r|}{$1977,15013$}  & 
+\multicolumn{1}{r|}{$1504,14931$}  & 
+\multicolumn{1}{r|}{$0.57$}   & 
+saving modelfile: model_file_60fms_svr.esplagomis_17.29_13.17_10.07_0.57.pkl
+Running the __esplagomis__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$13.63$}  & 
+\multicolumn{1}{r|}{$10.92$}  & 
+\multicolumn{1}{r|}{$8.03$}  & 
+\multicolumn{1}{r|}{$0.49$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1705,12505$}  & 
+\multicolumn{1}{r|}{$1362,12478$}  & 
+\multicolumn{1}{r|}{$990,12329$}  & 
+\multicolumn{1}{r|}{$0.49$}   & 
+saving modelfile: model_file_70fms_svr.esplagomis_13.63_10.92_8.03_0.49.pkl
+Running the __esplagomis__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$10.62$}  & 
+\multicolumn{1}{r|}{$7.54$}  & 
+\multicolumn{1}{r|}{$5.52$}  & 
+\multicolumn{1}{r|}{$0.60$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1010,9509$}  & 
+\multicolumn{1}{r|}{$712,9444$}  & 
+\multicolumn{1}{r|}{$521,9430$}  & 
+\multicolumn{1}{r|}{$0.60$}   & 
+saving modelfile: model_file_80fms_svr.esplagomis_10.62_7.54_5.52_0.60.pkl
+Running the __esplagomis__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$7.24$}  & 
+\multicolumn{1}{r|}{$4.63$}  & 
+\multicolumn{1}{r|}{$3.97$}  & 
+\multicolumn{1}{r|}{$0.80$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$365,5039$}  & 
+\multicolumn{1}{r|}{$231,4985$}  & 
+\multicolumn{1}{r|}{$198,4984$}  & 
+\multicolumn{1}{r|}{$0.80$}   & 
+saving modelfile: model_file_90fms_svr.esplagomis_7.24_4.63_3.97_0.80.pkl
+Running the __wer__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: wer EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$22.08$}  & 
+\multicolumn{1}{r|}{$21.56$}  & 
+\multicolumn{1}{r|}{$15.86$}  & 
+\multicolumn{1}{r|}{$0.08$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: wer EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$4714,21347$}  & 
+\multicolumn{1}{r|}{$4574,21220$}  & 
+\multicolumn{1}{r|}{$3312,20886$}  & 
+\multicolumn{1}{r|}{$0.08$}   & 
+saving modelfile: model_file_60fms_svr.wer_22.08_21.56_15.86_0.08.pkl
+Running the __wer__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_70.train.bbandbothgrounding.wer: No such file or directory
+gzip: run_global_scenario_es_pt_70.test.bbandbothgrounding.wer: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: wer EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$18.20$}  & 
+\multicolumn{1}{r|}{$16.70$}  & 
+\multicolumn{1}{r|}{$13.41$}  & 
+\multicolumn{1}{r|}{$0.31$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: wer EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$3164,17388$}  & 
+\multicolumn{1}{r|}{$2915,17456$}  & 
+\multicolumn{1}{r|}{$2308,17207$}  & 
+\multicolumn{1}{r|}{$0.31$}   & 
+saving modelfile: model_file_70fms_svr.wer_18.20_16.70_13.41_0.31.pkl
+Running the __wer__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_80.train.bbandbothgrounding.wer: No such file or directory
+gzip: run_global_scenario_es_pt_80.test.bbandbothgrounding.wer: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: wer EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$15.29$}  & 
+\multicolumn{1}{r|}{$13.08$}  & 
+\multicolumn{1}{r|}{$11.13$}  & 
+\multicolumn{1}{r|}{$0.53$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: wer EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$2042,13351$}  & 
+\multicolumn{1}{r|}{$1743,13323$}  & 
+\multicolumn{1}{r|}{$1477,13267$}  & 
+\multicolumn{1}{r|}{$0.53$}   & 
+saving modelfile: model_file_80fms_svr.wer_15.29_13.08_11.13_0.53.pkl
+Running the __wer__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_pt_90.train.bbandbothgrounding.wer: No such file or directory
+gzip: run_global_scenario_es_pt_90.test.bbandbothgrounding.wer: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: wer EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$10.42$}  & 
+\multicolumn{1}{r|}{$10.09$}  & 
+\multicolumn{1}{r|}{$7.69$}  & 
+\multicolumn{1}{r|}{$0.12$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: wer EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$662,6351$}  & 
+\multicolumn{1}{r|}{$646,6400$}  & 
+\multicolumn{1}{r|}{$484,6297$}  & 
+\multicolumn{1}{r|}{$0.12$}   & 
+saving modelfile: model_file_90fms_svr.wer_10.42_10.09_7.69_0.12.pkl

@@ -1,0 +1,100 @@
+Running the __wer__ training set with 60 fms and using __dev__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_es_fr_60.test.bbandbothgrounding.wer: No such file or directory
+INFO:root:Opening input files ...
+DEBUG:root:X_train: /home/johneortega/software/quest/learning/features.train.tz
+DEBUG:root:y_train: /home/johneortega/software/quest/learning/success_rates.train.tz
+DEBUG:root:X_test: /home/johneortega/software/quest/learning/features.dev.tz
+DEBUG:root:y_test_path: /home/johneortega/software/quest/learning/success_rates.dev.tz
+INFO:root:Scaling datasets...
+DEBUG:root:X_train shape = 41124,30
+DEBUG:root:X_test shape = 1750,30
+DEBUG:root:X_train after scaling = 41124,30
+DEBUG:root:X_test after scaling = 1750,30
+INFO:root:X_train dimensions before fit(): 41124,30
+INFO:root:y_train dimensions before fit(): 41124
+INFO:root:X_train samples before fit(): [[-0.021 -2.253  1.164 ..., -0.449 -0.524  0.54 ]
+ [-0.021  1.427 -0.645 ..., -0.449 -0.524  0.54 ]
+ [ 1.119 -0.873  1.57  ..., -0.449 -0.524  0.54 ]
+ ..., 
+ [-0.908  1.427 -1.449 ..., -0.449 -1.699 -1.387]
+ [ 0.761 -1.404  1.509 ..., -0.449 -1.699 -1.387]
+ [ 0.761  1.427  0.065 ..., -0.449 -1.699 -1.387]]
+INFO:root:y_train samples before fit(): [ 0.2    0.25   0.125 ...,  0.333  0.091  0.231]
+INFO:root:Running feature selection ExtraTreesRegressor(bootstrap=False, compute_importances=None,
+          criterion='mse', max_depth=None, max_features='auto',
+          max_leaf_nodes=None, min_density=None, min_samples_leaf=1,
+          min_samples_split=2, n_estimators=100, n_jobs=1, oob_score=False,
+          random_state=None, verbose=True)
+[Parallel(n_jobs=1)]: Done   1 jobs       | elapsed:   56.4s
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:   56.4s finished
+INFO:root:these are the features: [ 0.453  0.01   0.033  0.044  0.004  0.009  0.004  0.004  0.004  0.005
+  0.005  0.006  0.005  0.007  0.005  0.008  0.006  0.005  0.05   0.01
+  0.009  0.006  0.07   0.037  0.047  0.05   0.011  0.012  0.035  0.049]
+INFO:root:Num Features: 30
+INFO:root:X_train dimensions after fit_transform(): 41124,9
+INFO:root:y_train dimensions after fit_transform(): 41124
+INFO:root:X_train dimensions after transform(): 41124,9
+INFO:root:y_train dimensions after transform(): 41124
+INFO:root:X_train samples after transform(): [[-0.021  0.878 -2.201 ..., -1.208 -0.524  0.54 ]
+ [-0.021  0.878 -2.201 ..., -1.208 -0.524  0.54 ]
+ [ 1.119 -2.724 -2.064 ..., -0.859 -0.524  0.54 ]
+ ..., 
+ [-0.908  0.878 -2.293 ..., -1.558 -1.699 -1.387]
+ [ 0.761  0.878 -1.788 ..., -1.558 -1.699 -1.387]
+ [ 0.761  0.878 -1.788 ..., -1.558 -1.699 -1.387]]
+INFO:root:y_train samples after transform(): [ 0.2    0.25   0.125 ...,  0.333  0.091  0.231]
+INFO:root:Tuning hyper-parameters for mae
+DEBUG:root:{'kernel': ['rbf'], 'C': array([  1.,  10.]), 'gamma': array([ 0.  ,  0.01]), 'epsilon': array([ 0.1,  0.2])}
+DEBUG:root:[('mae', <function mean_absolute_error at 0x7fda6146ad70>), ('rmse', <function root_mean_squared_error at 0x7fda5f9e9398>)]
+/home/johneortega/software/python/lib/python2.7/site-packages/sklearn/grid_search.py:347: DeprecationWarning: Passing a loss function is deprecated and will be removed in 0.15. Either use strings or score objects. The relevant new parameter is called ''scoring''. 
+  score_func=self.score_func)
+[Parallel(n_jobs=1)]: Done   1 jobs       | elapsed:   37.5s
+[Parallel(n_jobs=1)]: Done  24 out of  24 | elapsed:  9.8min finished
+INFO:root:Best parameters set found on development set:
+INFO:root:{'epsilon': 0.10000000000000001, 'C': 10.0, 'gamma': 0.0001, 'kernel': 'rbf'}
+INFO:root:Tuning hyper-parameters for rmse
+DEBUG:root:{'kernel': ['rbf'], 'C': array([  1.,  10.]), 'gamma': array([ 0.  ,  0.01]), 'epsilon': array([ 0.1,  0.2])}
+DEBUG:root:[('mae', <function mean_absolute_error at 0x7fda6146ad70>), ('rmse', <function root_mean_squared_error at 0x7fda5f9e9398>)]
+/home/johneortega/software/python/lib/python2.7/site-packages/sklearn/grid_search.py:347: DeprecationWarning: Passing a loss function is deprecated and will be removed in 0.15. Either use strings or score objects. The relevant new parameter is called ''scoring''. 
+  score_func=self.score_func)
+[Parallel(n_jobs=1)]: Done   1 jobs       | elapsed:   37.4s
+[Parallel(n_jobs=1)]: Done  24 out of  24 | elapsed:  9.7min finished
+INFO:root:Best parameters set found on development set:
+INFO:root:{'epsilon': 0.10000000000000001, 'C': 1.0, 'gamma': 0.0001, 'kernel': 'rbf'}
+INFO:root:Running learning algorithm SVR(C=1.0, cache_size=200, coef0=0.0, degree=3, epsilon=0.10000000000000001,
+  gamma=0.0001, kernel='rbf', max_iter=-1, probability=False,
+  random_state=None, shrinking=True, tol=0.001, verbose=False)
+INFO:root:reading model file optionFalse
+INFO:root:X_train dimensions after fit(): 41124,9
+INFO:root:y_train dimensions after fit(): 41124
+INFO:root:X_train samples after fit(): [[-0.021  0.878 -2.201 ..., -1.208 -0.524  0.54 ]
+ [-0.021  0.878 -2.201 ..., -1.208 -0.524  0.54 ]
+ [ 1.119 -2.724 -2.064 ..., -0.859 -0.524  0.54 ]
+ ..., 
+ [-0.908  0.878 -2.293 ..., -1.558 -1.699 -1.387]
+ [ 0.761  0.878 -1.788 ..., -1.558 -1.699 -1.387]
+ [ 0.761  0.878 -1.788 ..., -1.558 -1.699 -1.387]]
+INFO:root:y_train samples after fit(): [ 0.2    0.25   0.125 ...,  0.333  0.091  0.231]
+INFO:root:Predicting unseen data using the trained model...
+INFO:root:Evaluating prediction on the test set...
+INFO:root:mae = 0.127120475294
+INFO:root:rmse = 0.144010731989
+INFO:root:Customized scores: 
+INFO:root:pearson_corrcoef = 0.634338849012 1.17437716645e-197
+INFO:root:MAE: = 0.127120475294
+INFO:root:RMSE: = 0.144010731989
+INFO:root:right before ref_thd
+INFO:root:right after ref_thd
+the transformer is: ExtraTreesRegressor(bootstrap=False, compute_importances=None,
+          criterion='mse', max_depth=None, max_features='auto',
+          max_leaf_nodes=None, min_density=None, min_samples_leaf=1,
+          min_samples_split=2, n_estimators=100, n_jobs=1, oob_score=False,
+          random_state=None, verbose=True)
+kernel ['rbf']
+Fitting 3 folds for each of 8 candidates, totalling 24 fits
+Fitting 3 folds for each of 8 candidates, totalling 24 fits
+not valid nubmers
+score for: parse.out.final.oracle is: 0.119091242213
+score for: parse.out.final.predicted is: 0.170205237084
+.16648726228919985647

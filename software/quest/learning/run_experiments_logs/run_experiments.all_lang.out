@@ -1,0 +1,132 @@
+Running the __none__ training set with 90 fms and using __dev__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_90.test.bbandbothgrounding.wer: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$20.95$}  & 
+\multicolumn{1}{r|}{$18.57$}  & 
+\multicolumn{1}{r|}{$18.20$}  & 
+\multicolumn{1}{r|}{$0.87$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$132,630$}  & 
+\multicolumn{1}{r|}{$114,614$}  & 
+\multicolumn{1}{r|}{$113,621$}  & 
+\multicolumn{1}{r|}{$0.87$}   & 
+saving modelfile: model_file_90fms_svr.none_20.95_18.57_18.20_0.87.pkl
+Running the __none__ training set with 90 fms and using __dev__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_90.test.bbandbothgrounding.wer: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$20.95$}  & 
+\multicolumn{1}{r|}{$18.73$}  & 
+\multicolumn{1}{r|}{$18.20$}  & 
+\multicolumn{1}{r|}{$0.81$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$132,630$}  & 
+\multicolumn{1}{r|}{$115,614$}  & 
+\multicolumn{1}{r|}{$113,621$}  & 
+\multicolumn{1}{r|}{$0.81$}   & 
+saving modelfile: model_file_90fms_svr.none_20.95_18.73_18.20_0.81.pkl
+Running the __none__ training set with 90 fms and using __dev__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_90.test.bbandbothgrounding.wer: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$20.95$}  & 
+\multicolumn{1}{r|}{$20.16$}  & 
+\multicolumn{1}{r|}{$18.20$}  & 
+\multicolumn{1}{r|}{$0.29$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$132,630$}  & 
+\multicolumn{1}{r|}{$126,625$}  & 
+\multicolumn{1}{r|}{$113,621$}  & 
+\multicolumn{1}{r|}{$0.29$}   & 
+saving modelfile: model_file_90fms_svr.none_20.95_20.16_18.20_0.29.pkl
+Running the __none__ training set with 90 fms and using __dev__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_90.test.bbandbothgrounding.wer: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$20.95$}  & 
+\multicolumn{1}{r|}{$20.00$}  & 
+\multicolumn{1}{r|}{$18.20$}  & 
+\multicolumn{1}{r|}{$0.35$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$132,630$}  & 
+\multicolumn{1}{r|}{$125,625$}  & 
+\multicolumn{1}{r|}{$113,621$}  & 
+\multicolumn{1}{r|}{$0.35$}   & 
+saving modelfile: model_file_90fms_svr.none_20.95_20.00_18.20_0.35.pkl
+Running the __none__ training set with 90 fms and using __dev__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_90.test.bbandbothgrounding.wer: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$20.95$}  & 
+\multicolumn{1}{r|}{$18.73$}  & 
+\multicolumn{1}{r|}{$18.20$}  & 
+\multicolumn{1}{r|}{$0.81$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$132,630$}  & 
+\multicolumn{1}{r|}{$115,614$}  & 
+\multicolumn{1}{r|}{$113,621$}  & 
+\multicolumn{1}{r|}{$0.81$}   & 
+saving modelfile: model_file_90fms_svr.none_20.95_18.73_18.20_0.81.pkl
+Running the __none__ training set with 90 fms and using __dev__ for testing
+The switchtest flag is: _____
+gzip: run_global_scenario_en_es_90.test.bbandbothgrounding.wer: No such file or directory
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$20.95$}  & 
+\multicolumn{1}{r|}{$18.73$}  & 
+\multicolumn{1}{r|}{$18.20$}  & 
+\multicolumn{1}{r|}{$0.81$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: none EVAL SET: dev ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$132,630$}  & 
+\multicolumn{1}{r|}{$115,614$}  & 
+\multicolumn{1}{r|}{$113,621$}  & 
+\multicolumn{1}{r|}{$0.81$}   & 
+saving modelfile: model_file_90fms_svr.none_20.95_18.73_18.20_0.81.pkl

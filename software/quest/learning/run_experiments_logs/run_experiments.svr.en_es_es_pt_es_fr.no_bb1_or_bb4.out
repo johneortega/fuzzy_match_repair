@@ -1,0 +1,504 @@
+Running the __esplagomis__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$17.35$}  & 
+\multicolumn{1}{r|}{$15.74$}  & 
+\multicolumn{1}{r|}{$14.33$}  & 
+\multicolumn{1}{r|}{$0.53$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$2211,12747$}  & 
+\multicolumn{1}{r|}{$1973,12533$}  & 
+\multicolumn{1}{r|}{$1794,12521$}  & 
+\multicolumn{1}{r|}{$0.53$}   & 
+saving modelfile: model_file_60fms_Etr_test_nof1nof4.nofs.esplagomis_17.35_15.74_14.33_0.53.pkl
+Running the __esplagomis__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$17.29$}  & 
+\multicolumn{1}{r|}{$12.82$}  & 
+\multicolumn{1}{r|}{$10.07$}  & 
+\multicolumn{1}{r|}{$0.62$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$2655,15360$}  & 
+\multicolumn{1}{r|}{$1917,14958$}  & 
+\multicolumn{1}{r|}{$1504,14931$}  & 
+\multicolumn{1}{r|}{$0.62$}   & 
+saving modelfile: model_file_60fms_Etr_test_nof1nof4.nofs.esplagomis_17.29_12.82_10.07_0.62.pkl
+Running the __esplagomis__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$15.27$}  & 
+\multicolumn{1}{r|}{$14.32$}  & 
+\multicolumn{1}{r|}{$10.81$}  & 
+\multicolumn{1}{r|}{$0.21$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$2710,17750$}  & 
+\multicolumn{1}{r|}{$2524,17623$}  & 
+\multicolumn{1}{r|}{$1872,17314$}  & 
+\multicolumn{1}{r|}{$0.21$}   & 
+saving modelfile: model_file_60fms_Etr_test_nof1nof4.nofs.esplagomis_15.27_14.32_10.81_0.21.pkl
+Running the __wer__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: wer EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$21.22$}  & 
+\multicolumn{1}{r|}{$20.91$}  & 
+\multicolumn{1}{r|}{$18.40$}  & 
+\multicolumn{1}{r|}{$0.11$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: wer EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$3279,15449$}  & 
+\multicolumn{1}{r|}{$3221,15405$}  & 
+\multicolumn{1}{r|}{$2815,15298$}  & 
+\multicolumn{1}{r|}{$0.11$}   & 
+saving modelfile: model_file_60fms_Etr_test_nof1nof4.nofs.wer_21.22_20.91_18.40_0.11.pkl
+Running the __wer__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: wer EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$22.08$}  & 
+\multicolumn{1}{r|}{$19.72$}  & 
+\multicolumn{1}{r|}{$15.86$}  & 
+\multicolumn{1}{r|}{$0.38$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: wer EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$4714,21347$}  & 
+\multicolumn{1}{r|}{$4180,21194$}  & 
+\multicolumn{1}{r|}{$3312,20886$}  & 
+\multicolumn{1}{r|}{$0.38$}   & 
+saving modelfile: model_file_60fms_Etr_test_nof1nof4.nofs.wer_22.08_19.72_15.86_0.38.pkl
+Running the __wer__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: wer EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$19.78$}  & 
+\multicolumn{1}{r|}{$19.02$}  & 
+\multicolumn{1}{r|}{$18.56$}  & 
+\multicolumn{1}{r|}{$0.62$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: wer EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$4405,22272$}  & 
+\multicolumn{1}{r|}{$2854,15002$}  & 
+\multicolumn{1}{r|}{$2777,14966$}  & 
+\multicolumn{1}{r|}{$0.62$}   & 
+saving modelfile: model_file_60fms_Etr_test_nof1nof4.nofs.wer_19.78_19.02_18.56_0.62.pkl
+Running the __esplagomis__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$14.74$}  & 
+\multicolumn{1}{r|}{$13.44$}  & 
+\multicolumn{1}{r|}{$11.68$}  & 
+\multicolumn{1}{r|}{$0.43$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1594,10816$}  & 
+\multicolumn{1}{r|}{$1429,10635$}  & 
+\multicolumn{1}{r|}{$1241,10625$}  & 
+\multicolumn{1}{r|}{$0.43$}   & 
+saving modelfile: model_file_70fms_Etr_test_nof1nof4.nofs.esplagomis_14.74_13.44_11.68_0.43.pkl
+Running the __esplagomis__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$13.63$}  & 
+\multicolumn{1}{r|}{$10.57$}  & 
+\multicolumn{1}{r|}{$8.03$}  & 
+\multicolumn{1}{r|}{$0.55$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1705,12505$}  & 
+\multicolumn{1}{r|}{$1307,12370$}  & 
+\multicolumn{1}{r|}{$990,12329$}  & 
+\multicolumn{1}{r|}{$0.55$}   & 
+saving modelfile: model_file_70fms_Etr_test_nof1nof4.nofs.esplagomis_13.63_10.57_8.03_0.55.pkl
+Running the __esplagomis__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$12.17$}  & 
+\multicolumn{1}{r|}{$11.75$}  & 
+\multicolumn{1}{r|}{$8.71$}  & 
+\multicolumn{1}{r|}{$0.12$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1829,15034$}  & 
+\multicolumn{1}{r|}{$1743,14840$}  & 
+\multicolumn{1}{r|}{$1289,14793$}  & 
+\multicolumn{1}{r|}{$0.12$}   & 
+saving modelfile: model_file_70fms_Etr_test_nof1nof4.nofs.esplagomis_12.17_11.75_8.71_0.12.pkl
+Running the __wer__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: wer EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$17.33$}  & 
+\multicolumn{1}{r|}{$17.30$}  & 
+\multicolumn{1}{r|}{$14.42$}  & 
+\multicolumn{1}{r|}{$0.01$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: wer EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$2157,12450$}  & 
+\multicolumn{1}{r|}{$2167,12528$}  & 
+\multicolumn{1}{r|}{$1778,12331$}  & 
+\multicolumn{1}{r|}{$0.01$}   & 
+saving modelfile: model_file_70fms_Etr_test_nof1nof4.nofs.wer_17.33_17.30_14.42_0.01.pkl
+Running the __wer__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: wer EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$18.20$}  & 
+\multicolumn{1}{r|}{$15.93$}  & 
+\multicolumn{1}{r|}{$13.41$}  & 
+\multicolumn{1}{r|}{$0.47$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: wer EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$3164,17388$}  & 
+\multicolumn{1}{r|}{$2774,17411$}  & 
+\multicolumn{1}{r|}{$2308,17207$}  & 
+\multicolumn{1}{r|}{$0.47$}   & 
+saving modelfile: model_file_70fms_Etr_test_nof1nof4.nofs.wer_18.20_15.93_13.41_0.47.pkl
+Running the __wer__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: wer EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$15.97$}  & 
+\multicolumn{1}{r|}{$15.16$}  & 
+\multicolumn{1}{r|}{$14.94$}  & 
+\multicolumn{1}{r|}{$0.79$}   & 
+============ EDIT TABLE =============
+===== FMS: 70 =====================
+===== FILTER: wer EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$2940,18410$}  & 
+\multicolumn{1}{r|}{$1934,12759$}  & 
+\multicolumn{1}{r|}{$1903,12738$}  & 
+\multicolumn{1}{r|}{$0.79$}   & 
+saving modelfile: model_file_70fms_Etr_test_nof1nof4.nofs.wer_15.97_15.16_14.94_0.79.pkl
+Running the __esplagomis__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$11.21$}  & 
+\multicolumn{1}{r|}{$9.21$}  & 
+\multicolumn{1}{r|}{$8.00$}  & 
+\multicolumn{1}{r|}{$0.62$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$796,7103$}  & 
+\multicolumn{1}{r|}{$641,6959$}  & 
+\multicolumn{1}{r|}{$556,6952$}  & 
+\multicolumn{1}{r|}{$0.62$}   & 
+saving modelfile: model_file_80fms_Etr_test_nof1nof4.nofs.esplagomis_11.21_9.21_8.00_0.62.pkl
+Running the __esplagomis__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$10.62$}  & 
+\multicolumn{1}{r|}{$7.47$}  & 
+\multicolumn{1}{r|}{$5.52$}  & 
+\multicolumn{1}{r|}{$0.62$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1010,9509$}  & 
+\multicolumn{1}{r|}{$705,9438$}  & 
+\multicolumn{1}{r|}{$521,9430$}  & 
+\multicolumn{1}{r|}{$0.62$}   & 
+saving modelfile: model_file_80fms_Etr_test_nof1nof4.nofs.esplagomis_10.62_7.47_5.52_0.62.pkl
+Running the __esplagomis__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$9.84$}  & 
+\multicolumn{1}{r|}{$8.30$}  & 
+\multicolumn{1}{r|}{$6.56$}  & 
+\multicolumn{1}{r|}{$0.47$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1211,12307$}  & 
+\multicolumn{1}{r|}{$1008,12148$}  & 
+\multicolumn{1}{r|}{$797,12145$}  & 
+\multicolumn{1}{r|}{$0.47$}   & 
+saving modelfile: model_file_80fms_Etr_test_nof1nof4.nofs.esplagomis_9.84_8.30_6.56_0.47.pkl
+Running the __wer__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: wer EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$13.99$}  & 
+\multicolumn{1}{r|}{$13.66$}  & 
+\multicolumn{1}{r|}{$12.86$}  & 
+\multicolumn{1}{r|}{$0.29$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: wer EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1139,8140$}  & 
+\multicolumn{1}{r|}{$1110,8124$}  & 
+\multicolumn{1}{r|}{$1049,8157$}  & 
+\multicolumn{1}{r|}{$0.29$}   & 
+saving modelfile: model_file_80fms_Etr_test_nof1nof4.nofs.wer_13.99_13.66_12.86_0.29.pkl
+Running the __wer__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: wer EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$15.29$}  & 
+\multicolumn{1}{r|}{$12.18$}  & 
+\multicolumn{1}{r|}{$11.13$}  & 
+\multicolumn{1}{r|}{$0.75$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: wer EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$2042,13351$}  & 
+\multicolumn{1}{r|}{$1617,13271$}  & 
+\multicolumn{1}{r|}{$1477,13267$}  & 
+\multicolumn{1}{r|}{$0.75$}   & 
+saving modelfile: model_file_80fms_Etr_test_nof1nof4.nofs.wer_15.29_12.18_11.13_0.75.pkl
+Running the __wer__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: wer EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$12.48$}  & 
+\multicolumn{1}{r|}{$10.77$}  & 
+\multicolumn{1}{r|}{$9.38$}  & 
+\multicolumn{1}{r|}{$0.55$}   & 
+============ EDIT TABLE =============
+===== FMS: 80 =====================
+===== FILTER: wer EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$1778,14251$}  & 
+\multicolumn{1}{r|}{$1526,14174$}  & 
+\multicolumn{1}{r|}{$1330,14186$}  & 
+\multicolumn{1}{r|}{$0.55$}   & 
+saving modelfile: model_file_80fms_Etr_test_nof1nof4.nofs.wer_12.48_10.77_9.38_0.55.pkl
+Running the __esplagomis__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$7.54$}  & 
+\multicolumn{1}{r|}{$5.15$}  & 
+\multicolumn{1}{r|}{$3.93$}  & 
+\multicolumn{1}{r|}{$0.66$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$277,3673$}  & 
+\multicolumn{1}{r|}{$184,3575$}  & 
+\multicolumn{1}{r|}{$139,3540$}  & 
+\multicolumn{1}{r|}{$0.66$}   & 
+saving modelfile: model_file_90fms_Etr_test_nof1nof4.nofs.esplagomis_7.54_5.15_3.93_0.66.pkl
+Running the __esplagomis__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$7.24$}  & 
+\multicolumn{1}{r|}{$6.00$}  & 
+\multicolumn{1}{r|}{$3.97$}  & 
+\multicolumn{1}{r|}{$0.38$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$365,5039$}  & 
+\multicolumn{1}{r|}{$299,4982$}  & 
+\multicolumn{1}{r|}{$198,4984$}  & 
+\multicolumn{1}{r|}{$0.38$}   & 
+saving modelfile: model_file_90fms_Etr_test_nof1nof4.nofs.esplagomis_7.24_6.00_3.97_0.38.pkl
+Running the __esplagomis__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$6.34$}  & 
+\multicolumn{1}{r|}{$5.28$}  & 
+\multicolumn{1}{r|}{$3.75$}  & 
+\multicolumn{1}{r|}{$0.41$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: esplagomis EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$390,6153$}  & 
+\multicolumn{1}{r|}{$317,6000$}  & 
+\multicolumn{1}{r|}{$225,6002$}  & 
+\multicolumn{1}{r|}{$0.41$}   & 
+saving modelfile: model_file_90fms_Etr_test_nof1nof4.nofs.esplagomis_6.34_5.28_3.75_0.41.pkl
+Running the __wer__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: wer EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$8.55$}  & 
+\multicolumn{1}{r|}{$5.36$}  & 
+\multicolumn{1}{r|}{$5.05$}  & 
+\multicolumn{1}{r|}{$0.91$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: wer EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$330,3860$}  & 
+\multicolumn{1}{r|}{$203,3790$}  & 
+\multicolumn{1}{r|}{$192,3801$}  & 
+\multicolumn{1}{r|}{$0.91$}   & 
+saving modelfile: model_file_90fms_Etr_test_nof1nof4.nofs.wer_8.55_5.36_5.05_0.91.pkl
+Running the __wer__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: wer EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$10.42$}  & 
+\multicolumn{1}{r|}{$9.58$}  & 
+\multicolumn{1}{r|}{$7.69$}  & 
+\multicolumn{1}{r|}{$0.31$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: wer EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$662,6351$}  & 
+\multicolumn{1}{r|}{$606,6327$}  & 
+\multicolumn{1}{r|}{$484,6297$}  & 
+\multicolumn{1}{r|}{$0.31$}   & 
+saving modelfile: model_file_90fms_Etr_test_nof1nof4.nofs.wer_10.42_9.58_7.69_0.31.pkl
+Running the __wer__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: wer EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$7.71$}  & 
+\multicolumn{1}{r|}{$7.07$}  & 
+\multicolumn{1}{r|}{$5.36$}  & 
+\multicolumn{1}{r|}{$0.27$}   & 
+============ EDIT TABLE =============
+===== FMS: 90 =====================
+===== FILTER: wer EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$530,6873$}  & 
+\multicolumn{1}{r|}{$486,6877$}  & 
+\multicolumn{1}{r|}{$366,6822$}  & 
+\multicolumn{1}{r|}{$0.27$}   & 
+saving modelfile: model_file_90fms_Etr_test_nof1nof4.nofs.wer_7.71_7.07_5.36_0.27.pkl

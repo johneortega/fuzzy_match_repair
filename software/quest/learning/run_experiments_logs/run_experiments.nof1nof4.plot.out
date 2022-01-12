@@ -1,0 +1,21 @@
+Running the __wer__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: _____
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: wer EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$22.08$}  & 
+\multicolumn{1}{r|}{$17.93$}  & 
+\multicolumn{1}{r|}{$15.86$}  & 
+\multicolumn{1}{r|}{$0.67$}   & 
+============ EDIT TABLE =============
+===== FMS: 60 =====================
+===== FILTER: wer EVAL SET: test ======
+===== SWITCH:  ======
+====================================
+\multicolumn{1}{r|}{$4714,21347$}  & 
+\multicolumn{1}{r|}{$3759,20970$}  & 
+\multicolumn{1}{r|}{$3312,20886$}  & 
+\multicolumn{1}{r|}{$0.67$}   & 
+saving modelfile: model_file_60fms_Etr_test_nof1nof4.nofs.wer_22.08_17.93_15.86_0.67.pkl

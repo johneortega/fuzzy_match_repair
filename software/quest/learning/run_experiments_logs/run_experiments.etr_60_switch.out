@@ -1,0 +1,24 @@
+Running the __esplagomis__ training set with 60 fms and using __test__ for testing
+The switchtest flag is: __switchtest___
+Copying switchtest model_file_en_es/model_file_60fms_etr_nofs.esplagomis.pkl model_file.pkl
+trying switchtest
+.21224674736228882128
+saving modelfile: model_file_60fms_etr_nofs.esplagomis_2815_15298_3018_15333_3279_15449.pkl
+Running the __esplagomis__ training set with 70 fms and using __test__ for testing
+The switchtest flag is: __switchtest___
+Copying switchtest model_file_en_es/model_file_70fms_etr_nofs.esplagomis.pkl model_file.pkl
+trying switchtest
+.17325301204819277108
+saving modelfile: model_file_70fms_etr_nofs.esplagomis_1778_12331_1936_12341_2157_12450.pkl
+Running the __esplagomis__ training set with 80 fms and using __test__ for testing
+The switchtest flag is: __switchtest___
+Copying switchtest model_file_en_es/model_file_80fms_etr_nofs.esplagomis.pkl model_file.pkl
+trying switchtest
+.13992628992628992628
+saving modelfile: model_file_80fms_etr_nofs.esplagomis_889_8064_976_8058_1139_8140.pkl
+Running the __esplagomis__ training set with 90 fms and using __test__ for testing
+The switchtest flag is: __switchtest___
+Copying switchtest model_file_en_es/model_file_90fms_etr_nofs.esplagomis.pkl model_file.pkl
+trying switchtest
+.08549222797927461139
+saving modelfile: model_file_90fms_etr_nofs.esplagomis_192_3801_214_3790_330_3860.pkl
