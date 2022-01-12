@@ -1,0 +1,4 @@
+
+      
+    lt-proc -w -e '/home/johneortega/software/apertium/local/share/apertium/apertium-deu/deu.automorf.bin' | cg-conv -a -r| vislcg3 --trace -g '/home/johneortega/software/apertium/local/share/apertium/apertium-deu/apertium-deu.deu.rlx' 
+  

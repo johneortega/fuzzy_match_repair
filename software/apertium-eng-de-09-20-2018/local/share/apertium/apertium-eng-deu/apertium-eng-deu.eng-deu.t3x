@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?> <!-- -*- nxml -*- -->
+<postchunk>
+
+	<section-def-cats>
+
+		<def-cat n="nom">
+			<cat-item name="nom"/>
+		</def-cat>
+		<def-cat n="det_nom">
+			<cat-item name="det_nom"/>
+		</def-cat>
+		<def-cat n="prn">
+			<cat-item name="prn"/>
+		</def-cat>
+		<def-cat n="verb">
+			<cat-item name="verb"/>
+		</def-cat>
+
+	</section-def-cats>
+
+	<section-def-attrs>
+		<def-attr n="a_gen">			<!-- Gender -->
+			<attr-item tags="m"/>
+			<attr-item tags="f"/>
+			<attr-item tags="nt"/>
+			<attr-item tags="mf"/>
+			<attr-item tags="mfn"/>
+			<attr-item tags="GD"/>
+		</def-attr>
+		<def-attr n="a_nbr">			<!-- Number -->
+			<attr-item tags="sg"/>
+			<attr-item tags="pl"/>
+			<attr-item tags="sp"/>
+			<attr-item tags="ND"/>
+		</def-attr>
+		<def-attr n="a_nom">
+			<attr-item tags="n"/>
+			<attr-item tags="np"/>
+		</def-attr>
+		<def-attr n="a_prn">
+			<attr-item tags="prn"/>
+		</def-attr>
+	</section-def-attrs>
+
+	<section-def-vars>
+		<def-var n="v_gen"/>
+		<def-var n="v_nbr"/>
+	</section-def-vars>
+
+
+	<section-rules>
+
+		<rule comment="CHUNK: det_nom">
+			<pattern>
+				<pattern-item n="det_nom"/>
+			</pattern>
+			<action>
+				<out>
+					<lu>
+						<clip pos="1" part="whole"/>
+					</lu>
+					<b pos="1"/>
+					<lu>
+						<clip pos="2" part="whole"/>
+					</lu>
+				</out>
+			</action>
+		</rule>
+
+		<rule comment="CHUNK: nom">
+			<pattern>
+				<pattern-item n="nom"/>
+			</pattern>
+			<action>
+				<out>
+					<lu>
+						<clip pos="1" part="whole"/>
+					</lu>
+				</out>
+			</action>
+		</rule>
+
+		<rule comment="CHUNK: prn">
+			<pattern>
+				<pattern-item n="prn"/>
+			</pattern>
+			<action>
+				<out>
+					<lu>
+						<clip pos="1" part="whole"/>
+					</lu>
+				</out>
+			</action>
+		</rule>
+
+		<rule comment="CHUNK: verb">
+			<pattern>
+				<pattern-item n="verb"/>
+			</pattern>
+			<action>
+				<out>
+					<lu>
+						<clip pos="1" part="whole"/>
+					</lu>
+				</out>
+			</action>
+		</rule>
+		
+	</section-rules>
+</postchunk>

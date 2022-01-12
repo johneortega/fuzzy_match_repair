@@ -1,0 +1,4 @@
+
+      
+    lt-proc -w '/home/johneortega/software/apertium/local/share/apertium/apertium-eng/eng.automorf.bin' | cg-proc -w '/home/johneortega/software/apertium/local/share/apertium/apertium-eng/eng.rlx.bin' 
+  

@@ -1,0 +1,26 @@
+#!/bin/bash
+APERTIUM_PATH="/home/johneortega/software/apertium/local/bin"
+LTTOOLBOX_PATH="/home/johneortega/software/apertium/local/bin"
+XSLTPROC_OPTIONS_LR=""
+XSLTPROC_OPTIONS_RL="--stringparam r2l yes"
+STYLESHEET="/home/johneortega/software/apertium/local/share/apertium/lexchoicebil.xsl"
+if [ $# != 3 ]
+then echo "USAGE: $(basename $0) lr|rl <input_file> <output_file>";
+     exit 1;
+fi
+
+FILE1=$2;
+FILE2=$3;
+
+if [ ! -e $2 ] 
+then echo "ERROR: '$1' file not found";
+     exit 1;
+fi
+
+if [ $1 = "lr" ]
+then xsltproc $XSLTPROC_OPTIONS_LR $STYLESHEET $FILE1 >$FILE2
+elif [ $1 = "rl" ]
+then xsltproc $XSLTPROC_OPTIONS_RL $STYLESHEET $FILE1 >$FILE2
+else 
+  echo "ERROR: $1 option invalid";
+fi

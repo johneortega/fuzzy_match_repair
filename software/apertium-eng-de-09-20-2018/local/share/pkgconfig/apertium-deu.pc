@@ -1,0 +1,7 @@
+prefix=/home/johneortega/software/apertium/local
+exec_prefix=${prefix}
+srcdir=${prefix}/share/apertium/apertium-deu
+
+Name: apertium-deu
+Description: Finite-state morphological transducer and constraint grammar for German
+Version: 0.1.0

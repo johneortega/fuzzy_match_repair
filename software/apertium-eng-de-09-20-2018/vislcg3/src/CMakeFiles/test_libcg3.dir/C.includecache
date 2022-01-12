@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/johneortega/software/apertium/vislcg3/src/cg3.h
+stddef.h
+-
+stdint.h
+-
+stdio.h
+-
+
+/home/johneortega/software/apertium/vislcg3/src/test_libcg3.c
+cg3.h
+/home/johneortega/software/apertium/vislcg3/src/cg3.h
+stdio.h
+-
+

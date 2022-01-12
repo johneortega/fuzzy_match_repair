@@ -1,0 +1,36 @@
+#!/bin/bash
+if [ $# != 2 ]
+then if [ $# != 3 ]
+     then echo "USAGE: $(basename $0) [-O] <input_file> <output_file>";
+          exit 1;
+     elif [ $1 != "-O" ]
+     then echo "USAGE: $(basename $0) [-O] <input file> <output_file>";
+          exit 1;
+     fi
+fi
+
+FLEXOPTS=""
+FILE1=$1;
+FILE2=$2;
+
+if [ $# = 2 ]
+then if [ ! -e $1 ] 
+     then echo "ERROR: '$1' file not found";
+          exit 1;
+     fi 
+fi
+
+if [ $# = 3 ]
+then if [ ! -e $2 ]
+     then echo "ERROR: '$2' file not found";
+          exit 1;
+     fi
+     FLEXOPTS="-Cfer";
+     FILE1=$2;
+     FILE2=$3;
+fi
+/usr/bin/xmllint --dtdvalid /home/johneortega/software/apertium/local/share/apertium/format.dtd --noout $FILE1 && \
+/usr/bin/xsltproc /home/johneortega/software/apertium/local/share/apertium/reformat.xsl $FILE1 >/tmp/$$.reformat.l && \
+/usr/bin/flex $FLEXOPTS -o/tmp/$$.lex.cc /tmp/$$.reformat.l && \
+g++ -DGENFORMAT -Wall -ansi -O3 -mtune=nocona                   -fomit-frame-pointer -funroll-loops  -w -I/home/johneortega/software/apertium/local/include/lttoolbox-3.2 -I/home/johneortega/software/apertium/local/lib/lttoolbox-3.2/include -I/usr/include/libxml2   -I /home/johneortega/software/apertium/local/include/apertium-3.2 -o $FILE2 /tmp/$$.lex.cc -L/home/johneortega/software/apertium/local/lib -llttoolbox3 -lxml2 -lpcre   2>/dev/null &&\
+rm /tmp/$$.reformat.l /tmp/$$.lex.cc

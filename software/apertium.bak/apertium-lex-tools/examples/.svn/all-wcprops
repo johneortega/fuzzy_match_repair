@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/apertium/svn/!svn/ver/36373/trunk/apertium-lex-tools/examples
+END
+rules.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/apertium/svn/!svn/ver/35542/trunk/apertium-lex-tools/examples/rules.txt
+END
+rules.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/apertium/svn/!svn/ver/36373/trunk/apertium-lex-tools/examples/rules.xml
+END
+freq.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/apertium/svn/!svn/ver/35542/trunk/apertium-lex-tools/examples/freq.txt
+END

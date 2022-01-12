@@ -1,0 +1,6 @@
+
+<rules>
+  <rule><match lemma="avantage" tags="n.m.*"><select lemma="ventaja" tags="n.*"/></match></rule>
+  <rule><match lemma="avoir" tags="n.m.*"><select lemma="haber" tags="n.*"/></match></rule>
+  <rule><match lemma="dépôt" tags="n.m.*"><select lemma="depósito" tags="n.*"/></match></rule>
+</rules>

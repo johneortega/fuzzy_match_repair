@@ -1,0 +1,5 @@
+
+  
+    lt-proc '/home/johneortega/software/apertium/apertium-en-es/es-en.automorf.bin' | apertium-tagger -g $2 '/home/johneortega/software/apertium/apertium-en-es/es-en.prob' | apertium-pretransfer| lt-proc -b '/home/johneortega/software/apertium/apertium-en-es/es-en.autobil.bin' | lrx-proc -m '/home/johneortega/software/apertium/apertium-en-es/es-en.autolex.bin' | apertium-transfer -b '/home/johneortega/software/apertium/apertium-en-es/apertium-en-es.es-en.t1x'  '/home/johneortega/software/apertium/apertium-en-es/es-en.t1x.bin' | apertium-interchunk '/home/johneortega/software/apertium/apertium-en-es/apertium-en-es.es-en.t2x'  '/home/johneortega/software/apertium/apertium-en-es/es-en.t2x.bin' | apertium-postchunk '/home/johneortega/software/apertium/apertium-en-es/apertium-en-es.es-en.t3x'  '/home/johneortega/software/apertium/apertium-en-es/es-en.t3x.bin' | lt-proc $1 '/home/johneortega/software/apertium/apertium-en-es/es-en.autogen.bin' 
+  
+  

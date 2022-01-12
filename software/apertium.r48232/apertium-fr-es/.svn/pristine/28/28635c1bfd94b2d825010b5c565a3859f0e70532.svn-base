@@ -1,0 +1,996 @@
+      1 <e><p><l>achever<s n="vblex"/></l><r>400%<s n="num"/><s n="percent"/></r></p></e>
+      1 <e><p><l>achever<s n="vblex"/></l><r>A pesar de<s n="pr"/></r></p></e>
+      1 <e><p><l>achever<s n="vblex"/></l><r>cerrar<s n="vblex"/></r></p></e>
+      1 <e><p><l>achever<s n="vblex"/></l><r>complementar<s n="vblex"/></r></p></e>
+      1 <e><p><l>achever<s n="vblex"/></l><r>dar<s n="vblex"/></r></p></e>
+      1 <e><p><l>achever<s n="vblex"/></l><r>efectuar<s n="vblex"/></r></p></e>
+      1 <e><p><l>achever<s n="vblex"/></l><r>establecer<s n="vblex"/></r></p></e>
+      1 <e><p><l>achever<s n="vblex"/></l><r>*estancado<s n=""/></r></p></e>
+      1 <e><p><l>achever<s n="vblex"/></l><r>*estática<s n=""/></r></p></e>
+      1 <e><p><l>achever<s n="vblex"/></l><r>favorable<s n="adj"/></r></p></e>
+      1 <e><p><l>achever<s n="vblex"/></l><r>feliz<s n="adj"/><s n="mf"/></r></p></e>
+      1 <e><p><l>achever<s n="vblex"/></l><r>fijar<s n="vblex"/></r></p></e>
+      1 <e><p><l>achever<s n="vblex"/></l><r>horario laboral<s n="n"/></r></p></e>
+      1 <e><p><l>achever<s n="vblex"/></l><r>identificar<s n="vblex"/></r></p></e>
+      1 <e><p><l>achever<s n="vblex"/></l><r>inaugurar<s n="vblex"/></r></p></e>
+      1 <e><p><l>achever<s n="vblex"/></l><r>leer<s n="vblex"/></r></p></e>
+      1 <e><p><l>achever<s n="vblex"/></l><r>llegar<s n="vblex"/></r></p></e>
+      1 <e><p><l>achever<s n="vblex"/></l><r>llevar# a cabo<s n="vblex"/></r></p></e>
+      1 <e><p><l>achever<s n="vblex"/></l><r>llevar<s n="vblex"/></r></p></e>
+      1 <e><p><l>achever<s n="vblex"/></l><r>querer<s n="vbmod"/></r></p></e>
+      1 <e><p><l>achever<s n="vblex"/></l><r>recorrido<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+      1 <e><p><l>achever<s n="vblex"/></l><r>rematar<s n="vblex"/></r></p></e>
+      1 <e><p><l>achever<s n="vblex"/></l><r>renovar<s n="vblex"/></r></p></e>
+      1 <e><p><l>achever<s n="vblex"/></l><r>resolver<s n="vblex"/></r></p></e>
+      1 <e><p><l>achever<s n="vblex"/></l><r>Ser<s n="vbser"/></r></p></e>
+      1 <e><p><l>achever<s n="vblex"/></l><r>Someter<s n="vblex"/></r></p></e>
+      1 <e><p><l>achever<s n="vblex"/></l><r>TENER<s n="vblex"/></r></p></e>
+      1 <e><p><l>achever<s n="vblex"/></l><r>turno<s n="n"/></r></p></e>
+      1 <e><p><l>achever<s n="vblex"/></l><r>ultimar<s n="vblex"/></r></p></e>
+      1 <e><p><l>alimentaire<s n="adj"/><s n="mf"/></l><r>Acuerdo<s n="n"/></r></p></e>
+      1 <e><p><l>alimentaire<s n="adj"/><s n="mf"/></l><r>alimentar<s n="vblex"/></r></p></e>
+      1 <e><p><l>alimentaire<s n="adj"/><s n="mf"/></l><r>ascender<s n="vblex"/></r></p></e>
+      1 <e><p><l>alimentaire<s n="adj"/><s n="mf"/></l><r>*canalizada<s n=""/></r></p></e>
+      1 <e><p><l>alimentaire<s n="adj"/><s n="mf"/></l><r>*canaliza<s n=""/></r></p></e>
+      1 <e><p><l>alimentaire<s n="adj"/><s n="mf"/></l><r>*cuestionables<s n=""/></r></p></e>
+      1 <e><p><l>alimentaire<s n="adj"/><s n="mf"/></l><r>dejar<s n="vblex"/></r></p></e>
+      1 <e><p><l>alimentaire<s n="adj"/><s n="mf"/></l><r>destinar<s n="vblex"/></r></p></e>
+      1 <e><p><l>alimentaire<s n="adj"/><s n="mf"/></l><r>dieta<s n="n"/><s n="f"/></r></p></e>
+      1 <e><p><l>alimentaire<s n="adj"/><s n="mf"/></l><r>donante<s n="n"/><s n="mf"/></r></p></e>
+      1 <e><p><l>alimentaire<s n="adj"/><s n="mf"/></l><r>equivocar<s n="vblex"/></r></p></e>
+      1 <e><p><l>alimentaire<s n="adj"/><s n="mf"/></l><r>informar<s n="vblex"/></r></p></e>
+      1 <e><p><l>alimentaire<s n="adj"/><s n="mf"/></l><r>interacción<s n="n"/></r></p></e>
+      1 <e><p><l>alimentaire<s n="adj"/><s n="mf"/></l><r>intoxicación<s n="n"/></r></p></e>
+      1 <e><p><l>alimentaire<s n="adj"/><s n="mf"/></l><r>libro<s n="n"/></r></p></e>
+      1 <e><p><l>alimentaire<s n="adj"/><s n="mf"/></l><r>nutrición<s n="n"/></r></p></e>
+      1 <e><p><l>alimentaire<s n="adj"/><s n="mf"/></l><r>*nutrientes<s n=""/></r></p></e>
+      1 <e><p><l>alimentaire<s n="adj"/><s n="mf"/></l><r>*piensos<s n=""/></r></p></e>
+      1 <e><p><l>alimentaire<s n="adj"/><s n="mf"/></l><r>productor<s n="adj"/></r></p></e>
+      1 <e><p><l>alimentaire<s n="adj"/><s n="mf"/></l><r>proporcionar<s n="vblex"/></r></p></e>
+      1 <e><p><l>alimentaire<s n="adj"/><s n="mf"/></l><r>querer<s n="vblex"/></r></p></e>
+      1 <e><p><l>alimentaire<s n="adj"/><s n="mf"/></l><r>realizar<s n="vblex"/></r></p></e>
+      1 <e><p><l>alimentaire<s n="adj"/><s n="mf"/></l><r>referir<s n="vblex"/></r></p></e>
+      1 <e><p><l>alimentaire<s n="adj"/><s n="mf"/></l><r>seguir<s n="vblex"/></r></p></e>
+      1 <e><p><l>alimentaire<s n="adj"/><s n="mf"/></l><r>*sustancial<s n=""/></r></p></e>
+      1 <e><p><l>ascendant<s n="adj"/><s n="f"/></l><r>situar<s n="vblex"/></r></p></e>
+      1 <e><p><l>autonome<s n="adj"/><s n="mf"/></l><r>asimétrico<s n="adj"/><s n="f"/></r></p></e>
+      1 <e><p><l>autonome<s n="adj"/><s n="mf"/></l><r>a tenor de<s n="pr"/></r></p></e>
+      1 <e><p><l>autonome<s n="adj"/><s n="mf"/></l><r>autogobierno<s n="n"/></r></p></e>
+      1 <e><p><l>autonome<s n="adj"/><s n="mf"/></l><r>*autónomamente<s n=""/></r></p></e>
+      1 <e><p><l>autonome<s n="adj"/><s n="mf"/></l><r>*autosuficiente<s n=""/></r></p></e>
+      1 <e><p><l>autonome<s n="adj"/><s n="mf"/></l><r>chocante<s n="adj"/><s n="mf"/></r></p></e>
+      1 <e><p><l>autonome<s n="adj"/><s n="mf"/></l><r>corresponder<s n="vblex"/></r></p></e>
+      1 <e><p><l>autonome<s n="adj"/><s n="mf"/></l><r>enseñar<s n="vblex"/></r></p></e>
+      1 <e><p><l>autonome<s n="adj"/><s n="mf"/></l><r>fuerza<s n="n"/></r></p></e>
+      1 <e><p><l>autonome<s n="adj"/><s n="mf"/></l><r>*XUAR<s n=""/></r></p></e>
+      1 <e><p><l>avantage<s n="n"/><s n="m"/></l><r>acompañar<s n="vblex"/></r></p></e>
+      1 <e><p><l>avantage<s n="n"/><s n="m"/></l><r>ajustar<s n="vblex"/></r></p></e>
+      1 <e><p><l>avantage<s n="n"/><s n="m"/></l><r>buscar<s n="vblex"/></r></p></e>
+      1 <e><p><l>avantage<s n="n"/><s n="m"/></l><r>contar<s n="vblex"/></r></p></e>
+      1 <e><p><l>avantage<s n="n"/><s n="m"/></l><r>contener<s n="vblex"/></r></p></e>
+      1 <e><p><l>avantage<s n="n"/><s n="m"/></l><r>convencer<s n="vblex"/></r></p></e>
+      1 <e><p><l>avantage<s n="n"/><s n="m"/></l><r>cumplir<s n="vblex"/></r></p></e>
+      1 <e><p><l>avantage<s n="n"/><s n="m"/></l><r>documentar<s n="vblex"/></r></p></e>
+      1 <e><p><l>avantage<s n="n"/><s n="m"/></l><r>encubrir<s n="vblex"/></r></p></e>
+      1 <e><p><l>avantage<s n="n"/><s n="m"/></l><r>equiparable<s n="adj"/></r></p></e>
+      1 <e><p><l>avantage<s n="n"/><s n="m"/></l><r>exención fiscal<s n="n"/></r></p></e>
+      1 <e><p><l>avantage<s n="n"/><s n="m"/></l><r>Existir<s n="vblex"/></r></p></e>
+      1 <e><p><l>avantage<s n="n"/><s n="m"/></l><r>favorecer<s n="vblex"/></r></p></e>
+      1 <e><p><l>avantage<s n="n"/><s n="m"/></l><r>haber<s n="vbhaver"/></r></p></e>
+      1 <e><p><l>avantage<s n="n"/><s n="m"/></l><r>Hacer<s n="vblex"/></r></p></e>
+      1 <e><p><l>avantage<s n="n"/><s n="m"/></l><r>implicación<s n="n"/></r></p></e>
+      1 <e><p><l>avantage<s n="n"/><s n="m"/></l><r>*intensamente<s n=""/></r></p></e>
+      1 <e><p><l>avantage<s n="n"/><s n="m"/></l><r>Justo<s n="adj"/><s n="f"/></r></p></e>
+      1 <e><p><l>avantage<s n="n"/><s n="m"/></l><r>magnífico<s n="adj"/><s n="f"/></r></p></e>
+      1 <e><p><l>avantage<s n="n"/><s n="m"/></l><r>México<s n="np"/></r></p></e>
+      1 <e><p><l>avantage<s n="n"/><s n="m"/></l><r>*moralista<s n=""/></r></p></e>
+      1 <e><p><l>avantage<s n="n"/><s n="m"/></l><r>parlamentario<s n="adj"/><s n="m"/></r></p></e>
+      1 <e><p><l>avantage<s n="n"/><s n="m"/></l><r>permitir<s n="vblex"/></r></p></e>
+      1 <e><p><l>avantage<s n="n"/><s n="m"/></l><r>prejuicio<s n="n"/></r></p></e>
+      1 <e><p><l>avantage<s n="n"/><s n="m"/></l><r>premio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+      1 <e><p><l>avantage<s n="n"/><s n="m"/></l><r>*proclive<s n=""/></r></p></e>
+      1 <e><p><l>avantage<s n="n"/><s n="m"/></l><r>provecho<s n="n"/></r></p></e>
+      1 <e><p><l>avantage<s n="n"/><s n="m"/></l><r>*providencial<s n=""/></r></p></e>
+      1 <e><p><l>avantage<s n="n"/><s n="m"/></l><r>*rapé<s n=""/></r></p></e>
+      1 <e><p><l>avantage<s n="n"/><s n="m"/></l><r>salir<s n="vblex"/></r></p></e>
+      1 <e><p><l>avantage<s n="n"/><s n="m"/></l><r>similar<s n="adj"/></r></p></e>
+      1 <e><p><l>avantage<s n="n"/><s n="m"/></l><r>*supeditar<s n=""/></r></p></e>
+      1 <e><p><l>avantage<s n="n"/><s n="m"/></l><r>utilidad<s n="n"/></r></p></e>
+      1 <e><p><l>avantage<s n="n"/><s n="m"/></l><r>Utilizar<s n="vblex"/></r></p></e>
+      1 <e><p><l>avantage<s n="n"/><s n="m"/></l><r>ventajoso<s n="adj"/><s n="f"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>-0505<s n="num"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>106<s n="num"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>12.4<s n="num"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>acomodar<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>Adam<s n="np"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>adoptar<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>*Adriático<s n=""/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>*Aid<s n=""/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>alegrar<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>*alentar<s n=""/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>amplio<s n="adj"/><s n="f"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>apoyar<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>apreciación<s n="n"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>apuesta<s n="n"/><s n="f"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>Arafat<s n="np"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>arbitral<s n="adj"/><s n="mf"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>*asentimiento<s n=""/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>asesorar<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>Así que<s n="cnjadv"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>asumir<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>Aun así<s n="adv"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>aviso<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+      1 <e><p><l>Avis<s n="n"/><s n="m"/><s n="sp"/></l><r>Aviso<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>ayudar<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>beneficioso<s n="adj"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>*Berthu<s n=""/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>*Bos<s n=""/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>carburante<s n="n"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>ceñir<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>cigarro<s n="n"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>*coincidencia<s n=""/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>coincidente<s n="adj"/><s n="mf"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>Coincidir<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>combinar<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>cometer<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>compartir<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>competidor<s n="n"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>conceder<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>concertar<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>concordar<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>conmigo<s n="prn"/><s n="tn"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>consecutivo<s n="adj"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>Consejo<s n="n"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>*constructivamente<s n=""/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>Consultar<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>contraposición<s n="n"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>Convenir<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>convocatoria<s n="n"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>*Corrie<s n=""/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>*culposo<s n=""/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>de acuerdo<s n="adv"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>decidir<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>decir<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>defecto<s n="n"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>defender<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>desacuerdo<s n="n"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>*Desama<s n=""/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>Desde hace tiempo<s n="adv"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>detallado<s n="adj"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>devolver<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>*dictaminar<s n=""/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>*discrepamos<s n=""/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>discutir<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>distinguir<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>dividir<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>ebullición<s n="n"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>El Cairo<s n="np"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>empresarial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>En efecto<s n="adv"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>enmarcar<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>enterrar<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>enviar<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>equivocar<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>escribir<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>escuchar<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>esencia<s n="n"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>Estimar<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>estupendo<s n="adj"/><s n="m"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>exagerar<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>examinar<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>exportación<s n="n"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>expresar<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>extranjero<s n="n"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>*folgende<s n=""/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>forma<s n="n"/><s n="f"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>generalmente<s n="adv"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>granito<s n="n"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>hacer# caso omiso<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>ideológico<s n="adj"/><s n="m"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>*implícita<s n=""/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>incomprensible<s n="adj"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>insistir<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>*intermodal<s n=""/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>irregular<s n="adj"/><s n="mf"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>Jurídico<s n="adj"/><s n="m"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>justificar<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>lamentable<s n="adj"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>leer<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>*Linkohr<s n=""/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>mal<s n="adv"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>mañana<s n="n"/><s n="f"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>mantener<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>mayoritario<s n="adj"/><s n="m"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>mencionar<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>*miocardio<s n=""/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>mí<s n="prn"/><s n="tn"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>*Mitrovica<s n=""/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>molestia<s n="n"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>Mujer<s n="n"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>necesitar<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>negociar<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>*Niels<s n=""/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>*OICVM<s n=""/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>parecer<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>particular<s n="n"/><s n="mf"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>*Pateen<s n=""/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>pedir<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>percibir<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>perspectiva<s n="n"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>placer<s n="n"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>plazo máximo<s n="n"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>*ponente<s n=""/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>poner# de manifiesto<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>postura<s n="n"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>*pragmático<s n=""/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>preferencia<s n="n"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>preguntar<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>presente<s n="adj"/><s n="mf"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>previamente<s n="adv"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>problemático<s n="adj"/><s n="m"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>provisional<s n="adj"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>puente<s n="n"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>Realmente<s n="adv"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>recomendar<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>recurrir<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>*Reding<s n=""/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>representar<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>resolver<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>ruso<s n="adj"/><s n="m"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>sano<s n="adj"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>sección<s n="n"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>sentir<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>*Siderurgia<s n=""/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>solidario<s n="adj"/><s n="m"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>Sr<s n="n"/><s n="m"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>sugerir<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>sumar<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>tesis<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>tranquilidad<s n="n"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>transcurrir<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>transmitir<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>trascendencia<s n="n"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>*trascendental<s n=""/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>tratar<s n="vblex"/></r></p></e>
+      1 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>utilidad<s n="n"/></r></p></e>
+      1 <e><p><l>avoir<s n="n"/></l><r>activo<s n="n"/></r></p></e>
+      1 <e><p><l>avoir<s n="n"/></l><r>bien<s n="n"/></r></p></e>
+      1 <e><p><l>avoir<s n="n"/></l><r>decir<s n="vblex"/></r></p></e>
+      1 <e><p><l>avoir<s n="n"/></l><r>elevar<s n="vblex"/></r></p></e>
+      1 <e><p><l>avoir<s n="n"/></l><r>llegar<s n="vblex"/></r></p></e>
+      1 <e><p><l>avoir<s n="n"/></l><r>llenar<s n="vblex"/></r></p></e>
+      1 <e><p><l>avoir<s n="n"/></l><r>mío<s n="adj"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
+      1 <e><p><l>avoir<s n="n"/></l><r>patrimonio<s n="n"/></r></p></e>
+      1 <e><p><l>concours<s n="n"/><s n="m"/><s n="sp"/></l><r>aéreo<s n="adj"/></r></p></e>
+      1 <e><p><l>concours<s n="n"/><s n="m"/><s n="sp"/></l><r>*astronómicos<s n=""/></r></p></e>
+      1 <e><p><l>concours<s n="n"/><s n="m"/><s n="sp"/></l><r>*beauty<s n=""/></r></p></e>
+      1 <e><p><l>concours<s n="n"/><s n="m"/><s n="sp"/></l><r>competitivo<s n="adj"/></r></p></e>
+      1 <e><p><l>concours<s n="n"/><s n="m"/><s n="sp"/></l><r>concurso<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+      1 <e><p><l>concours<s n="n"/><s n="m"/><s n="sp"/></l><r>coordinado<s n="adj"/><s n="m"/></r></p></e>
+      1 <e><p><l>concours<s n="n"/><s n="m"/><s n="sp"/></l><r>Deber<s n="vbmod"/></r></p></e>
+      1 <e><p><l>concours<s n="n"/><s n="m"/><s n="sp"/></l><r>*fructíferamente<s n=""/></r></p></e>
+      1 <e><p><l>concours<s n="n"/><s n="m"/><s n="sp"/></l><r>inscribir<s n="vblex"/></r></p></e>
+      1 <e><p><l>concours<s n="n"/><s n="m"/><s n="sp"/></l><r>Ministro<s n="n"/><s n="f"/></r></p></e>
+      1 <e><p><l>concours<s n="n"/><s n="m"/><s n="sp"/></l><r>notoriedad<s n="n"/></r></p></e>
+      1 <e><p><l>concours<s n="n"/><s n="m"/><s n="sp"/></l><r>participación<s n="n"/></r></p></e>
+      1 <e><p><l>concours<s n="n"/><s n="m"/><s n="sp"/></l><r>*Pomés<s n=""/></r></p></e>
+      1 <e><p><l>concours<s n="n"/><s n="m"/><s n="sp"/></l><r>subjetivo<s n="adj"/></r></p></e>
+      1 <e><p><l>concours<s n="n"/><s n="m"/><s n="sp"/></l><r>velar<s n="vblex"/></r></p></e>
+      1 <e><p><l>concours<s n="n"/><s n="m"/><s n="sp"/></l><r>*Velzen<s n=""/></r></p></e>
+      1 <e><p><l>conséquent<s n="adj"/><s n="f"/></l><r>coherente<s n="adj"/><s n="mf"/></r></p></e>
+      1 <e><p><l>conséquent<s n="adj"/><s n="f"/></l><r>componer<s n="vblex"/></r></p></e>
+      1 <e><p><l>conséquent<s n="adj"/><s n="f"/></l><r>*consiguientemente<s n=""/></r></p></e>
+      1 <e><p><l>conséquent<s n="adj"/><s n="f"/></l><r>Grandes Lagos<s n="np"/></r></p></e>
+      1 <e><p><l>conséquent<s n="adj"/><s n="f"/></l><r>*insolentes<s n=""/></r></p></e>
+      1 <e><p><l>conséquent<s n="adj"/><s n="f"/></l><r>llevar# a cabo<s n="vblex"/></r></p></e>
+      1 <e><p><l>conséquent<s n="adj"/><s n="f"/></l><r>presupuestar<s n="vblex"/></r></p></e>
+      1 <e><p><l>conséquent<s n="adj"/><s n="f"/></l><r>reajuste<s n="n"/></r></p></e>
+      1 <e><p><l>conséquent<s n="adj"/><s n="f"/></l><r>suposición<s n="n"/></r></p></e>
+      1 <e><p><l>conséquent<s n="adj"/><s n="f"/></l><r>Universal<s n="adj"/><s n="mf"/></r></p></e>
+      1 <e><p><l>conséquent<s n="adj"/><s n="m"/></l><r>cerrar<s n="vblex"/></r></p></e>
+      1 <e><p><l>conséquent<s n="adj"/><s n="m"/></l><r>concertar<s n="vblex"/></r></p></e>
+      1 <e><p><l>conséquent<s n="adj"/><s n="m"/></l><r>contener<s n="vblex"/></r></p></e>
+      1 <e><p><l>conséquent<s n="adj"/><s n="m"/></l><r>Contexto<s n="n"/></r></p></e>
+      1 <e><p><l>conséquent<s n="adj"/><s n="m"/></l><r>muestra<s n="n"/><s n="f"/></r></p></e>
+      1 <e><p><l>conséquent<s n="adj"/><s n="m"/></l><r>Nicaragua<s n="np"/></r></p></e>
+      1 <e><p><l>conséquent<s n="adj"/><s n="m"/></l><r>suma<s n="n"/><s n="f"/></r></p></e>
+      1 <e><p><l>décès<s n="n"/><s n="m"/><s n="sp"/></l><r>*Adelaide<s n=""/></r></p></e>
+      1 <e><p><l>décès<s n="n"/><s n="m"/><s n="sp"/></l><r>asociar<s n="vblex"/></r></p></e>
+      1 <e><p><l>décès<s n="n"/><s n="m"/><s n="sp"/></l><r>cardiaco<s n="adj"/><s n="m"/></r></p></e>
+      1 <e><p><l>décès<s n="n"/><s n="m"/><s n="sp"/></l><r>desconocido<s n="adj"/></r></p></e>
+      1 <e><p><l>décès<s n="n"/><s n="m"/><s n="sp"/></l><r>entierro<s n="n"/></r></p></e>
+      1 <e><p><l>décès<s n="n"/><s n="m"/><s n="sp"/></l><r>fallecimiento<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+      1 <e><p><l>décès<s n="n"/><s n="m"/><s n="sp"/></l><r>inquietante<s n="adj"/><s n="mf"/></r></p></e>
+      1 <e><p><l>décès<s n="n"/><s n="m"/><s n="sp"/></l><r>*mortuorias<s n=""/></r></p></e>
+      1 <e><p><l>décès<s n="n"/><s n="m"/><s n="sp"/></l><r>Mundo<s n="n"/></r></p></e>
+      1 <e><p><l>décès<s n="n"/><s n="m"/><s n="sp"/></l><r>pasar<s n="vblex"/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>acontecimiento<s n="n"/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>afirmar<s n="vblex"/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>africano<s n="n"/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>al principio<s n="adv"/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>apertura<s n="n"/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>arrastrar<s n="vblex"/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>atar<s n="vblex"/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>*baremos<s n=""/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>Belgrado<s n="np"/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>confundir<s n="vblex"/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>Conseguir<s n="vblex"/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>cubierta<s n="n"/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>deber<s n="vblex"/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>deber<s n="vbmod"/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>*deplieguen<s n=""/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>determinar<s n="vblex"/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>*Diamantopoulou<s n=""/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>discurso<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>epígrafe<s n="n"/><s n="m"/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>estadounidense<s n="adj"/><s n="mf"/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>estar# sujeto<s n="vblex"/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>*estriba<s n=""/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>evolucionar<s n="vblex"/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>existir<s n="vblex"/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>*expensas<s n=""/></r></p></e>
+      1 <e><p><l>Dépendre<s n="vblex"/></l><r>Fuertemente<s n="adv"/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>generar<s n="vblex"/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>insistir<s n="vblex"/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>*interdependientes<s n=""/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>mano<s n="n"/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>Más bien<s n="adv"/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>mirar<s n="vblex"/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>naturalmente<s n="adv"/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>nutrir<s n="vblex"/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>operar<s n="vblex"/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>*perspicacia<s n=""/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>recurrir<s n="vblex"/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>remunerado<s n="adj"/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>repartir<s n="vblex"/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>soberano<s n="adj"/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>también hay que<s n="cnjadv"/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>transmitir<s n="vblex"/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>validez<s n="n"/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>variar<s n="vblex"/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>vivir<s n="vblex"/></r></p></e>
+      1 <e><p><l>dépendre<s n="vblex"/></l><r>voluntad<s n="n"/></r></p></e>
+      1 <e><p><l>doux<s n="adj"/><s n="f"/></l><r>*blandas<s n=""/></r></p></e>
+      1 <e><p><l>doux<s n="adj"/><s n="f"/></l><r>Entender<s n="vblex"/></r></p></e>
+      1 <e><p><l>doux<s n="adj"/><s n="f"/></l><r>flexible<s n="adj"/></r></p></e>
+      1 <e><p><l>doux<s n="adj"/><s n="f"/></l><r>música<s n="n"/></r></p></e>
+      1 <e><p><l>doux<s n="adj"/><s n="f"/></l><r>suavidad<s n="n"/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="f"/></l><r>accionar<s n="vblex"/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="f"/></l><r>*acidificación<s n=""/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="f"/></l><r>acústico<s n="adj"/><s n="f"/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="f"/></l><r>Agencia<s n="n"/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="f"/></l><r>*antieconómico<s n=""/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="f"/></l><r>asombrar<s n="vblex"/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="f"/></l><r>civil<s n="adj"/><s n="mf"/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="f"/></l><r>conducta<s n="n"/><s n="f"/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="f"/></l><r>creciente<s n="adj"/><s n="mf"/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="f"/></l><r>de diseño<s n="adj"/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="f"/></l><r>*estipulando<s n=""/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="f"/></l><r>fiable<s n="adj"/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="f"/></l><r>gubernamental<s n="adj"/><s n="mf"/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="f"/></l><r>impacto ambiental<s n="n"/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="f"/></l><r>*ISO9000<s n=""/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="f"/></l><r>Jackson<s n="np"/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="f"/></l><r>Laborista<s n="adj"/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="f"/></l><r>loable<s n="adj"/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="f"/></l><r>Medioambiental<s n="adj"/><s n="mf"/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="f"/></l><r>Medio ambiente<s n="n"/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="f"/></l><r>parámetro<s n="n"/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="f"/></l><r>pensar<s n="vblex"/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="f"/></l><r>permitir<s n="vblex"/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="f"/></l><r>política ambiental<s n="n"/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="f"/></l><r>preventivo<s n="adj"/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="f"/></l><r>rentable<s n="adj"/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="f"/></l><r>respetuoso<s n="adj"/><s n="f"/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="f"/></l><r>sincero<s n="adj"/><s n="m"/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="f"/></l><r>.<s n="sent"/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="f"/></l><r>Sospechar<s n="vblex"/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="f"/></l><r>telón<s n="n"/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="f"/></l><r>visible<s n="adj"/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="m"/></l><r>aviso<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="m"/></l><r>conceder<s n="vblex"/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="m"/></l><r>cruzar<s n="vblex"/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="m"/></l><r>*cuantas<s n=""/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="m"/></l><r>defensor<s n="adj"/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="m"/></l><r>detectar<s n="vblex"/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="m"/></l><r>dominar<s n="vblex"/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="m"/></l><r>ecológico<s n="adj"/><s n="m"/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="m"/></l><r>emplazamiento<s n="n"/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="m"/></l><r>*instituyó<s n=""/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="m"/></l><r>*medioambientalmente<s n=""/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="m"/></l><r>originar<s n="vblex"/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="m"/></l><r>Principalmente<s n="adv"/></r></p></e>
+      1 <e><p><l>environnemental<s n="adj"/><s n="m"/></l><r>*resund<s n=""/></r></p></e>
+      1 <e><p><l>excellence<s n="n"/><s n="f"/><s n="sg"/></l><r>definición<s n="n"/></r></p></e>
+      1 <e><p><l>excellence<s n="n"/><s n="f"/><s n="sg"/></l><r>digno<s n="adj"/><s n="m"/></r></p></e>
+      1 <e><p><l>excellence<s n="n"/><s n="f"/><s n="sg"/></l><r>excelentísimo<s n="n"/></r></p></e>
+      1 <e><p><l>excellence<s n="n"/><s n="f"/><s n="sg"/></l><r>*excellence<s n=""/></r></p></e>
+      1 <e><p><l>excellence<s n="n"/><s n="f"/><s n="sg"/></l><r>*Gorsel<s n=""/></r></p></e>
+      1 <e><p><l>excellence<s n="n"/><s n="f"/><s n="sg"/></l><r>ilimitado<s n="adj"/></r></p></e>
+      1 <e><p><l>familier<s n="adj"/><s n="m"/></l><r>conocer<s n="vblex"/></r></p></e>
+      1 <e><p><l>familier<s n="adj"/><s n="m"/></l><r>familiarizar<s n="vblex"/></r></p></e>
+      1 <e><p><l>familier<s n="adj"/><s n="m"/></l><r>*sobra<s n=""/></r></p></e>
+      1 <e><p><l>familier<s n="adj"/><s n="m"/></l><r>transferir<s n="vblex"/></r></p></e>
+      1 <e><p><l>familier<s n="adj"/><s n="m"/></l><r>*Whitehead<s n=""/></r></p></e>
+      1 <e><p><l>frais<s n="n"/><s n="m"/><s n="sp"/></l><r>ahorrar<s n="vblex"/></r></p></e>
+      1 <e><p><l>frais<s n="n"/><s n="m"/><s n="sp"/></l><r>*ASEAN<s n=""/></r></p></e>
+      1 <e><p><l>frais<s n="n"/><s n="m"/><s n="sp"/></l><r>atrapar<s n="vblex"/></r></p></e>
+      1 <e><p><l>frais<s n="n"/><s n="m"/><s n="sp"/></l><r>compraventa<s n="n"/><s n="f"/></r></p></e>
+      1 <e><p><l>frais<s n="n"/><s n="m"/><s n="sp"/></l><r>*condicionantes<s n=""/></r></p></e>
+      1 <e><p><l>frais<s n="n"/><s n="m"/><s n="sp"/></l><r>costar<s n="vblex"/></r></p></e>
+      1 <e><p><l>frais<s n="n"/><s n="m"/><s n="sp"/></l><r>costa<s n="n"/></r></p></e>
+      1 <e><p><l>frais<s n="n"/><s n="m"/><s n="sp"/></l><r>deducir<s n="vblex"/></r></p></e>
+      1 <e><p><l>frais<s n="n"/><s n="m"/><s n="sp"/></l><r>diferencial<s n="adj"/><s n="mf"/></r></p></e>
+      1 <e><p><l>frais<s n="n"/><s n="m"/><s n="sp"/></l><r>empresario<s n="n"/><s n="m"/></r></p></e>
+      1 <e><p><l>frais<s n="n"/><s n="m"/><s n="sp"/></l><r>gratuito<s n="adj"/></r></p></e>
+      1 <e><p><l>frais<s n="n"/><s n="m"/><s n="sp"/></l><r>lento<s n="adj"/></r></p></e>
+      1 <e><p><l>frais<s n="n"/><s n="m"/><s n="sp"/></l><r>miembro<s n="n"/></r></p></e>
+      1 <e><p><l>frais<s n="n"/><s n="m"/><s n="sp"/></l><r>ordinario<s n="adj"/><s n="m"/></r></p></e>
+      1 <e><p><l>frais<s n="n"/><s n="m"/><s n="sp"/></l><r>*orfandad<s n=""/></r></p></e>
+      1 <e><p><l>frais<s n="n"/><s n="m"/><s n="sp"/></l><r>recaudación# de impuestos<s n="n"/></r></p></e>
+      1 <e><p><l>frais<s n="n"/><s n="m"/><s n="sp"/></l><r>resentir<s n="vblex"/></r></p></e>
+      1 <e><p><l>frais<s n="n"/><s n="m"/><s n="sp"/></l><r>suponer<s n="vblex"/></r></p></e>
+      1 <e><p><l>frais<s n="n"/><s n="m"/><s n="sp"/></l><r>volver<s n="vblex"/></r></p></e>
+      1 <e><p><l>garant<s n="n"/><s n="f"/></l><r>*salvaguardia<s n=""/></r></p></e>
+      1 <e><p><l>garant<s n="n"/><s n="m"/></l><r>científico<s n="adj"/><s n="m"/></r></p></e>
+      1 <e><p><l>garant<s n="n"/><s n="m"/></l><r>*impulsor<s n=""/></r></p></e>
+      1 <e><p><l>gigantesque<s n="adj"/><s n="mf"/></l><r>alcance<s n="n"/><s n="m"/></r></p></e>
+      1 <e><p><l>gigantesque<s n="adj"/><s n="mf"/></l><r>brecha<s n="n"/></r></p></e>
+      1 <e><p><l>gigantesque<s n="adj"/><s n="mf"/></l><r>circo<s n="n"/></r></p></e>
+      1 <e><p><l>gigantesque<s n="adj"/><s n="mf"/></l><r>combatir<s n="vblex"/></r></p></e>
+      1 <e><p><l>gigantesque<s n="adj"/><s n="mf"/></l><r>*cuántico<s n=""/></r></p></e>
+      1 <e><p><l>gigantesque<s n="adj"/><s n="mf"/></l><r>*descomunal<s n=""/></r></p></e>
+      1 <e><p><l>gigantesque<s n="adj"/><s n="mf"/></l><r>deslucido<s n="adj"/><s n="m"/></r></p></e>
+      1 <e><p><l>gigantesque<s n="adj"/><s n="mf"/></l><r>*desorbitadas<s n=""/></r></p></e>
+      1 <e><p><l>gigantesque<s n="adj"/><s n="mf"/></l><r>enorme<s n="adj"/></r></p></e>
+      1 <e><p><l>gigantesque<s n="adj"/><s n="mf"/></l><r>era<s n="n"/></r></p></e>
+      1 <e><p><l>gigantesque<s n="adj"/><s n="mf"/></l><r>fiesta<s n="n"/></r></p></e>
+      1 <e><p><l>gigantesque<s n="adj"/><s n="mf"/></l><r>infraestructura<s n="n"/></r></p></e>
+      1 <e><p><l>gigantesque<s n="adj"/><s n="mf"/></l><r>oriental<s n="adj"/><s n="mf"/></r></p></e>
+      1 <e><p><l>gigantesque<s n="adj"/><s n="mf"/></l><r>*ridículamente<s n=""/></r></p></e>
+      1 <e><p><l>gigantesque<s n="adj"/><s n="mf"/></l><r>suplementario<s n="adj"/><s n="m"/></r></p></e>
+      1 <e><p><l>gigantesque<s n="adj"/><s n="mf"/></l><r>vasto<s n="adj"/><s n="m"/></r></p></e>
+      1 <e><p><l>magnifique<s n="adj"/><s n="mf"/></l><r>bello<s n="adj"/></r></p></e>
+      1 <e><p><l>magnifique<s n="adj"/><s n="mf"/></l><r>cubrir<s n="vblex"/></r></p></e>
+      1 <e><p><l>magnifique<s n="adj"/><s n="mf"/></l><r>encontrar<s n="vblex"/></r></p></e>
+      1 <e><p><l>magnifique<s n="adj"/><s n="mf"/></l><r>estupendo<s n="adj"/><s n="m"/></r></p></e>
+      1 <e><p><l>magnifique<s n="adj"/><s n="mf"/></l><r>Estupendo<s n="adj"/><s n="m"/></r></p></e>
+      1 <e><p><l>magnifique<s n="adj"/><s n="mf"/></l><r>excelente<s n="adj"/><s n="mf"/></r></p></e>
+      1 <e><p><l>magnifique<s n="adj"/><s n="mf"/></l><r>formidable<s n="adj"/></r></p></e>
+      1 <e><p><l>magnifique<s n="adj"/><s n="mf"/></l><r>*piadosas<s n=""/></r></p></e>
+      1 <e><p><l>magnifique<s n="adj"/><s n="mf"/></l><r>*Rótterdam<s n=""/></r></p></e>
+      1 <e><p><l>magnifique<s n="adj"/><s n="mf"/></l><r>suspender<s n="vblex"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>-0158<s n="num"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>-0161<s n="num"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>80<s n="num"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>adoptar<s n="vblex"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>alimenticio<s n="adj"/><s n="m"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>*Arne<s n=""/></r></p></e>
+      1 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>aspiración<s n="n"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>beneficiar<s n="vblex"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>ceder<s n="vblex"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>Comisión<s n="n"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>compartir<s n="vblex"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>comprensión<s n="n"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>Consultivo<s n="adj"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>*culposo<s n=""/></r></p></e>
+      1 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>dar# cuenta<s n="vblex"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>de moda<s n="adj"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>De<s n="pr"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>*dilapidar<s n=""/></r></p></e>
+      1 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>distinción<s n="n"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>excusar<s n="vblex"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>fomentar<s n="vblex"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>Grupo<s n="n"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>*hinduísta<s n=""/></r></p></e>
+      1 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>impedir<s n="vblex"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>*infligidos<s n=""/></r></p></e>
+      1 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>*laboraron<s n=""/></r></p></e>
+      1 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>Llamar<s n="vblex"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>llevar# a cabo<s n="vblex"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>*módica<s n=""/></r></p></e>
+      1 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>Mujer<s n="n"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>ordinario<s n="adj"/><s n="m"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>Parlamento<s n="n"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>político<s n="adj"/><s n="m"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>presión<s n="n"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>prestar<s n="vblex"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>profusión<s n="n"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>*propagandística<s n=""/></r></p></e>
+      1 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>*pulverizadores<s n=""/></r></p></e>
+      1 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>*Sami<s n=""/></r></p></e>
+      1 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>seguridad<s n="n"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>tranquilizar<s n="vblex"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>*veneración<s n=""/></r></p></e>
+      1 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>voto# a favor<s n="n"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>ágil<s n="adj"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>alcanzar<s n="vblex"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>aplaudir<s n="vblex"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>*Béguin<s n=""/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>Bruce<s n="np"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>convivir<s n="vblex"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>criticar<s n="vblex"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>Delhi<s n="np"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>Demócrata<s n="n"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>despacho<s n="n"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>distinguir<s n="vblex"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>*EDD<s n=""/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>escribir<s n="vblex"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>estar# de acuerdo<s n="vblex"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>*eurodiputados<s n=""/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>*europarlamentarios<s n=""/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>fijar<s n="vblex"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>formular<s n="vblex"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>*Fraga<s n=""/></r></p></e>
+      1 <e><p><l>Parlementaire<s n="n"/><s n="mf"/></l><r>*grandísimo<s n=""/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>*honorables<s n=""/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>interesar<s n="vblex"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>interrupción<s n="n"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>liberal<s n="adj"/><s n="mf"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>llamar<s n="vblex"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>*Mantovani<s n=""/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>octubre<s n="n"/></r></p></e>
+      1 <e><p><l>Parlementaire<s n="n"/><s n="mf"/></l><r>Parlamentario<s n="adj"/><s n="m"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>partido<s n="n"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>pasión<s n="n"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>pedir<s n="vblex"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>político<s n="adj"/><s n="m"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>previo<s n="adj"/><s n="f"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>provenientes de<s n="pr"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>PSE<s n="n"/><s n="acr"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>Reconocer<s n="vblex"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>representar<s n="vblex"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>resaltar<s n="vblex"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>revisar<s n="vblex"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>saber<s n="vblex"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>saludar<s n="vblex"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>señoría<s n="n"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>Siempre que<s n="cnjadv"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>siguiente<s n="adj"/><s n="mf"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>*TDI<s n=""/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>único<s n="adj"/><s n="m"/></r></p></e>
+      1 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>*Zabell<s n=""/></r></p></e>
+      1 <e><p><l>pressant<s n="adj"/><s n="f"/></l><r>monedero<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+      1 <e><p><l>pressant<s n="adj"/><s n="f"/></l><r>negociar<s n="vblex"/></r></p></e>
+      1 <e><p><l>pressant<s n="adj"/><s n="f"/></l><r>*perentoria<s n=""/></r></p></e>
+      1 <e><p><l>pressant<s n="adj"/><s n="m"/></l><r>*acuciantes<s n=""/></r></p></e>
+      1 <e><p><l>pressant<s n="adj"/><s n="m"/></l><r>dirigir<s n="vblex"/></r></p></e>
+      1 <e><p><l>pressant<s n="adj"/><s n="m"/></l><r>enérgico<s n="adj"/><s n="m"/></r></p></e>
+      1 <e><p><l>pressant<s n="adj"/><s n="m"/></l><r>urgentemente<s n="adv"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>abaratamiento<s n="n"/><s n="m"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>abaratar<s n="vblex"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>apreciar<s n="vblex"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>barato<s n="adj"/><s n="f"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>barato<s n="adj"/><s n="m"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>ciego<s n="adj"/><s n="m"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>combatir<s n="vblex"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>competitivo<s n="adj"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>concurso<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>consecuencia<s n="n"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>Dar<s n="vblex"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>deber<s n="vbmod"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>De este modo<s n="adv"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>*deficiency<s n=""/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>*descontrolado<s n=""/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>Descuento<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>desglosar<s n="vblex"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>detrás de<s n="pr"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>diferente<s n="adj"/><s n="mf"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>duradero<s n="adj"/><s n="f"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>echar<s n="vblex"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>empapar<s n="vblex"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>*encarnizada<s n=""/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>esgrimir<s n="vblex"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>*espárragos<s n=""/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>Estar<s n="vblex"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>explosivo<s n="adj"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>fijar<s n="vblex"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>finlandés<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>fundamentar<s n="vblex"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>gastronomía<s n="n"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>*gratitud<s n=""/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>*impagable<s n=""/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>impuesto<s n="n"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>imputar<s n="vblex"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>Luego<s n="adv"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>molestar<s n="vblex"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>Nairobi<s n="np"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>planificar<s n="vblex"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>*pormenorizada<s n=""/></r></p></e>
+      1 <e><p><l>Prix<s n="n"/><s n="m"/><s n="sp"/></l><r>Precio<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+      1 <e><p><l>Prix<s n="n"/><s n="m"/><s n="sp"/></l><r>precio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+      1 <e><p><l>Prix<s n="n"/><s n="m"/><s n="sp"/></l><r>Premio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>preocupante<s n="adj"/><s n="mf"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>presa<s n="n"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>programar<s n="vblex"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>*propiciatorias<s n=""/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>*quebrantamiento<s n=""/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>recaer<s n="vblex"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>recibo<s n="n"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>rendir<s n="vblex"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>requerir<s n="vblex"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>respaldar<s n="vblex"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>romper<s n="vblex"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>*sobreprecios<s n=""/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>tomar<s n="vblex"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>*tosco<s n=""/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>tratamiento<s n="n"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>unilateral<s n="adj"/><s n="mf"/></r></p></e>
+      1 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>utilizar<s n="vblex"/></r></p></e>
+      1 <e><p><l>régional<s n="adj"/><s n="f"/></l><r>50<s n="num"/></r></p></e>
+      1 <e><p><l>régional<s n="adj"/><s n="f"/></l><r>*angus<s n=""/></r></p></e>
+      1 <e><p><l>régional<s n="adj"/><s n="f"/></l><r>banco<s n="n"/></r></p></e>
+      1 <e><p><l>régional<s n="adj"/><s n="f"/></l><r>Bueno<s n="adj"/></r></p></e>
+      1 <e><p><l>régional<s n="adj"/><s n="f"/></l><r>*calzoncillos<s n=""/></r></p></e>
+      1 <e><p><l>régional<s n="adj"/><s n="f"/></l><r>conjunto<s n="adj"/></r></p></e>
+      1 <e><p><l>régional<s n="adj"/><s n="f"/></l><r>*desacatado<s n=""/></r></p></e>
+      1 <e><p><l>régional<s n="adj"/><s n="f"/></l><r>desigualdad<s n="n"/></r></p></e>
+      1 <e><p><l>régional<s n="adj"/><s n="f"/></l><r>federar<s n="vblex"/></r></p></e>
+      1 <e><p><l>régional<s n="adj"/><s n="f"/></l><r>geográfico<s n="adj"/><s n="m"/></r></p></e>
+      1 <e><p><l>régional<s n="adj"/><s n="f"/></l><r>interno<s n="adj"/><s n="f"/></r></p></e>
+      1 <e><p><l>régional<s n="adj"/><s n="f"/></l><r>local<s n="adj"/><s n="mf"/></r></p></e>
+      1 <e><p><l>régional<s n="adj"/><s n="f"/></l><r>nefasto<s n="adj"/><s n="f"/></r></p></e>
+      1 <e><p><l>régional<s n="adj"/><s n="f"/></l><r>orgullo<s n="n"/></r></p></e>
+      1 <e><p><l>régional<s n="adj"/><s n="f"/></l><r>periférico<s n="adj"/><s n="f"/></r></p></e>
+      1 <e><p><l>régional<s n="adj"/><s n="f"/></l><r>región<s n="n"/></r></p></e>
+      1 <e><p><l>régional<s n="adj"/><s n="f"/></l><r>romper<s n="vblex"/></r></p></e>
+      1 <e><p><l>régional<s n="adj"/><s n="m"/></l><r>colateral<s n="adj"/><s n="mf"/></r></p></e>
+      1 <e><p><l>régional<s n="adj"/><s n="m"/></l><r>convincente<s n="adj"/><s n="mf"/></r></p></e>
+      1 <e><p><l>régional<s n="adj"/><s n="m"/></l><r>*desinteresada<s n=""/></r></p></e>
+      1 <e><p><l>régional<s n="adj"/><s n="m"/></l><r>financiar<s n="vblex"/></r></p></e>
+      1 <e><p><l>régional<s n="adj"/><s n="m"/></l><r>influir<s n="vblex"/></r></p></e>
+      1 <e><p><l>régional<s n="adj"/><s n="m"/></l><r>inscribir# en<s n="vblex"/></r></p></e>
+      1 <e><p><l>régional<s n="adj"/><s n="m"/></l><r>*interregionales<s n=""/></r></p></e>
+      1 <e><p><l>régional<s n="adj"/><s n="m"/></l><r>matemático<s n="adj"/><s n="f"/></r></p></e>
+      1 <e><p><l>régional<s n="adj"/><s n="m"/></l><r>ofrecer<s n="vblex"/></r></p></e>
+      1 <e><p><l>régional<s n="adj"/><s n="m"/></l><r>plantear<s n="vblex"/></r></p></e>
+      1 <e><p><l>régional<s n="adj"/><s n="m"/></l><r>Sr<s n="n"/><s n="f"/></r></p></e>
+      1 <e><p><l>riche<s n="adj"/><s n="mf"/></l><r>acaudalado<s n="adj"/></r></p></e>
+      1 <e><p><l>riche<s n="adj"/><s n="mf"/></l><r>adinerado<s n="adj"/><s n="f"/></r></p></e>
+      1 <e><p><l>riche<s n="adj"/><s n="mf"/></l><r>adinerado<s n="adj"/><s n="m"/></r></p></e>
+      1 <e><p><l>riche<s n="adj"/><s n="mf"/></l><r>bueno<s n="adj"/></r></p></e>
+      1 <e><p><l>riche<s n="adj"/><s n="mf"/></l><r>coronar<s n="vblex"/></r></p></e>
+      1 <e><p><l>riche<s n="adj"/><s n="mf"/></l><r>Decir<s n="vblex"/></r></p></e>
+      1 <e><p><l>riche<s n="adj"/><s n="mf"/></l><r>*EU<s n=""/></r></p></e>
+      1 <e><p><l>riche<s n="adj"/><s n="mf"/></l><r>grieta<s n="n"/></r></p></e>
+      1 <e><p><l>riche<s n="adj"/><s n="mf"/></l><r>informativo<s n="adj"/></r></p></e>
+      1 <e><p><l>riche<s n="adj"/><s n="mf"/></l><r>manejar<s n="vblex"/></r></p></e>
+      1 <e><p><l>riche<s n="adj"/><s n="mf"/></l><r>pieza<s n="n"/></r></p></e>
+      1 <e><p><l>riche<s n="adj"/><s n="mf"/></l><r>provisionalmente<s n="adv"/></r></p></e>
+      1 <e><p><l>semblable<s n="adj"/><s n="mf"/></l><r>Afganistán<s n="np"/></r></p></e>
+      1 <e><p><l>semblable<s n="adj"/><s n="mf"/></l><r>análogo<s n="adj"/><s n="f"/></r></p></e>
+      1 <e><p><l>semblable<s n="adj"/><s n="mf"/></l><r>análogo<s n="adj"/><s n="m"/></r></p></e>
+      1 <e><p><l>semblable<s n="adj"/><s n="mf"/></l><r>A su vez<s n="adv"/></r></p></e>
+      1 <e><p><l>semblable<s n="adj"/><s n="mf"/></l><r>catástrofe<s n="n"/></r></p></e>
+      1 <e><p><l>semblable<s n="adj"/><s n="mf"/></l><r>como<s n="pr"/></r></p></e>
+      1 <e><p><l>semblable<s n="adj"/><s n="mf"/></l><r>Compartir<s n="vblex"/></r></p></e>
+      1 <e><p><l>semblable<s n="adj"/><s n="mf"/></l><r>*culebrones<s n=""/></r></p></e>
+      1 <e><p><l>semblable<s n="adj"/><s n="mf"/></l><r>dar<s n="vblex"/></r></p></e>
+      1 <e><p><l>semblable<s n="adj"/><s n="mf"/></l><r>desequilibrar<s n="vblex"/></r></p></e>
+      1 <e><p><l>semblable<s n="adj"/><s n="mf"/></l><r>empobrecer<s n="vblex"/></r></p></e>
+      1 <e><p><l>semblable<s n="adj"/><s n="mf"/></l><r>erigir<s n="vblex"/></r></p></e>
+      1 <e><p><l>semblable<s n="adj"/><s n="mf"/></l><r>fenómeno<s n="n"/></r></p></e>
+      1 <e><p><l>semblable<s n="adj"/><s n="mf"/></l><r>ganar<s n="vblex"/></r></p></e>
+      1 <e><p><l>semblable<s n="adj"/><s n="mf"/></l><r>instaurar<s n="vblex"/></r></p></e>
+      1 <e><p><l>semblable<s n="adj"/><s n="mf"/></l><r>intento<s n="n"/><s n="m"/></r></p></e>
+      1 <e><p><l>semblable<s n="adj"/><s n="mf"/></l><r>Mar Báltico<s n="np"/></r></p></e>
+      1 <e><p><l>semblable<s n="adj"/><s n="mf"/></l><r>ochenta<s n="num"/></r></p></e>
+      1 <e><p><l>semblable<s n="adj"/><s n="mf"/></l><r>Olvidar<s n="vblex"/></r></p></e>
+      1 <e><p><l>semblable<s n="adj"/><s n="mf"/></l><r>parecido<s n="adj"/><s n="m"/></r></p></e>
+      1 <e><p><l>semblable<s n="adj"/><s n="mf"/></l><r>prevenir<s n="vblex"/></r></p></e>
+      1 <e><p><l>semblable<s n="adj"/><s n="mf"/></l><r>prójimo<s n="n"/></r></p></e>
+      1 <e><p><l>semblable<s n="adj"/><s n="mf"/></l><r>repetir<s n="vblex"/></r></p></e>
+      1 <e><p><l>semblable<s n="adj"/><s n="mf"/></l><r>separatista<s n="adj"/></r></p></e>
+      1 <e><p><l>semblable<s n="adj"/><s n="mf"/></l><r>similitud<s n="n"/></r></p></e>
+      1 <e><p><l>semblable<s n="adj"/><s n="mf"/></l><r>*trust<s n=""/></r></p></e>
+      1 <e><p><l>semblable<s n="adj"/><s n="mf"/></l><r>*Wellcome<s n=""/></r></p></e>
+      1 <e><p><l>socio-économique<s n="adj"/><s n="mf"/></l><r>abordar<s n="vblex"/></r></p></e>
+      1 <e><p><l>socio-économique<s n="adj"/><s n="mf"/></l><r>a lo largo<s n="adv"/></r></p></e>
+      1 <e><p><l>socio-économique<s n="adj"/><s n="mf"/></l><r>celebrar<s n="vblex"/></r></p></e>
+      1 <e><p><l>socio-économique<s n="adj"/><s n="mf"/></l><r>destruir<s n="vblex"/></r></p></e>
+      1 <e><p><l>socio-économique<s n="adj"/><s n="mf"/></l><r>*económicio<s n=""/></r></p></e>
+      1 <e><p><l>socio-économique<s n="adj"/><s n="mf"/></l><r>emplear<s n="vblex"/></r></p></e>
+      1 <e><p><l>socio-économique<s n="adj"/><s n="mf"/></l><r>planear<s n="vblex"/></r></p></e>
+      1 <e><p><l>socio-économique<s n="adj"/><s n="mf"/></l><r>primavera<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+      1 <e><p><l>socio-économique<s n="adj"/><s n="mf"/></l><r>socio-económico<s n="adj"/><s n="m"/></r></p></e>
+      1 <e><p><l>subtil<s n="adj"/><s n="m"/></l><r>calcular<s n="vblex"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>1949<s n="num"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>1995<s n="num"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>acaecer<s n="vblex"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>acercar<s n="vblex"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>acuático<s n="adj"/><s n="m"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>afluente<s n="n"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>*Aglietta<s n=""/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>aislar<s n="vblex"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>anoche<s n="adv"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>aparición<s n="n"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>arrastrar<s n="vblex"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>asaltar<s n="vblex"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>*auxilios<s n=""/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>canciller<s n="n"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>*Charm<s n=""/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>circunscripción<s n="n"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>clausura<s n="n"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>*coli<s n=""/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>*conmocionado<s n=""/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>conmoción<s n="n"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>contar<s n="vblex"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>desafortunado<s n="adj"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>desastre<s n="n"/><s n="m"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>*desentienda<s n=""/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>detrás de<s n="pr"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>discutir<s n="vblex"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>*Doema<s n=""/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>ecológico<s n="adj"/><s n="m"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>error<s n="n"/><s n="m"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>ese<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>*estremecedores<s n=""/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>evitar<s n="vblex"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>*factual<s n=""/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>fecha<s n="n"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>fiscalía<s n="n"/><s n="f"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>*habidas<s n=""/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>Hablar<s n="vblex"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>hacer falta<s n="vbmod"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>*Hammamet<s n=""/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>inquietante<s n="adj"/><s n="mf"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>*insensateces<s n=""/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>irrumpir<s n="vblex"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>litigio<s n="n"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>llegar<s n="vblex"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>moderno<s n="adj"/><s n="f"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>modificar<s n="vblex"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>*monocultivo<s n=""/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>*morosos<s n=""/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>navideño<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>ocupar<s n="vblex"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>operación<s n="n"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>originar<s n="vblex"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>político<s n="adj"/><s n="f"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>*recapacitado<s n=""/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>recurrir<s n="vblex"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>registrar<s n="vblex"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>regularidad<s n="n"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>sentir<s n="vblex"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>similar<s n="adj"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>suceder<s n="vblex"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>taxi<s n="n"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>*trasvasar<s n=""/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>tremendo<s n="adj"/><s n="f"/></r></p></e>
+      1 <e><p><l>survenir<s n="vblex"/></l><r>volver<s n="vblex"/></r></p></e>
+      1 <e><p><l>taux# d'intérêt<s n="n"/><s n="m"/><s n="sp"/></l><r>*acortamiento<s n=""/></r></p></e>
+      1 <e><p><l>taux# d'intérêt<s n="n"/><s n="m"/><s n="sp"/></l><r>corresponder<s n="vblex"/></r></p></e>
+      1 <e><p><l>taux# d'intérêt<s n="n"/><s n="m"/><s n="sp"/></l><r>tipo# de interés<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>absoluto<s n="adj"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>adecuar<s n="vblex"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>aprobar<s n="vblex"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>apropiado<s n="adj"/></r></p></e>
+      1 <e><p><l>Véritable<s n="adj"/><s n="mf"/></l><r>auténtico<s n="adj"/><s n="m"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>avance<s n="n"/><s n="m"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>bosque<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>buen<s n="adj"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>*burócrata<s n=""/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>capítulo<s n="n"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>*carnicería<s n=""/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>cartón<s n="n"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>ciar<s n="vblex"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>Colombia<s n="np"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>*confiables<s n=""/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>contener<s n="vblex"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>costar<s n="vblex"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>deber<s n="vblex"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>deber<s n="vbmod"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>dedicar<s n="vblex"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>*Dejémosnos<s n=""/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>desierto<s n="n"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>diligencia<s n="n"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>directivo<s n="n"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>*disparatadas<s n=""/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>ejercer<s n="vblex"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>eludir<s n="vblex"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>Eolo<s n="np"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>Esperar<s n="vblex"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>experimento<s n="n"/><s n="m"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>*extraordinariamente<s n=""/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>facultar<s n="vblex"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>fermentación<s n="n"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>*festines<s n=""/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>fiesta<s n="n"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>*flagrante<s n=""/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>*Flèchard<s n=""/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>fútbol<s n="n"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>giro<s n="n"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>gran<s n="adj"/><s n="mf"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>*Grigorij<s n=""/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>hecho<s n="n"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>*homogénea<s n=""/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>hormiguero<s n="n"/><s n="m"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>identidad<s n="n"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>*inequívoca<s n=""/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>Islas Molucas<s n="np"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>llevar<s n="vblex"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>luz<s n="n"/><s n="f"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>*mantra<s n=""/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>molestia<s n="n"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>Ninguno<s n="det"/><s n="ind"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>nuevo<s n="adj"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>operación<s n="n"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>palestino<s n="n"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>pariente<s n="n"/><s n="mf"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>pendiente<s n="adj"/><s n="mf"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>*polvorín<s n=""/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>*precavida<s n=""/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>primo<s n="adj"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>producir<s n="vblex"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>prudente<s n="adj"/><s n="mf"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>puerta<s n="n"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>puro<s n="adj"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>querer<s n="vblex"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>remediar<s n="vblex"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>reto<s n="n"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>retribución<s n="n"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>revolución<s n="n"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>*rompecabezas<s n=""/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>ronda<s n="n"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>*Saladino<s n=""/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>salario<s n="n"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>sentar<s n="vblex"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>serio<s n="adj"/><s n="f"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>sinergia<s n="n"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>*Sirene<s n=""/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>*socava<s n=""/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>suficiente<s n="adj"/><s n="mf"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>sustantivo<s n="adj"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>trágico<s n="adj"/><s n="m"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>transcurrir<s n="vblex"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>verdaderamente<s n="adv"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>*viel<s n=""/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>volver<s n="vblex"/></r></p></e>
+      1 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>zanjar<s n="vblex"/></r></p></e>
+      2 <e><p><l>achever<s n="vblex"/></l><r>culminar<s n="vblex"/></r></p></e>
+      2 <e><p><l>achever<s n="vblex"/></l><r>Hasta<s n="pr"/></r></p></e>
+      2 <e><p><l>alimentaire<s n="adj"/><s n="mf"/></l><r>agroalimentario<s n="adj"/><s n="m"/></r></p></e>
+      2 <e><p><l>alimentaire<s n="adj"/><s n="mf"/></l><r>*nutricional<s n=""/></r></p></e>
+      2 <e><p><l>alimentaire<s n="adj"/><s n="mf"/></l><r>*víveres<s n=""/></r></p></e>
+      2 <e><p><l>autonome<s n="adj"/><s n="mf"/></l><r>independiente<s n="adj"/><s n="mf"/></r></p></e>
+      2 <e><p><l>avantage<s n="n"/><s n="m"/></l><r>beneficioso<s n="adj"/></r></p></e>
+      2 <e><p><l>avantage<s n="n"/><s n="m"/></l><r>en beneficio de<s n="pr"/></r></p></e>
+      2 <e><p><l>avantage<s n="n"/><s n="m"/></l><r>posible<s n="adj"/></r></p></e>
+      2 <e><p><l>avantage<s n="n"/><s n="m"/></l><r>virtud<s n="n"/></r></p></e>
+      2 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>adherir<s n="vblex"/></r></p></e>
+      2 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>aun<s n="adv"/></r></p></e>
+      2 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>coincidir<s n="vblex"/></r></p></e>
+      2 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>comentar<s n="vblex"/></r></p></e>
+      2 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>consejo<s n="n"/></r></p></e>
+      2 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>consultar<s n="vblex"/></r></p></e>
+      2 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>cubrir<s n="vblex"/></r></p></e>
+      2 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>elaborar<s n="vblex"/></r></p></e>
+      2 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>Estar# de acuerdo<s n="vblex"/></r></p></e>
+      2 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>exponer<s n="vblex"/></r></p></e>
+      2 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>hablar<s n="vblex"/></r></p></e>
+      2 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>intervenir<s n="vblex"/></r></p></e>
+      2 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>partidario<s n="n"/></r></p></e>
+      2 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>requerimiento<s n="n"/><s n="m"/></r></p></e>
+      2 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>sostener<s n="vblex"/></r></p></e>
+      2 <e><p><l>avoir<s n="n"/></l><r>exterior<s n="n"/></r></p></e>
+      2 <e><p><l>concours<s n="n"/><s n="m"/><s n="sp"/></l><r>ayuda<s n="n"/><s n="f"/></r></p></e>
+      2 <e><p><l>décès<s n="n"/><s n="m"/><s n="sp"/></l><r>fallecer<s n="vblex"/></r></p></e>
+      2 <e><p><l>décès<s n="n"/><s n="m"/><s n="sp"/></l><r>fallecimiento<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+      2 <e><p><l>décès<s n="n"/><s n="m"/><s n="sp"/></l><r>supervivencia<s n="n"/></r></p></e>
+      2 <e><p><l>dépendre<s n="vblex"/></l><r>condicionar<s n="vblex"/></r></p></e>
+      2 <e><p><l>doux<s n="adj"/><s n="f"/></l><r>potable<s n="adj"/></r></p></e>
+      2 <e><p><l>environnemental<s n="adj"/><s n="f"/></l><r>ecológico<s n="adj"/><s n="f"/></r></p></e>
+      2 <e><p><l>environnemental<s n="adj"/><s n="m"/></l><r>Acción<s n="n"/></r></p></e>
+      2 <e><p><l>environnemental<s n="adj"/><s n="m"/></l><r>etiqueta<s n="n"/></r></p></e>
+      2 <e><p><l>environnemental<s n="adj"/><s n="m"/></l><r>Sistema<s n="n"/></r></p></e>
+      2 <e><p><l>frais<s n="n"/><s n="m"/><s n="sp"/></l><r>bancario<s n="adj"/><s n="f"/></r></p></e>
+      2 <e><p><l>garant<s n="n"/><s n="f"/></l><r>garantizar<s n="vblex"/></r></p></e>
+      2 <e><p><l>gigantesque<s n="adj"/><s n="mf"/></l><r>gigantesco<s n="adj"/><s n="f"/></r></p></e>
+      2 <e><p><l>magnifique<s n="adj"/><s n="mf"/></l><r>maravilloso<s n="adj"/><s n="f"/></r></p></e>
+      2 <e><p><l>Parlementaire<s n="n"/><s n="mf"/></l><r>diputado<s n="n"/></r></p></e>
+      2 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>parlamentario<s n="n"/><s n="f"/></r></p></e>
+      2 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>Parlamento<s n="n"/></r></p></e>
+      2 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>trabajar<s n="vblex"/></r></p></e>
+      2 <e><p><l>participant<s n="adj"/><s n="m"/></l><r>*Erasmus<s n=""/></r></p></e>
+      2 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>Apreciar<s n="vblex"/></r></p></e>
+      2 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>preciar<s n="vblex"/></r></p></e>
+      2 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>valor<s n="n"/><s n="m"/></r></p></e>
+      2 <e><p><l>régional<s n="adj"/><s n="f"/></l><r>*subregionales<s n=""/></r></p></e>
+      2 <e><p><l>régional<s n="adj"/><s n="m"/></l><r>local<s n="adj"/><s n="mf"/></r></p></e>
+      2 <e><p><l>semblable<s n="adj"/><s n="mf"/></l><r>parecer<s n="vblex"/></r></p></e>
+      2 <e><p><l>socio-économique<s n="adj"/><s n="mf"/></l><r>socio-económico<s n="adj"/><s n="f"/></r></p></e>
+      2 <e><p><l>survenir<s n="vblex"/></l><r>inundación<s n="n"/></r></p></e>
+      2 <e><p><l>survenir<s n="vblex"/></l><r>producir<s n="vblex"/></r></p></e>
+      2 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>pleno<s n="adj"/></r></p></e>
+      2 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>tragedia<s n="n"/></r></p></e>
+      3 <e><p><l>achever<s n="vblex"/></l><r>construir<s n="vblex"/></r></p></e>
+      3 <e><p><l>alimentaire<s n="adj"/><s n="mf"/></l><r>Alimento<s n="n"/><s n="m"/></r></p></e>
+      3 <e><p><l>alimentaire<s n="adj"/><s n="mf"/></l><r>comer<s n="vblex"/></r></p></e>
+      3 <e><p><l>autonome<s n="adj"/><s n="mf"/></l><r>autónomo<s n="adj"/><s n="m"/></r></p></e>
+      3 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>aprobación<s n="n"/></r></p></e>
+      3 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>Considerar<s n="vblex"/></r></p></e>
+      3 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>creer<s n="vblex"/></r></p></e>
+      3 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>Creer<s n="vblex"/></r></p></e>
+      3 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>dictamen<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+      3 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>estimar<s n="vblex"/></r></p></e>
+      3 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>Opinar<s n="vblex"/></r></p></e>
+      3 <e><p><l>décès<s n="n"/><s n="m"/><s n="sp"/></l><r>muerte<s n="n"/><s n="f"/></r></p></e>
+      3 <e><p><l>environnemental<s n="adj"/><s n="f"/></l><r>ecológico<s n="adj"/><s n="m"/></r></p></e>
+      3 <e><p><l>gigantesque<s n="adj"/><s n="mf"/></l><r>gigantesco<s n="adj"/><s n="m"/></r></p></e>
+      3 <e><p><l>magnifique<s n="adj"/><s n="mf"/></l><r>magnífico<s n="adj"/><s n="f"/></r></p></e>
+      3 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>parlamentario<s n="adj"/><s n="f"/></r></p></e>
+      3 <e><p><l>régional<s n="adj"/><s n="m"/></l><r>Regional<s n="adj"/><s n="mf"/></r></p></e>
+      3 <e><p><l>semblable<s n="adj"/><s n="mf"/></l><r>similar<s n="adj"/></r></p></e>
+      4 <e><p><l>achever<s n="vblex"/></l><r>completar<s n="vblex"/></r></p></e>
+      4 <e><p><l>alimentaire<s n="adj"/><s n="mf"/></l><r>comida<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+      4 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>entender<s n="vblex"/></r></p></e>
+      4 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>estar# de acuerdo<s n="vblex"/></r></p></e>
+      4 <e><p><l>environnemental<s n="adj"/><s n="f"/></l><r>ecologista<s n="adj"/></r></p></e>
+      4 <e><p><l>environnemental<s n="adj"/><s n="m"/></l><r>impacto ambiental<s n="n"/></r></p></e>
+      4 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>Parlamentario<s n="adj"/><s n="f"/></r></p></e>
+      4 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>Premio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+      4 <e><p><l>semblable<s n="adj"/><s n="mf"/></l><r>semejante<s n="adj"/></r></p></e>
+      4 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>efectivo<s n="adj"/></r></p></e>
+      5 <e><p><l>alimentaire<s n="adj"/><s n="mf"/></l><r>Alimentario<s n="adj"/><s n="f"/></r></p></e>
+      5 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>modo<s n="n"/><s n="m"/></r></p></e>
+      5 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>parecer<s n="vblex"/></r></p></e>
+      5 <e><p><l>concours<s n="n"/><s n="m"/><s n="sp"/></l><r>concurso<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+      5 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>costa<s n="n"/></r></p></e>
+      5 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>coste<s n="n"/></r></p></e>
+      5 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>premio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+      6 <e><p><l>achever<s n="vblex"/></l><r>terminar<s n="vblex"/></r></p></e>
+      6 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>asesoramiento<s n="n"/></r></p></e>
+      6 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>considerar<s n="vblex"/></r></p></e>
+      6 <e><p><l>dépendre<s n="vblex"/></l><r>Depender<s n="vblex"/></r></p></e>
+      6 <e><p><l>dépendre<s n="vblex"/></l><r>dependiente<s n="adj"/><s n="mf"/></r></p></e>
+      6 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>comisión<s n="n"/></r></p></e>
+      6 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>diputado<s n="n"/></r></p></e>
+      6 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>parlamentario<s n="n"/><s n="m"/></r></p></e>
+      6 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>tarifa<s n="n"/><s n="f"/></r></p></e>
+      6 <e><p><l>survenir<s n="vblex"/></l><r>surgir<s n="vblex"/></r></p></e>
+      7 <e><p><l>autonome<s n="adj"/><s n="mf"/></l><r>autonomía<s n="n"/></r></p></e>
+      7 <e><p><l>avantage<s n="n"/><s n="m"/></l><r>beneficiar<s n="vblex"/></r></p></e>
+      7 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>Señoría<s n="n"/></r></p></e>
+      8 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>informe<s n="n"/></r></p></e>
+      8 <e><p><l>socio-économique<s n="adj"/><s n="mf"/></l><r>socioeconómico<s n="adj"/><s n="m"/></r></p></e>
+      9 <e><p><l>alimentaire<s n="adj"/><s n="mf"/></l><r>alimenticio<s n="adj"/><s n="m"/></r></p></e>
+      9 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>pensar<s n="vblex"/></r></p></e>
+      9 <e><p><l>socio-économique<s n="adj"/><s n="mf"/></l><r>socioeconómico<s n="adj"/><s n="f"/></r></p></e>
+     10 <e><p><l>alimentaire<s n="adj"/><s n="mf"/></l><r>alimentación<s n="n"/></r></p></e>
+     10 <e><p><l>autonome<s n="adj"/><s n="mf"/></l><r>autónomo<s n="adj"/><s n="f"/></r></p></e>
+     10 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>posición<s n="n"/></r></p></e>
+     10 <e><p><l>magnifique<s n="adj"/><s n="mf"/></l><r>magnífico<s n="adj"/><s n="m"/></r></p></e>
+     10 <e><p><l>survenir<s n="vblex"/></l><r>ocurrir<s n="vblex"/></r></p></e>
+     13 <e><p><l>alimentaire<s n="adj"/><s n="mf"/></l><r>alimenticio<s n="adj"/><s n="f"/></r></p></e>
+     13 <e><p><l>riche<s n="adj"/><s n="mf"/></l><r>rico<s n="adj"/><s n="f"/></r></p></e>
+     14 <e><p><l>achever<s n="vblex"/></l><r>concluir<s n="vblex"/></r></p></e>
+     14 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>vista<s n="n"/></r></p></e>
+     16 <e><p><l>environnemental<s n="adj"/><s n="m"/></l><r>medio ambiente<s n="n"/></r></p></e>
+     16 <e><p><l>taux# d'intérêt<s n="n"/><s n="m"/><s n="sp"/></l><r>tipo# de interés<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+     18 <e><p><l>alimentaire<s n="adj"/><s n="mf"/></l><r>alimentario<s n="adj"/><s n="m"/></r></p></e>
+     18 <e><p><l>régional<s n="adj"/><s n="f"/></l><r>Regional<s n="adj"/><s n="mf"/></r></p></e>
+     19 <e><p><l>avantage<s n="n"/><s n="m"/></l><r>beneficio<s n="n"/><s n="m"/></r></p></e>
+     19 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>real<s n="adj"/><s n="mf"/></r></p></e>
+     20 <e><p><l>excellence<s n="n"/><s n="f"/><s n="sg"/></l><r>excelencia<s n="n"/></r></p></e>
+     21 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>auténtico<s n="adj"/><s n="f"/></r></p></e>
+     21 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>auténtico<s n="adj"/><s n="m"/></r></p></e>
+     22 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>opinar<s n="vblex"/></r></p></e>
+     23 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>parlamentario<s n="n"/><s n="m"/></r></p></e>
+     25 <e><p><l>environnemental<s n="adj"/><s n="f"/></l><r>medio ambiente<s n="n"/></r></p></e>
+     25 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>Señoría<s n="n"/></r></p></e>
+     26 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>juicio<s n="n"/></r></p></e>
+     27 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>parlamentario<s n="adj"/><s n="m"/></r></p></e>
+     29 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>parlamentario<s n="adj"/><s n="m"/></r></p></e>
+     31 <e><p><l>frais<s n="n"/><s n="m"/><s n="sp"/></l><r>gasto<s n="n"/><s n="m"/></r></p></e>
+     37 <e><p><l>frais<s n="n"/><s n="m"/><s n="sp"/></l><r>coste<s n="n"/></r></p></e>
+     42 <e><p><l>alimentaire<s n="adj"/><s n="mf"/></l><r>alimento<s n="n"/><s n="m"/></r></p></e>
+     42 <e><p><l>riche<s n="adj"/><s n="mf"/></l><r>rico<s n="adj"/><s n="m"/></r></p></e>
+     45 <e><p><l>parlementaire<s n="n"/><s n="mf"/></l><r>diputado<s n="n"/></r></p></e>
+     53 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>verdadero<s n="adj"/><s n="m"/></r></p></e>
+     61 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>dictamen<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+     65 <e><p><l>parlementaire<s n="adj"/><s n="mf"/></l><r>parlamentario<s n="adj"/><s n="f"/></r></p></e>
+     78 <e><p><l>véritable<s n="adj"/><s n="mf"/></l><r>verdadero<s n="adj"/><s n="f"/></r></p></e>
+    101 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>precio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    118 <e><p><l>alimentaire<s n="adj"/><s n="mf"/></l><r>alimentario<s n="adj"/><s n="f"/></r></p></e>
+    149 <e><p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>precio<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    287 <e><p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>opinión<s n="n"/></r></p></e>

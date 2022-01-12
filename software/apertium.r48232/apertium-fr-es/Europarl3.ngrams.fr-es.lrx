@@ -1,0 +1,448 @@
+<rules>
++ 1.5 0.333333333333 9 3 3 	alimentaire<adj><mf><*>	alimentaire<adj><mf><*> de<pr> le<det><def><mf><*>	alimentario<adj><m><*>	3
+  <rule c="1 2: 3" weight="1.5">
+    <match lemma="alimentaire" tags="adj.mf.*"><select lemma="alimentario" tags="adj.m.*"/></match>
+    <match lemma="de" tags="pr"/>
+    <match lemma="le" tags="det.def.mf.*"/>
+  </rule>
++ 2.0 0.333333333333 6 2 2 	alimentaire<adj><mf><*>	production<n><*> alimentaire<adj><mf><*>	alimento<n><m><*>	2
+  <rule c="2 7: 2" weight="2.0">
+    <match lemma="production" tags="n.*"/>
+    <match lemma="alimentaire" tags="adj.mf.*"><select lemma="alimento" tags="n.m.*"/></match>
+  </rule>
++ 3.0 0.75 4 3 3 	alimentaire<adj><mf><*>	industrie<n><*> alimentaire<adj><mf><*>	alimentación<n><*>	3
+  <rule c="3 11: 3" weight="3.0">
+    <match lemma="industrie" tags="n.*"/>
+    <match lemma="alimentaire" tags="adj.mf.*"><select lemma="alimentación" tags="n.*"/></match>
+  </rule>
++ 2.0 0.4 5 2 2 	alimentaire<adj><mf><*>	le<det><def><f><sg> production<n><*> alimentaire<adj><mf><*>	alimento<n><m><*>	2
+  <rule c="4 15: 2" weight="2.0">
+    <match lemma="le" tags="det.def.f.sg"/>
+    <match lemma="production" tags="n.*"/>
+    <match lemma="alimentaire" tags="adj.mf.*"><select lemma="alimento" tags="n.m.*"/></match>
+  </rule>
++ 6.33333333333 0.655172413793 58 38 38 	prix<n><m><sp>	le<det><def><m><sg> prix<n><m><sp> de<pr>	precio<n><m><sg>	38
+  <rule c="5 20: 38" weight="6.33333333333">
+    <match lemma="le" tags="det.def.m.sg"/>
+    <match lemma="prix" tags="n.m.sp"><select lemma="precio" tags="n.m.sg"/></match>
+    <match lemma="de" tags="pr"/>
+  </rule>
++ 2.0 0.4 5 2 2 	prix<n><m><sp>	à<pr> ce<det><dem><m><sg> prix<n><m><sp>	precio<n><m><sg>	2
+  <rule c="6 25: 2" weight="2.0">
+    <match lemma="à" tags="pr"/>
+    <match lemma="ce" tags="det.dem.m.sg"/>
+    <match lemma="prix" tags="n.m.sp"><select lemma="precio" tags="n.m.sg"/></match>
+  </rule>
++ 1.16666666667 0.4375 16 7 7 	prix<n><m><sp>	prix<n><m><sp> à<pr>	precio<n><m><sg>	7
+  <rule c="7 30: 7" weight="1.16666666667">
+    <match lemma="prix" tags="n.m.sp"><select lemma="precio" tags="n.m.sg"/></match>
+    <match lemma="à" tags="pr"/>
+  </rule>
++ 1.32352941176 0.441176470588 102 45 45 	prix<n><m><sp>	prix<n><m><sp> de<pr>	precio<n><m><sg>	45
+  <rule c="8 34: 45" weight="1.32352941176">
+    <match lemma="prix" tags="n.m.sp"><select lemma="precio" tags="n.m.sg"/></match>
+    <match lemma="de" tags="pr"/>
+  </rule>
++ 6.625 0.576086956522 92 53 53 	prix<n><m><sp>	le<det><def><m><sg> prix<n><m><sp>	precio<n><m><sg>	53
+  <rule c="9 38: 53" weight="6.625">
+    <match lemma="le" tags="det.def.m.sg"/>
+    <match lemma="prix" tags="n.m.sp"><select lemma="precio" tags="n.m.sg"/></match>
+  </rule>
++ 2.0 0.5 4 2 2 	prix<n><m><sp>	prix<n><m><sp> à<pr> le<det><def><m><sg>	precio<n><m><sg>	2
+  <rule c="10 42: 2" weight="2.0">
+    <match lemma="prix" tags="n.m.sp"><select lemma="precio" tags="n.m.sg"/></match>
+    <match lemma="à" tags="pr"/>
+    <match lemma="le" tags="det.def.m.sg"/>
+  </rule>
++ 1.5 0.428571428571 7 3 3 	prix<n><m><sp>	ce<det><dem><m><sg> prix<n><m><sp>	precio<n><m><sg>	3
+  <rule c="11 47: 3" weight="1.5">
+    <match lemma="ce" tags="det.dem.m.sg"/>
+    <match lemma="prix" tags="n.m.sp"><select lemma="precio" tags="n.m.sg"/></match>
+  </rule>
++ 3.0 0.6 5 3 3 	prix<n><m><sp>	de<pr> le<det><def><m><sg> prix<n><m><sp> de<pr> le<det><def><mf><*>	precio<n><m><sg>	3
+  <rule c="12 51: 3" weight="3.0">
+    <match lemma="de" tags="pr"/>
+    <match lemma="le" tags="det.def.m.sg"/>
+    <match lemma="prix" tags="n.m.sp"><select lemma="precio" tags="n.m.sg"/></match>
+    <match lemma="de" tags="pr"/>
+    <match lemma="le" tags="det.def.mf.*"/>
+  </rule>
++ 4.0 0.666666666667 6 4 4 	prix<n><m><sp>	que<cnjsub> le<det><def><m><sg> prix<n><m><sp>	precio<n><m><sg>	4
+  <rule c="13 58: 4" weight="4.0">
+    <match lemma="que" tags="cnjsub"/>
+    <match lemma="le" tags="det.def.m.sg"/>
+    <match lemma="prix" tags="n.m.sp"><select lemma="precio" tags="n.m.sg"/></match>
+  </rule>
++ 3.0 0.75 4 3 3 	prix<n><m><sp>	prix<n><m><sp> de<pr> notre<det><pos><mf><*>	precio<n><m><sg>	3
+  <rule c="14 63: 3" weight="3.0">
+    <match lemma="prix" tags="n.m.sp"><select lemma="precio" tags="n.m.sg"/></match>
+    <match lemma="de" tags="pr"/>
+    <match lemma="notre" tags="det.pos.mf.*"/>
+  </rule>
++ 3.0 0.75 4 3 3 	prix<n><m><sp>	de<pr> le<det><def><m><sg> prix<n><m><sp> de<pr> le<det><def><m><sg>	precio<n><m><sg>	3
+  <rule c="15 68: 3" weight="3.0">
+    <match lemma="de" tags="pr"/>
+    <match lemma="le" tags="det.def.m.sg"/>
+    <match lemma="prix" tags="n.m.sp"><select lemma="precio" tags="n.m.sg"/></match>
+    <match lemma="de" tags="pr"/>
+    <match lemma="le" tags="det.def.m.sg"/>
+  </rule>
++ 2.0 0.16 25 15 4 	prix<n><m><sp>	de<pr> le<det><def><m><sg> prix<n><m><sp>	Premio<n><m><sg>	15
+  <rule c="16 75: 15" weight="2.0">
+    <match lemma="de" tags="pr"/>
+    <match lemma="le" tags="det.def.m.sg"/>
+    <match lemma="prix" tags="n.m.sp"><select lemma="premio" tags="n.m.sg"/></match>
+  </rule>
++ 7.5 0.6 25 15 15 	prix<n><m><sp>	de<pr> le<det><def><m><sg> prix<n><m><sp>	precio<n><m><sg>	15
+  <rule c="17 80: 15" weight="7.5">
+    <match lemma="de" tags="pr"/>
+    <match lemma="le" tags="det.def.m.sg"/>
+    <match lemma="prix" tags="n.m.sp"><select lemma="precio" tags="n.m.sg"/></match>
+  </rule>
++ 7.0 0.666666666667 21 14 14 	prix<n><m><sp>	un<det><ind><m><sg> prix<n><m><sp>	precio<n><m><sg>	14
+  <rule c="18 85: 14" weight="7.0">
+    <match lemma="un" tags="det.ind.m.sg"/>
+    <match lemma="prix" tags="n.m.sp"><select lemma="precio" tags="n.m.sg"/></match>
+  </rule>
++ 2.0 0.4 5 2 2 	prix<n><m><sp>	prix<n><m><sp> de<pr> le<det><def><f><sg>	precio<n><m><sg>	2
+  <rule c="19 89: 2" weight="2.0">
+    <match lemma="prix" tags="n.m.sp"><select lemma="precio" tags="n.m.sg"/></match>
+    <match lemma="de" tags="pr"/>
+    <match lemma="le" tags="det.def.f.sg"/>
+  </rule>
++ 3.0 0.75 4 3 3 	prix<n><m><sp>	à<pr> le<det><def><m><sg> prix<n><m><sp> de<pr> le<det><def><mf><*>	precio<n><m><sg>	3
+  <rule c="20 94: 3" weight="3.0">
+    <match lemma="à" tags="pr"/>
+    <match lemma="le" tags="det.def.m.sg"/>
+    <match lemma="prix" tags="n.m.sp"><select lemma="precio" tags="n.m.sg"/></match>
+    <match lemma="de" tags="pr"/>
+    <match lemma="le" tags="det.def.mf.*"/>
+  </rule>
++ 2.0 0.5 8 4 4 	prix<n><m><sp>	à<pr> un<det><ind><m><sg> prix<n><m><sp>	precio<n><m><sg>	4
+  <rule c="21 101: 4" weight="2.0">
+    <match lemma="à" tags="pr"/>
+    <match lemma="un" tags="det.ind.m.sg"/>
+    <match lemma="prix" tags="n.m.sp"><select lemma="precio" tags="n.m.sg"/></match>
+  </rule>
++ 5.0 0.384615384615 13 5 5 	prix<n><m><sp>	à<pr> le<det><def><m><sg> prix<n><m><sp>	precio<n><m><sg>	5
+  <rule c="22 106: 5" weight="5.0">
+    <match lemma="à" tags="pr"/>
+    <match lemma="le" tags="det.def.m.sg"/>
+    <match lemma="prix" tags="n.m.sp"><select lemma="precio" tags="n.m.sg"/></match>
+  </rule>
++ 2.0 0.666666666667 3 2 2 	prix<n><m><sp>	si<cnjadv> le<det><def><m><sg> prix<n><m><sp>	precio<n><m><sg>	2
+  <rule c="23 111: 2" weight="2.0">
+    <match lemma="si" tags="cnjadv"/>
+    <match lemma="le" tags="det.def.m.sg"/>
+    <match lemma="prix" tags="n.m.sp"><select lemma="precio" tags="n.m.sg"/></match>
+  </rule>
++ 1.42857142857 0.5 20 10 10 	prix<n><m><sp>	prix<n><m><sp> de<pr> le<det><def><m><sg>	precio<n><m><sg>	10
+  <rule c="24 116: 10" weight="1.42857142857">
+    <match lemma="prix" tags="n.m.sp"><select lemma="precio" tags="n.m.sg"/></match>
+    <match lemma="de" tags="pr"/>
+    <match lemma="le" tags="det.def.m.sg"/>
+  </rule>
++ 2.0 0.5 4 2 2 	prix<n><m><sp>	le<det><def><m><sg> prix<n><m><sp> être<vbser><*>	precio<n><m><sg>	2
+  <rule c="25 121: 2" weight="2.0">
+    <match lemma="le" tags="det.def.m.sg"/>
+    <match lemma="prix" tags="n.m.sp"><select lemma="precio" tags="n.m.sg"/></match>
+    <match lemma="être" tags="vbser.*"/>
+  </rule>
++ 2.0 0.666666666667 3 2 2 	dépendre<vblex><*>	Cela<prn><*> dépendre<vblex><*> de<pr>	Depender<vblex><*>	2
+  <rule c="26 126: 2" weight="2.0">
+    <match lemma="cela" tags="prn.*"/>
+    <match lemma="dépendre" tags="vblex.*"><select lemma="depender" tags="vblex.*"/></match>
+    <match lemma="de" tags="pr"/>
+  </rule>
++ 2.0 0.5 4 2 2 	environnemental<adj><m><*>	risque<n><*> environnemental<adj><m><*>	medio ambiente<n><*>	2
+  <rule c="27 131: 2" weight="2.0">
+    <match lemma="risque" tags="n.*"/>
+    <match lemma="environnemental" tags="adj.m.*"><select lemma="medio ambiente" tags="n.*"/></match>
+  </rule>
++ 7.0 0.466666666667 15 7 7 	avis<n><m><sp>	avis<n><m><sp> conforme<adj><*>	dictamen<n><m><sg>	7
+  <rule c="28 135: 7" weight="7.0">
+    <match lemma="avis" tags="n.m.sp"><select lemma="dictamen" tags="n.m.sg"/></match>
+    <match lemma="conforme" tags="adj.*"/>
+  </rule>
++ 3.0 0.2 15 7 3 	avis<n><m><sp>	avis<n><m><sp> conforme<adj><*>	aprobación<n><*>	7
+  <rule c="29 139: 7" weight="3.0">
+    <match lemma="avis" tags="n.m.sp"><select lemma="aprobación" tags="n.*"/></match>
+    <match lemma="conforme" tags="adj.*"/>
+  </rule>
++ 2.0 0.5 8 4 4 	avis<n><m><sp>	être<vbser><*> de<pr> avis<n><m><sp>	opinar<vblex><*>	4
+  <rule c="30 143: 4" weight="2.0">
+    <match lemma="être" tags="vbser.*"/>
+    <match lemma="de" tags="pr"/>
+    <match lemma="avis" tags="n.m.sp"><select lemma="opinar" tags="vblex.*"/></match>
+  </rule>
++ 2.0 0.333333333333 6 2 2 	avis<n><m><sp>	de<pr> un<det><ind><m><sg> avis<n><m><sp>	enviar<vblex><*>	2
+  <rule c="31 148: 2" weight="2.0">
+    <match lemma="de" tags="pr"/>
+    <match lemma="un" tags="det.ind.m.sg"/>
+    <match lemma="avis" tags="n.m.sp"><select lemma="enviar" tags="vblex.*"/></match>
+  </rule>
++ 2.0 0.4 5 2 2 	avis<n><m><sp>	avis<n><m><sp> scientifique<adj><mf><*>	informe<n><*>	2
+  <rule c="32 153: 2" weight="2.0">
+    <match lemma="avis" tags="n.m.sp"><select lemma="informe" tags="n.*"/></match>
+    <match lemma="scientifique" tags="adj.mf.*"/>
+  </rule>
++ 2.0 0.4 5 2 2 	avis<n><m><sp>	avis<n><m><sp> scientifique<adj><mf><*>	asesoramiento<n><*>	2
+  <rule c="33 157: 2" weight="2.0">
+    <match lemma="avis" tags="n.m.sp"><select lemma="asesoramiento" tags="n.*"/></match>
+    <match lemma="scientifique" tags="adj.mf.*"/>
+  </rule>
++ 4.0 0.571428571429 7 4 4 	avis<n><m><sp>	avis<n><m><sp> favorable<adj><mf><*>	dictamen<n><m><sg>	4
+  <rule c="34 161: 4" weight="4.0">
+    <match lemma="avis" tags="n.m.sp"><select lemma="dictamen" tags="n.m.sg"/></match>
+    <match lemma="favorable" tags="adj.mf.*"/>
+  </rule>
++ 2.0 0.666666666667 3 2 2 	avis<n><m><sp>	le<det><def><mf><*> avis<n><m><sp> scientifique<n><mf><*>	asesoramiento<n><*>	2
+  <rule c="35 165: 2" weight="2.0">
+    <match lemma="le" tags="det.def.mf.*"/>
+    <match lemma="avis" tags="n.m.sp"><select lemma="asesoramiento" tags="n.*"/></match>
+    <match lemma="scientifique" tags="n.mf.*"/>
+  </rule>
++ 2.0 0.5 4 2 2 	avis<n><m><sp>	avis<n><m><sp> que<cnjsub> ce<det><dem><mf><pl>	opinar<vblex><*>	2
+  <rule c="36 170: 2" weight="2.0">
+    <match lemma="avis" tags="n.m.sp"><select lemma="opinar" tags="vblex.*"/></match>
+    <match lemma="que" tags="cnjsub"/>
+    <match lemma="ce" tags="det.dem.mf.pl"/>
+  </rule>
++ 3.0 0.75 4 3 3 	avis<n><m><sp>	donner<vblex><*> un<det><ind><m><sg> avis<n><m><sp>	dictamen<n><m><sg>	3
+  <rule c="37 175: 3" weight="3.0">
+    <match lemma="donner" tags="vblex.*"/>
+    <match lemma="un" tags="det.ind.m.sg"/>
+    <match lemma="avis" tags="n.m.sp"><select lemma="dictamen" tags="n.m.sg"/></match>
+  </rule>
++ 2.0 0.5 4 2 2 	avis<n><m><sp>	émettre<vblex><*> un<det><ind><m><sg> avis<n><m><sp>	dictamen<n><m><sg>	2
+  <rule c="38 180: 2" weight="2.0">
+    <match lemma="émettre" tags="vblex.*"/>
+    <match lemma="un" tags="det.ind.m.sg"/>
+    <match lemma="avis" tags="n.m.sp"><select lemma="dictamen" tags="n.m.sg"/></match>
+  </rule>
++ 1.5 0.25 24 6 6 	avis<n><m><sp>	d<n><m><*> avis<n><m><sp>	opinar<vblex><*>	6
+  <rule c="39 185: 6" weight="1.5">
+    <match lemma="d" tags="n.m.*"/>
+    <match lemma="avis" tags="n.m.sp"><select lemma="opinar" tags="vblex.*"/></match>
+  </rule>
++ 1.5 0.272727272727 11 3 3 	avis<n><m><sp>	donner<vblex><*> son<det><pos><m><sg> avis<n><m><sp>	dictamen<n><m><sg>	3
+  <rule c="40 189: 3" weight="1.5">
+    <match lemma="donner" tags="vblex.*"/>
+    <match lemma="son" tags="det.pos.m.sg"/>
+    <match lemma="avis" tags="n.m.sp"><select lemma="dictamen" tags="n.m.sg"/></match>
+  </rule>
++ 2.0 0.666666666667 6 4 4 	avis<n><m><sp>	rendre<vblex><*> son<det><pos><m><sg> avis<n><m><sp>	dictamen<n><m><sg>	4
+  <rule c="41 194: 4" weight="2.0">
+    <match lemma="rendre" tags="vblex.*"/>
+    <match lemma="son" tags="det.pos.m.sg"/>
+    <match lemma="avis" tags="n.m.sp"><select lemma="dictamen" tags="n.m.sg"/></match>
+  </rule>
++ 2.0 0.285714285714 7 2 2 	avis<n><m><sp>	d<n><m><*> avis<n><m><sp> que<rel><*>	opinar<vblex><*>	2
+  <rule c="42 199: 2" weight="2.0">
+    <match lemma="d" tags="n.m.*"/>
+    <match lemma="avis" tags="n.m.sp"><select lemma="opinar" tags="vblex.*"/></match>
+    <match lemma="que" tags="rel.*"/>
+  </rule>
++ 2.0 0.5 4 2 2 	avis<n><m><sp>	avis<n><m><sp> scientifique<n><mf><*>	asesoramiento<n><*>	2
+  <rule c="43 204: 2" weight="2.0">
+    <match lemma="avis" tags="n.m.sp"><select lemma="asesoramiento" tags="n.*"/></match>
+    <match lemma="scientifique" tags="n.mf.*"/>
+  </rule>
++ 4.0 0.666666666667 6 4 4 	avis<n><m><sp>	un<det><ind><m><sg> avis<n><m><sp> favorable<adj><mf><*>	dictamen<n><m><sg>	4
+  <rule c="44 208: 4" weight="4.0">
+    <match lemma="un" tags="det.ind.m.sg"/>
+    <match lemma="avis" tags="n.m.sp"><select lemma="dictamen" tags="n.m.sg"/></match>
+    <match lemma="favorable" tags="adj.mf.*"/>
+  </rule>
++ 2.0 0.363636363636 11 4 4 	avis<n><m><sp>	d<n><m><*> avis<n><m><sp> que<cnjsub>	opinar<vblex><*>	4
+  <rule c="45 213: 4" weight="2.0">
+    <match lemma="d" tags="n.m.*"/>
+    <match lemma="avis" tags="n.m.sp"><select lemma="opinar" tags="vblex.*"/></match>
+    <match lemma="que" tags="cnjsub"/>
+  </rule>
++ 1.33333333333 0.444444444444 9 4 4 	environnemental<adj><f><*>	le<det><def><f><sg> responsabilité<n><*> environnemental<adj><f><*>	ambiental<adj><mf><*>	4
+  <rule c="46 218: 4" weight="1.33333333333">
+    <match lemma="le" tags="det.def.f.sg"/>
+    <match lemma="responsabilité" tags="n.*"/>
+    <match lemma="environnemental" tags="adj.f.*"><select lemma="ambiental" tags="adj.mf.*"/></match>
+  </rule>
++ 1.5 0.428571428571 7 3 3 	environnemental<adj><f><*>	infraction<n><*> environnemental<adj><f><*>	medio ambiente<n><*>	3
+  <rule c="47 223: 3" weight="1.5">
+    <match lemma="infraction" tags="n.*"/>
+    <match lemma="environnemental" tags="adj.f.*"><select lemma="medio ambiente" tags="n.*"/></match>
+  </rule>
++ 2.0 0.666666666667 3 2 2 	environnemental<adj><f><*>	environnemental<adj><f><*> dans<pr> le<det><def><m><sg>	ambiental<adj><mf><*>	2
+  <rule c="48 227: 2" weight="2.0">
+    <match lemma="environnemental" tags="adj.f.*"><select lemma="ambiental" tags="adj.mf.*"/></match>
+    <match lemma="dans" tags="pr"/>
+    <match lemma="le" tags="det.def.m.sg"/>
+  </rule>
++ 2.0 0.5 4 2 2 	environnemental<adj><f><*>	de<pr> protection<n><f><*> environnemental<adj><f><*>	ambiental<adj><mf><*>	2
+  <rule c="49 232: 2" weight="2.0">
+    <match lemma="de" tags="pr"/>
+    <match lemma="protection" tags="n.f.*"/>
+    <match lemma="environnemental" tags="adj.f.*"><select lemma="ambiental" tags="adj.mf.*"/></match>
+  </rule>
++ 3.0 0.75 4 3 3 	environnemental<adj><f><*>	le<det><def><mf><*> inspection<n><*> environnemental<adj><f><*>	medio ambiente<n><*>	3
+  <rule c="50 237: 3" weight="3.0">
+    <match lemma="le" tags="det.def.mf.*"/>
+    <match lemma="inspection" tags="n.*"/>
+    <match lemma="environnemental" tags="adj.f.*"><select lemma="medio ambiente" tags="n.*"/></match>
+  </rule>
++ 2.0 0.666666666667 3 2 2 	environnemental<adj><f><*>	taxe<n><*> environnemental<adj><f><*>	ecológico<adj><m><*>	2
+  <rule c="51 242: 2" weight="2.0">
+    <match lemma="taxe" tags="n.*"/>
+    <match lemma="environnemental" tags="adj.f.*"><select lemma="ecológico" tags="adj.m.*"/></match>
+  </rule>
++ 2.0 0.666666666667 3 2 2 	environnemental<adj><f><*>	politique<n><*> environnemental<adj><f><*> dans<pr>	medio ambiente<n><*>	2
+  <rule c="52 246: 2" weight="2.0">
+    <match lemma="politique" tags="n.*"/>
+    <match lemma="environnemental" tags="adj.f.*"><select lemma="medio ambiente" tags="n.*"/></match>
+    <match lemma="dans" tags="pr"/>
+  </rule>
++ 2.0 0.5 4 2 2 	avantage<n><m><*>	avantage<n><m><*> de<pr> ce<det><dem><f><sg>	beneficio<n><m><*>	2
+  <rule c="53 251: 2" weight="2.0">
+    <match lemma="avantage" tags="n.m.*"><select lemma="beneficio" tags="n.m.*"/></match>
+    <match lemma="de" tags="pr"/>
+    <match lemma="ce" tags="det.dem.f.sg"/>
+  </rule>
++ 2.0 0.666666666667 3 2 2 	véritable<adj><mf><*>	véritable<adj><mf><*> politique<n><*> communautaire<adj><mf><*>	auténtico<adj><f><*>	2
+  <rule c="54 256: 2" weight="2.0">
+    <match lemma="véritable" tags="adj.mf.*"><select lemma="auténtico" tags="adj.f.*"/></match>
+    <match lemma="politique" tags="n.*"/>
+    <match lemma="communautaire" tags="adj.mf.*"/>
+  </rule>
++ 1.5 0.134328358209 67 18 9 	véritable<adj><mf><*>	un<det><ind><m><sg> véritable<adj><mf><*>	auténtico<adj><m><*>	18
+  <rule c="55 261: 18" weight="1.5">
+    <match lemma="un" tags="det.ind.m.sg"/>
+    <match lemma="véritable" tags="adj.mf.*"><select lemma="auténtico" tags="adj.m.*"/></match>
+  </rule>
++ 3.0 0.268656716418 67 18 18 	véritable<adj><mf><*>	un<det><ind><m><sg> véritable<adj><mf><*>	verdadero<adj><m><*>	18
+  <rule c="56 265: 18" weight="3.0">
+    <match lemma="un" tags="det.ind.m.sg"/>
+    <match lemma="véritable" tags="adj.mf.*"><select lemma="verdadero" tags="adj.m.*"/></match>
+  </rule>
++ 2.0 0.4 5 2 2 	véritable<adj><mf><*>	Le<det><def><m><sg> véritable<adj><mf><*>	auténtico<adj><m><*>	2
+  <rule c="57 269: 2" weight="2.0">
+    <match lemma="le" tags="det.def.m.sg"/>
+    <match lemma="véritable" tags="adj.mf.*"><select lemma="auténtico" tags="adj.m.*"/></match>
+  </rule>
++ 1.2 0.375 16 6 6 	véritable<adj><mf><*>	le<det><def><mf><*> véritable<adj><mf><*>	verdadero<adj><m><*>	6
+  <rule c="58 273: 6" weight="1.2">
+    <match lemma="le" tags="det.def.mf.*"/>
+    <match lemma="véritable" tags="adj.mf.*"><select lemma="verdadero" tags="adj.m.*"/></match>
+  </rule>
++ 3.0 0.230769230769 13 3 3 	véritable<adj><mf><*>	le<det><def><m><sg> véritable<adj><mf><*>	auténtico<adj><m><*>	3
+  <rule c="59 277: 3" weight="3.0">
+    <match lemma="le" tags="det.def.m.sg"/>
+    <match lemma="véritable" tags="adj.mf.*"><select lemma="auténtico" tags="adj.m.*"/></match>
+  </rule>
++ 2.0 0.153846153846 13 3 2 	véritable<adj><mf><*>	le<det><def><m><sg> véritable<adj><mf><*>	real<adj><mf><*>	3
+  <rule c="60 281: 3" weight="2.0">
+    <match lemma="le" tags="det.def.m.sg"/>
+    <match lemma="véritable" tags="adj.mf.*"><select lemma="real" tags="adj.mf.*"/></match>
+  </rule>
++ 2.0 0.153846153846 13 3 2 	véritable<adj><mf><*>	le<det><def><m><sg> véritable<adj><mf><*>	verdadero<adj><m><*>	3
+  <rule c="61 285: 3" weight="2.0">
+    <match lemma="le" tags="det.def.m.sg"/>
+    <match lemma="véritable" tags="adj.mf.*"><select lemma="verdadero" tags="adj.m.*"/></match>
+  </rule>
++ 2.0 0.5 4 2 2 	véritable<adj><mf><*>	en<prn><pro><adv> véritable<adj><mf><*>	verdadero<adj><m><*>	2
+  <rule c="62 289: 2" weight="2.0">
+    <match lemma="en" tags="prn.pro.adv"/>
+    <match lemma="véritable" tags="adj.mf.*"><select lemma="verdadero" tags="adj.m.*"/></match>
+  </rule>
++ 2.0 0.666666666667 3 2 2 	véritable<adj><mf><*>	Le<det><def><mf><*> véritable<adj><mf><*>	verdadero<adj><m><*>	2
+  <rule c="63 293: 2" weight="2.0">
+    <match lemma="le" tags="det.def.mf.*"/>
+    <match lemma="véritable" tags="adj.mf.*"><select lemma="verdadero" tags="adj.m.*"/></match>
+  </rule>
++ 2.0 0.666666666667 3 2 2 	parlementaire<adj><mf><*>	parlementaire<adj><mf><*> mixte<adj><mf><*>	Parlamentario<adj><f><*>	2
+  <rule c="64 297: 2" weight="2.0">
+    <match lemma="parlementaire" tags="adj.mf.*"><select lemma="parlamentario" tags="adj.f.*"/></match>
+    <match lemma="mixte" tags="adj.mf.*"/>
+  </rule>
++ 2.0 0.5 4 2 2 	parlementaire<adj><mf><*>	travail<n><m><*> parlementaire<adj><mf><*>	parlamentario<adj><m><*>	2
+  <rule c="65 301: 2" weight="2.0">
+    <match lemma="travail" tags="n.m.*"/>
+    <match lemma="parlementaire" tags="adj.mf.*"><select lemma="parlamentario" tags="adj.m.*"/></match>
+  </rule>
++ 2.0 0.666666666667 3 2 2 	parlementaire<adj><mf><*>	commission<n><*> parlementaire<adj><mf><*> mixte<adj><mf><*>	Parlamentario<adj><f><*>	2
+  <rule c="66 305: 2" weight="2.0">
+    <match lemma="commission" tags="n.*"/>
+    <match lemma="parlementaire" tags="adj.mf.*"><select lemma="parlamentario" tags="adj.f.*"/></match>
+    <match lemma="mixte" tags="adj.mf.*"/>
+  </rule>
++ 2.5 0.263157894737 19 5 5 	parlementaire<adj><mf><*>	parlementaire<adj><mf><*> et<cnjcoo>	parlamentario<adj><m><*>	5
+  <rule c="67 310: 5" weight="2.5">
+    <match lemma="parlementaire" tags="adj.mf.*"><select lemma="parlamentario" tags="adj.m.*"/></match>
+    <match lemma="et" tags="cnjcoo"/>
+  </rule>
++ 2.0 0.5 4 2 2 	parlementaire<adj><mf><*>	contrôle<n><*> parlementaire<adj><mf><*> et<cnjcoo>	parlamentario<adj><m><*>	2
+  <rule c="68 314: 2" weight="2.0">
+    <match lemma="contrôle" tags="n.*"/>
+    <match lemma="parlementaire" tags="adj.mf.*"><select lemma="parlamentario" tags="adj.m.*"/></match>
+    <match lemma="et" tags="cnjcoo"/>
+  </rule>
++ 2.0 0.4 5 2 2 	parlementaire<adj><mf><*>	commission<n><*> parlementaire<adj><mf><*> et<cnjcoo>	comisión<n><*>	2
+  <rule c="69 319: 2" weight="2.0">
+    <match lemma="commission" tags="n.*"/>
+    <match lemma="parlementaire" tags="adj.mf.*"><select lemma="comisión" tags="n.*"/></match>
+    <match lemma="et" tags="cnjcoo"/>
+  </rule>
++ 2.0 0.5 4 2 2 	parlementaire<adj><mf><*>	parlementaire<adj><mf><*> et<cnjcoo> de<pr>	parlamentario<adj><m><*>	2
+  <rule c="70 324: 2" weight="2.0">
+    <match lemma="parlementaire" tags="adj.mf.*"><select lemma="parlamentario" tags="adj.m.*"/></match>
+    <match lemma="et" tags="cnjcoo"/>
+    <match lemma="de" tags="pr"/>
+  </rule>
++ 5.0 0.769230769231 13 10 10 	parlementaire<adj><mf><*>	contrôle<n><*> parlementaire<adj><mf><*>	parlamentario<adj><m><*>	10
+  <rule c="71 329: 10" weight="5.0">
+    <match lemma="contrôle" tags="n.*"/>
+    <match lemma="parlementaire" tags="adj.mf.*"><select lemma="parlamentario" tags="adj.m.*"/></match>
+  </rule>
++ 1.5 0.5 6 3 3 	parlementaire<n><mf><*>	tout<predet><*> le<det><def><mf><*> parlementaire<n><mf><*>	parlamentario<n><m><*>	3
+  <rule c="72 333: 3" weight="1.5">
+    <match lemma="tout" tags="predet.*"/>
+    <match lemma="le" tags="det.def.mf.*"/>
+    <match lemma="parlementaire" tags="n.mf.*"><select lemma="parlamentario" tags="n.m.*"/></match>
+  </rule>
++ 1.5 0.375 8 3 3 	parlementaire<n><mf><*>	de<pr> parlementaire<n><mf><*>	parlamentario<n><m><*>	3
+  <rule c="73 338: 3" weight="1.5">
+    <match lemma="de" tags="pr"/>
+    <match lemma="parlementaire" tags="n.mf.*"><select lemma="parlamentario" tags="n.m.*"/></match>
+  </rule>
++ 3.0 0.25 12 3 3 	achever<vblex><*>	se<prn><pro><ref><p3><mf><sp> achever<vblex><*>	terminar<vblex><*>	3
+  <rule c="74 342: 3" weight="3.0">
+    <match lemma="se" tags="prn.pro.ref.p3.mf.sp"/>
+    <match lemma="achever" tags="vblex.*"><select lemma="terminar" tags="vblex.*"/></match>
+  </rule>
++ 1.33333333333 0.444444444444 18 8 8 	frais<n><m><sp>	de<pr> le<det><def><mf><*> frais<n><m><sp>	gasto<n><m><*>	8
+  <rule c="75 346: 8" weight="1.33333333333">
+    <match lemma="de" tags="pr"/>
+    <match lemma="le" tags="det.def.mf.*"/>
+    <match lemma="frais" tags="n.m.sp"><select lemma="gasto" tags="n.m.*"/></match>
+  </rule>
++ 4.0 0.8 5 4 4 	frais<n><m><sp>	frais<n><m><sp> de<pr> fonctionnement<n><*>	gasto<n><m><*>	4
+  <rule c="76 351: 4" weight="4.0">
+    <match lemma="frais" tags="n.m.sp"><select lemma="gasto" tags="n.m.*"/></match>
+    <match lemma="de" tags="pr"/>
+    <match lemma="fonctionnement" tags="n.*"/>
+  </rule>
++ 1.26666666667 0.463414634146 41 19 19 	frais<n><m><sp>	frais<n><m><sp> de<pr>	gasto<n><m><*>	19
+  <rule c="77 356: 19" weight="1.26666666667">
+    <match lemma="frais" tags="n.m.sp"><select lemma="gasto" tags="n.m.*"/></match>
+    <match lemma="de" tags="pr"/>
+  </rule>
++ 2.0 0.666666666667 3 2 2 	frais<n><m><sp>	frais<n><m><sp> supplémentaire<adj><*>	gasto<n><m><*>	2
+  <rule c="78 360: 2" weight="2.0">
+    <match lemma="frais" tags="n.m.sp"><select lemma="gasto" tags="n.m.*"/></match>
+    <match lemma="supplémentaire" tags="adj.*"/>
+  </rule>
++ 1.23076923077 0.444444444444 36 16 16 	frais<n><m><sp>	le<det><def><mf><*> frais<n><m><sp> de<pr>	gasto<n><m><*>	16
+  <rule c="79 364: 16" weight="1.23076923077">
+    <match lemma="le" tags="det.def.mf.*"/>
+    <match lemma="frais" tags="n.m.sp"><select lemma="gasto" tags="n.m.*"/></match>
+    <match lemma="de" tags="pr"/>
+  </rule>
+</rules>

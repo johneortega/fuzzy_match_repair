@@ -1,0 +1,8 @@
+/home/johneortega/software/apertium/vislcg3/src/CMakeFiles/cg-mwesplit.dir
+/home/johneortega/software/apertium/vislcg3/src/CMakeFiles/cg-relabel.dir
+/home/johneortega/software/apertium/vislcg3/src/CMakeFiles/cg-proc.dir
+/home/johneortega/software/apertium/vislcg3/src/CMakeFiles/cg-comp.dir
+/home/johneortega/software/apertium/vislcg3/src/CMakeFiles/test_libcg3.dir
+/home/johneortega/software/apertium/vislcg3/src/CMakeFiles/cg-conv.dir
+/home/johneortega/software/apertium/vislcg3/src/CMakeFiles/vislcg3.dir
+/home/johneortega/software/apertium/vislcg3/src/CMakeFiles/libcg3-shared.dir

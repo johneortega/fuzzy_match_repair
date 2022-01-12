@@ -1,0 +1,5 @@
+Jorge Correia (estudiante del Google Code In 2013) ha preparado estos
+pequeños textos en castellano. Los textos son HTML válido (de acuerdo, por ejemplo, con
+validator.w3.org) pero sus traducciones no lo son porque apertium-es-pt
+pierde etiquetas. Ahora hay que buscar qué módulo está rompiendo el
+HTML.

@@ -1,0 +1,523 @@
+<rules>
+  <rule c="1 2: 2" weight="2.0">
+    <match lemma="medida" tags="n.*"><select lemma="medir" tags="vblex.*"/></match>
+    <match lemma="relativo" tags="adj.*"/>
+    <match lemma="a" tags="pr"/>
+  </rule>
+  <rule c="2 7: 2" weight="2.0">
+    <match lemma="necessário" tags="adj.*"/>
+    <match lemma="tomar" tags="vblex.*"/>
+    <match lemma="medida" tags="n.*"><select lemma="medir" tags="vblex.*"/></match>
+  </rule>
+  <rule c="3 12: 2" weight="2.0">
+    <match lemma="medida" tags="n.*"><select lemma="medir" tags="vblex.*"/></match>
+    <match lemma="de" tags="pr"/>
+    <match lemma="apoio" tags="n.*"/>
+  </rule>
+  <rule c="4 17: 2" weight="2.0">
+    <match lemma="tomar" tags="vblex.*"/>
+    <match lemma="qualquer" tags="det.*"/>
+    <match lemma="medida" tags="n.*"><select lemma="medir" tags="vblex.*"/></match>
+  </rule>
+  <rule c="5 22: 2" weight="2.0">
+    <match lemma="dois" tags="num.f.*"/>
+    <match lemma="medida" tags="n.*"><select lemma="vara" tags="n.*"/></match>
+  </rule>
+  <rule c="6 26: 2" weight="2.0">
+    <match lemma="medida" tags="n.*"><select lemma="medir" tags="vblex.*"/></match>
+    <match lemma="relativo" tags="adj.*"/>
+  </rule>
+  <rule c="7 30: 3" weight="3.0">
+    <match lemma="medida" tags="n.*"><select lemma="intervenir" tags="vblex.*"/></match>
+    <match lemma="em" tags="pr"/>
+    <match lemma="relação" tags="n.*"/>
+  </rule>
+  <rule c="8 35: 2" weight="2.0">
+    <match lemma="tomar" tags="vblex.*"/>
+    <match lemma="medida" tags="n.*"><select lemma="medir" tags="vblex.*"/></match>
+    <match lemma="a" tags="pr"/>
+  </rule>
+  <rule c="9 40: 8" weight="4.0">
+    <match lemma="o" tags="det.*"/>
+    <match lemma="verificação" tags="n.*"><select lemma="comprobación" tags="n.*"/></match>
+  </rule>
+  <rule c="10 44: 8" weight="8.0">
+    <match lemma="o" tags="det.*"/>
+    <match lemma="verificação" tags="n.*"><select lemma="comprobación" tags="n.*"/></match>
+    <match lemma="de" tags="pr"/>
+  </rule>
+  <rule c="11 49: 13" weight="3.25">
+    <match lemma="verificação" tags="n.*"><select lemma="comprobación" tags="n.*"/></match>
+    <match lemma="de" tags="pr"/>
+  </rule>
+  <rule c="12 53: 13" weight="4.33333333333">
+    <match lemma="verificação" tags="n.*"><select lemma="comprobación" tags="n.*"/></match>
+    <match lemma="de" tags="pr"/>
+    <match lemma="o" tags="det.*"/>
+  </rule>
+  <rule c="13 58: 4" weight="2.0">
+    <match lemma="de" tags="pr"/>
+    <match lemma="verificação" tags="n.*"><select lemma="comprobación" tags="n.*"/></match>
+    <match lemma="de" tags="pr"/>
+  </rule>
+  <rule c="14 63: 5" weight="1.66666666667">
+    <match lemma="salvaguarda" tags="n.*"><select lemma="protección" tags="n.*"/></match>
+    <match lemma="de" tags="pr"/>
+    <match lemma="o" tags="det.*"/>
+  </rule>
+  <rule c="15 68: 4" weight="1.33333333333">
+    <match lemma="o" tags="det.*"/>
+    <match lemma="salvaguarda" tags="n.*"><select lemma="protección" tags="n.*"/></match>
+  </rule>
+  <rule c="16 72: 4" weight="1.33333333333">
+    <match lemma="o" tags="det.*"/>
+    <match lemma="salvaguarda" tags="n.*"><select lemma="protección" tags="n.*"/></match>
+    <match lemma="de" tags="pr"/>
+  </rule>
+  <rule c="17 77: 6" weight="1.5">
+    <match lemma="salvaguarda" tags="n.*"><select lemma="protección" tags="n.*"/></match>
+    <match lemma="de" tags="pr"/>
+  </rule>
+  <rule c="18 81: 4" weight="4.0">
+    <match lemma="lacuna" tags="n.*"><select lemma="deficiencia" tags="n.*"/></match>
+    <match lemma="que" tags="rel.*"/>
+  </rule>
+  <rule c="19 85: 2" weight="2.0">
+    <match lemma="esse" tags="det.*"/>
+    <match lemma="lacuna" tags="n.*"><select lemma="deficiencia" tags="n.*"/></match>
+  </rule>
+  <rule c="20 89: 2" weight="2.0">
+    <match lemma="o" tags="det.*"/>
+    <match lemma="lacuna" tags="n.*"><select lemma="deficiencia" tags="n.*"/></match>
+    <match lemma="em" tags="pr"/>
+  </rule>
+  <rule c="21 94: 4" weight="1.33333333333">
+    <match lemma="segurança" tags="n.f.*"/>
+    <match lemma="alimentar" tags="adj.mf.*"><select lemma="alimentario" tags="adj.f.*"/></match>
+  </rule>
+  <rule c="22 98: 4" weight="4.0">
+    <match lemma="de" tags="pr"/>
+    <match lemma="segurança" tags="n.f.*"/>
+    <match lemma="alimentar" tags="adj.mf.*"><select lemma="alimentario" tags="adj.f.*"/></match>
+  </rule>
+  <rule c="23 103: 2" weight="2.0">
+    <match lemma="um" tags="det.*"/>
+    <match lemma="outro" tags="adj.*"/>
+    <match lemma="questão" tags="n.*"><select lemma="asunto" tags="n.*"/></match>
+  </rule>
+  <rule c="24 108: 2" weight="2.0">
+    <match lemma="questão" tags="n.*"><select lemma="aspecto" tags="n.*"/></match>
+    <match lemma="jurídico" tags="adj.*"/>
+  </rule>
+  <rule c="25 112: 2" weight="2.0">
+    <match lemma="questão" tags="n.*"><select lemma="asunto" tags="n.*"/></match>
+    <match lemma="vital" tags="adj.*"/>
+  </rule>
+  <rule c="26 116: 2" weight="2.0">
+    <match lemma="questão" tags="n.*"><select lemma="aspecto" tags="n.*"/></match>
+    <match lemma="vital" tags="adj.*"/>
+  </rule>
+  <rule c="27 120: 12" weight="4.5">
+    <match lemma="questão" tags="n.*"><select lemma="urgencia" tags="n.*"/></match>
+    <match lemma="actual" tags="adj.mf.pl"/>
+  </rule>
+  <rule c="28 124: 12" weight="6.0">
+    <match lemma="questão" tags="n.*"><select lemma="problema" tags="n.*"/></match>
+    <match lemma="actual" tags="adj.mf.pl"/>
+  </rule>
+  <rule c="29 128: 2" weight="2.0">
+    <match lemma="questão" tags="n.*"><select lemma="tema" tags="n.*"/></match>
+    <match lemma="também" tags="adv"/>
+  </rule>
+  <rule c="30 132: 2" weight="2.0">
+    <match lemma="o" tags="det.*"/>
+    <match lemma="último" tags="adj.*"/>
+    <match lemma="questão" tags="n.*"><select lemma="observación" tags="n.*"/></match>
+  </rule>
+  <rule c="31 137: 3" weight="1.5">
+    <match lemma="sobre" tags="pr"/>
+    <match lemma="esse" tags="det.*"/>
+    <match lemma="questão" tags="n.*"><select lemma="tema" tags="n.*"/></match>
+  </rule>
+  <rule c="32 142: 2" weight="2.0">
+    <match lemma="um" tags="det.*"/>
+    <match lemma="questão" tags="n.*"><select lemma="asunto" tags="n.*"/></match>
+    <match lemma="particularmente" tags="adv"/>
+  </rule>
+  <rule c="33 147: 3" weight="1.5">
+    <match lemma="discutir" tags="vblex.*"/>
+    <match lemma="o" tags="det.*"/>
+    <match lemma="questão" tags="n.*"><select lemma="asunto" tags="n.*"/></match>
+  </rule>
+  <rule c="34 152: 2" weight="2.0">
+    <match lemma="questão" tags="n.*"><select lemma="asunto" tags="n.*"/></match>
+    <match lemma="que" tags="rel.*"/>
+    <match lemma="também" tags="adv"/>
+  </rule>
+  <rule c="35 157: 4" weight="4.0">
+    <match lemma="como" tags="rel.adv"/>
+    <match lemma="um" tags="det.*"/>
+    <match lemma="questão" tags="n.*"><select lemma="asunto" tags="n.*"/></match>
+  </rule>
+  <rule c="36 162: 3" weight="1.5">
+    <match lemma="questão" tags="n.*"><select lemma="asunto" tags="n.*"/></match>
+    <match lemma="por" tags="pr"/>
+  </rule>
+  <rule c="37 166: 5" weight="1.66666666667">
+    <match lemma="questão" tags="n.*"><select lemma="asunto" tags="n.*"/></match>
+    <match lemma="com" tags="pr"/>
+  </rule>
+  <rule c="38 170: 10" weight="6.0">
+    <match lemma="debate" tags="n.*"/>
+    <match lemma="sobre" tags="pr"/>
+    <match lemma="questão" tags="n.*"><select lemma="urgencia" tags="n.*"/></match>
+  </rule>
+  <rule c="39 175: 10" weight="10.0">
+    <match lemma="debate" tags="n.*"/>
+    <match lemma="sobre" tags="pr"/>
+    <match lemma="questão" tags="n.*"><select lemma="problema" tags="n.*"/></match>
+  </rule>
+  <rule c="40 180: 2" weight="2.0">
+    <match lemma="incluir" tags="vblex.*"/>
+    <match lemma="o" tags="det.*"/>
+    <match lemma="questão" tags="n.*"><select lemma="tema" tags="n.*"/></match>
+    <match lemma="de" tags="pr"/>
+    <match lemma="o" tags="det.*"/>
+  </rule>
+  <rule c="41 187: 2" weight="2.0">
+    <match lemma="colocar" tags="vblex.*"/>
+    <match lemma="dois" tags="num.f.*"/>
+    <match lemma="questão" tags="n.*"><select lemma="pregunta" tags="n.*"/></match>
+  </rule>
+  <rule c="42 192: 4" weight="4.0">
+    <match lemma="questão" tags="n.*"><select lemma="tema" tags="n.*"/></match>
+    <match lemma="tão" tags="adv"/>
+    <match lemma="importante" tags="adj.*"/>
+  </rule>
+  <rule c="43 197: 10" weight="2.5">
+    <match lemma="algum" tags="det.*"/>
+    <match lemma="questão" tags="n.*"><select lemma="pregunta" tags="n.*"/></match>
+  </rule>
+  <rule c="44 201: 3" weight="1.5">
+    <match lemma="questão" tags="n.*"><select lemma="asunto" tags="n.*"/></match>
+    <match lemma="ambiental" tags="adj.*"/>
+  </rule>
+  <rule c="45 205: 2" weight="2.0">
+    <match lemma="questão" tags="n.*"><select lemma="asunto" tags="n.*"/></match>
+    <match lemma="de" tags="pr"/>
+    <match lemma="interesse" tags="n.*"/>
+  </rule>
+  <rule c="46 210: 2" weight="2.0">
+    <match lemma="sobre" tags="pr"/>
+    <match lemma="este" tags="det.*"/>
+    <match lemma="questão" tags="n.*"><select lemma="tema" tags="n.*"/></match>
+    <match lemma="de" tags="pr"/>
+    <match lemma="o" tags="det.*"/>
+  </rule>
+  <rule c="47 217: 4" weight="1.33333333333">
+    <match lemma="questão" tags="n.*"><select lemma="pregunta" tags="n.*"/></match>
+    <match lemma="a" tags="pr"/>
+    <match lemma="o" tags="det.*"/>
+  </rule>
+  <rule c="48 222: 4" weight="1.33333333333">
+    <match lemma="questão" tags="n.*"><select lemma="asunto" tags="n.*"/></match>
+    <match lemma="a" tags="pr"/>
+    <match lemma="o" tags="det.*"/>
+  </rule>
+  <rule c="49 227: 9" weight="1.28571428571">
+    <match lemma="outro" tags="det.*"/>
+    <match lemma="questão" tags="n.*"><select lemma="tema" tags="n.*"/></match>
+  </rule>
+  <rule c="50 231: 2" weight="2.0">
+    <match lemma="segundo" tags="adj.*"/>
+    <match lemma="questão" tags="n.*"><select lemma="pregunta" tags="n.*"/></match>
+  </rule>
+  <rule c="51 235: 3" weight="1.5">
+    <match lemma="resolver" tags="vblex.*"/>
+    <match lemma="este" tags="det.*"/>
+    <match lemma="questão" tags="n.*"><select lemma="problema" tags="n.*"/></match>
+  </rule>
+  <rule c="52 240: 2" weight="2.0">
+    <match lemma="levantar" tags="vblex.*"/>
+    <match lemma="questão" tags="n.*"><select lemma="aspecto" tags="n.*"/></match>
+  </rule>
+  <rule c="53 244: 2" weight="2.0">
+    <match lemma="o" tags="det.*"/>
+    <match lemma="questão" tags="n.*"><select lemma="asunto" tags="n.*"/></match>
+    <match lemma="social" tags="adj.*"/>
+  </rule>
+  <rule c="54 249: 4" weight="1.33333333333">
+    <match lemma="questão" tags="n.*"><select lemma="pregunta" tags="n.*"/></match>
+    <match lemma="residir" tags="vblex.*"/>
+  </rule>
+  <rule c="55 253: 3" weight="1.5">
+    <match lemma="questão" tags="n.*"><select lemma="urgencia" tags="n.*"/></match>
+    <match lemma="actual" tags="adj.mf.pl"/>
+    <match lemma="e" tags="cnjcoo"/>
+  </rule>
+  <rule c="56 258: 3" weight="1.5">
+    <match lemma="um" tags="det.*"/>
+    <match lemma="questão" tags="n.*"><select lemma="asunto" tags="n.*"/></match>
+    <match lemma="em" tags="pr"/>
+  </rule>
+  <rule c="57 263: 2" weight="2.0">
+    <match lemma="questão" tags="n.*"><select lemma="asunto" tags="n.*"/></match>
+    <match lemma="ser" tags="vbser.*"/>
+    <match lemma="que" tags="cnjsub"/>
+  </rule>
+  <rule c="58 268: 2" weight="2.0">
+    <match lemma="referir" tags="vblex.*"/>
+    <match lemma="o" tags="det.*"/>
+    <match lemma="questão" tags="n.*"><select lemma="tema" tags="n.*"/></match>
+    <match lemma="de" tags="pr"/>
+    <match lemma="o" tags="det.*"/>
+  </rule>
+  <rule c="59 275: 10" weight="3.5">
+    <match lemma="sobre" tags="pr"/>
+    <match lemma="questão" tags="n.*"><select lemma="urgencia" tags="n.*"/></match>
+    <match lemma="actual" tags="adj.mf.pl"/>
+  </rule>
+  <rule c="60 280: 10" weight="5.0">
+    <match lemma="sobre" tags="pr"/>
+    <match lemma="questão" tags="n.*"><select lemma="problema" tags="n.*"/></match>
+    <match lemma="actual" tags="adj.mf.pl"/>
+  </rule>
+  <rule c="61 285: 3" weight="3.0">
+    <match lemma="o" tags=""/>
+    <match lemma="seu" tags="det.pos.f.*"/>
+    <match lemma="questão" tags="n.*"><select lemma="pregunta" tags="n.*"/></match>
+  </rule>
+  <rule c="62 290: 3" weight="1.5">
+    <match lemma="discutir" tags="vblex.*"/>
+    <match lemma="este" tags="det.*"/>
+    <match lemma="questão" tags="n.*"><select lemma="tema" tags="n.*"/></match>
+  </rule>
+  <rule c="63 295: 2" weight="2.0">
+    <match lemma="questão" tags="n.*"><select lemma="asunto" tags="n.*"/></match>
+    <match lemma="com" tags="pr"/>
+    <match lemma="o" tags="det.*"/>
+  </rule>
+  <rule c="64 300: 2" weight="2.0">
+    <match lemma="questão" tags="n.*"><select lemma="tema" tags="n.*"/></match>
+    <match lemma="com" tags="pr"/>
+    <match lemma="o" tags="det.*"/>
+  </rule>
+  <rule c="65 305: 2" weight="2.0">
+    <match lemma="questão" tags="n.*"><select lemma="tema" tags="n.*"/></match>
+    <match lemma="difícil" tags="adj.*"/>
+  </rule>
+  <rule c="66 309: 3" weight="1.5">
+    <match lemma="questão" tags="n.*"><select lemma="tema" tags="n.*"/></match>
+    <match lemma="social" tags="adj.*"/>
+  </rule>
+  <rule c="67 313: 18" weight="1.28571428571">
+    <match lemma="em" tags="pr"/>
+    <match lemma="este" tags="det.*"/>
+    <match lemma="questão" tags="n.*"><select lemma="asunto" tags="n.*"/></match>
+  </rule>
+  <rule c="68 318: 2" weight="2.0">
+    <match lemma="questão" tags="n.*"><select lemma="debate" tags="n.*"/></match>
+    <match lemma="actual" tags="adj.mf.sg"/>
+  </rule>
+  <rule c="69 322: 7" weight="1.4">
+    <match lemma="um" tags="det.*"/>
+    <match lemma="questão" tags="n.*"><select lemma="asunto" tags="n.*"/></match>
+    <match lemma="muito" tags="preadv"/>
+  </rule>
+  <rule c="70 327: 2" weight="2.0">
+    <match lemma="um" tags="det.*"/>
+    <match lemma="questão" tags="n.*"><select lemma="debate" tags="n.*"/></match>
+    <match lemma="actual" tags="adj.mf.sg"/>
+  </rule>
+  <rule c="71 332: 2" weight="2.0">
+    <match lemma="referir" tags="vblex.*"/>
+    <match lemma="o" tags="det.*"/>
+    <match lemma="questão" tags="n.*"><select lemma="tema" tags="n.*"/></match>
+  </rule>
+  <rule c="72 337: 3" weight="3.0">
+    <match lemma="questão" tags="n.*"><select lemma="asunto" tags="n.*"/></match>
+    <match lemma="muito" tags="preadv"/>
+    <match lemma="importante" tags="adj.*"/>
+  </rule>
+  <rule c="73 342: 3" weight="2.0">
+    <match lemma="questão" tags="n.*"><select lemma="tema" tags="n.*"/></match>
+    <match lemma="muito" tags="preadv"/>
+    <match lemma="importante" tags="adj.*"/>
+  </rule>
+  <rule c="74 347: 4" weight="2.0">
+    <match lemma="resolver" tags="vblex.*"/>
+    <match lemma="o" tags="det.*"/>
+    <match lemma="questão" tags="n.*"><select lemma="problema" tags="n.*"/></match>
+    <match lemma="de" tags="pr"/>
+    <match lemma="o" tags="det.*"/>
+  </rule>
+  <rule c="75 354: 4" weight="4.0">
+    <match lemma="questão" tags="n.*"><select lemma="pregunta" tags="n.*"/></match>
+    <match lemma="de" tags="pr"/>
+    <match lemma="se" tags="prn.pro.ref.*"/>
+  </rule>
+  <rule c="76 359: 4" weight="2.0">
+    <match lemma="com" tags="pr"/>
+    <match lemma="este" tags="det.*"/>
+    <match lemma="questão" tags="n.*"><select lemma="asunto" tags="n.*"/></match>
+  </rule>
+  <rule c="77 364: 4" weight="4.0">
+    <match lemma="com" tags="pr"/>
+    <match lemma="este" tags="det.*"/>
+    <match lemma="questão" tags="n.*"><select lemma="tema" tags="n.*"/></match>
+  </rule>
+  <rule c="78 369: 2" weight="2.0">
+    <match lemma="questão" tags="n.*"><select lemma="tema" tags="n.*"/></match>
+    <match lemma="só" tags="adv"/>
+  </rule>
+  <rule c="79 373: 2" weight="2.0">
+    <match lemma="a" tags="pr"/>
+    <match lemma="dois" tags="num.f.*"/>
+    <match lemma="questão" tags="n.*"><select lemma="punto" tags="n.*"/></match>
+  </rule>
+  <rule c="80 378: 11" weight="1.375">
+    <match lemma="sobre" tags="pr"/>
+    <match lemma="questão" tags="n.*"><select lemma="problema" tags="n.*"/></match>
+  </rule>
+  <rule c="81 382: 6" weight="2.0">
+    <match lemma="resolver" tags="vblex.*"/>
+    <match lemma="o" tags="det.*"/>
+    <match lemma="questão" tags="n.*"><select lemma="problema" tags="n.*"/></match>
+  </rule>
+  <rule c="82 387: 2" weight="2.0">
+    <match lemma="conta" tags="n.*"/>
+    <match lemma="o" tags="det.*"/>
+    <match lemma="questão" tags="n.*"><select lemma="tema" tags="n.*"/></match>
+    <match lemma="de" tags="pr"/>
+    <match lemma="o" tags="det.*"/>
+  </rule>
+  <rule c="83 394: 2" weight="2.0">
+    <match lemma="questão" tags="n.*"><select lemma="asunto" tags="n.*"/></match>
+    <match lemma="chave" tags="n.*"/>
+  </rule>
+  <rule c="84 398: 2" weight="2.0">
+    <match lemma="questão" tags="n.*"><select lemma="asunto" tags="n.*"/></match>
+    <match lemma="ser" tags="vbser.*"/>
+    <match lemma="muito" tags="preadv"/>
+  </rule>
+  <rule c="85 403: 2" weight="2.0">
+    <match lemma="questão" tags="n.*"><select lemma="tema" tags="n.*"/></match>
+    <match lemma="só" tags="adv"/>
+    <match lemma="poder" tags="vbmod.*"/>
+  </rule>
+  <rule c="86 408: 2" weight="2.0">
+    <match lemma="a" tags="pr"/>
+    <match lemma="o" tags="det.*"/>
+    <match lemma="questão" tags="n.*"><select lemma="tema" tags="n.*"/></match>
+    <match lemma="que" tags="rel.*"/>
+    <match lemma="ser" tags="vbser.*"/>
+  </rule>
+  <rule c="87 415: 4" weight="1.33333333333">
+    <match lemma="e" tags="cnjcoo"/>
+    <match lemma="o" tags="det.*"/>
+    <match lemma="questão" tags="n.*"><select lemma="tema" tags="n.*"/></match>
+  </rule>
+  <rule c="88 420: 2" weight="2.0">
+    <match lemma="incluir" tags="vblex.*"/>
+    <match lemma="o" tags="det.*"/>
+    <match lemma="questão" tags="n.*"><select lemma="tema" tags="n.*"/></match>
+  </rule>
+  <rule c="89 425: 11" weight="1.375">
+    <match lemma="este" tags="det.*"/>
+    <match lemma="questão" tags="n.*"><select lemma="asunto" tags="n.*"/></match>
+    <match lemma="ser" tags="vbser.*"/>
+  </rule>
+  <rule c="90 430: 2" weight="2.0">
+    <match lemma="questão" tags="n.*"><select lemma="asunto" tags="n.*"/></match>
+    <match lemma="particularmente" tags="adv"/>
+  </rule>
+  <rule c="91 434: 2" weight="2.0">
+    <match lemma="um" tags="det.*"/>
+    <match lemma="questão" tags="n.*"><select lemma="tema" tags="n.*"/></match>
+    <match lemma="para" tags="pr"/>
+  </rule>
+  <rule c="92 439: 2" weight="2.0">
+    <match lemma="debate" tags="n.*"/>
+    <match lemma="sobre" tags="pr"/>
+    <match lemma="questão" tags="n.*"><select lemma="urgencia" tags="n.*"/></match>
+    <match lemma="actual" tags="adj.mf.pl"/>
+    <match lemma="e" tags="cnjcoo"/>
+  </rule>
+  <rule c="93 446: 3" weight="1.5">
+    <match lemma="este" tags="det.*"/>
+    <match lemma="questão" tags="n.*"><select lemma="asunto" tags="n.*"/></match>
+    <match lemma="com" tags="pr"/>
+  </rule>
+  <rule c="94 451: 2" weight="2.0">
+    <match lemma="questão" tags="n.*"><select lemma="tema" tags="n.*"/></match>
+    <match lemma="de" tags="pr"/>
+    <match lemma="carácter" tags="n.m.sg"/>
+  </rule>
+  <rule c="95 456: 3" weight="1.5">
+    <match lemma="o" tags="det.*"/>
+    <match lemma="ligação" tags="n.*"><select lemma="relación" tags="n.*"/></match>
+    <match lemma="entre" tags="pr"/>
+  </rule>
+  <rule c="96 461: 4" weight="1.33333333333">
+    <match lemma="ligação" tags="n.*"><select lemma="contacto" tags="n.*"/></match>
+    <match lemma="com" tags="pr"/>
+  </rule>
+  <rule c="97 465: 5" weight="1.66666666667">
+    <match lemma="ligação" tags="n.*"><select lemma="relación" tags="n.*"/></match>
+    <match lemma="entre" tags="pr"/>
+  </rule>
+  <rule c="98 469: 4" weight="2.0">
+    <match lemma="ligação" tags="n.*"><select lemma="relación" tags="n.*"/></match>
+    <match lemma="entre" tags="pr"/>
+    <match lemma="o" tags="det.*"/>
+  </rule>
+  <rule c="99 474: 4" weight="2.0">
+    <match lemma="um" tags="det.*"/>
+    <match lemma="ligação" tags="n.*"><select lemma="enlace" tags="n.*"/></match>
+  </rule>
+  <rule c="100 478: 4" weight="1.5">
+    <match lemma="um" tags="det.*"/>
+    <match lemma="ligação" tags="n.*"><select lemma="relación" tags="n.*"/></match>
+  </rule>
+  <rule c="101 482: 4" weight="1.5">
+    <match lemma="um" tags="det.*"/>
+    <match lemma="ligação" tags="n.*"><select lemma="vincular" tags="vblex.*"/></match>
+  </rule>
+  <rule c="102 486: 2" weight="2.0">
+    <match lemma="ligação" tags="n.*"><select lemma="red" tags="n.*"/></match>
+    <match lemma="em" tags="pr"/>
+  </rule>
+  <rule c="103 490: 4" weight="1.5">
+    <match lemma="ligação" tags="n.*"><select lemma="vinculación" tags="n.*"/></match>
+    <match lemma="com" tags="pr"/>
+    <match lemma="o" tags="det.*"/>
+  </rule>
+  <rule c="104 495: 4" weight="2.0">
+    <match lemma="ligação" tags="n.*"><select lemma="contacto" tags="n.*"/></match>
+    <match lemma="com" tags="pr"/>
+    <match lemma="o" tags="det.*"/>
+  </rule>
+  <rule c="105 500: 9" weight="9.0">
+    <match lemma="produto" tags="n.*"/>
+    <match lemma="alimentar" tags="adj.mf.*"><select lemma="alimento" tags="n.*"/></match>
+  </rule>
+  <rule c="106 504: 9" weight="2.0">
+    <match lemma="produto" tags="n.*"/>
+    <match lemma="alimentar" tags="adj.mf.*"><select lemma="alimenticio" tags="adj.m.*"/></match>
+  </rule>
+  <rule c="107 508: 3" weight="1.5">
+    <match lemma="o" tags="det.*"/>
+    <match lemma="indústria" tags="n.*"/>
+    <match lemma="alimentar" tags="adj.mf.*"><select lemma="alimentación" tags="n.*"/></match>
+  </rule>
+  <rule c="108 513: 2" weight="2.0">
+    <match lemma="o" tags="det.*"/>
+    <match lemma="produto" tags="n.*"/>
+    <match lemma="alimentar" tags="adj.mf.*"><select lemma="alimenticio" tags="adj.m.*"/></match>
+  </rule>
+  <rule c="109 518: 2" weight="2.0">
+    <match lemma="o" tags="det.*"/>
+    <match lemma="produto" tags="n.*"/>
+    <match lemma="alimentar" tags="adj.mf.*"><select lemma="alimento" tags="n.*"/></match>
+  </rule>
+</rules>

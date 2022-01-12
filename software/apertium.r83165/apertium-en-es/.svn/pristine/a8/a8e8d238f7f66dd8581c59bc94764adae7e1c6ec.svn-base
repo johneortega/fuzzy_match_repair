@@ -1,0 +1,5 @@
+This directory is here to contain valid HTML files whose translations using
+apertium-en-es (en→es) are invalid.  Such files are provided by Google Code-In students. When the problems are solved, they should be removed from here.
+
+
+

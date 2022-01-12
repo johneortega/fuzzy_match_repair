@@ -1,0 +1,6 @@
+<rules>
+  <rule><match lemma="cajero" tags="n.*"><select lemma="caissier" tags="n.*"/></match></rule>
+  <rule><match lemma="depósito" tags="n.*"><select lemma="dépôt" tags="n.*"/></match></rule>
+  <rule><match lemma="ingreso" tags="n.*"><select lemma="revenu" tags="n.*"/></match></rule>
+  <rule><match lemma="imposición" tags="n.*"><select lemma="imposition" tags="n.*"/></match></rule>
+</rules>

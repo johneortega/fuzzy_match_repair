@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/p/apertium/svn/!svn/ver/48885/trunk/apertium
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/apertium/svn/!svn/ver/6567/trunk/apertium/autogen.sh
+END
+apertium.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/apertium/svn/!svn/ver/48257/trunk/apertium/apertium.pc.in
+END
+COPYING.hunalign
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/apertium/svn/!svn/ver/42694/trunk/apertium/COPYING.hunalign
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/apertium/svn/!svn/ver/3424/trunk/apertium/NEWS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/apertium/svn/!svn/ver/10332/trunk/apertium/README
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/apertium/svn/!svn/ver/18736/trunk/apertium/CMakeLists.txt
+END
+README-MODES
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/apertium/svn/!svn/ver/21044/trunk/apertium/README-MODES
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/apertium/svn/!svn/ver/48257/trunk/apertium/configure.ac
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/apertium/svn/!svn/ver/17122/trunk/apertium/AUTHORS
+END
+apertium.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/apertium/svn/!svn/ver/48384/trunk/apertium/apertium.m4
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/apertium/svn/!svn/ver/6048/trunk/apertium/INSTALL
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/apertium/svn/!svn/ver/25741/trunk/apertium/ChangeLog
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/apertium/svn/!svn/ver/3424/trunk/apertium/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/apertium/svn/!svn/ver/48384/trunk/apertium/Makefile.am
+END

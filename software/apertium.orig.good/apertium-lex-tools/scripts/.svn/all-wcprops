@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/apertium/svn/!svn/ver/47822/trunk/apertium-lex-tools/scripts
+END
+process-tagger-output
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/apertium/svn/!svn/ver/45820/trunk/apertium-lex-tools/scripts/process-tagger-output
+END
+biltrans-line-only-pos-ambig.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/apertium/svn/!svn/ver/45721/trunk/apertium-lex-tools/scripts/biltrans-line-only-pos-ambig.py
+END
+biltrans-to-multitrans.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/apertium/svn/!svn/ver/41231/trunk/apertium-lex-tools/scripts/biltrans-to-multitrans.py
+END
+biltrans-count-patterns-me.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/apertium/svn/!svn/ver/41623/trunk/apertium-lex-tools/scripts/biltrans-count-patterns-me.py
+END
+ngram-count-patterns-poorman.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/apertium/svn/!svn/ver/46003/trunk/apertium-lex-tools/scripts/ngram-count-patterns-poorman.py
+END
+bkp.biltrans-count-patterns-ngrams.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/apertium/svn/!svn/ver/45820/trunk/apertium-lex-tools/scripts/bkp.biltrans-count-patterns-ngrams.py
+END
+eval-corp-from-alig.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/apertium/svn/!svn/ver/36332/trunk/apertium-lex-tools/scripts/eval-corp-from-alig.py
+END
+ngram-pareto-trim.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/apertium/svn/!svn/ver/47553/trunk/apertium-lex-tools/scripts/ngram-pareto-trim.py
+END
+merge-all-lambdas.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/apertium/svn/!svn/ver/47579/trunk/apertium-lex-tools/scripts/merge-all-lambdas.py
+END
+bkp.extract-sentences.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/apertium/svn/!svn/ver/45820/trunk/apertium-lex-tools/scripts/bkp.extract-sentences.py
+END
+lambdas-to-rules.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/apertium/svn/!svn/ver/47553/trunk/apertium-lex-tools/scripts/lambdas-to-rules.py
+END
+biltrans-count-patterns-frac.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/apertium/svn/!svn/ver/47373/trunk/apertium-lex-tools/scripts/biltrans-count-patterns-frac.py
+END
+trim-fertile-lines.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/apertium/svn/!svn/ver/45721/trunk/apertium-lex-tools/scripts/trim-fertile-lines.py
+END
+biltrans-extract-poormans-freq.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/apertium/svn/!svn/ver/41623/trunk/apertium-lex-tools/scripts/biltrans-extract-poormans-freq.py
+END
+apertium-lex-evaluate.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/apertium/svn/!svn/ver/46959/trunk/apertium-lex-tools/scripts/apertium-lex-evaluate.py
+END
+extract-default-ldx.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/apertium/svn/!svn/ver/39887/trunk/apertium-lex-tools/scripts/extract-default-ldx.py
+END
+biltrans-extract-freq.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/apertium/svn/!svn/ver/45293/trunk/apertium-lex-tools/scripts/biltrans-extract-freq.py
+END
+biltrans-no-retained.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/apertium/svn/!svn/ver/40766/trunk/apertium-lex-tools/scripts/biltrans-no-retained.py
+END
+ngram-count-patterns-maxent.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/apertium/svn/!svn/ver/47373/trunk/apertium-lex-tools/scripts/ngram-count-patterns-maxent.py
+END
+extract-biltrans-candidates.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/apertium/svn/!svn/ver/47488/trunk/apertium-lex-tools/scripts/extract-biltrans-candidates.py
+END
+process-tagger-output.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/apertium/svn/!svn/ver/45278/trunk/apertium-lex-tools/scripts/process-tagger-output.py
+END
+biltrans-only-retained.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/apertium/svn/!svn/ver/40764/trunk/apertium-lex-tools/scripts/biltrans-only-retained.py
+END
+extract-alig-lrx.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/apertium/svn/!svn/ver/47553/trunk/apertium-lex-tools/scripts/extract-alig-lrx.py
+END
+giza-to-moses.awk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/apertium/svn/!svn/ver/35904/trunk/apertium-lex-tools/scripts/giza-to-moses.awk
+END
+ngram-count-patterns.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/apertium/svn/!svn/ver/47424/trunk/apertium-lex-tools/scripts/ngram-count-patterns.py
+END
+biltrans-extract-frac-freq.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/apertium/svn/!svn/ver/47821/trunk/apertium-lex-tools/scripts/biltrans-extract-frac-freq.py
+END
+ngram-pruning-frac.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/apertium/svn/!svn/ver/47065/trunk/apertium-lex-tools/scripts/ngram-pruning-frac.py
+END
+ngrams-to-rules-me.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/apertium/svn/!svn/ver/47553/trunk/apertium-lex-tools/scripts/ngrams-to-rules-me.py
+END
+extract-sentences.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/apertium/svn/!svn/ver/47424/trunk/apertium-lex-tools/scripts/extract-sentences.py
+END
+extract-default-lrx.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/apertium/svn/!svn/ver/39970/trunk/apertium-lex-tools/scripts/extract-default-lrx.py
+END
+bkp.process_tagger_output.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/apertium/svn/!svn/ver/45820/trunk/apertium-lex-tools/scripts/bkp.process_tagger_output.cc
+END
+ngrams-to-rules.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/apertium/svn/!svn/ver/47424/trunk/apertium-lex-tools/scripts/ngrams-to-rules.py
+END
+extract-poormans-freq.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/apertium/svn/!svn/ver/46003/trunk/apertium-lex-tools/scripts/extract-poormans-freq.py
+END
+lrx2cg.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/apertium/svn/!svn/ver/41385/trunk/apertium-lex-tools/scripts/lrx2cg.py
+END
+biltrans-count-patterns.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/apertium/svn/!svn/ver/45278/trunk/apertium-lex-tools/scripts/biltrans-count-patterns.py
+END
+unused.biltrans-count-patterns-me.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/apertium/svn/!svn/ver/45820/trunk/apertium-lex-tools/scripts/unused.biltrans-count-patterns-me.py
+END
+extract-freq-lexicon.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/apertium/svn/!svn/ver/47424/trunk/apertium-lex-tools/scripts/extract-freq-lexicon.py
+END
+ngram-count-patterns-maxent2.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/apertium/svn/!svn/ver/47822/trunk/apertium-lex-tools/scripts/ngram-count-patterns-maxent2.py
+END
+process-tagger-output_2.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/apertium/svn/!svn/ver/43779/trunk/apertium-lex-tools/scripts/process-tagger-output_2.py
+END
+biltrans-count-patterns-frac-maxent.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/apertium/svn/!svn/ver/47553/trunk/apertium-lex-tools/scripts/biltrans-count-patterns-frac-maxent.py
+END
+extract-sub-corpus.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/apertium/svn/!svn/ver/44961/trunk/apertium-lex-tools/scripts/extract-sub-corpus.py
+END
+biltrans-trim-uncovered.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/apertium/svn/!svn/ver/45721/trunk/apertium-lex-tools/scripts/biltrans-trim-uncovered.py
+END
+split-sentences.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/apertium/svn/!svn/ver/40755/trunk/apertium-lex-tools/scripts/split-sentences.py
+END
+process_tagger_output.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/apertium/svn/!svn/ver/45721/trunk/apertium-lex-tools/scripts/process_tagger_output.cc
+END
+merge-ngrams-lambdas.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/apertium/svn/!svn/ver/47553/trunk/apertium-lex-tools/scripts/merge-ngrams-lambdas.py
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/apertium/svn/!svn/ver/45820/trunk/apertium-lex-tools/scripts/Makefile
+END
+biltrans-count-patterns-ngrams.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/apertium/svn/!svn/ver/46771/trunk/apertium-lex-tools/scripts/biltrans-count-patterns-ngrams.py
+END
+common.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/apertium/svn/!svn/ver/47822/trunk/apertium-lex-tools/scripts/common.py
+END
+biltrans-to-multitrans-line-recursive.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/apertium/svn/!svn/ver/45278/trunk/apertium-lex-tools/scripts/biltrans-to-multitrans-line-recursive.py
+END
+process-biltrans-output.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/apertium/svn/!svn/ver/35894/trunk/apertium-lex-tools/scripts/process-biltrans-output.py
+END
+extract-biltrans-cand.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/apertium/svn/!svn/ver/39971/trunk/apertium-lex-tools/scripts/extract-biltrans-cand.py
+END

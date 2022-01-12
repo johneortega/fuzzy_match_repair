@@ -1,0 +1,18 @@
+sudo: required
+dist: trusty
+language: cpp
+
+addons:
+  apt:
+    packages:
+      - cmake
+      - libboost-dev
+      - libicu-dev
+
+before_script:
+  - cmake .
+
+script:
+  - $CXX --version
+  - make -j2
+  - ./test/runall.pl

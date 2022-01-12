@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/apertium/svn/!svn/ver/48232/trunk/apertium-en-es
+END
+apertium-en-es.es.acx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/apertium/svn/!svn/ver/7072/trunk/apertium-en-es/apertium-en-es.es.acx
+END
+apertium-en-es.en-es-vacio.t1x
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/apertium/svn/!svn/ver/7801/trunk/apertium-en-es/apertium-en-es.en-es-vacio.t1x
+END
+apertium-en-es.es-en.t1x
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/apertium/svn/!svn/ver/48169/trunk/apertium-en-es/apertium-en-es.es-en.t1x
+END
+apertium-en-es.en-es.t2x
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/apertium/svn/!svn/ver/43370/trunk/apertium-en-es/apertium-en-es.en-es.t2x
+END
+es-en-unsupervised.make
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/apertium/svn/!svn/ver/4044/trunk/apertium-en-es/es-en-unsupervised.make
+END
+apertium-en-es.es-en.t3x
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/apertium/svn/!svn/ver/34415/trunk/apertium-en-es/apertium-en-es.es-en.t3x
+END
+apertium-en-es.es.dix
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/apertium/svn/!svn/ver/45058/trunk/apertium-en-es/apertium-en-es.es.dix
+END
+apertium-en-es.en-es.dix
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/apertium/svn/!svn/ver/45058/trunk/apertium-en-es/apertium-en-es.en-es.dix
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/apertium/svn/!svn/ver/17338/trunk/apertium-en-es/AUTHORS
+END
+apertium-en-es.en-es.genitive.t1x
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/apertium/svn/!svn/ver/29102/trunk/apertium-en-es/apertium-en-es.en-es.genitive.t1x
+END
+testvoc-en-es
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/apertium/svn/!svn/ver/32449/trunk/apertium-en-es/testvoc-en-es
+END
+apertium-en-es.post-en.dix
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/apertium/svn/!svn/ver/18034/trunk/apertium-en-es/apertium-en-es.post-en.dix
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/apertium/svn/!svn/ver/48232/trunk/apertium-en-es/configure.ac
+END
+apertium-en-es.es-en-poly.dix
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/apertium/svn/!svn/ver/42838/trunk/apertium-en-es/apertium-en-es.es-en-poly.dix
+END
+apertium-en-es.post-es.dix
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/apertium/svn/!svn/ver/7221/trunk/apertium-en-es/apertium-en-es.post-es.dix
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/apertium/svn/!svn/ver/17343/trunk/apertium-en-es/COPYING
+END
+es-en.prob
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/apertium/svn/!svn/ver/27042/trunk/apertium-en-es/es-en.prob
+END
+apertium-en-es.en.tsx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/apertium/svn/!svn/ver/18855/trunk/apertium-en-es/apertium-en-es.en.tsx
+END
+es-en-supervised.make
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/apertium/svn/!svn/ver/4044/trunk/apertium-en-es/es-en-supervised.make
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/apertium/svn/!svn/ver/4927/trunk/apertium-en-es/autogen.sh
+END
+apertium-en-es.en-es.t1x
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/apertium/svn/!svn/ver/43370/trunk/apertium-en-es/apertium-en-es.en-es.t1x
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/apertium/svn/!svn/ver/3704/trunk/apertium-en-es/NEWS
+END
+en-es-unsupervised.make
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/apertium/svn/!svn/ver/39536/trunk/apertium-en-es/en-es-unsupervised.make
+END
+apertium-en-es.es-en.t2x
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/apertium/svn/!svn/ver/34415/trunk/apertium-en-es/apertium-en-es.es-en.t2x
+END
+apertium-en-es.es.tsx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/apertium/svn/!svn/ver/27042/trunk/apertium-en-es/apertium-en-es.es.tsx
+END
+apertium-en-es.en-es.t3x
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/apertium/svn/!svn/ver/18855/trunk/apertium-en-es/apertium-en-es.en-es.t3x
+END
+translate-to-default-equivalent.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/apertium/svn/!svn/ver/3704/trunk/apertium-en-es/translate-to-default-equivalent.xsl
+END
+alt.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/apertium/svn/!svn/ver/15353/trunk/apertium-en-es/alt.xsl
+END
+apertium-en-es.en.metadix
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/apertium/svn/!svn/ver/45058/trunk/apertium-en-es/apertium-en-es.en.metadix
+END
+principal.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/apertium/svn/!svn/ver/4056/trunk/apertium-en-es/principal.xsl
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/apertium/svn/!svn/ver/32451/trunk/apertium-en-es/ChangeLog
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/apertium/svn/!svn/ver/21058/trunk/apertium-en-es/README
+END
+buscaPar.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/apertium/svn/!svn/ver/3704/trunk/apertium-en-es/buscaPar.xsl
+END
+apertium-en-es.en-es-poly.dix
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/apertium/svn/!svn/ver/42838/trunk/apertium-en-es/apertium-en-es.en-es-poly.dix
+END
+modes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/apertium/svn/!svn/ver/36837/trunk/apertium-en-es/modes.xml
+END
+apertium-en-es.en.acx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/apertium/svn/!svn/ver/7072/trunk/apertium-en-es/apertium-en-es.en.acx
+END
+en-es.prob
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/apertium/svn/!svn/ver/36837/trunk/apertium-en-es/en-es.prob
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/apertium/svn/!svn/ver/41387/trunk/apertium-en-es/Makefile.am
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/apertium/svn/!svn/ver/47377/trunk/apertium-en-es/dev
+END
+biltrans-candidates
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/apertium/svn/!svn/ver/47377/trunk/apertium-en-es/dev/biltrans-candidates
+END
+newstest2011-scr.es.sgmstripped
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/apertium/svn/!svn/ver/35903/trunk/apertium-en-es/dev/newstest2011-scr.es.sgmstripped
+END
+apertium-en-es.en-es.manual.lrx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/apertium/svn/!svn/ver/39835/trunk/apertium-en-es/dev/apertium-en-es.en-es.manual.lrx
+END
+newstest2011-src.en.sgmstripped.en-es.withrules
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/apertium/svn/!svn/ver/35903/trunk/apertium-en-es/dev/newstest2011-src.en.sgmstripped.en-es.withrules
+END
+SelectedRules
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/apertium/svn/!svn/ver/35903/trunk/apertium-en-es/dev/SelectedRules
+END
+apertium-en-es.en-es.manual2.lrx
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/apertium/svn/!svn/ver/41619/trunk/apertium-en-es/dev/apertium-en-es.en-es.manual2.lrx
+END
+newstest2011-src.en.sgmstripped.biltrans
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/apertium/svn/!svn/ver/35903/trunk/apertium-en-es/dev/newstest2011-src.en.sgmstripped.biltrans
+END
+TestSentences.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/apertium/svn/!svn/ver/35840/trunk/apertium-en-es/dev/TestSentences.txt
+END
+apertium-en-es.en-es.lrx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/apertium/svn/!svn/ver/39836/trunk/apertium-en-es/dev/apertium-en-es.en-es.lrx
+END
+newstest2011-src.en.sgmstripped
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/apertium/svn/!svn/ver/35903/trunk/apertium-en-es/dev/newstest2011-src.en.sgmstripped
+END
+apertium-en-es.en-es.ldx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/apertium/svn/!svn/ver/42838/trunk/apertium-en-es/dev/apertium-en-es.en-es.ldx
+END
+sentences
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/apertium/svn/!svn/ver/35762/trunk/apertium-en-es/dev/sentences
+END
+RuleEvaluation.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/apertium/svn/!svn/ver/35903/trunk/apertium-en-es/dev/RuleEvaluation.rtf
+END
+newstest2011-src.en.sgmstripped.en-es.withoutrules
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/apertium/svn/!svn/ver/35903/trunk/apertium-en-es/dev/newstest2011-src.en.sgmstripped.en-es.withoutrules
+END

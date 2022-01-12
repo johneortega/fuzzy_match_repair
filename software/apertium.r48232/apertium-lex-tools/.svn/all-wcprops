@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/apertium/svn/!svn/ver/48293/trunk/apertium-lex-tools
+END
+apertium-lex-evaluate.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/apertium/svn/!svn/ver/46959/trunk/apertium-lex-tools/apertium-lex-evaluate.py
+END
+lrx_comp.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/apertium/svn/!svn/ver/41379/trunk/apertium-lex-tools/lrx_comp.cc
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/apertium/svn/!svn/ver/47982/trunk/apertium-lex-tools/Makefile.am
+END
+tagger_output_processor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/apertium/svn/!svn/ver/46950/trunk/apertium-lex-tools/tagger_output_processor.cc
+END
+lrx_proc.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/apertium/svn/!svn/ver/46823/trunk/apertium-lex-tools/lrx_proc.cc
+END
+README_mac
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/apertium/svn/!svn/ver/36442/trunk/apertium-lex-tools/README_mac
+END
+apertium-no-en.no-en.lrx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/apertium/svn/!svn/ver/35604/trunk/apertium-lex-tools/apertium-no-en.no-en.lrx
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/apertium/svn/!svn/ver/35542/trunk/apertium-lex-tools/AUTHORS
+END
+multitrans.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/apertium/svn/!svn/ver/46950/trunk/apertium-lex-tools/multitrans.cc
+END
+lrx_processor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/apertium/svn/!svn/ver/47992/trunk/apertium-lex-tools/lrx_processor.cc
+END
+lrx.rng
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/apertium/svn/!svn/ver/35542/trunk/apertium-lex-tools/lrx.rng
+END
+README.yasmet
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/apertium/svn/!svn/ver/41626/trunk/apertium-lex-tools/README.yasmet
+END
+compile.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/apertium/svn/!svn/ver/47424/trunk/apertium-lex-tools/compile.sh
+END
+irstlm_ranker.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/apertium/svn/!svn/ver/47424/trunk/apertium-lex-tools/irstlm_ranker.h
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/apertium/svn/!svn/ver/48293/trunk/apertium-lex-tools/configure.ac
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/apertium/svn/!svn/ver/35542/trunk/apertium-lex-tools/COPYING
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/apertium/svn/!svn/ver/35542/trunk/apertium-lex-tools/autogen.sh
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/apertium/svn/!svn/ver/35542/trunk/apertium-lex-tools/NEWS
+END
+tagger_output_processor.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/apertium/svn/!svn/ver/48145/trunk/apertium-lex-tools/tagger_output_processor.h
+END
+biltrans-without-queue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/apertium/svn/!svn/ver/45721/trunk/apertium-lex-tools/biltrans-without-queue.cpp
+END
+lrx_compiler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/apertium/svn/!svn/ver/45721/trunk/apertium-lex-tools/lrx_compiler.cc
+END
+lrx_compiler.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/apertium/svn/!svn/ver/41383/trunk/apertium-lex-tools/lrx_compiler.h
+END
+yasmet.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/apertium/svn/!svn/ver/47424/trunk/apertium-lex-tools/yasmet.cc
+END
+multi_translator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/apertium/svn/!svn/ver/48145/trunk/apertium-lex-tools/multi_translator.cc
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/apertium/svn/!svn/ver/35542/trunk/apertium-lex-tools/ChangeLog
+END
+multi_translator.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/apertium/svn/!svn/ver/48145/trunk/apertium-lex-tools/multi_translator.h
+END
+lrx_processor.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/apertium/svn/!svn/ver/47989/trunk/apertium-lex-tools/lrx_processor.h
+END
+irstlm_ranker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/apertium/svn/!svn/ver/47800/trunk/apertium-lex-tools/irstlm_ranker.cpp
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/apertium/svn/!svn/ver/35555/trunk/apertium-lex-tools/README
+END
+ldx_proc.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/apertium/svn/!svn/ver/35542/trunk/apertium-lex-tools/ldx_proc.cc
+END
+apertium-no-en.no-en2.lrx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/apertium/svn/!svn/ver/35603/trunk/apertium-lex-tools/apertium-no-en.no-en2.lrx
+END
+bkp.lrx_processor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/apertium/svn/!svn/ver/46823/trunk/apertium-lex-tools/bkp.lrx_processor.cc
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/apertium/svn/!svn/ver/35640/trunk/apertium-lex-tools/TODO
+END

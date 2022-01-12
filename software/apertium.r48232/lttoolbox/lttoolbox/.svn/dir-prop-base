@@ -1,0 +1,30 @@
+K 10
+svn:ignore
+V 202
+*.bin
+*.cache
+*.in
+*.log
+*.mode
+*.status
+*.hfst
+*.ol
+.deps
+INSTALL
+Makefile
+Makefile.in
+aclocal.m4
+config
+configure
+install-sh
+missing
+modes
+stamp-h1
+*.h
+lt-tmxcomp
+lt-proc
+lt-tmxproc
+lt-comp
+lt-expand
+
+END

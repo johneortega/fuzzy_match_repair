@@ -1,0 +1,1259 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/apertium/svn/!svn/ver/48885/trunk/apertium/apertium
+END
+pptx-format.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/apertium/svn/!svn/ver/43546/trunk/apertium/apertium/pptx-format.xml
+END
+collection.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/collection.h
+END
+apertium-multiple-translations.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/apertium/svn/!svn/ver/14788/trunk/apertium/apertium/apertium-multiple-translations.cc
+END
+apertium-validate-tagger.1
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/apertium-validate-tagger.1
+END
+xlsx-format.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/apertium/svn/!svn/ver/43546/trunk/apertium/apertium/xlsx-format.xml
+END
+transfer_instr.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/transfer_instr.cc
+END
+apertium-postlatex-raw.l
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/apertium/svn/!svn/ver/38340/trunk/apertium/apertium/apertium-postlatex-raw.l
+END
+tmx_alignment.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/apertium/svn/!svn/ver/17122/trunk/apertium/apertium/tmx_alignment.cc
+END
+interchunk_word.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/interchunk_word.h
+END
+apertium-tagger-apply-new-rules.1
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/apertium-tagger-apply-new-rules.1
+END
+dix.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/apertium/svn/!svn/ver/43345/trunk/apertium/apertium/dix.dtd
+END
+apertium-validate-transfer.1
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/apertium-validate-transfer.1
+END
+lexchoicebil.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/apertium/svn/!svn/ver/34195/trunk/apertium/apertium/lexchoicebil.xsl
+END
+deformat-header.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/deformat-header.sh
+END
+apertium-reodt.1
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/apertium/svn/!svn/ver/43346/trunk/apertium/apertium/apertium-reodt.1
+END
+apertium-rewxml.1
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/apertium/svn/!svn/ver/43346/trunk/apertium/apertium/apertium-rewxml.1
+END
+transfer_data.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/transfer_data.cc
+END
+postchunk.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/apertium/svn/!svn/ver/42220/trunk/apertium/apertium/postchunk.cc
+END
+apertium-utils-fixlatex.1
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/apertium/svn/!svn/ver/43346/trunk/apertium/apertium/apertium-utils-fixlatex.1
+END
+apertium-rertf.1
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/apertium/svn/!svn/ver/43346/trunk/apertium/apertium/apertium-rertf.1
+END
+apertium_config.h.cmake_in
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/apertium/svn/!svn/ver/14527/trunk/apertium/apertium/apertium_config.h.cmake_in
+END
+apertium-gen-wlist-lextor.1
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/apertium-gen-wlist-lextor.1
+END
+lextor_eval.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/lextor_eval.cc
+END
+utf_converter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/apertium/svn/!svn/ver/43240/trunk/apertium/apertium/utf_converter.cc
+END
+transfer.rng
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/apertium/svn/!svn/ver/20575/trunk/apertium/apertium/transfer.rng
+END
+endian_double_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/apertium/svn/!svn/ver/17244/trunk/apertium/apertium/endian_double_util.cc
+END
+lextor_eval.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/lextor_eval.h
+END
+tagger_data_lsw.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/apertium/svn/!svn/ver/47551/trunk/apertium/apertium/tagger_data_lsw.cc
+END
+tmx_translate.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/apertium/svn/!svn/ver/17122/trunk/apertium/apertium/tmx_translate.h
+END
+apertium-unformat.1
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/apertium-unformat.1
+END
+rtf-format.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/apertium/svn/!svn/ver/43546/trunk/apertium/apertium/rtf-format.xml
+END
+apertium_tmxbuild.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/apertium/svn/!svn/ver/12377/trunk/apertium/apertium/apertium_tmxbuild.cc
+END
+apertium-desrtf-cp1251.1
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/apertium/svn/!svn/ver/43346/trunk/apertium/apertium/apertium-desrtf-cp1251.1
+END
+interchunk.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/apertium/svn/!svn/ver/42692/trunk/apertium/apertium/interchunk.dtd
+END
+apertium-validate-interchunk.1
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/apertium-validate-interchunk.1
+END
+tsx_reader.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/apertium/svn/!svn/ver/47551/trunk/apertium/apertium/tsx_reader.cc
+END
+apertium-header.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/apertium/svn/!svn/ver/42279/trunk/apertium/apertium/apertium-header.sh
+END
+apertium-validate-acx.1
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/apertium-validate-acx.1
+END
+postchunk.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/apertium/svn/!svn/ver/42692/trunk/apertium/apertium/postchunk.dtd
+END
+interchunk_word.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/interchunk_word.cc
+END
+apertium-retxt.1
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/apertium/svn/!svn/ver/43346/trunk/apertium/apertium/apertium-retxt.1
+END
+transfer_instr.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/transfer_instr.h
+END
+apertium_tagger_apply_new_rules.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/apertium/svn/!svn/ver/47551/trunk/apertium/apertium/apertium_tagger_apply_new_rules.cc
+END
+tmx_align_parameters.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/apertium/svn/!svn/ver/17122/trunk/apertium/apertium/tmx_align_parameters.h
+END
+apertium-gen-deformat.1
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/apertium/svn/!svn/ver/43346/trunk/apertium/apertium/apertium-gen-deformat.1
+END
+tmx_dic_tree.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/apertium/svn/!svn/ver/17122/trunk/apertium/apertium/tmx_dic_tree.h
+END
+apertium-preprocess-corpus-lextor.1
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/apertium-preprocess-corpus-lextor.1
+END
+tmx_quasi_diagonal.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/apertium/svn/!svn/ver/17122/trunk/apertium/apertium/tmx_quasi_diagonal.h
+END
+tagger.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/apertium/svn/!svn/ver/47551/trunk/apertium/apertium/tagger.h
+END
+gen-stopwords-lextor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/gen-stopwords-lextor.sh
+END
+latex_accentsmap.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/apertium/svn/!svn/ver/42695/trunk/apertium/apertium/latex_accentsmap.cc
+END
+trans-lextor-header.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/trans-lextor-header.sh
+END
+format.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/apertium/svn/!svn/ver/42692/trunk/apertium/apertium/format.dtd
+END
+tmx_builder.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/apertium/svn/!svn/ver/36526/trunk/apertium/apertium/tmx_builder.cc
+END
+morpho_stream.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/apertium/svn/!svn/ver/15166/trunk/apertium/apertium/morpho_stream.cc
+END
+lextor.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/lextor.h
+END
+apertium-gen-wlist-lextor-translation.1
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/apertium-gen-wlist-lextor-translation.1
+END
+apertium_interchunk.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/apertium/svn/!svn/ver/30252/trunk/apertium/apertium/apertium_interchunk.cc
+END
+xpresstag-format.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/apertium/svn/!svn/ver/43546/trunk/apertium/apertium/xpresstag-format.xml
+END
+tmx_translate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/apertium/svn/!svn/ver/17155/trunk/apertium/apertium/tmx_translate.cc
+END
+apertium-despptx.1
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/apertium/svn/!svn/ver/43346/trunk/apertium/apertium/apertium-despptx.1
+END
+wxml-format.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/apertium/svn/!svn/ver/43546/trunk/apertium/apertium/wxml-format.xml
+END
+apertium-rertf-cp1250.1
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/apertium/svn/!svn/ver/43346/trunk/apertium/apertium/apertium-rertf-cp1250.1
+END
+tagger_utils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/apertium/svn/!svn/ver/14949/trunk/apertium/apertium/tagger_utils.cc
+END
+utils-fixlatex-header.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/apertium/svn/!svn/ver/38330/trunk/apertium/apertium/utils-fixlatex-header.sh
+END
+gen-wlist-lextor-header.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/gen-wlist-lextor-header.sh
+END
+tagger.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/apertium/svn/!svn/ver/42692/trunk/apertium/apertium/tagger.dtd
+END
+apertium.1
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/apertium/svn/!svn/ver/36230/trunk/apertium/apertium/apertium.1
+END
+lextor_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/lextor_data.h
+END
+modes2bash.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/apertium/svn/!svn/ver/38346/trunk/apertium/apertium/modes2bash.xsl
+END
+apertium-interchunk.1
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/apertium/svn/!svn/ver/35823/trunk/apertium/apertium/apertium-interchunk.1
+END
+lextor_word.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/lextor_word.h
+END
+transfer.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/apertium/svn/!svn/ver/45748/trunk/apertium/apertium/transfer.dtd
+END
+apertium-createmodes.awk
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/apertium-createmodes.awk
+END
+lextor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/apertium/svn/!svn/ver/46341/trunk/apertium/apertium/lextor.cc
+END
+latex_accentsmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/apertium/svn/!svn/ver/42695/trunk/apertium/apertium/latex_accentsmap.h
+END
+transfer_word.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/transfer_word.cc
+END
+apertium-desodt.1
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/apertium/svn/!svn/ver/43346/trunk/apertium/apertium/apertium-desodt.1
+END
+apertium-repptx.1
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/apertium/svn/!svn/ver/43346/trunk/apertium/apertium/apertium-repptx.1
+END
+constant_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/constant_manager.cc
+END
+gen-header.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/gen-header.sh
+END
+transferpp.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/transferpp.cc
+END
+transfer_token.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/transfer_token.cc
+END
+apertium-gen-stopwords-lextor.1
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/apertium-gen-stopwords-lextor.1
+END
+transfer_token.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/transfer_token.h
+END
+apertium-desrtf.1
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/apertium/svn/!svn/ver/43346/trunk/apertium/apertium/apertium-desrtf.1
+END
+string_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/string_utils.h
+END
+tmx_words.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/apertium/svn/!svn/ver/17122/trunk/apertium/apertium/tmx_words.h
+END
+apertium-pretransfer.1
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/apertium/svn/!svn/ver/43346/trunk/apertium/apertium/apertium-pretransfer.1
+END
+preprocess-corpus-lextor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/preprocess-corpus-lextor.sh
+END
+tmx_dictionary.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/apertium/svn/!svn/ver/17122/trunk/apertium/apertium/tmx_dictionary.h
+END
+trx_reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/trx_reader.h
+END
+apertium-lextor-eval.1
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/apertium-lextor-eval.1
+END
+tmx_strings_and_streams.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/apertium/svn/!svn/ver/17122/trunk/apertium/apertium/tmx_strings_and_streams.cc
+END
+tmx_serialize_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/apertium/svn/!svn/ver/17122/trunk/apertium/apertium/tmx_serialize_impl.h
+END
+html-format.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/apertium/svn/!svn/ver/43546/trunk/apertium/apertium/html-format.xml
+END
+rtf-format-cp1251.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/apertium/svn/!svn/ver/12875/trunk/apertium/apertium/rtf-format-cp1251.xml
+END
+apertium-deslatex.1
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/apertium/svn/!svn/ver/43346/trunk/apertium/apertium/apertium-deslatex.1
+END
+tmx_arguments_parser.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/apertium/svn/!svn/ver/17122/trunk/apertium/apertium/tmx_arguments_parser.cc
+END
+tmx_book_to_matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/apertium/svn/!svn/ver/17122/trunk/apertium/apertium/tmx_book_to_matrix.h
+END
+apertium-destxt.1
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/apertium/svn/!svn/ver/43346/trunk/apertium/apertium/apertium-destxt.1
+END
+apertium_gen_wlist_lextor_translation.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/apertium_gen_wlist_lextor_translation.cc
+END
+apertium_re.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/apertium/svn/!svn/ver/42695/trunk/apertium/apertium/apertium_re.cc
+END
+latex-format.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/apertium/svn/!svn/ver/43546/trunk/apertium/apertium/latex-format.xml
+END
+apertium_re.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/apertium/svn/!svn/ver/42695/trunk/apertium/apertium/apertium_re.h
+END
+apertium_tagger.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/apertium_tagger.cc
+END
+deformat.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/apertium/svn/!svn/ver/42220/trunk/apertium/apertium/deformat.xsl
+END
+transfer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/apertium/svn/!svn/ver/47976/trunk/apertium/apertium/transfer.cc
+END
+constant_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/apertium/svn/!svn/ver/36859/trunk/apertium/apertium/constant_manager.h
+END
+transfer.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/apertium/svn/!svn/ver/45734/trunk/apertium/apertium/transfer.h
+END
+transfer_mult.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/transfer_mult.h
+END
+odt-format.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/apertium/svn/!svn/ver/43546/trunk/apertium/apertium/odt-format.xml
+END
+apertium_lextor_eval.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/apertium_lextor_eval.cc
+END
+apertium-rertf-cp1251.1
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/apertium/svn/!svn/ver/43346/trunk/apertium/apertium/apertium-rertf-cp1251.1
+END
+tmx_trail_postprocessors.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/apertium/svn/!svn/ver/17122/trunk/apertium/apertium/tmx_trail_postprocessors.cc
+END
+tmx_dictionary.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/apertium/svn/!svn/ver/17122/trunk/apertium/apertium/tmx_dictionary.cc
+END
+transformdicbil-header.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/transformdicbil-header.sh
+END
+apertium-deshtml.1
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/apertium/svn/!svn/ver/43346/trunk/apertium/apertium/apertium-deshtml.1
+END
+tagger_data.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/apertium/svn/!svn/ver/47551/trunk/apertium/apertium/tagger_data.cc
+END
+mediawiki-format.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/apertium/svn/!svn/ver/43546/trunk/apertium/apertium/mediawiki-format.xml
+END
+apertium_filter_ambiguity.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/apertium/svn/!svn/ver/47551/trunk/apertium/apertium/apertium_filter_ambiguity.cc
+END
+lextor_data.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/lextor_data.cc
+END
+modes.rng
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/apertium/svn/!svn/ver/20575/trunk/apertium/apertium/modes.rng
+END
+tmx_aligner_tool.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/apertium/svn/!svn/ver/17122/trunk/apertium/apertium/tmx_aligner_tool.h
+END
+apertium-multiple-translations.1
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/apertium/svn/!svn/ver/43346/trunk/apertium/apertium/apertium-multiple-translations.1
+END
+interchunk.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/apertium/svn/!svn/ver/42220/trunk/apertium/apertium/interchunk.cc
+END
+transfer_word_list.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/transfer_word_list.cc
+END
+lswpost.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/apertium/svn/!svn/ver/47551/trunk/apertium/apertium/lswpost.cc
+END
+apertium-filter-ambiguity.1
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/apertium/svn/!svn/ver/43346/trunk/apertium/apertium/apertium-filter-ambiguity.1
+END
+apertium-gen-lextormono.1
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/apertium-gen-lextormono.1
+END
+hmm.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/apertium/svn/!svn/ver/47551/trunk/apertium/apertium/hmm.cc
+END
+apertium-postlatex.1
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/apertium/svn/!svn/ver/43346/trunk/apertium/apertium/apertium-postlatex.1
+END
+lexchoice.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/lexchoice.xsl
+END
+transfer_mult.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/transfer_mult.cc
+END
+string_utils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/apertium/svn/!svn/ver/14521/trunk/apertium/apertium/string_utils.cc
+END
+apertium_transfer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/apertium/svn/!svn/ver/35639/trunk/apertium/apertium/apertium_transfer.cc
+END
+apertium-rehtml.1
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/apertium/svn/!svn/ver/43346/trunk/apertium/apertium/apertium-rehtml.1
+END
+tagger_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/tagger_utils.h
+END
+tmx_trail_postprocessors.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/apertium/svn/!svn/ver/17122/trunk/apertium/apertium/tmx_trail_postprocessors.h
+END
+apertium-validate-modes.1
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/apertium-validate-modes.1
+END
+apertium_pretransfer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/apertium/svn/!svn/ver/32512/trunk/apertium/apertium/apertium_pretransfer.cc
+END
+tsx_reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/apertium/svn/!svn/ver/47551/trunk/apertium/apertium/tsx_reader.h
+END
+validate-header.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/validate-header.sh
+END
+apertium-tagger.1
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/apertium/svn/!svn/ver/43346/trunk/apertium/apertium/apertium-tagger.1
+END
+apertium-lextor.1
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/apertium/svn/!svn/ver/10698/trunk/apertium/apertium/apertium-lextor.1
+END
+lswpost.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/apertium/svn/!svn/ver/47551/trunk/apertium/apertium/lswpost.h
+END
+txt-format.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/apertium/svn/!svn/ver/43546/trunk/apertium/apertium/txt-format.xml
+END
+apertium-prelatex.1
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/apertium/svn/!svn/ver/43346/trunk/apertium/apertium/apertium-prelatex.1
+END
+apertium_tagger_readwords.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/apertium/svn/!svn/ver/47551/trunk/apertium/apertium/apertium_tagger_readwords.cc
+END
+apertium-remediawiki.1
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/apertium/svn/!svn/ver/43346/trunk/apertium/apertium/apertium-remediawiki.1
+END
+tagger_data_lsw.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/apertium/svn/!svn/ver/47551/trunk/apertium/apertium/tagger_data_lsw.h
+END
+apertium-validate-dictionary.1
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/apertium-validate-dictionary.1
+END
+modes.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/apertium/svn/!svn/ver/42692/trunk/apertium/apertium/modes.dtd
+END
+apertium-desmediawiki.1
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/apertium/svn/!svn/ver/43346/trunk/apertium/apertium/apertium-desmediawiki.1
+END
+trx_reader.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/apertium/svn/!svn/ver/48885/trunk/apertium/apertium/trx_reader.cc
+END
+reformat.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/apertium/svn/!svn/ver/42220/trunk/apertium/apertium/reformat.xsl
+END
+ttag.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/ttag.h
+END
+tmx_strings_and_streams.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/apertium/svn/!svn/ver/17122/trunk/apertium/apertium/tmx_strings_and_streams.h
+END
+tagger_data_hmm.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/apertium/svn/!svn/ver/47551/trunk/apertium/apertium/tagger_data_hmm.cc
+END
+apertium-validate-postchunk.1
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/apertium-validate-postchunk.1
+END
+tagger_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/apertium/svn/!svn/ver/47551/trunk/apertium/apertium/tagger_data.h
+END
+tagger_word.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/apertium/svn/!svn/ver/47551/trunk/apertium/apertium/tagger_word.cc
+END
+tagger_word.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/apertium/svn/!svn/ver/20707/trunk/apertium/apertium/tagger_word.h
+END
+tmx_aligner_tool.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/apertium/svn/!svn/ver/17122/trunk/apertium/apertium/tmx_aligner_tool.cc
+END
+script_header.sh.cmake_in
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/script_header.sh.cmake_in
+END
+transformdic-header.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/transformdic-header.sh
+END
+lextor_word.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/lextor_word.cc
+END
+tmx_alignment.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/apertium/svn/!svn/ver/17122/trunk/apertium/apertium/tmx_alignment.h
+END
+tagger.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/apertium/svn/!svn/ver/47551/trunk/apertium/apertium/tagger.cc
+END
+apertium-postlatex-raw.1
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/apertium/svn/!svn/ver/43346/trunk/apertium/apertium/apertium-postlatex-raw.1
+END
+apertium-gen-lextorbil.1
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/apertium-gen-lextorbil.1
+END
+unlocked_cstdio.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/apertium/svn/!svn/ver/17216/trunk/apertium/apertium/unlocked_cstdio.h
+END
+tmx_arguments_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/apertium/svn/!svn/ver/17122/trunk/apertium/apertium/tmx_arguments_parser.h
+END
+interchunk.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/apertium/svn/!svn/ver/39106/trunk/apertium/apertium/interchunk.h
+END
+transfer_word_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/apertium/svn/!svn/ver/14533/trunk/apertium/apertium/transfer_word_list.h
+END
+acx.rng
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/acx.rng
+END
+apertium-postchunk.1
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/apertium/svn/!svn/ver/35823/trunk/apertium/apertium/apertium-postchunk.1
+END
+apertium-gen-modes.1
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/apertium-gen-modes.1
+END
+apertium-postlatex.l
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/apertium/svn/!svn/ver/38340/trunk/apertium/apertium/apertium-postlatex.l
+END
+postchunk.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/apertium/svn/!svn/ver/20757/trunk/apertium/apertium/postchunk.h
+END
+morpho_stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/apertium/svn/!svn/ver/9950/trunk/apertium/apertium/morpho_stream.h
+END
+modes-header.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/modes-header.sh
+END
+html-noent-format.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/apertium/svn/!svn/ver/43546/trunk/apertium/apertium/html-noent-format.xml
+END
+apertium-desxlsx.1
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/apertium/svn/!svn/ver/43346/trunk/apertium/apertium/apertium-desxlsx.1
+END
+collection.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/collection.cc
+END
+apertium-desrtf-cp1250.1
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/apertium/svn/!svn/ver/43346/trunk/apertium/apertium/apertium-desrtf-cp1250.1
+END
+trans-header.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/trans-header.sh
+END
+apertium-relatex.1
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/apertium/svn/!svn/ver/43346/trunk/apertium/apertium/apertium-relatex.1
+END
+rtf-format-cp1250.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/apertium/svn/!svn/ver/12875/trunk/apertium/apertium/rtf-format-cp1250.xml
+END
+tagger_data_hmm.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/apertium/svn/!svn/ver/47551/trunk/apertium/apertium/tagger_data_hmm.h
+END
+apertium-preprocess-transfer.1
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/apertium/svn/!svn/ver/43346/trunk/apertium/apertium/apertium-preprocess-transfer.1
+END
+tmx_book_to_matrix.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/apertium/svn/!svn/ver/17122/trunk/apertium/apertium/tmx_book_to_matrix.cc
+END
+apertium-prelatex.l
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/apertium/svn/!svn/ver/38340/trunk/apertium/apertium/apertium-prelatex.l
+END
+transfer_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/transfer_data.h
+END
+tmx_builder.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/apertium/svn/!svn/ver/17116/trunk/apertium/apertium/tmx_builder.h
+END
+transfer_word.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/transfer_word.h
+END
+apertium-deswxml.1
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/apertium/svn/!svn/ver/43346/trunk/apertium/apertium/apertium-deswxml.1
+END
+apertium-transfer.1
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/apertium/svn/!svn/ver/43346/trunk/apertium/apertium/apertium-transfer.1
+END
+apertium_lextor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/apertium_lextor.cc
+END
+hmm.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/apertium/svn/!svn/ver/47551/trunk/apertium/apertium/hmm.h
+END
+apertium-rexlsx.1
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/apertium/svn/!svn/ver/43346/trunk/apertium/apertium/apertium-rexlsx.1
+END
+apertium_postchunk.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/apertium/svn/!svn/ver/14965/trunk/apertium/apertium/apertium_postchunk.cc
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/apertium/svn/!svn/ver/47551/trunk/apertium/apertium/Makefile.am
+END
+apertium-gen-reformat.1
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/apertium/svn/!svn/ver/43346/trunk/apertium/apertium/apertium-gen-reformat.1
+END
+endian_double_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/endian_double_util.h
+END
+utf_converter.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/utf_converter.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/apertium/svn/!svn/ver/47551/trunk/apertium/apertium/CMakeLists.txt
+END
+apertium-unformat-header.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/apertium/svn/!svn/ver/43088/trunk/apertium/apertium/apertium-unformat-header.sh
+END
+new2old.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/new2old.xsl
+END

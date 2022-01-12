@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/apertium/svn/!svn/ver/11519/trunk/lttoolbox/tests
+END
+apertium_process.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/apertium/svn/!svn/ver/11519/trunk/lttoolbox/tests/apertium_process.py
+END
+run_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/apertium/svn/!svn/ver/4776/trunk/lttoolbox/tests/run_tests.py
+END
+subproc.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/apertium/svn/!svn/ver/4776/trunk/lttoolbox/tests/subproc.py
+END

@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/apertium/svn/!svn/ver/47991/trunk/apertium-lex-tools/testing
+END
+bug1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/apertium/svn/!svn/ver/41181/trunk/apertium-lex-tools/testing/bug1.xml
+END
+bug2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/apertium/svn/!svn/ver/41181/trunk/apertium-lex-tools/testing/bug2.xml
+END
+bug1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/apertium/svn/!svn/ver/47984/trunk/apertium-lex-tools/testing/bug1.expected
+END
+bug3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/apertium/svn/!svn/ver/44583/trunk/apertium-lex-tools/testing/bug3.xml
+END
+bug4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/apertium/svn/!svn/ver/41199/trunk/apertium-lex-tools/testing/bug4.xml
+END
+bug3.expected
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/apertium/svn/!svn/ver/47984/trunk/apertium-lex-tools/testing/bug3.expected
+END
+bug5.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/apertium/svn/!svn/ver/44583/trunk/apertium-lex-tools/testing/bug5.xml
+END
+bug5.expected
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/apertium/svn/!svn/ver/47984/trunk/apertium-lex-tools/testing/bug5.expected
+END
+bug6.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/apertium/svn/!svn/ver/47986/trunk/apertium-lex-tools/testing/bug6.xml
+END
+bug7.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/apertium/svn/!svn/ver/44583/trunk/apertium-lex-tools/testing/bug7.xml
+END
+bug7.expected
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/apertium/svn/!svn/ver/47984/trunk/apertium-lex-tools/testing/bug7.expected
+END
+bug9.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/apertium/svn/!svn/ver/44583/trunk/apertium-lex-tools/testing/bug9.xml
+END
+bug9.expected
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/apertium/svn/!svn/ver/47984/trunk/apertium-lex-tools/testing/bug9.expected
+END
+bug10.input
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/apertium/svn/!svn/ver/47984/trunk/apertium-lex-tools/testing/bug10.input
+END
+bug11.input
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/apertium/svn/!svn/ver/47984/trunk/apertium-lex-tools/testing/bug11.input
+END
+bug12.input
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/apertium/svn/!svn/ver/47984/trunk/apertium-lex-tools/testing/bug12.input
+END
+more-after-nul-after-blank.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/apertium/svn/!svn/ver/47991/trunk/apertium-lex-tools/testing/more-after-nul-after-blank.xml
+END
+nul-after-blank.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/apertium/svn/!svn/ver/47984/trunk/apertium-lex-tools/testing/nul-after-blank.xml
+END
+nul-after-blank.expected
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/apertium/svn/!svn/ver/47984/trunk/apertium-lex-tools/testing/nul-after-blank.expected
+END
+bug1.input
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/apertium/svn/!svn/ver/47984/trunk/apertium-lex-tools/testing/bug1.input
+END
+bug2.input
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/apertium/svn/!svn/ver/47984/trunk/apertium-lex-tools/testing/bug2.input
+END
+bug3.input
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/apertium/svn/!svn/ver/47984/trunk/apertium-lex-tools/testing/bug3.input
+END
+bug2.expected
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/apertium/svn/!svn/ver/47984/trunk/apertium-lex-tools/testing/bug2.expected
+END
+bug4.input
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/apertium/svn/!svn/ver/47984/trunk/apertium-lex-tools/testing/bug4.input
+END
+bug5.input
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/apertium/svn/!svn/ver/47984/trunk/apertium-lex-tools/testing/bug5.input
+END
+bug6.input
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/apertium/svn/!svn/ver/47984/trunk/apertium-lex-tools/testing/bug6.input
+END
+bug4.expected
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/apertium/svn/!svn/ver/47984/trunk/apertium-lex-tools/testing/bug4.expected
+END
+bug7.input
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/apertium/svn/!svn/ver/47984/trunk/apertium-lex-tools/testing/bug7.input
+END
+bug8.input
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/apertium/svn/!svn/ver/47984/trunk/apertium-lex-tools/testing/bug8.input
+END
+bug6.expected
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/apertium/svn/!svn/ver/47986/trunk/apertium-lex-tools/testing/bug6.expected
+END
+bug9.input
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/apertium/svn/!svn/ver/47984/trunk/apertium-lex-tools/testing/bug9.input
+END
+run
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/apertium/svn/!svn/ver/47984/trunk/apertium-lex-tools/testing/run
+END
+bug10.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/apertium/svn/!svn/ver/45872/trunk/apertium-lex-tools/testing/bug10.xml
+END
+bug10.expected
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/apertium/svn/!svn/ver/47984/trunk/apertium-lex-tools/testing/bug10.expected
+END
+more-after-nul-after-blank.input
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/apertium/svn/!svn/ver/47991/trunk/apertium-lex-tools/testing/more-after-nul-after-blank.input
+END
+bug12.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/apertium/svn/!svn/ver/46109/trunk/apertium-lex-tools/testing/bug12.xml
+END
+bug12.expected
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/apertium/svn/!svn/ver/47984/trunk/apertium-lex-tools/testing/bug12.expected
+END
+nul-after-blank.input
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/apertium/svn/!svn/ver/47984/trunk/apertium-lex-tools/testing/nul-after-blank.input
+END
+more-after-nul-after-blank.expected
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/apertium/svn/!svn/ver/47991/trunk/apertium-lex-tools/testing/more-after-nul-after-blank.expected
+END

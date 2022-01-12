@@ -1,0 +1,10 @@
+prefix=/home/johneortega/software/apertium/local
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: apertium
+Description: rule-based machine translation system
+Version: 3.4.2
+Libs: -L${libdir} -lapertium3 -L/home/johneortega/software/apertium/local/lib -llttoolbox3 -lxml2 -lpcre  
+Cflags: -I${includedir}/apertium-3.4 -I${libdir}/apertium-3.4/include -I/home/johneortega/software/apertium/local/include/lttoolbox-3.3 -I/home/johneortega/software/apertium/local/lib/lttoolbox-3.3/include -I/usr/include/libxml2  

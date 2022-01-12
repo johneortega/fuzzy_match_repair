@@ -1,0 +1,20 @@
+K 10
+svn:ignore
+V 156
+autom4te.cache
+Makefile
+Makefile.in
+missing
+configure
+config.sub
+config.status
+config.log
+config.guess
+aclocal.m4
+*.pc
+depcomp
+install-sh
+libtool
+ltmain.sh
+
+END

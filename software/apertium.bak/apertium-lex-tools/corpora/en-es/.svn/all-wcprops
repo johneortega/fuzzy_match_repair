@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/apertium/svn/!svn/ver/41288/trunk/apertium-lex-tools/corpora/en-es
+END
+europarl.dev.en
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/apertium/svn/!svn/ver/41288/trunk/apertium-lex-tools/corpora/en-es/europarl.dev.en
+END
+europarl.dev.en-es.ref
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/apertium/svn/!svn/ver/41288/trunk/apertium-lex-tools/corpora/en-es/europarl.dev.en-es.ref
+END
+europarl.tst.es
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/apertium/svn/!svn/ver/41288/trunk/apertium-lex-tools/corpora/en-es/europarl.tst.es
+END
+newstest2010.tst.en
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/apertium/svn/!svn/ver/41288/trunk/apertium-lex-tools/corpora/en-es/newstest2010.tst.en
+END
+newstest2010.tst.en-es.ref
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/apertium/svn/!svn/ver/41288/trunk/apertium-lex-tools/corpora/en-es/newstest2010.tst.en-es.ref
+END
+europarl.dev.es
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/apertium/svn/!svn/ver/41288/trunk/apertium-lex-tools/corpora/en-es/europarl.dev.es
+END
+europarl.tst.en-es.src
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/apertium/svn/!svn/ver/41288/trunk/apertium-lex-tools/corpora/en-es/europarl.tst.en-es.src
+END
+newstest2010.tst.es
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/apertium/svn/!svn/ver/41288/trunk/apertium-lex-tools/corpora/en-es/newstest2010.tst.es
+END
+europarl.dev.en-es.src
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/apertium/svn/!svn/ver/41288/trunk/apertium-lex-tools/corpora/en-es/europarl.dev.en-es.src
+END
+europarl.tst.en
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/apertium/svn/!svn/ver/41288/trunk/apertium-lex-tools/corpora/en-es/europarl.tst.en
+END
+europarl.tst.en-es.ref
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/apertium/svn/!svn/ver/41288/trunk/apertium-lex-tools/corpora/en-es/europarl.tst.en-es.ref
+END
+newstest2010.tst.en-es.src
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/apertium/svn/!svn/ver/41288/trunk/apertium-lex-tools/corpora/en-es/newstest2010.tst.en-es.src
+END

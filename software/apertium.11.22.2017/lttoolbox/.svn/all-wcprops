@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/p/apertium/svn/!svn/ver/48256/trunk/lttoolbox
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/apertium/svn/!svn/ver/3423/trunk/lttoolbox/ChangeLog
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/apertium/svn/!svn/ver/3423/trunk/lttoolbox/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/apertium/svn/!svn/ver/48256/trunk/lttoolbox/Makefile.am
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/apertium/svn/!svn/ver/6566/trunk/lttoolbox/autogen.sh
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/apertium/svn/!svn/ver/4348/trunk/lttoolbox/NEWS
+END
+lttoolbox.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/apertium/svn/!svn/ver/48256/trunk/lttoolbox/lttoolbox.pc.in
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/apertium/svn/!svn/ver/14540/trunk/lttoolbox/CMakeLists.txt
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/apertium/svn/!svn/ver/3423/trunk/lttoolbox/README
+END
+README.Win32
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/apertium/svn/!svn/ver/9285/trunk/lttoolbox/README.Win32
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/apertium/svn/!svn/ver/48256/trunk/lttoolbox/configure.ac
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/apertium/svn/!svn/ver/3466/trunk/lttoolbox/AUTHORS
+END
+.tm_project.cache
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/apertium/svn/!svn/ver/3423/trunk/lttoolbox/.tm_project.cache
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/apertium/svn/!svn/ver/6048/trunk/lttoolbox/INSTALL
+END

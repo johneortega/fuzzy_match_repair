@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?> <!-- -*- nxml -*- -->
+<postchunk>
+	<section-def-cats>
+
+		<def-cat n="nom">
+			<cat-item name="nom"/>
+		</def-cat>
+		<def-cat n="det_nom">
+			<cat-item name="det_nom"/>
+		</def-cat>
+		<def-cat n="itg">
+			<cat-item name="itg"/>
+		</def-cat>
+		<def-cat n="prpers">
+			<cat-item name="prpers"/>
+		</def-cat>
+		<def-cat n="verb">
+			<cat-item name="verb"/>
+		</def-cat>
+		<def-cat n="verbs">
+			<cat-item name="verb"/>
+			<cat-item name="vaux"/>
+			<cat-item name="vbdo"/>
+			<cat-item name="vbhaver"/>
+		</def-cat>
+		<def-cat n="adv">
+			<cat-item name="adv"/>
+		</def-cat>
+		<def-cat n="qst">
+			<cat-item name="qst"/>
+		</def-cat>
+
+	</section-def-cats>
+
+
+	<section-def-attrs>
+		<def-attr n="a_nom">
+			<attr-item tags="n"/>
+			<attr-item tags="np"/>
+		</def-attr>
+		<def-attr n="a_verb">
+			<attr-item tags="vblex"/>
+			<attr-item tags="vaux"/>
+			<attr-item tags="vbmod"/>
+			<attr-item tags="vbser"/>
+			<attr-item tags="vbhaver"/>
+			<attr-item tags="vbdo"/>
+		</def-attr>
+		<def-attr n="a_nbr">
+			<attr-item tags="sg"/>
+			<attr-item tags="pl"/>
+			<attr-item tags="sp"/>
+			<attr-item tags="ND"/>
+		</def-attr>
+		<def-attr n="a_tense">
+			<attr-item tags="pri"/>
+			<attr-item tags="pii"/>
+			<attr-item tags="prs"/>
+			<attr-item tags="pis"/>
+			<attr-item tags="pres"/>
+			<attr-item tags="past"/>
+			<attr-item tags="inf"/>
+			<attr-item tags="imp"/>
+			<attr-item tags="pprs"/>
+			<attr-item tags="pp"/>
+		</def-attr>
+	</section-def-attrs>
+
+
+	<section-def-vars>
+		<def-var n="v_tense"/>
+	</section-def-vars>
+
+
+	<section-rules>
+
+		<!-- if verb was moved/inserted use upper/lower case from chunk -->
+		<rule comment="CHUNK: verb">
+			<pattern>
+				<pattern-item n="verbs"/>
+			</pattern>
+			<action>
+				<choose>
+					<when>
+						<test>
+							<equal>
+								<clip pos="0" part="a_tense"/>
+								<lit-tag v="inf"/>
+							</equal>
+						</test>
+						<out>
+							<lu>
+								<get-case-from pos="0">
+									<clip pos="1" part="lemh"/>
+								</get-case-from>
+								<clip pos="1" part="a_verb"/>
+								<clip pos="0" part="a_tense"/>
+								<clip pos="1" part="lemq"/>
+							</lu>
+						</out>
+					</when>
+					<when>
+						<test>
+							<equal>
+								<case-of pos="0" part="lemh"/>
+								<lit v="aa"/>
+							</equal>
+						</test>
+						<out>
+							<lu>
+								<get-case-from pos="0">
+									<clip pos="1" part="lemh"/>
+								</get-case-from>
+								<clip pos="1" part="tags"/>
+								<clip pos="1" part="lemq"/>
+							</lu>
+						</out>
+					</when>
+					<otherwise>
+						<out>
+							<lu>
+								<clip pos="1" part="lemh"/>
+								<clip pos="1" part="tags"/>
+								<clip pos="1" part="lemq"/>
+							</lu>
+						</out>
+					</otherwise>
+				</choose>
+			</action>
+		</rule>
+
+
+	</section-rules>
+</postchunk>

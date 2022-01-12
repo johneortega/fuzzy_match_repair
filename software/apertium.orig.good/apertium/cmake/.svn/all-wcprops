@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/cmake
+END
+FindLibXml2.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/cmake/FindLibXml2.cmake
+END
+FindLttoolbox3.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/cmake/FindLttoolbox3.cmake
+END
+CMakeUseFlex.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/cmake/CMakeUseFlex.cmake
+END
+CMakeUseXsltproc.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/cmake/CMakeUseXsltproc.cmake
+END
+FindLibPcre.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/cmake/FindLibPcre.cmake
+END

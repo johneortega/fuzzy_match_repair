@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/apertium/svn/!svn/ver/6621/trunk/lttoolbox/lttoolbox/win32
+END
+unistd.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/apertium/svn/!svn/ver/5053/trunk/lttoolbox/lttoolbox/win32/unistd.h
+END
+regex.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/apertium/svn/!svn/ver/5053/trunk/lttoolbox/lttoolbox/win32/regex.h
+END
+libgen.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/apertium/svn/!svn/ver/4807/trunk/lttoolbox/lttoolbox/win32/libgen.c
+END
+getopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/apertium/svn/!svn/ver/6621/trunk/lttoolbox/lttoolbox/win32/getopt.c
+END
+libgen.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/apertium/svn/!svn/ver/4807/trunk/lttoolbox/lttoolbox/win32/libgen.h
+END
+getopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/apertium/svn/!svn/ver/4807/trunk/lttoolbox/lttoolbox/win32/getopt.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/apertium/svn/!svn/ver/6033/trunk/lttoolbox/lttoolbox/win32/Makefile.am
+END
+regex.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/apertium/svn/!svn/ver/5053/trunk/lttoolbox/lttoolbox/win32/regex.c
+END

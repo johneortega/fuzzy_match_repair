@@ -1,0 +1,10 @@
+prefix=/home/johneortega/software/apertium/local
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: lttoolbox
+Description: Augmented letter transducer tools for natural language processing
+Version: 3.3.3
+Libs: -L${libdir} -llttoolbox3 -lxml2  
+Cflags: -I${includedir}/lttoolbox-3.3 -I${libdir}/lttoolbox-3.3/include -I/usr/include/libxml2  

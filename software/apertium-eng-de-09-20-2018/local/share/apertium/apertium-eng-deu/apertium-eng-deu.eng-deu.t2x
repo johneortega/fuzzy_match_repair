@@ -1,0 +1,2273 @@
+<?xml version="1.0" encoding="UTF-8"?> <!-- -*- nxml -*- -->
+<interchunk>
+
+	<section-def-cats>
+
+		<def-cat n="SN">
+			<cat-item tags="SN"/>
+			<cat-item tags="SN.*"/>
+		</def-cat>
+		<def-cat n="SN_adj">
+			<cat-item tags="SN"/>
+			<cat-item tags="SN.*"/>
+			<cat-item tags="ADJ"/>
+			<cat-item tags="ADJ.*"/>
+		</def-cat>
+		<def-cat n="SN_ad">
+			<cat-item tags="SN"/>
+			<cat-item tags="SN.*"/>
+			<cat-item tags="ADJ"/>
+			<cat-item tags="ADJ.*"/>
+			<cat-item tags="ADV"/>
+			<cat-item tags="ADV.*"/>
+		</def-cat>
+		<def-cat n="SNP">
+			<cat-item tags="SN"/>
+			<cat-item tags="SN.*"/>
+			<cat-item tags="PRN"/>
+			<cat-item tags="PRN.*"/>
+			<cat-item tags="PRPERS"/>
+			<cat-item tags="PRPERS.*"/>
+		</def-cat>
+		<def-cat n="PRN">
+			<cat-item tags="PRN"/>
+			<cat-item tags="PRN.*"/>
+		</def-cat>
+		<def-cat n="PRPERS">
+			<cat-item tags="PRPERS"/>
+			<cat-item tags="PRPERS.*"/>
+		</def-cat>
+		<def-cat n="PRON">
+			<cat-item tags="PRN"/>
+			<cat-item tags="PRN.*"/>
+			<cat-item tags="PRPERS"/>
+			<cat-item tags="PRPERS.*"/>
+		</def-cat>
+		<def-cat n="REL">
+			<cat-item tags="REL"/>
+			<cat-item tags="REL.*"/>
+		</def-cat>
+		<def-cat n="DET">
+			<cat-item tags="DET"/>
+			<cat-item tags="DET.*"/>
+		</def-cat>
+
+		<def-cat n="SV">  <!-- any verb phrase -->
+			<cat-item tags="SV"/>
+			<cat-item tags="SV.*"/>
+			<cat-item tags="SV_aux"/>
+			<cat-item tags="SV_aux.*"/>
+			<cat-item tags="SV_ser"/>
+			<cat-item tags="SV_ser.*"/>
+			<cat-item tags="SV_haver"/>
+			<cat-item tags="SV_haver.*"/>
+			<cat-item tags="SV_do"/>
+			<cat-item tags="SV_do.*"/>
+			<cat-item tags="SV_adv"/>
+			<cat-item tags="SV_adv.*"/>
+		</def-cat>
+		<def-cat n="SV_aux">
+			<cat-item tags="SV_aux"/>
+			<cat-item tags="SV_aux.*"/>
+			<cat-item tags="SV_adv"/>
+			<cat-item tags="SV_adv.*"/>
+		</def-cat>
+		<def-cat n="SV_ser">
+			<cat-item tags="SV_ser"/>
+			<cat-item tags="SV_ser.*"/>
+		</def-cat>
+		<def-cat n="SV_haver">
+			<cat-item tags="SV_haver"/>
+			<cat-item tags="SV_haver.*"/>
+		</def-cat>
+		<def-cat n="SV_do">
+			<cat-item tags="SV_do"/>
+			<cat-item tags="SV_do.*"/>
+		</def-cat>
+		<def-cat n="VPART">
+			<cat-item tags="V.PART"/>
+		</def-cat>
+		<def-cat n="SV_ADV">
+			<cat-item tags="SV_adv"/>
+			<cat-item tags="SV_adv.*"/>
+		</def-cat>
+
+		<def-cat n="ADJ">
+			<cat-item tags="ADJ"/>
+			<cat-item tags="ADJ.*"/>
+		</def-cat>
+		<def-cat n="CNJ">
+			<cat-item tags="CNJ"/>
+			<cat-item tags="CNJ.*"/>
+		</def-cat>
+		<def-cat n="CNJCOO">
+			<cat-item tags="CNJ.cnjcoo"/>
+		</def-cat>
+		<def-cat n="ADV">
+			<cat-item tags="ADV"/>
+			<cat-item tags="ADV.*"/>
+			<!--<cat-item tags="ITG"/>-->
+		</def-cat>
+		<def-cat n="ADV1">
+			<cat-item tags="ADV"/>
+		</def-cat>
+		<def-cat n="TIME_ADV">
+			<cat-item tags="ADV.TIME"/>
+		</def-cat>
+		<def-cat n="ITG">
+			<cat-item tags="ITG"/>
+		</def-cat>
+		<def-cat n="CM_ADV">
+			<cat-item tags="CM_ADV"/> <!-- coma removed in t1x -->
+		</def-cat>
+		<def-cat n="PR">
+			<cat-item tags="PR"/>
+		</def-cat>
+		<def-cat n="ATP">
+			<cat-item tags="PR.atp"/>
+			<cat-item tags="PR.atp.*"/>
+		</def-cat>
+		<def-cat n="CM">
+			<cat-item tags="CM"/>
+		</def-cat>
+		<def-cat n="SENT">
+			<cat-item tags="SENT"/>
+			<cat-item tags="QST"/>
+		</def-cat>
+
+		<def-cat n="ANY_TAG">
+			<cat-item tags="*"/>
+		</def-cat>
+		<!-- <def-cat n="unknown">
+			<cat-item tags="unknown"/>
+		</def-cat> -->
+	</section-def-cats>
+
+	<section-def-attrs>
+		<def-attr n="a_gen">			<!-- Gender -->
+			<attr-item tags="m"/>
+			<attr-item tags="f"/>
+			<attr-item tags="nt"/>
+			<attr-item tags="mf"/>
+			<attr-item tags="mfn"/>
+			<attr-item tags="GD"/>
+		</def-attr>
+		<def-attr n="a_nbr">			<!-- Number -->
+			<attr-item tags="sg"/>
+			<attr-item tags="pl"/>
+			<attr-item tags="sp"/>
+			<attr-item tags="ND"/>
+			<attr-item tags="4"/>  <!-- link-to="4" -->
+		</def-attr>
+		<def-attr n="a_pers">			<!-- Person -->
+			<attr-item tags="p1"/>
+			<attr-item tags="p2"/>
+			<attr-item tags="p3"/>
+			<attr-item tags="PD"/>
+			<attr-item tags="3"/>  <!-- link-to="3" -->
+		</def-attr>
+		<def-attr n="a_cas">			<!-- Case -->
+			<attr-item tags="nom"/>
+			<attr-item tags="gen"/>
+			<attr-item tags="dat"/>
+			<attr-item tags="acc"/>
+			<attr-item tags="CD"/>
+			<attr-item tags="5"/>  <!-- link-to="5" -->
+		</def-attr>
+		<def-attr n="a_tense">
+			<attr-item tags="pp"/>
+			<attr-item tags="ger"/>
+			<attr-item tags="pii"/>
+			<attr-item tags="pis"/>
+			<attr-item tags="pri"/>
+			<attr-item tags="past"/>
+			<attr-item tags="inf"/>
+			<attr-item tags="pres"/>
+			<attr-item tags="pprs"/>
+			<attr-item tags="subs"/>
+			<attr-item tags="imp"/>
+			<attr-item tags="2"/>  <!-- link-to="2" -->
+		</def-attr>
+	</section-def-attrs>
+
+	<section-def-vars>
+		<def-var n="v_pers"/>
+		<def-var n="v_gen"/>
+		<def-var n="v_nbr"/>
+	</section-def-vars>
+
+
+	<section-def-macros>
+
+		<!-- (verb) if "PD" get person from next noun -->
+		<def-macro n="upd_PD_pers" npar="2">
+			<choose>
+				<when>  <!-- if pprs delete tag -->
+					<test>
+						<or>
+							<equal>
+								<clip pos="1" part="a_tense"/>
+								<lit-tag v="pprs"/>
+							</equal>
+							<equal>
+								<clip pos="1" part="a_tense"/>
+								<lit-tag v="inf"/>
+							</equal>
+						</or>
+					</test>
+					<let>
+						<clip pos="1" part="a_pers"/>
+						<lit v=""/>
+					</let>
+				</when>
+				<when>
+					<test>
+						<equal>
+							<clip pos="1" part="a_pers"/>
+							<lit-tag v="PD"/>
+						</equal>
+					</test>
+					<let>
+						<clip pos="1" part="a_pers"/>
+						<clip pos="2" part="a_pers"/>
+					</let>
+				</when>
+			</choose>
+			<choose>
+				<when>
+					<test>
+						<equal>
+							<clip pos="1" part="a_pers"/>
+							<lit-tag v="PD"/>
+						</equal>
+					</test>
+					<let>
+						<clip pos="1" part="a_pers"/>
+						<lit-tag v="p3"/>
+					</let>
+				</when>
+			</choose>
+		</def-macro>
+
+		<!-- (verb) if "ND" get number from next noun -->
+		<def-macro n="upd_ND_nbr" npar="2">
+			<choose>
+				<when>  <!-- if pprs delete tag -->
+					<test>
+						<or>
+							<equal>
+								<clip pos="1" part="a_tense"/>
+								<lit-tag v="pprs"/>
+							</equal>
+							<equal>
+								<clip pos="1" part="a_tense"/>
+								<lit-tag v="inf"/>
+							</equal>
+						</or>
+					</test>
+					<let>
+						<clip pos="1" part="a_nbr"/>
+						<lit v=""/>
+					</let>
+				</when>
+				<when>
+					<test>
+						<equal>
+							<clip pos="1" part="a_nbr"/>
+							<lit-tag v="ND"/>
+						</equal>
+					</test>
+					<let>
+						<clip pos="1" part="a_nbr"/>
+						<clip pos="2" part="a_nbr"/>
+					</let>
+				</when>
+			</choose>
+			<choose>
+				<when>
+					<test>
+						<equal>
+							<clip pos="1" part="a_nbr"/>
+							<lit-tag v="ND"/>
+						</equal>
+					</test>
+					<let>
+						<clip pos="1" part="a_nbr"/>
+						<lit-tag v="pl"/>
+						<!--<lit-tag v="sg"/>-->
+					</let>
+				</when>
+			</choose>
+		</def-macro>
+
+		<!-- (verb) if "GD" get gender from next word -->
+		<def-macro n="upd_GD_gen" npar="2">
+			<choose>
+				<when>  <!-- if pprs delete tag -->
+					<test>
+						<or>
+							<equal>
+								<clip pos="1" part="a_tense"/>
+								<lit-tag v="pprs"/>
+							</equal>
+							<equal>
+								<clip pos="1" part="a_tense"/>
+								<lit-tag v="inf"/>
+							</equal>
+						</or>
+					</test>
+					<let>
+						<clip pos="1" part="a_gen"/>
+						<lit v=""/>
+					</let>
+				</when>
+				<when>
+					<test>
+						<equal>
+							<clip pos="1" part="a_gen"/>
+							<lit-tag v="GD"/>
+						</equal>
+					</test>
+					<let>
+						<clip pos="1" part="a_gen"/>
+						<clip pos="2" part="a_gen"/>
+					</let>
+				</when>
+			</choose>
+			<choose>
+				<when>
+					<test>
+						<equal>
+							<clip pos="1" part="a_gen"/>
+							<lit-tag v="GD"/>
+						</equal>
+					</test>
+					<let>
+						<clip pos="1" part="a_gen"/>
+						<lit-tag v="nt"/>
+					</let>
+				</when>
+			</choose>
+		</def-macro>
+
+
+		<!-- (det) if "CD" get case from next word -->
+		<def-macro n="upd_CD_cas" npar="2">
+			<choose>
+				<when>
+					<test>
+						<equal>
+							<clip pos="1" part="a_cas"/>
+							<lit-tag v="CD"/>
+						</equal>
+					</test>
+					<let>
+						<clip pos="1" part="a_cas"/>
+						<clip pos="2" part="a_cas"/>
+					</let>
+				</when>
+			</choose>
+			<choose>
+				<when>
+					<test>
+						<equal>
+							<clip pos="1" part="a_cas"/>
+							<lit-tag v="CD"/>
+						</equal>
+					</test>
+					<let>
+						<clip pos="1" part="a_cas"/>
+						<lit-tag v="nom"/>
+					</let>
+				</when>
+			</choose>
+		</def-macro>
+
+
+		<!-- (verb) (to be determined) -->
+		<!--(only necessary for rules that start with Verbs)-->
+		<def-macro n="upd_PD_ND_GD" npar="2">
+			<call-macro n="upd_PD_pers"> <!-- PD to "pers" -->
+				<with-param pos="1"/>
+				<with-param pos="2"/>    <!-- "pers" from noun -->
+			</call-macro>
+			<call-macro n="upd_ND_nbr">  <!-- ND to "nbr" -->
+				<with-param pos="1"/>
+				<with-param pos="2"/>    <!-- "nbr" from noun -->
+			</call-macro>
+			<call-macro n="upd_GD_gen">  <!-- GD to "gen" -->
+				<with-param pos="1"/>
+				<with-param pos="2"/>    <!-- "gen" from noun -->
+			</call-macro>
+			<call-macro n="upd_CD_cas">  <!-- CD to "case" -->
+				<with-param pos="1"/>
+				<with-param pos="2"/>    <!-- "cas" from noun -->
+			</call-macro>
+		</def-macro>
+
+		<!-- (verb) remove all tags not necessary for "inf"/"imp" (not only PD/ND/GD)
+			 if "inf" is not used to replace another word  (e.g.: "do not go" -> "geht nicht") -->
+		<def-macro n="rm_PD_ND_GD" npar="2">
+			<choose>
+				<when>
+					<test>
+						<or>
+							<equal>
+								<clip pos="1" part="a_tense"/>
+								<lit-tag v="inf"/>
+							</equal>
+							<equal>
+								<clip pos="1" part="a_tense"/>
+								<lit-tag v="pprs"/>
+							</equal>
+						</or>
+					</test>
+					<let>
+						<clip pos="1" part="a_pers"/>  <!-- remove PD -->
+						<lit v=""/>
+					</let>
+					<let>
+						<clip pos="1" part="a_nbr"/>  <!-- remove ND -->
+						<lit v=""/>
+					</let>
+					<let>
+						<clip pos="1" part="a_gen"/>  <!-- remove GD -->
+						<lit v=""/>
+					</let>
+				</when>
+				<when>  <!-- "imp" -->
+					<test>
+						<equal>
+							<clip pos="1" part="a_tense"/>
+							<lit-tag v="imp"/>
+						</equal>
+					</test>
+					<let>
+						<clip pos="1" part="a_pers"/>  <!-- remove PD -->
+						<lit v=""/>
+					</let>
+					<let>
+						<clip pos="1" part="a_gen"/>  <!-- remove GD -->
+						<lit v=""/>
+					</let>
+				</when>
+			</choose>
+		</def-macro>
+
+	</section-def-macros>
+
+
+	<section-rules>
+
+		<!-- "V ~V PR N" => "V PR N ~V" -->
+		<rule comment="RULE: V V PR N">
+			<pattern>
+				<pattern-item n="SV"/>
+				<pattern-item n="SV"/>
+				<pattern-item n="PR"/>
+				<pattern-item n="SN"/>
+			</pattern>
+			<action>
+				<call-macro n="upd_PD_ND_GD">  <!-- (to be determined) -->
+					<with-param pos="1"/>
+					<with-param pos="4"/>  <!-- from noun -->
+				</call-macro>
+				<call-macro n="rm_PD_ND_GD">
+					<with-param pos="2"/>
+				</call-macro>
+				<out>
+					<chunk>
+						<clip pos="1" part="lem"/>
+						<clip pos="1" part="tags"/>
+						<clip pos="1" part="chcontent"/>
+					</chunk>
+					<b pos="1"/>
+					<chunk>
+						<clip pos="3" part="lem"/>
+						<clip pos="3" part="tags"/>
+						<clip pos="3" part="chcontent"/>
+					</chunk>
+					<b pos="2"/>
+					<chunk>
+						<clip pos="4" part="lem"/>
+						<clip pos="4" part="tags"/>
+						<clip pos="4" part="chcontent"/>
+					</chunk>
+					<b pos="3"/>
+					<chunk>
+						<clip pos="2" part="lem"/>
+						<clip pos="2" part="tags"/>
+						<clip pos="2" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+
+		<!-- "can I have (...)" => "kann ich (...) haben" -->
+		<!-- "Vx N ~V N" => "Vx N N ~V" -->
+		<rule comment="RULE: Vx NP V N">
+			<pattern>
+				<pattern-item n="SV_aux"/>
+				<pattern-item n="SNP"/>
+				<pattern-item n="SV"/>
+				<pattern-item n="SN"/>
+			</pattern>
+			<action>
+				<call-macro n="upd_PD_ND_GD">  <!-- (to be determined) -->
+					<with-param pos="1"/>
+					<with-param pos="2"/>  <!-- from noun -->
+				</call-macro>
+				<call-macro n="rm_PD_ND_GD">
+					<with-param pos="3"/>
+				</call-macro>
+				<out>
+					<chunk>
+						<clip pos="1" part="lem"/>
+						<clip pos="1" part="tags"/>
+						<clip pos="1" part="chcontent"/>
+					</chunk>
+					<b pos="1"/>
+					<chunk>
+						<clip pos="2" part="lem"/>
+						<clip pos="2" part="tags"/>
+						<clip pos="2" part="chcontent"/>
+					</chunk>
+					<b pos="2"/>
+					<chunk>
+						<clip pos="4" part="lem"/>
+						<clip pos="4" part="tags"/>
+						<clip pos="4" part="chcontent"/>
+					</chunk>
+					<b pos="3"/>
+					<chunk>
+						<clip pos="3" part="lem"/>
+						<clip pos="3" part="tags"/>
+						<clip pos="3" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+
+		<!-- "are you drinking coffee" => "trinkst du (gerade) Kaffee" -->
+		<!-- "-Vs N ~V N" => "~V N N" -->
+		<rule comment="RULE: Vs NP V N">
+			<pattern>
+				<pattern-item n="SV_ser"/>
+				<pattern-item n="SNP"/>
+				<pattern-item n="SV"/>
+				<pattern-item n="SN"/>
+			</pattern>
+			<action>
+				<call-macro n="upd_PD_ND_GD">  <!-- (to be determined) -->
+					<with-param pos="1"/>
+					<with-param pos="2"/>  <!-- from noun -->
+				</call-macro>
+				<call-macro n="rm_PD_ND_GD">
+					<with-param pos="3"/>
+				</call-macro>
+				<out>
+					<chunk>
+						<get-case-from pos="1">
+							<clip pos="3" part="lem"/>
+						</get-case-from>
+						<clip pos="1" part="tags"/>  <!-- tense from first verb -->
+						<clip pos="3" part="chcontent"/>
+					</chunk>
+					<b pos="1"/>
+					<chunk>
+						<clip pos="2" part="lem"/>
+						<clip pos="2" part="tags"/>
+						<clip pos="2" part="chcontent"/>
+					</chunk>
+					<b pos="2"/>
+					<chunk>
+						<clip pos="4" part="lem"/>
+						<clip pos="4" part="tags"/>
+						<clip pos="4" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+
+		<!-- "do you never give your (...)" => "gibst du deiner (...) nie" -->
+		<!-- "-Vd N ~ADV ~V N" => "~V N N ~ADV" -->
+		<rule comment="RULE: Vd NP ADV V N">
+			<pattern>
+				<pattern-item n="SV_do"/>
+				<pattern-item n="SNP"/>
+				<pattern-item n="ADV"/>
+				<pattern-item n="SV"/>
+				<pattern-item n="SN"/>
+			</pattern>
+			<action>
+				<call-macro n="upd_PD_ND_GD">  <!-- PD to "pers" -->
+					<with-param pos="1"/>
+					<with-param pos="2"/>  <!-- from noun -->
+				</call-macro>
+				<call-macro n="rm_PD_ND_GD">
+					<with-param pos="4"/>
+				</call-macro>
+				<out>
+					<chunk>
+						<get-case-from pos="1">
+							<clip pos="4" part="lem"/>
+						</get-case-from>
+						<clip pos="1" part="tags"/>  <!-- "do" -->
+						<clip pos="4" part="chcontent"/>
+					</chunk>
+					<b pos="1"/>
+					<chunk>
+						<clip pos="2" part="lem"/>
+						<clip pos="2" part="tags"/>
+						<clip pos="2" part="chcontent"/>
+					</chunk>
+					<b pos="2"/>
+					<chunk>
+						<clip pos="5" part="lem"/>
+						<clip pos="5" part="tags"/>
+						<clip pos="5" part="chcontent"/>
+					</chunk>
+					<b pos="3"/>
+					<chunk>
+						<clip pos="3" part="lem"/>
+						<clip pos="3" part="tags"/>
+						<clip pos="3" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+
+		<!-- "do you give your (...)" => "gibst du deiner (...)" -->
+		<!-- "-Vd N ~V N" => "~V N N" -->
+		<rule comment="RULE: Vd NP V N">
+			<pattern>
+				<pattern-item n="SV_do"/>
+				<pattern-item n="SNP"/>
+				<pattern-item n="SV"/>
+				<pattern-item n="SN"/>
+			</pattern>
+			<action>
+				<call-macro n="upd_PD_ND_GD">  <!-- PD to "pers" -->
+					<with-param pos="1"/>
+					<with-param pos="2"/>  <!-- from noun -->
+				</call-macro>
+				<call-macro n="rm_PD_ND_GD">
+					<with-param pos="3"/>
+				</call-macro>
+				<out>
+					<chunk>
+						<get-case-from pos="1">
+							<clip pos="3" part="lem"/>
+						</get-case-from>
+						<clip pos="1" part="tags"/>  <!-- "do" -->
+						<clip pos="3" part="chcontent"/>
+					</chunk>
+					<b pos="1"/>
+					<chunk>
+						<clip pos="2" part="lem"/>
+						<clip pos="2" part="tags"/>
+						<clip pos="2" part="chcontent"/>
+					</chunk>
+					<b pos="2"/>
+					<chunk>
+						<clip pos="4" part="lem"/>
+						<clip pos="4" part="tags"/>
+						<clip pos="4" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+
+		<!-- "do you know" => "kennst du" -->
+		<!-- "-Vd N ~V" => "~V N" -->
+		<rule comment="RULE: Vd NP V">
+			<pattern>
+				<pattern-item n="SV_do"/>
+				<pattern-item n="SNP"/>
+				<pattern-item n="SV"/>
+			</pattern>
+			<action>
+				<call-macro n="upd_PD_ND_GD">  <!-- PD to "pers" -->
+					<with-param pos="1"/>
+					<with-param pos="2"/>  <!-- from noun -->
+				</call-macro>
+				<call-macro n="rm_PD_ND_GD">
+					<with-param pos="1"/>
+				</call-macro>
+				<call-macro n="rm_PD_ND_GD">
+					<with-param pos="3"/>
+				</call-macro>
+				<out>
+					<chunk>
+						<get-case-from pos="1">
+							<clip pos="3" part="lem"/>
+						</get-case-from>
+						<clip pos="1" part="tags"/>  <!-- "do" -->
+						<clip pos="3" part="chcontent"/>
+					</chunk>
+					<b pos="1"/>
+					<chunk>
+						<clip pos="2" part="lem"/>
+						<clip pos="2" part="tags"/>
+						<clip pos="2" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+
+		<!-- "can I have (...)" => "kann ich (...) haben" -->
+		<!-- "Vx N ~V N N" => "Vx N N N ~V" -->
+		<rule comment="RULE: Vx NP V NP N">
+			<pattern>
+				<pattern-item n="SV_aux"/>
+				<pattern-item n="SNP"/>
+				<pattern-item n="SV"/>
+				<pattern-item n="SNP"/>
+				<pattern-item n="SN"/>
+			</pattern>
+			<action>
+				<call-macro n="upd_PD_ND_GD">  <!-- (to be determined) -->
+					<with-param pos="1"/>
+					<with-param pos="2"/>  <!-- from noun -->
+				</call-macro>
+				<call-macro n="rm_PD_ND_GD">
+					<with-param pos="3"/>
+				</call-macro>
+				<out>
+					<chunk>
+						<clip pos="1" part="lem"/>
+						<clip pos="1" part="tags"/>
+						<clip pos="1" part="chcontent"/>
+					</chunk>
+					<b pos="1"/>
+					<chunk>
+						<clip pos="2" part="lem"/>
+						<clip pos="2" part="tags"/>
+						<clip pos="2" part="chcontent"/>
+					</chunk>
+					<b pos="2"/>
+					<chunk>
+						<clip pos="4" part="lem"/>
+						<clip pos="4" part="tags"/>
+						<clip pos="4" part="chcontent"/>
+					</chunk>
+					<b pos="3"/>
+					<chunk>
+						<clip pos="5" part="lem"/>
+						<clip pos="5" part="tags"/>
+						<clip pos="5" part="chcontent"/>
+					</chunk>
+					<b pos="4"/>
+					<chunk>
+						<clip pos="3" part="lem"/>
+						<clip pos="3" part="tags"/>
+						<clip pos="3" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+
+		<!-- separable verb -->
+		<!-- "V ~ATP N N N" => "V N N N ~ATP" -->
+		<rule comment="RULE: V ATP NP NP NP">
+			<pattern>
+				<pattern-item n="SV"/>
+				<pattern-item n="ATP"/>
+				<pattern-item n="SNP"/>
+				<pattern-item n="SNP"/>
+				<pattern-item n="SNP"/>
+			</pattern>
+			<action>
+				<call-macro n="upd_PD_ND_GD">  <!-- (to be determined) -->
+					<with-param pos="1"/>
+					<with-param pos="3"/>  <!-- from noun -->
+				</call-macro>
+				<out>
+					<chunk>
+						<clip pos="1" part="lem"/>
+						<clip pos="1" part="tags"/>
+						<clip pos="1" part="chcontent"/>
+					</chunk>
+					<b pos="1"/>
+					<chunk>
+						<clip pos="3" part="lem"/>
+						<clip pos="3" part="tags"/>
+						<clip pos="3" part="chcontent"/>
+					</chunk>
+					<b pos="2"/>
+					<chunk>
+						<clip pos="4" part="lem"/>
+						<clip pos="4" part="tags"/>
+						<clip pos="4" part="chcontent"/>
+					</chunk>
+					<b pos="3"/>
+					<chunk>
+						<clip pos="5" part="lem"/>
+						<clip pos="5" part="tags"/>
+						<clip pos="5" part="chcontent"/>
+					</chunk>
+					<b pos="4"/>
+					<chunk>
+						<clip pos="2" part="lem"/>
+						<clip pos="2" part="tags"/>
+						<clip pos="2" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+
+		<!-- separable verb -->
+		<!-- "V ~ATP N N" => "V N N ~ATP" -->
+		<rule comment="RULE: V ATP NP NP">
+			<pattern>
+				<pattern-item n="SV"/>
+				<pattern-item n="ATP"/>
+				<pattern-item n="SNP"/>
+				<pattern-item n="SNP"/>
+			</pattern>
+			<action>
+				<call-macro n="upd_PD_ND_GD">  <!-- (to be determined) -->
+					<with-param pos="1"/>
+					<with-param pos="3"/>  <!-- from noun -->
+				</call-macro>
+				<out>
+					<chunk>
+						<clip pos="1" part="lem"/>
+						<clip pos="1" part="tags"/>
+						<clip pos="1" part="chcontent"/>
+					</chunk>
+					<b pos="1"/>
+					<chunk>
+						<clip pos="3" part="lem"/>
+						<clip pos="3" part="tags"/>
+						<clip pos="3" part="chcontent"/>
+					</chunk>
+					<b pos="2"/>
+					<chunk>
+						<clip pos="4" part="lem"/>
+						<clip pos="4" part="tags"/>
+						<clip pos="4" part="chcontent"/>
+					</chunk>
+					<b pos="3"/>
+					<chunk>
+						<clip pos="2" part="lem"/>
+						<clip pos="2" part="tags"/>
+						<clip pos="2" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+
+		<!-- separable verb -->
+		<!-- "V ~ATP N" => "V N ~ATP" -->
+		<rule comment="RULE: V ATP NP">
+			<pattern>
+				<pattern-item n="SV"/>
+				<pattern-item n="ATP"/>
+				<pattern-item n="SNP"/>
+			</pattern>
+			<action>
+				<call-macro n="upd_PD_ND_GD">  <!-- (to be determined) -->
+					<with-param pos="1"/>
+					<with-param pos="3"/>  <!-- from noun -->
+				</call-macro>
+				<out>
+					<chunk>
+						<clip pos="1" part="lem"/>
+						<clip pos="1" part="tags"/>
+						<clip pos="1" part="chcontent"/>
+					</chunk>
+					<b pos="1"/>
+					<chunk>
+						<clip pos="3" part="lem"/>
+						<clip pos="3" part="tags"/>
+						<clip pos="3" part="chcontent"/>
+					</chunk>
+					<b pos="2"/>
+					<chunk>
+						<clip pos="2" part="lem"/>
+						<clip pos="2" part="tags"/>
+						<clip pos="2" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+
+		<!-- update nbr/ND -->
+		<rule comment="RULE: V PR PRN">
+			<pattern>
+				<pattern-item n="SV"/>
+				<pattern-item n="PR"/>
+				<pattern-item n="PRON"/>
+			</pattern>
+			<action>
+				<call-macro n="upd_PD_ND_GD">  <!-- (to be determined) -->
+					<with-param pos="1"/>
+					<with-param pos="3"/>  <!-- from noun -->
+				</call-macro>
+				<call-macro n="rm_PD_ND_GD">
+					<with-param pos="1"/>
+				</call-macro>
+				<out>
+					<chunk>
+						<clip pos="1" part="lem"/>
+						<clip pos="1" part="tags"/>
+						<clip pos="1" part="chcontent"/>
+					</chunk>
+					<b pos="1"/>
+					<chunk>
+						<clip pos="2" part="lem"/>
+						<clip pos="2" part="tags"/>
+						<clip pos="2" part="chcontent"/>
+					</chunk>
+					<b pos="2"/>
+					<chunk>
+						<clip pos="3" part="lem"/>
+						<clip pos="3" part="tags"/>
+						<clip pos="3" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+
+		<!-- "(he) has just played football" => "(er) hat gerade Fußball gespielt  -->
+		<!-- V ADV ~V N => V ADV N ~V --> <!-- update nbr/ND -->
+		<rule comment="RULE: V ADV V N">
+			<pattern>
+				<pattern-item n="SV"/>
+				<pattern-item n="ADV"/>
+				<pattern-item n="SV"/>
+				<pattern-item n="SN"/>
+			</pattern>
+			<action>
+				<call-macro n="upd_PD_ND_GD">  <!-- (to be determined) -->
+					<with-param pos="1"/>
+					<with-param pos="4"/>  <!-- from noun -->
+				</call-macro>
+				<call-macro n="rm_PD_ND_GD">
+					<with-param pos="3"/>
+				</call-macro>
+				<out>
+					<chunk>
+						<clip pos="1" part="lem"/>
+						<clip pos="1" part="tags"/>
+						<clip pos="1" part="chcontent"/>
+					</chunk>
+					<b pos="1"/>
+					<chunk>
+						<clip pos="2" part="lem"/>
+						<clip pos="2" part="tags"/>
+						<clip pos="2" part="chcontent"/>
+					</chunk>
+					<b pos="2"/>
+					<chunk>
+						<clip pos="4" part="lem"/>
+						<clip pos="4" part="tags"/>
+						<clip pos="4" part="chcontent"/>
+					</chunk>
+					<b pos="3"/>
+					<chunk>
+						<clip pos="3" part="lem"/>
+						<clip pos="3" part="tags"/>
+						<clip pos="3" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+
+		<!-- "(he) was very worried yesterday " => "(er) war gestern sehr besorgt" -->
+		<!-- V ADV ~V ~TADV => V ~TADV ADV ~V --> <!-- update nbr/ND -->
+		<rule comment="RULE: V ADV V TADV">
+			<pattern>
+				<pattern-item n="SV"/>
+				<pattern-item n="ADV"/>
+				<pattern-item n="SV"/>
+				<pattern-item n="TIME_ADV"/>
+			</pattern>
+			<action>
+				<call-macro n="upd_PD_ND_GD">  <!-- (to be determined) -->
+					<with-param pos="1"/>
+					<with-param pos="4"/>  <!-- from noun -->
+				</call-macro>
+				<call-macro n="rm_PD_ND_GD">
+					<with-param pos="3"/>
+				</call-macro>
+				<out>
+					<chunk>
+						<clip pos="1" part="lem"/>
+						<clip pos="1" part="tags"/>
+						<clip pos="1" part="chcontent"/>
+					</chunk>
+					<b pos="1"/>
+					<chunk>
+						<clip pos="4" part="lem"/>
+						<clip pos="4" part="tags"/>
+						<clip pos="4" part="chcontent"/>
+					</chunk>
+					<b pos="2"/>
+					<chunk>
+						<clip pos="2" part="lem"/>
+						<clip pos="2" part="tags"/>
+						<clip pos="2" part="chcontent"/>
+					</chunk>
+					<b pos="3"/>
+					<chunk>
+						<clip pos="3" part="lem"/>
+						<clip pos="3" part="tags"/>
+						<clip pos="3" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+
+		<!-- "(he) can not go to school" => "(er) kann nicht zur Schule gehen" -->
+		<!-- V ADV ~V ADV => V ADV ADV ~V --> <!-- update nbr/ND -->
+		<rule comment="RULE: V ADV V ADV">
+			<pattern>
+				<pattern-item n="SV"/>
+				<pattern-item n="ADV"/>
+				<pattern-item n="SV"/>
+				<pattern-item n="ADV"/>
+			</pattern>
+			<action>
+				<call-macro n="upd_PD_ND_GD">  <!-- (to be determined) -->
+					<with-param pos="1"/>
+					<with-param pos="4"/>  <!-- from noun -->
+				</call-macro>
+				<call-macro n="rm_PD_ND_GD">
+					<with-param pos="3"/>
+				</call-macro>
+				<out>
+					<chunk>
+						<clip pos="1" part="lem"/>
+						<clip pos="1" part="tags"/>
+						<clip pos="1" part="chcontent"/>
+					</chunk>
+					<b pos="1"/>
+					<chunk>
+						<clip pos="2" part="lem"/>
+						<clip pos="2" part="tags"/>
+						<clip pos="2" part="chcontent"/>
+					</chunk>
+					<b pos="2"/>
+					<chunk>
+						<clip pos="4" part="lem"/>
+						<clip pos="4" part="tags"/>
+						<clip pos="4" part="chcontent"/>
+					</chunk>
+					<b pos="3"/>
+					<chunk>
+						<clip pos="3" part="lem"/>
+						<clip pos="3" part="tags"/>
+						<clip pos="3" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+
+		<!-- "(he) can't go to school" => "(er) kann nicht zur Schule gehen" -->
+		<!-- V+ADV ~V ADV => V+ADV ADV ~V --> <!-- update nbr/ND -->
+		<rule comment="RULE: Vadv V ADV">
+			<pattern>
+				<pattern-item n="SV_ADV"/>
+				<pattern-item n="SV"/>
+				<pattern-item n="ADV"/>
+			</pattern>
+			<action>
+				<call-macro n="upd_PD_ND_GD">  <!-- (to be determined) -->
+					<with-param pos="1"/>
+					<with-param pos="3"/>  <!-- from noun -->
+				</call-macro>
+				<call-macro n="rm_PD_ND_GD">
+					<with-param pos="2"/>
+				</call-macro>
+				<out>
+					<chunk>
+						<clip pos="1" part="lem"/>
+						<clip pos="1" part="tags"/>
+						<clip pos="1" part="chcontent"/>
+					</chunk>
+					<b pos="1"/>
+					<chunk>
+						<clip pos="3" part="lem"/>
+						<clip pos="3" part="tags"/>
+						<clip pos="3" part="chcontent"/>
+					</chunk>
+					<b pos="2"/>
+					<chunk>
+						<clip pos="2" part="lem"/>
+						<clip pos="2" part="tags"/>
+						<clip pos="2" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+
+		<!-- "V ~N ADV" => "V ADV ~N" -->
+		<rule comment="RULE: V N ADV">
+			<pattern>
+				<pattern-item n="SV"/>
+				<pattern-item n="SN"/>
+				<pattern-item n="ADV"/>
+			</pattern>
+			<action>
+				<call-macro n="upd_PD_ND_GD">  <!-- (to be determined) -->
+					<with-param pos="1"/>
+					<with-param pos="2"/>  <!-- from noun -->
+				</call-macro>
+				<call-macro n="rm_PD_ND_GD">
+					<with-param pos="1"/>
+				</call-macro>
+				<out>
+					<chunk>
+						<clip pos="1" part="lem"/>
+						<clip pos="1" part="tags"/>
+						<clip pos="1" part="chcontent"/>
+					</chunk>
+					<b pos="1"/>
+					<chunk>
+						<clip pos="3" part="lem"/>
+						<clip pos="3" part="tags"/>
+						<clip pos="3" part="chcontent"/>
+					</chunk>
+					<b pos="2"/>
+					<chunk>
+						<clip pos="2" part="lem"/>
+						<clip pos="2" part="tags"/>
+						<clip pos="2" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+
+		<!-- update nbr/ND -->
+		<!-- "V N ~ADV" => "V ~ADV N" -->
+		<rule comment="RULE: V N , ADV">
+			<pattern>
+				<pattern-item n="SV"/>
+				<pattern-item n="SN_ad"/>
+				<pattern-item n="CM_ADV"/>
+			</pattern>
+			<action>
+				<call-macro n="upd_PD_ND_GD">  <!-- (to be determined) -->
+					<with-param pos="1"/>
+					<with-param pos="2"/>  <!-- from noun -->
+				</call-macro>
+				<call-macro n="rm_PD_ND_GD">
+					<with-param pos="1"/>
+				</call-macro>
+				<out>
+					<chunk>
+						<clip pos="1" part="lem"/>
+						<clip pos="1" part="tags"/>
+						<clip pos="1" part="chcontent"/>
+					</chunk>
+					<b pos="1"/>
+					<chunk>
+						<clip pos="3" part="lem"/>
+						<clip pos="3" part="tags"/>
+						<clip pos="3" part="chcontent"/>
+					</chunk>
+					<b pos="2"/>
+					<chunk>
+						<clip pos="2" part="lem"/>
+						<clip pos="2" part="tags"/>
+						<clip pos="2" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+
+		<!-- update nbr/ND -->  <!--(this rule can block rules that start with NP and have only 2 chunks!)-->
+		<!-- "look at your calendar" => "sieh auf deinen Kalender" -->
+		<rule comment="RULE: V NP">
+			<pattern>
+				<pattern-item n="SV"/>
+				<pattern-item n="SNP"/>
+			</pattern>
+			<action>
+				<call-macro n="upd_PD_ND_GD">  <!-- (to be determined) -->
+					<with-param pos="1"/>
+					<with-param pos="2"/>  <!-- from noun -->
+				</call-macro>
+				<call-macro n="rm_PD_ND_GD">
+					<with-param pos="1"/>
+				</call-macro>
+				<out>
+					<chunk>
+						<clip pos="1" part="lem"/>
+						<clip pos="1" part="tags"/>
+						<clip pos="1" part="chcontent"/>
+					</chunk>
+					<b pos="1"/>
+					<chunk>
+						<clip pos="2" part="lem"/>
+						<clip pos="2" part="tags"/>
+						<clip pos="2" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+
+		<!-- update nbr/ND -->
+		<!-- "(he) is going to buy a comic and a book" => "(er) will ein Comic und ein Buch kaufen" -->
+		<!-- "Vx ~V N CNJ N" => "Vx N CNJ N ~V" -->
+		<rule comment="RULE: Vx V N CNJ N">
+			<pattern>
+				<pattern-item n="SV_aux"/>
+				<pattern-item n="SV"/>
+				<pattern-item n="SN"/>
+				<pattern-item n="CNJCOO"/>
+				<pattern-item n="SN"/>
+			</pattern>
+			<action>
+				<call-macro n="upd_PD_ND_GD">  <!-- (to be determined) -->
+					<with-param pos="1"/>
+					<with-param pos="3"/>  <!-- from noun -->
+				</call-macro>
+				<call-macro n="rm_PD_ND_GD">
+					<with-param pos="2"/>
+				</call-macro>
+				<out>
+					<chunk>
+						<clip pos="1" part="lem"/>
+						<clip pos="1" part="tags"/>
+						<clip pos="1" part="chcontent"/>
+					</chunk>
+					<b pos="1"/>
+					<chunk>
+						<clip pos="3" part="lem"/>
+						<clip pos="3" part="tags"/>
+						<clip pos="3" part="chcontent"/>
+					</chunk>
+					<b pos="2"/>
+					<chunk>
+						<clip pos="4" part="lem"/>
+						<clip pos="4" part="tags"/>
+						<clip pos="4" part="chcontent"/>
+					</chunk>
+					<b pos="3"/>
+					<chunk>
+						<clip pos="5" part="lem"/>
+						<clip pos="5" part="tags"/>
+						<clip pos="5" part="chcontent"/>
+					</chunk>
+					<b pos="4"/>
+					<chunk>
+						<clip pos="2" part="lem"/>
+						<clip pos="2" part="tags"/>
+						<clip pos="2" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+
+		<!-- (question) update nbr/ND -->
+		<rule comment="RULE: V PRN NP">
+			<pattern>
+				<pattern-item n="SV"/>
+				<pattern-item n="PRON"/>
+				<pattern-item n="SN_adj"/>
+			</pattern>
+			<action>
+				<call-macro n="upd_PD_ND_GD">  <!-- (to be determined) -->
+					<with-param pos="1"/>
+					<with-param pos="2"/>  <!-- from noun -->
+				</call-macro>
+				<call-macro n="rm_PD_ND_GD">
+					<with-param pos="1"/>
+				</call-macro>
+				<out>
+					<chunk>
+						<clip pos="1" part="lem"/>
+						<clip pos="1" part="tags"/>
+						<clip pos="1" part="chcontent"/>
+					</chunk>
+					<b pos="1"/>
+					<chunk>
+						<clip pos="2" part="lem"/>
+						<clip pos="2" part="tags"/>
+						<clip pos="2" part="chcontent"/>
+					</chunk>
+					<b pos="2"/>
+					<chunk>
+						<clip pos="3" part="lem"/>
+						<clip pos="3" part="tags"/>
+						<clip pos="3" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+		<!-- "V ~VPART N" => "V N ~VPART" -->
+		<rule comment="RULE: V VPART N">
+			<pattern>
+				<pattern-item n="SV"/>
+				<pattern-item n="VPART"/>
+				<pattern-item n="SN"/>
+			</pattern>
+			<action>
+				<call-macro n="upd_PD_ND_GD">  <!-- (to be determined) -->
+					<with-param pos="1"/>
+					<with-param pos="3"/>  <!-- from noun -->
+				</call-macro>
+				<call-macro n="rm_PD_ND_GD">
+					<with-param pos="1"/>
+				</call-macro>
+				<out>
+					<chunk>
+						<clip pos="1" part="lem"/>
+						<clip pos="1" part="tags"/>
+						<clip pos="1" part="chcontent"/>
+					</chunk>
+					<b pos="1"/>
+					<chunk>
+						<clip pos="3" part="lem"/>
+						<clip pos="3" part="tags"/>
+						<clip pos="3" part="chcontent"/>
+					</chunk>
+					<b pos="2"/>
+					<chunk>
+						<clip pos="2" part="lem"/>
+						<clip pos="2" part="tags"/>
+						<clip pos="2" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+
+		<!-- "V ~VPART N CNJ N" => "V N CNJ N ~VPART" -->
+		<rule comment="RULE: V VPART N CNJ N">
+			<pattern>
+				<pattern-item n="SV"/>
+				<pattern-item n="VPART"/>
+				<pattern-item n="SN"/>
+				<pattern-item n="CNJCOO"/>
+				<pattern-item n="SN"/>
+			</pattern>
+			<action>
+				<call-macro n="upd_PD_ND_GD">  <!-- (to be determined) -->
+					<with-param pos="1"/>
+					<with-param pos="3"/>  <!-- from noun -->
+				</call-macro>
+				<call-macro n="rm_PD_ND_GD">
+					<with-param pos="1"/>
+				</call-macro>
+				<out>
+					<chunk>
+						<clip pos="1" part="lem"/>
+						<clip pos="1" part="tags"/>
+						<clip pos="1" part="chcontent"/>
+					</chunk>
+					<b pos="1"/>
+					<chunk>
+						<clip pos="3" part="lem"/>
+						<clip pos="3" part="tags"/>
+						<clip pos="3" part="chcontent"/>
+					</chunk>
+					<b pos="2"/>
+					<chunk>
+						<clip pos="4" part="lem"/>
+						<clip pos="4" part="tags"/>
+						<clip pos="4" part="chcontent"/>
+					</chunk>
+					<b pos="3"/>
+					<chunk>
+						<clip pos="5" part="lem"/>
+						<clip pos="5" part="tags"/>
+						<clip pos="5" part="chcontent"/>
+					</chunk>
+					<b pos="4"/>
+					<chunk>
+						<clip pos="2" part="lem"/>
+						<clip pos="2" part="tags"/>
+						<clip pos="2" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+
+		<!-- update nbr/ND -->
+		<rule comment="RULE: V">
+			<pattern>
+				<pattern-item n="SV"/>
+			</pattern>
+			<action>
+				<call-macro n="upd_PD_ND_GD">  <!-- (to be determined) -->
+					<with-param pos="1"/>
+					<with-param pos="1"/>  <!--(need second parameter (don't care))-->
+				</call-macro>
+				<call-macro n="rm_PD_ND_GD">
+					<with-param pos="1"/>
+				</call-macro>
+				<out>
+					<chunk>
+						<clip pos="1" part="lem"/>
+						<clip pos="1" part="tags"/>
+						<clip pos="1" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+
+		<!-- "N V ~V N N REL" => "N V N N ~V REL" -->
+		<rule comment="RULE: N V V N N REL">
+			<pattern>
+				<pattern-item n="SN"/>
+				<pattern-item n="SV"/>
+				<pattern-item n="SV"/>
+				<pattern-item n="SN"/>
+				<pattern-item n="SN"/>
+				<pattern-item n="REL"/>
+			</pattern>
+			<action>
+				<call-macro n="rm_PD_ND_GD">
+					<with-param pos="2"/>
+				</call-macro>
+				<call-macro n="rm_PD_ND_GD">
+					<with-param pos="3"/>
+				</call-macro>
+				<out>
+					<chunk>
+						<clip pos="1" part="lem"/>
+						<clip pos="1" part="tags"/>
+						<clip pos="1" part="chcontent"/>
+					</chunk>
+					<b pos="1"/>
+					<chunk>
+						<clip pos="2" part="lem"/>
+						<clip pos="2" part="tags"/>
+						<clip pos="2" part="chcontent"/>
+					</chunk>
+					<b pos="2"/>
+					<chunk>
+						<clip pos="4" part="lem"/>
+						<clip pos="4" part="tags"/>
+						<clip pos="4" part="chcontent"/>
+					</chunk>
+					<b pos="3"/>
+					<chunk>
+						<clip pos="5" part="lem"/>
+						<clip pos="5" part="tags"/>
+						<clip pos="5" part="chcontent"/>
+					</chunk>
+					<b pos="4"/>
+					<chunk>
+						<clip pos="3" part="lem"/>
+						<clip pos="3" part="tags"/>
+						<clip pos="3" part="chcontent"/>
+					</chunk>
+					<b pos="5"/>
+					<chunk>
+						<clip pos="6" part="lem"/>
+						<clip pos="6" part="tags"/>
+						<clip pos="6" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+
+		<!-- "N V ~V PRN N" => "N V PRN N ~V" -->
+		<rule comment="RULE: N V V PRN N">
+			<pattern>
+				<pattern-item n="SN"/>
+				<pattern-item n="SV"/>
+				<pattern-item n="SV"/>
+				<pattern-item n="PRON"/>
+				<pattern-item n="SN"/>
+			</pattern>
+			<action>
+				<call-macro n="rm_PD_ND_GD">
+					<with-param pos="2"/>
+				</call-macro>
+				<call-macro n="rm_PD_ND_GD">
+					<with-param pos="3"/>
+				</call-macro>
+				<out>
+					<chunk>
+						<clip pos="1" part="lem"/>
+						<clip pos="1" part="tags"/>
+						<clip pos="1" part="chcontent"/>
+					</chunk>
+					<b pos="1"/>
+					<chunk>
+						<clip pos="2" part="lem"/>
+						<clip pos="2" part="tags"/>
+						<clip pos="2" part="chcontent"/>
+					</chunk>
+					<b pos="2"/>
+					<chunk>
+						<clip pos="4" part="lem"/>
+						<clip pos="4" part="tags"/>
+						<clip pos="4" part="chcontent"/>
+					</chunk>
+					<b pos="3"/>
+					<chunk>
+						<clip pos="5" part="lem"/>
+						<clip pos="5" part="tags"/>
+						<clip pos="5" part="chcontent"/>
+					</chunk>
+					<b pos="4"/>
+					<chunk>
+						<clip pos="3" part="lem"/>
+						<clip pos="3" part="tags"/>
+						<clip pos="3" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+
+		<!-- N/PRN/PRPERS V ~V N => N V N ~V -->
+		<rule comment="RULE: NP Vx V N">
+			<pattern>
+				<pattern-item n="SNP"/>
+				<pattern-item n="SV_aux"/>
+				<pattern-item n="SV"/>
+				<pattern-item n="SN"/>
+			</pattern>
+			<action>
+				<call-macro n="rm_PD_ND_GD">
+					<with-param pos="2"/>
+				</call-macro>
+				<call-macro n="rm_PD_ND_GD">
+					<with-param pos="3"/>
+				</call-macro>
+				<out>
+					<chunk>
+						<clip pos="1" part="lem"/>
+						<clip pos="1" part="tags"/>
+						<clip pos="1" part="chcontent"/>
+					</chunk>
+					<b pos="1"/>
+					<chunk>
+						<clip pos="2" part="lem"/>
+						<clip pos="2" part="tags"/>
+						<clip pos="2" part="chcontent"/>
+					</chunk>
+					<b pos="2"/>
+					<chunk>
+						<clip pos="4" part="lem"/>
+						<clip pos="4" part="tags"/>
+						<clip pos="4" part="chcontent"/>
+					</chunk>
+					<b pos="3"/>
+					<chunk>
+						<clip pos="3" part="lem"/>
+						<clip pos="3" part="tags"/>
+						<clip pos="3" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+
+		<!-- N/PRN/PRPERS V ~V N N => N V N N ~V -->
+		<rule comment="RULE: NP Vx V N N">
+			<pattern>
+				<pattern-item n="SNP"/>
+				<pattern-item n="SV_aux"/>
+				<pattern-item n="SV"/>
+				<pattern-item n="SN"/>
+				<pattern-item n="SN"/>
+			</pattern>
+			<action>
+				<call-macro n="rm_PD_ND_GD">
+					<with-param pos="2"/>
+				</call-macro>
+				<call-macro n="rm_PD_ND_GD">
+					<with-param pos="3"/>
+				</call-macro>
+				<out>
+					<chunk>
+						<clip pos="1" part="lem"/>
+						<clip pos="1" part="tags"/>
+						<clip pos="1" part="chcontent"/>
+					</chunk>
+					<b pos="1"/>
+					<chunk>
+						<clip pos="2" part="lem"/>
+						<clip pos="2" part="tags"/>
+						<clip pos="2" part="chcontent"/>
+					</chunk>
+					<b pos="2"/>
+					<chunk>
+						<clip pos="4" part="lem"/>
+						<clip pos="4" part="tags"/>
+						<clip pos="4" part="chcontent"/>
+					</chunk>
+					<b pos="3"/>
+					<chunk>
+						<clip pos="5" part="lem"/>
+						<clip pos="5" part="tags"/>
+						<clip pos="5" part="chcontent"/>
+					</chunk>
+					<b pos="4"/>
+					<chunk>
+						<clip pos="3" part="lem"/>
+						<clip pos="3" part="tags"/>
+						<clip pos="3" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+
+		<!-- N/PRN/PRPERS V ~V N CNJ N =>  N V N CNJ N ~V -->
+		<rule comment="RULE: NP Vx V N CNJ N">
+			<pattern>
+				<pattern-item n="SNP"/>
+				<pattern-item n="SV_aux"/>
+				<pattern-item n="SV"/>
+				<pattern-item n="SN"/>
+				<pattern-item n="CNJCOO"/>
+				<pattern-item n="SN"/>
+			</pattern>
+			<action>
+				<call-macro n="rm_PD_ND_GD">
+					<with-param pos="2"/>
+				</call-macro>
+				<call-macro n="rm_PD_ND_GD">
+					<with-param pos="3"/>
+				</call-macro>
+				<out>
+					<chunk>
+						<clip pos="1" part="lem"/>
+						<clip pos="1" part="tags"/>
+						<clip pos="1" part="chcontent"/>
+					</chunk>
+					<b pos="1"/>
+					<chunk>
+						<clip pos="2" part="lem"/>
+						<clip pos="2" part="tags"/>
+						<clip pos="2" part="chcontent"/>
+					</chunk>
+					<b pos="2"/>
+					<chunk>
+						<clip pos="4" part="lem"/>
+						<clip pos="4" part="tags"/>
+						<clip pos="4" part="chcontent"/>
+					</chunk>
+					<b pos="3"/>
+					<chunk>
+						<clip pos="5" part="lem"/>
+						<clip pos="5" part="tags"/>
+						<clip pos="5" part="chcontent"/>
+					</chunk>
+					<b pos="4"/>
+					<chunk>
+						<clip pos="6" part="lem"/>
+						<clip pos="6" part="tags"/>
+						<clip pos="6" part="chcontent"/>
+					</chunk>
+					<b pos="5"/>
+					<chunk>
+						<clip pos="3" part="lem"/>
+						<clip pos="3" part="tags"/>
+						<clip pos="3" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+
+		<!-- "N PRN ~V ~ADV N" => "N ~V PRN N ~ADV" -->
+		<rule comment="RULE: N PRN V ADV N">
+			<pattern>
+				<pattern-item n="SN"/>
+				<pattern-item n="PRON"/>
+				<pattern-item n="SV"/>
+				<pattern-item n="ADV"/>
+				<pattern-item n="SN"/>
+			</pattern>
+			<action>
+				<call-macro n="rm_PD_ND_GD">
+					<with-param pos="3"/>
+				</call-macro>
+				<out>
+					<chunk>
+						<clip pos="1" part="lem"/>
+						<clip pos="1" part="tags"/>
+						<clip pos="1" part="chcontent"/>
+					</chunk>
+					<b pos="1"/>
+					<chunk>
+						<clip pos="3" part="lem"/>
+						<clip pos="3" part="tags"/>
+						<clip pos="3" part="chcontent"/>
+					</chunk>
+					<b pos="2"/>
+					<chunk>
+						<clip pos="2" part="lem"/>
+						<clip pos="2" part="tags"/>
+						<clip pos="2" part="chcontent"/>
+					</chunk>
+					<b pos="3"/>
+					<chunk>
+						<clip pos="5" part="lem"/>
+						<clip pos="5" part="tags"/>
+						<clip pos="5" part="chcontent"/>
+					</chunk>
+					<b pos="4"/>
+					<chunk>
+						<clip pos="4" part="lem"/>
+						<clip pos="4" part="tags"/>
+						<clip pos="4" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+
+		<!-- "every afternoon we do" => "jeden Nachmittag machen wir" -->
+		<!-- "N ~PRN V" => "N V ~PRN" -->
+		<rule comment="RULE: N PRN V">
+			<pattern>
+				<pattern-item n="SN"/>
+				<pattern-item n="PRON"/>
+				<pattern-item n="SV"/>
+			</pattern>
+			<action>
+				<call-macro n="rm_PD_ND_GD">
+					<with-param pos="3"/>
+				</call-macro>
+				<out>
+					<chunk>
+						<clip pos="1" part="lem"/>
+						<clip pos="1" part="tags"/>
+						<clip pos="1" part="chcontent"/>
+					</chunk>
+					<b pos="1"/>
+					<chunk>
+						<clip pos="3" part="lem"/>
+						<clip pos="3" part="tags"/>
+						<clip pos="3" part="chcontent"/>
+					</chunk>
+					<b pos="2"/>
+					<chunk>
+						<clip pos="2" part="lem"/>
+						<clip pos="2" part="tags"/>
+						<clip pos="2" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+
+		<!-- "he often drinks tea" => "er trinkt oft Tee" -->
+		<!-- PRN ~ADV V N  =>  PRN V ~ADV N -->
+		<rule comment="RULE: PRN ADV V N">
+			<pattern>
+				<pattern-item n="PRON"/>
+				<pattern-item n="ADV"/>
+				<pattern-item n="SV"/>
+				<pattern-item n="SN"/>
+			</pattern>
+			<action>
+				<call-macro n="rm_PD_ND_GD">
+					<with-param pos="3"/>
+				</call-macro>
+				<out>
+					<chunk>
+						<clip pos="1" part="lem"/>
+						<clip pos="1" part="tags"/>
+						<clip pos="1" part="chcontent"/>
+					</chunk>
+					<b pos="1"/>
+					<chunk>
+						<clip pos="3" part="lem"/>
+						<clip pos="3" part="tags"/>
+						<clip pos="3" part="chcontent"/>
+					</chunk>
+					<b pos="2"/>
+					<chunk>
+						<clip pos="2" part="lem"/>
+						<clip pos="2" part="tags"/>
+						<clip pos="2" part="chcontent"/>
+					</chunk>
+					<b pos="3"/>
+					<chunk>
+						<clip pos="4" part="lem"/>
+						<clip pos="4" part="tags"/>
+						<clip pos="4" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+
+		<!-- "N ~ADV V" => "N V ~ADV" -->
+		<rule comment="RULE: NP ADV V">
+			<pattern>
+				<pattern-item n="SNP"/>
+				<pattern-item n="ADV"/>
+				<pattern-item n="SV"/>
+			</pattern>
+			<action>
+				<call-macro n="rm_PD_ND_GD">
+					<with-param pos="3"/>
+				</call-macro>
+				<out>
+					<chunk>
+						<clip pos="1" part="lem"/>
+						<clip pos="1" part="tags"/>
+						<clip pos="1" part="chcontent"/>
+					</chunk>
+					<b pos="1"/>
+					<chunk>
+						<clip pos="3" part="lem"/>
+						<clip pos="3" part="tags"/>
+						<clip pos="3" part="chcontent"/>
+					</chunk>
+					<b pos="2"/>
+					<chunk>
+						<clip pos="2" part="lem"/>
+						<clip pos="2" part="tags"/>
+						<clip pos="2" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+
+		<!-- "why do not you like" => "warum magst du (...) nicht" -->
+		<!-- "ADV -Vd not N ~V" => "ADV ~V N not" -->
+		<rule comment="RULE: ADV Vd NOT NP V">
+			<pattern>
+				<pattern-item n="ADV"/>
+				<pattern-item n="SV_do"/>
+				<pattern-item n="ADV"/>
+				<pattern-item n="SNP"/>
+				<pattern-item n="SV"/>
+			</pattern>
+			<action>
+				<call-macro n="upd_PD_ND_GD">  <!-- (to be determined) -->
+					<with-param pos="2"/>
+					<with-param pos="4"/>  <!-- from noun -->
+				</call-macro>
+				<call-macro n="rm_PD_ND_GD">
+					<with-param pos="5"/>
+				</call-macro>
+				<out>
+					<chunk>
+						<clip pos="1" part="lem"/>
+						<clip pos="1" part="tags"/>
+						<clip pos="1" part="chcontent"/>
+					</chunk>
+					<b pos="1"/>
+					<chunk>
+						<clip pos="5" part="lem"/>
+						<clip pos="2" part="tags"/>
+						<clip pos="5" part="chcontent"/>
+					</chunk>
+					<b pos="4"/>
+					<chunk>
+						<clip pos="4" part="lem"/>
+						<clip pos="4" part="tags"/>
+						<clip pos="4" part="chcontent"/>
+					</chunk>
+					<b pos="3"/>
+					<chunk>
+						<clip pos="3" part="lem"/>
+						<clip pos="3" part="tags"/>
+						<clip pos="3" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+
+		<!-- (pl): "where does he work" => "wo arbeitet er" -->
+		<!-- "ADV -Vd N ~V" => "ADV ~V N" -->
+		<rule comment="RULE: ADV Vd NP V">
+			<pattern>
+				<pattern-item n="ADV"/>
+				<pattern-item n="SV_do"/>
+				<pattern-item n="SNP"/>
+				<pattern-item n="SV"/>
+			</pattern>
+			<action>
+				<call-macro n="upd_PD_ND_GD">  <!-- (to be determined) -->
+					<with-param pos="2"/>
+					<with-param pos="3"/>  <!-- from noun -->
+				</call-macro>
+				<call-macro n="rm_PD_ND_GD">
+					<with-param pos="4"/>
+				</call-macro>
+				<out>
+					<chunk>
+						<clip pos="1" part="lem"/>
+						<clip pos="1" part="tags"/>
+						<clip pos="1" part="chcontent"/>
+					</chunk>
+					<b pos="1"/>
+					<chunk>
+						<clip pos="4" part="lem"/>
+						<clip pos="2" part="tags"/>
+						<clip pos="4" part="chcontent"/>
+					</chunk>
+					<b pos="2"/>
+					<chunk>
+						<clip pos="3" part="lem"/>
+						<clip pos="3" part="tags"/>
+						<clip pos="3" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+
+		<!-- update nbr/ND -->
+		<!-- (pl): "here are four cakes" => "hier sind vier Kuchen" -->
+		<rule comment="RULE: ADV V NP">
+			<pattern>
+				<pattern-item n="ADV"/>
+				<pattern-item n="SV"/>
+				<pattern-item n="SNP"/>
+			</pattern>
+			<action>
+				<call-macro n="upd_PD_ND_GD">  <!-- (to be determined) -->
+					<with-param pos="2"/>
+					<with-param pos="3"/>  <!-- from noun -->
+				</call-macro>
+				<out>
+					<chunk>
+						<clip pos="1" part="lem"/>
+						<clip pos="1" part="tags"/>
+						<clip pos="1" part="chcontent"/>
+					</chunk>
+					<b pos="1"/>
+					<chunk>
+						<clip pos="2" part="lem"/>
+						<clip pos="2" part="tags"/>
+						<clip pos="2" part="chcontent"/>
+					</chunk>
+					<b pos="2"/>
+					<chunk>
+						<clip pos="3" part="lem"/>
+						<clip pos="3" part="tags"/>
+						<clip pos="3" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+
+		<!-- update nbr/ND -->
+		<!-- "there are often traffic lights" => "dort sind oft Ampeln" -->
+		<rule comment="RULE: ADV V ADV N">
+			<pattern>
+				<pattern-item n="ADV"/>
+				<pattern-item n="SV"/>
+				<pattern-item n="ADV"/>
+				<pattern-item n="SN"/>
+			</pattern>
+			<action>
+				<call-macro n="upd_PD_ND_GD">  <!-- (to be determined) -->
+					<with-param pos="2"/>
+					<with-param pos="4"/>  <!-- from noun -->
+				</call-macro>
+				<out>
+					<chunk>
+						<clip pos="1" part="lem"/>
+						<clip pos="1" part="tags"/>
+						<clip pos="1" part="chcontent"/>
+					</chunk>
+					<b pos="1"/>
+					<chunk>
+						<clip pos="2" part="lem"/>
+						<clip pos="2" part="tags"/>
+						<clip pos="2" part="chcontent"/>
+					</chunk>
+					<b pos="2"/>
+					<chunk>
+						<clip pos="3" part="lem"/>
+						<clip pos="3" part="tags"/>
+						<clip pos="3" part="chcontent"/>
+					</chunk>
+					<b pos="3"/>
+					<chunk>
+						<clip pos="4" part="lem"/>
+						<clip pos="4" part="tags"/>
+						<clip pos="4" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+
+		<!-- "then I had"  =>  "dann hatte ich" -->
+		<!-- "ADV ~N V" => "ADV V ~N" -->
+		<rule comment="RULE: ADV NP V">
+			<pattern>
+				<pattern-item n="ADV"/>
+				<pattern-item n="SNP"/>
+				<pattern-item n="SV"/>
+			</pattern>
+			<action>
+				<call-macro n="upd_PD_ND_GD">  <!-- (to be determined) -->
+					<with-param pos="3"/>
+					<with-param pos="2"/>  <!-- from noun -->
+				</call-macro>
+				<out>
+					<chunk>
+						<clip pos="1" part="lem"/>
+						<clip pos="1" part="tags"/>
+						<clip pos="1" part="chcontent"/>
+					</chunk>
+					<b pos="1"/>
+					<chunk>
+						<clip pos="3" part="lem"/>
+						<clip pos="3" part="tags"/>
+						<clip pos="3" part="chcontent"/>
+					</chunk>
+					<b pos="2"/>
+					<chunk>
+						<clip pos="2" part="lem"/>
+						<clip pos="2" part="tags"/>
+						<clip pos="2" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+
+		<!-- "ADV ~N V" => "ADV V ~N" -->
+		<rule comment="RULE: ITG NP V">
+			<pattern>
+				<pattern-item n="ITG"/>
+				<pattern-item n="SNP"/>
+				<pattern-item n="SV"/>
+			</pattern>
+			<action>
+				<call-macro n="upd_PD_ND_GD">  <!-- (to be determined) -->
+					<with-param pos="3"/>
+					<with-param pos="2"/>  <!-- from noun -->
+				</call-macro>
+				<out>
+					<chunk>
+						<clip pos="1" part="lem"/>
+						<clip pos="1" part="tags"/>
+						<clip pos="1" part="chcontent"/>
+					</chunk>
+					<b pos="1"/>
+					<chunk>
+						<clip pos="2" part="lem"/>
+						<clip pos="2" part="tags"/>
+						<clip pos="2" part="chcontent"/>
+					</chunk>
+					<b pos="2"/>
+					<chunk>
+						<clip pos="3" part="lem"/>
+						<clip pos="3" part="tags"/>
+						<clip pos="3" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+
+		<!-- "ADV1 N ~ADV2" => "~ADV2 ADV1 N" -->
+		<rule comment="RULE: ADV N ADV">
+			<pattern>
+				<pattern-item n="ADV"/>
+				<pattern-item n="SN"/>
+				<pattern-item n="ADV"/>
+			</pattern>
+			<action>
+				<out>
+					<chunk>
+						<get-case-from pos="1">
+							<clip pos="3" part="lem"/>
+						</get-case-from>
+						<clip pos="3" part="tags"/>
+						<clip pos="3" part="chcontent"/>
+					</chunk>
+					<b pos="1"/>
+					<chunk>
+						<clip pos="1" part="lem"/>
+						<clip pos="1" part="tags"/>
+						<clip pos="1" part="chcontent"/>
+					</chunk>
+					<b pos="2"/>
+					<chunk>
+						<clip pos="2" part="lem"/>
+						<clip pos="2" part="tags"/>
+						<clip pos="2" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+
+		<!-- (time befor other adverbs) -->
+		<!-- "ADV1 ~ADV2" => "~ADV2 ADV1" -->
+		<rule comment="RULE: ADV N ADV">
+			<pattern>
+				<pattern-item n="ADV1"/>
+				<pattern-item n="TIME_ADV"/>
+			</pattern>
+			<action>
+				<out>
+					<chunk>
+						<get-case-from pos="1">
+							<clip pos="2" part="lem"/>
+						</get-case-from>
+						<clip pos="2" part="tags"/>
+						<clip pos="2" part="chcontent"/>
+					</chunk>
+					<b pos="1"/>
+					<chunk>
+						<clip pos="1" part="lem"/>
+						<clip pos="1" part="tags"/>
+						<clip pos="1" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+
+		<rule comment="RULE: DET NP">
+			<pattern>
+				<pattern-item n="DET"/>
+				<pattern-item n="SN"/>
+			</pattern>
+			<action>
+				<call-macro n="upd_PD_ND_GD">  <!-- (to be determined) -->
+					<with-param pos="1"/>
+					<with-param pos="2"/>  <!-- from noun -->
+				</call-macro>
+				<out>
+					<chunk>
+						<clip pos="1" part="lem"/>
+						<clip pos="1" part="tags"/>
+						<clip pos="1" part="chcontent"/>
+					</chunk>
+					<b pos="1"/>
+					<chunk>
+						<clip pos="2" part="lem"/>
+						<clip pos="2" part="tags"/>
+						<clip pos="2" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+
+		<!-- (,too): "N N N , ~ADV" => "~ADV N N N" -->
+		<rule comment="RULE: NP NP NP , ADV">
+			<pattern>
+				<pattern-item n="SN_ad"/>
+				<pattern-item n="SN_ad"/>
+				<pattern-item n="SN_ad"/>
+				<pattern-item n="CM_ADV"/>
+			</pattern>
+			<action>
+				<out>
+					<chunk>
+						<clip pos="4" part="lem"/>
+						<clip pos="4" part="tags"/>
+						<clip pos="4" part="chcontent"/>
+					</chunk>
+					<b pos="1"/>
+					<chunk>
+						<clip pos="1" part="lem"/>
+						<clip pos="1" part="tags"/>
+						<clip pos="1" part="chcontent"/>
+					</chunk>
+					<b pos="2"/>
+					<chunk>
+						<clip pos="2" part="lem"/>
+						<clip pos="2" part="tags"/>
+						<clip pos="2" part="chcontent"/>
+					</chunk>
+					<b pos="3"/>
+					<chunk>
+						<clip pos="3" part="lem"/>
+						<clip pos="3" part="tags"/>
+						<clip pos="3" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+
+		<!-- (,too): "N N , ~ADV" => "~ADV N N" -->
+		<rule comment="RULE: NP NP , ADV">
+			<pattern>
+				<pattern-item n="SN_ad"/>
+				<pattern-item n="SN_ad"/>
+				<pattern-item n="CM_ADV"/>
+			</pattern>
+			<action>
+				<out>
+					<chunk>
+						<clip pos="3" part="lem"/>
+						<clip pos="3" part="tags"/>
+						<clip pos="3" part="chcontent"/>
+					</chunk>
+					<b pos="1"/>
+					<chunk>
+						<clip pos="1" part="lem"/>
+						<clip pos="1" part="tags"/>
+						<clip pos="1" part="chcontent"/>
+					</chunk>
+					<b pos="2"/>
+					<chunk>
+						<clip pos="2" part="lem"/>
+						<clip pos="2" part="tags"/>
+						<clip pos="2" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+
+		<!-- (,too): "N , ~ADV" => "~ADV N" -->
+		<rule comment="RULE: NP , ADV">
+			<pattern>
+				<pattern-item n="SN_ad"/>
+				<pattern-item n="CM_ADV"/>
+			</pattern>
+			<action>
+				<out>
+					<chunk>
+						<clip pos="2" part="lem"/>
+						<clip pos="2" part="tags"/>
+						<clip pos="2" part="chcontent"/>
+					</chunk>
+					<b pos="1"/>
+					<chunk>
+						<clip pos="1" part="lem"/>
+						<clip pos="1" part="tags"/>
+						<clip pos="1" part="chcontent"/>
+					</chunk>
+				</out>
+			</action>
+		</rule>
+
+	</section-rules>
+</interchunk>

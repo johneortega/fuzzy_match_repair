@@ -1,0 +1,10 @@
+prefix=/home/johneortega/software/apertium/local
+exec_prefix=/home/johneortega/software/apertium/local
+libdir=/home/johneortega/software/apertium/local/lib/x86_64-linux-gnu
+includedir=/home/johneortega/software/apertium/local/include
+
+Name: cg3
+Description: CG-3 is a compiler and applicator for the third edition of the Constraint Grammar formalism.
+Version: 1.1.4.12795
+Libs: -L${libdir} -lcg3 
+Cflags: -I${includedir}/ 

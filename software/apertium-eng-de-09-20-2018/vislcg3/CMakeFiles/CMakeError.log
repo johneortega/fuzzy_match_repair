@@ -1,0 +1,189 @@
+Performing C SOURCE FILE Test COMPILER_SUPPORTS_-std-c2x failed with the following output:
+Change Dir: /home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec2802046669/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2802046669.dir/build.make CMakeFiles/cmTryCompileExec2802046669.dir/build
+make[1]: Entering directory `/home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp'
+/usr/local/bin/cmake -E cmake_progress_report /home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2802046669.dir/src.c.o
+/usr/bin/cc   -Wall -Wextra -Wno-missing-field-initializers -Wno-deprecated -Wno-unused-parameter -fPIC -Wno-unused-result -flto -DCOMPILER_SUPPORTS_-std-c2x -fPIE   -std=c2x -o CMakeFiles/cmTryCompileExec2802046669.dir/src.c.o   -c /home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp/src.c
+cc: error: unrecognized command line option '-std=c2x'
+make[1]: *** [CMakeFiles/cmTryCompileExec2802046669.dir/src.c.o] Error 1
+make[1]: Leaving directory `/home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp'
+make: *** [cmTryCompileExec2802046669/fast] Error 2
+
+Source file was:
+int main(void) { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_SUPPORTS_-std-c--20 failed with the following output:
+Change Dir: /home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec2199373465/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2199373465.dir/build.make CMakeFiles/cmTryCompileExec2199373465.dir/build
+make[1]: Entering directory `/home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp'
+/usr/local/bin/cmake -E cmake_progress_report /home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec2199373465.dir/src.cxx.o
+/usr/bin/c++    -Wall -Wextra -Wno-missing-field-initializers -Wno-deprecated -Wno-unused-parameter -fPIC -Wno-unused-result -flto -fvisibility-inlines-hidden -DCOMPILER_SUPPORTS_-std-c--20 -fPIE   -std=c++20 -o CMakeFiles/cmTryCompileExec2199373465.dir/src.cxx.o -c /home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-std=c++20'
+make[1]: *** [CMakeFiles/cmTryCompileExec2199373465.dir/src.cxx.o] Error 1
+make[1]: Leaving directory `/home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp'
+make: *** [cmTryCompileExec2199373465/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_SUPPORTS_-std-c--2a failed with the following output:
+Change Dir: /home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec1425447038/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1425447038.dir/build.make CMakeFiles/cmTryCompileExec1425447038.dir/build
+make[1]: Entering directory `/home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp'
+/usr/local/bin/cmake -E cmake_progress_report /home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec1425447038.dir/src.cxx.o
+/usr/bin/c++    -Wall -Wextra -Wno-missing-field-initializers -Wno-deprecated -Wno-unused-parameter -fPIC -Wno-unused-result -flto -fvisibility-inlines-hidden -DCOMPILER_SUPPORTS_-std-c--2a -fPIE   -std=c++2a -o CMakeFiles/cmTryCompileExec1425447038.dir/src.cxx.o -c /home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-std=c++2a'
+make[1]: *** [CMakeFiles/cmTryCompileExec1425447038.dir/src.cxx.o] Error 1
+make[1]: Leaving directory `/home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp'
+make: *** [cmTryCompileExec1425447038/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_SUPPORTS_-std-c--17 failed with the following output:
+Change Dir: /home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec2943693443/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2943693443.dir/build.make CMakeFiles/cmTryCompileExec2943693443.dir/build
+make[1]: Entering directory `/home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp'
+/usr/local/bin/cmake -E cmake_progress_report /home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec2943693443.dir/src.cxx.o
+/usr/bin/c++    -Wall -Wextra -Wno-missing-field-initializers -Wno-deprecated -Wno-unused-parameter -fPIC -Wno-unused-result -flto -fvisibility-inlines-hidden -DCOMPILER_SUPPORTS_-std-c--17 -fPIE   -std=c++17 -o CMakeFiles/cmTryCompileExec2943693443.dir/src.cxx.o -c /home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-std=c++17'
+make[1]: *** [CMakeFiles/cmTryCompileExec2943693443.dir/src.cxx.o] Error 1
+make[1]: Leaving directory `/home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp'
+make: *** [cmTryCompileExec2943693443/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_SUPPORTS_-std-c--1z failed with the following output:
+Change Dir: /home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec2516304465/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2516304465.dir/build.make CMakeFiles/cmTryCompileExec2516304465.dir/build
+make[1]: Entering directory `/home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp'
+/usr/local/bin/cmake -E cmake_progress_report /home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec2516304465.dir/src.cxx.o
+/usr/bin/c++    -Wall -Wextra -Wno-missing-field-initializers -Wno-deprecated -Wno-unused-parameter -fPIC -Wno-unused-result -flto -fvisibility-inlines-hidden -DCOMPILER_SUPPORTS_-std-c--1z -fPIE   -std=c++1z -o CMakeFiles/cmTryCompileExec2516304465.dir/src.cxx.o -c /home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-std=c++1z'
+make[1]: *** [CMakeFiles/cmTryCompileExec2516304465.dir/src.cxx.o] Error 1
+make[1]: Leaving directory `/home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp'
+make: *** [cmTryCompileExec2516304465/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_SUPPORTS_-std-c--14 failed with the following output:
+Change Dir: /home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec1453445396/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1453445396.dir/build.make CMakeFiles/cmTryCompileExec1453445396.dir/build
+make[1]: Entering directory `/home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp'
+/usr/local/bin/cmake -E cmake_progress_report /home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec1453445396.dir/src.cxx.o
+/usr/bin/c++    -Wall -Wextra -Wno-missing-field-initializers -Wno-deprecated -Wno-unused-parameter -fPIC -Wno-unused-result -flto -fvisibility-inlines-hidden -DCOMPILER_SUPPORTS_-std-c--14 -fPIE   -std=c++14 -o CMakeFiles/cmTryCompileExec1453445396.dir/src.cxx.o -c /home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-std=c++14'
+make[1]: *** [CMakeFiles/cmTryCompileExec1453445396.dir/src.cxx.o] Error 1
+make[1]: Leaving directory `/home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp'
+make: *** [cmTryCompileExec1453445396/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Determining if the system is big endian passed with the following output:
+Change Dir: /home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec2547009772/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2547009772.dir/build.make CMakeFiles/cmTryCompileExec2547009772.dir/build
+make[1]: Entering directory `/home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp'
+/usr/local/bin/cmake -E cmake_progress_report /home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2547009772.dir/TestEndianess.c.o
+/usr/bin/cc   -Wall -Wextra -Wno-missing-field-initializers -Wno-deprecated -Wno-unused-parameter -fPIC -Wno-unused-result -flto -std=c11  -fPIE   -o CMakeFiles/cmTryCompileExec2547009772.dir/TestEndianess.c.o   -c /home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp/TestEndianess.c
+Linking C executable cmTryCompileExec2547009772
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2547009772.dir/link.txt --verbose=1
+/usr/bin/cc   -Wall -Wextra -Wno-missing-field-initializers -Wno-deprecated -Wno-unused-parameter -fPIC -Wno-unused-result -flto -std=c11     CMakeFiles/cmTryCompileExec2547009772.dir/TestEndianess.c.o  -o cmTryCompileExec2547009772 -rdynamic 
+make[1]: Leaving directory `/home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp'
+
+TestEndianess.c:
+/* A 16 bit integer is required. */
+typedef unsigned short cmakeint16;
+
+/* On a little endian machine, these 16bit ints will give "THIS IS LITTLE ENDIAN."
+   On a big endian machine the characters will be exchanged pairwise. */
+const cmakeint16 info_little[] =  {0x4854, 0x5349, 0x4920, 0x2053, 0x494c, 0x5454, 0x454c, 0x4520, 0x444e, 0x4149, 0x2e4e, 0x0000};
+
+/* on a big endian machine, these 16bit ints will give "THIS IS BIG ENDIAN."
+   On a little endian machine the characters will be exchanged pairwise. */
+const cmakeint16 info_big[] =     {0x5448, 0x4953, 0x2049, 0x5320, 0x4249, 0x4720, 0x454e, 0x4449, 0x414e, 0x2e2e, 0x0000};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_little[argc];
+  require += info_big[argc];
+  (void)argv;
+  return require;
+}
+
+
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec2127178170/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2127178170.dir/build.make CMakeFiles/cmTryCompileExec2127178170.dir/build
+make[1]: Entering directory `/home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp'
+/usr/local/bin/cmake -E cmake_progress_report /home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2127178170.dir/CheckSymbolExists.c.o
+/usr/bin/cc   -Wall -Wextra -Wno-missing-field-initializers -Wno-deprecated -Wno-unused-parameter -fPIC -Wno-unused-result -flto -std=c11  -fPIE   -o CMakeFiles/cmTryCompileExec2127178170.dir/CheckSymbolExists.c.o   -c /home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTryCompileExec2127178170
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2127178170.dir/link.txt --verbose=1
+/usr/bin/cc   -Wall -Wextra -Wno-missing-field-initializers -Wno-deprecated -Wno-unused-parameter -fPIC -Wno-unused-result -flto -std=c11     CMakeFiles/cmTryCompileExec2127178170.dir/CheckSymbolExists.c.o  -o cmTryCompileExec2127178170 -rdynamic 
+/tmp/ccN7zxXR.ltrans0.ltrans.o: In function `main':
+<artificial>:(.text+0x1b): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+make[1]: *** [cmTryCompileExec2127178170] Error 1
+make[1]: Leaving directory `/home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp'
+make: *** [cmTryCompileExec2127178170/fast] Error 2
+
+File /home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec757301000/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec757301000.dir/build.make CMakeFiles/cmTryCompileExec757301000.dir/build
+make[1]: Entering directory `/home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp'
+/usr/local/bin/cmake -E cmake_progress_report /home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec757301000.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -Wall -Wextra -Wno-missing-field-initializers -Wno-deprecated -Wno-unused-parameter -fPIC -Wno-unused-result -flto -std=c11 -DCHECK_FUNCTION_EXISTS=pthread_create -fPIE   -o CMakeFiles/cmTryCompileExec757301000.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.2/Modules/CheckFunctionExists.c
+Linking C executable cmTryCompileExec757301000
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec757301000.dir/link.txt --verbose=1
+/usr/bin/cc   -Wall -Wextra -Wno-missing-field-initializers -Wno-deprecated -Wno-unused-parameter -fPIC -Wno-unused-result -flto -std=c11 -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTryCompileExec757301000.dir/CheckFunctionExists.c.o  -o cmTryCompileExec757301000 -rdynamic -lpthreads 
+/usr/bin/ld: cannot find -lpthreads
+collect2: error: ld returned 1 exit status
+make[1]: *** [cmTryCompileExec757301000] Error 1
+make[1]: Leaving directory `/home/johneortega/software/apertium/vislcg3/CMakeFiles/CMakeTmp'
+make: *** [cmTryCompileExec757301000/fast] Error 2
+
+

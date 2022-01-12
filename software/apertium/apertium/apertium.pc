@@ -1,0 +1,10 @@
+prefix=/home/johneortega/software/apertium/local
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: apertium
+Description: lttoolbox-based translation modules generator
+Version: 3.2.0
+Libs: -L${libdir} -lapertium3 -L/home/johneortega/software/apertium/local/lib -llttoolbox3 -lxml2 -lpcre  
+Cflags: -I${includedir}/apertium-3.2 -I${libdir}/apertium-3.2/include -I/home/johneortega/software/apertium/local/include/lttoolbox-3.2 -I/home/johneortega/software/apertium/local/lib/lttoolbox-3.2/include -I/usr/include/libxml2  

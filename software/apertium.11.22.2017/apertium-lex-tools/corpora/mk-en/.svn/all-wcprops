@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/apertium/svn/!svn/ver/41288/trunk/apertium-lex-tools/corpora/mk-en
+END
+setimes.dev.en
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/apertium/svn/!svn/ver/41288/trunk/apertium-lex-tools/corpora/mk-en/setimes.dev.en
+END
+setimes.dev.mk-en.ref
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/apertium/svn/!svn/ver/41288/trunk/apertium-lex-tools/corpora/mk-en/setimes.dev.mk-en.ref
+END
+setimes.tst.mk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/apertium/svn/!svn/ver/41288/trunk/apertium-lex-tools/corpora/mk-en/setimes.tst.mk
+END
+setimes.dev.mk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/apertium/svn/!svn/ver/41288/trunk/apertium-lex-tools/corpora/mk-en/setimes.dev.mk
+END
+setimes.tst.mk-en.src
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/apertium/svn/!svn/ver/41288/trunk/apertium-lex-tools/corpora/mk-en/setimes.tst.mk-en.src
+END
+setimes.dev.mk-en.src
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/apertium/svn/!svn/ver/41288/trunk/apertium-lex-tools/corpora/mk-en/setimes.dev.mk-en.src
+END
+setimes.tst.en
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/apertium/svn/!svn/ver/41288/trunk/apertium-lex-tools/corpora/mk-en/setimes.tst.en
+END
+setimes.tst.mk-en.ref
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/apertium/svn/!svn/ver/41288/trunk/apertium-lex-tools/corpora/mk-en/setimes.tst.mk-en.ref
+END

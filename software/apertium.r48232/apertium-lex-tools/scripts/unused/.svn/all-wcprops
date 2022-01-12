@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/apertium/svn/!svn/ver/45820/trunk/apertium-lex-tools/scripts/unused
+END
+unused.biltrans-extract-poormans-freq.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/apertium/svn/!svn/ver/45820/trunk/apertium-lex-tools/scripts/unused/unused.biltrans-extract-poormans-freq.py
+END
+process-tagger-output.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/apertium/svn/!svn/ver/45820/trunk/apertium-lex-tools/scripts/unused/process-tagger-output.py
+END
+unused.biltrans-no-retained.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/apertium/svn/!svn/ver/45820/trunk/apertium-lex-tools/scripts/unused/unused.biltrans-no-retained.py
+END
+process-tagger-output_2.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/apertium/svn/!svn/ver/45820/trunk/apertium-lex-tools/scripts/unused/process-tagger-output_2.py
+END
+process-tags.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/apertium/svn/!svn/ver/45820/trunk/apertium-lex-tools/scripts/unused/process-tags.cc
+END
+unusedbiltrans-only-retained.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/apertium/svn/!svn/ver/45820/trunk/apertium-lex-tools/scripts/unused/unusedbiltrans-only-retained.py
+END

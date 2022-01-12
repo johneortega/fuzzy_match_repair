@@ -1,0 +1,12 @@
+Version 3.2
+	
+* Fixed some bugs in pretransfer, allow '+' inside tags
+* Updated the DTDs to allow comments anywhere
+
+Version 3.0
+
+* Debian package
+
+Version 1.0
+
+* Debian package

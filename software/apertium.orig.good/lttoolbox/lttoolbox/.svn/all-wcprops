@@ -1,0 +1,383 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/apertium/svn/!svn/ver/48123/trunk/lttoolbox/lttoolbox
+END
+lt_comp.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/apertium/svn/!svn/ver/48122/trunk/lttoolbox/lttoolbox/lt_comp.cc
+END
+match_state.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/apertium/svn/!svn/ver/3423/trunk/lttoolbox/lttoolbox/match_state.h
+END
+tmx_compiler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/apertium/svn/!svn/ver/9757/trunk/lttoolbox/lttoolbox/tmx_compiler.cc
+END
+lt-expand.1
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/apertium/svn/!svn/ver/42718/trunk/lttoolbox/lttoolbox/lt-expand.1
+END
+pattern_list.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/apertium/svn/!svn/ver/4037/trunk/lttoolbox/lttoolbox/pattern_list.cc
+END
+compiler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/apertium/svn/!svn/ver/46952/trunk/lttoolbox/lttoolbox/compiler.cc
+END
+acx.rng
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/apertium/svn/!svn/ver/4499/trunk/lttoolbox/lttoolbox/acx.rng
+END
+lt_expand.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/apertium/svn/!svn/ver/42718/trunk/lttoolbox/lttoolbox/lt_expand.cc
+END
+alphabet.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/apertium/svn/!svn/ver/27762/trunk/lttoolbox/lttoolbox/alphabet.cc
+END
+state.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/apertium/svn/!svn/ver/41381/trunk/lttoolbox/lttoolbox/state.cc
+END
+lttoolbox_config.h.cmake_in
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/apertium/svn/!svn/ver/14536/trunk/lttoolbox/lttoolbox/lttoolbox_config.h.cmake_in
+END
+att_compiler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/apertium/svn/!svn/ver/46952/trunk/lttoolbox/lttoolbox/att_compiler.cc
+END
+sorted_vector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/apertium/svn/!svn/ver/9600/trunk/lttoolbox/lttoolbox/sorted_vector.cc
+END
+lt-tmxproc.1
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/apertium/svn/!svn/ver/28559/trunk/lttoolbox/lttoolbox/lt-tmxproc.1
+END
+dix.rng
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/apertium/svn/!svn/ver/42718/trunk/lttoolbox/lttoolbox/dix.rng
+END
+regexp_compiler.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/apertium/svn/!svn/ver/3423/trunk/lttoolbox/lttoolbox/regexp_compiler.h
+END
+lt-comp.1
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/apertium/svn/!svn/ver/42722/trunk/lttoolbox/lttoolbox/lt-comp.1
+END
+trans_exe.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/apertium/svn/!svn/ver/6607/trunk/lttoolbox/lttoolbox/trans_exe.cc
+END
+xml_parse_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/apertium/svn/!svn/ver/3423/trunk/lttoolbox/lttoolbox/xml_parse_util.h
+END
+lt_print.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/apertium/svn/!svn/ver/41367/trunk/lttoolbox/lttoolbox/lt_print.cc
+END
+exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/apertium/svn/!svn/ver/4135/trunk/lttoolbox/lttoolbox/exception.h
+END
+lt_locale.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/apertium/svn/!svn/ver/33749/trunk/lttoolbox/lttoolbox/lt_locale.h
+END
+entry_token.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/apertium/svn/!svn/ver/3423/trunk/lttoolbox/lttoolbox/entry_token.cc
+END
+entry_token.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/apertium/svn/!svn/ver/3423/trunk/lttoolbox/lttoolbox/entry_token.h
+END
+expander.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/apertium/svn/!svn/ver/42718/trunk/lttoolbox/lttoolbox/expander.h
+END
+pattern_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/apertium/svn/!svn/ver/3423/trunk/lttoolbox/lttoolbox/pattern_list.h
+END
+pool.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/apertium/svn/!svn/ver/36308/trunk/lttoolbox/lttoolbox/pool.h
+END
+state.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/apertium/svn/!svn/ver/41381/trunk/lttoolbox/lttoolbox/state.h
+END
+alphabet.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/apertium/svn/!svn/ver/27762/trunk/lttoolbox/lttoolbox/alphabet.h
+END
+lt-print.1
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/apertium/svn/!svn/ver/41367/trunk/lttoolbox/lttoolbox/lt-print.1
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/apertium/svn/!svn/ver/45868/trunk/lttoolbox/lttoolbox/Makefile.am
+END
+lt_tmxcomp.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/apertium/svn/!svn/ver/9757/trunk/lttoolbox/lttoolbox/lt_tmxcomp.cc
+END
+trans_exe.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/apertium/svn/!svn/ver/3423/trunk/lttoolbox/lttoolbox/trans_exe.h
+END
+lt-proc.1
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/apertium/svn/!svn/ver/41415/trunk/lttoolbox/lttoolbox/lt-proc.1
+END
+fst_processor.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/apertium/svn/!svn/ver/42591/trunk/lttoolbox/lttoolbox/fst_processor.h
+END
+lt_locale.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/apertium/svn/!svn/ver/17282/trunk/lttoolbox/lttoolbox/lt_locale.cc
+END
+match_node.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/apertium/svn/!svn/ver/3423/trunk/lttoolbox/lttoolbox/match_node.cc
+END
+compression.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/apertium/svn/!svn/ver/9156/trunk/lttoolbox/lttoolbox/compression.cc
+END
+lt_proc.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/apertium/svn/!svn/ver/42583/trunk/lttoolbox/lttoolbox/lt_proc.cc
+END
+match_node.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/apertium/svn/!svn/ver/3423/trunk/lttoolbox/lttoolbox/match_node.h
+END
+compression.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/apertium/svn/!svn/ver/9146/trunk/lttoolbox/lttoolbox/compression.h
+END
+expander.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/apertium/svn/!svn/ver/42718/trunk/lttoolbox/lttoolbox/expander.cc
+END
+ltstr.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/apertium/svn/!svn/ver/4274/trunk/lttoolbox/lttoolbox/ltstr.h
+END
+dix.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/apertium/svn/!svn/ver/42718/trunk/lttoolbox/lttoolbox/dix.dtd
+END
+transducer.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/apertium/svn/!svn/ver/36364/trunk/lttoolbox/lttoolbox/transducer.h
+END
+xml_parse_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/apertium/svn/!svn/ver/7747/trunk/lttoolbox/lttoolbox/xml_parse_util.cc
+END
+my_stdio.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/apertium/svn/!svn/ver/5038/trunk/lttoolbox/lttoolbox/my_stdio.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/apertium/svn/!svn/ver/48123/trunk/lttoolbox/lttoolbox/CMakeLists.txt
+END
+match_state.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/apertium/svn/!svn/ver/9604/trunk/lttoolbox/lttoolbox/match_state.cc
+END
+match_exe.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/apertium/svn/!svn/ver/6607/trunk/lttoolbox/lttoolbox/match_exe.cc
+END
+match_exe.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/apertium/svn/!svn/ver/3423/trunk/lttoolbox/lttoolbox/match_exe.h
+END
+tmx_compiler.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/apertium/svn/!svn/ver/9757/trunk/lttoolbox/lttoolbox/tmx_compiler.h
+END
+transducer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/apertium/svn/!svn/ver/41421/trunk/lttoolbox/lttoolbox/transducer.cc
+END
+buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/apertium/svn/!svn/ver/3423/trunk/lttoolbox/lttoolbox/buffer.h
+END
+compiler.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/apertium/svn/!svn/ver/43137/trunk/lttoolbox/lttoolbox/compiler.h
+END
+lt-tmxcomp.1
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/apertium/svn/!svn/ver/28559/trunk/lttoolbox/lttoolbox/lt-tmxcomp.1
+END
+regexp_compiler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/apertium/svn/!svn/ver/4037/trunk/lttoolbox/lttoolbox/regexp_compiler.cc
+END
+att_compiler.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/apertium/svn/!svn/ver/45916/trunk/lttoolbox/lttoolbox/att_compiler.h
+END
+sorted_vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/apertium/svn/!svn/ver/3423/trunk/lttoolbox/lttoolbox/sorted_vector.h
+END
+node.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/apertium/svn/!svn/ver/3697/trunk/lttoolbox/lttoolbox/node.cc
+END
+node.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/apertium/svn/!svn/ver/4135/trunk/lttoolbox/lttoolbox/node.h
+END
+fst_processor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/apertium/svn/!svn/ver/42723/trunk/lttoolbox/lttoolbox/fst_processor.cc
+END
+lt_tmxproc.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/apertium/svn/!svn/ver/7596/trunk/lttoolbox/lttoolbox/lt_tmxproc.cc
+END

@@ -1,0 +1,3 @@
+    
+    lt-proc /home/johneortega/software/apertium/apertium-fr-es/es-fr.automorf.bin |apertium-tagger -g $2 /home/johneortega/software/apertium/apertium-fr-es/es-fr.prob |apertium-pretransfer
+  

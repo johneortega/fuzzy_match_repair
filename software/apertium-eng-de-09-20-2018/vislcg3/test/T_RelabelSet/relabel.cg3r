@@ -1,0 +1,6 @@
+MAP (det)	(Det) ;
+MAP (gen)	(Gen) ;
+MAP (adj)	(A) ;
+
+MAP (n)		(N) - (Prop) ;
+MAP (np)	(N Prop) ;

@@ -1,0 +1,16 @@
+#!/bin/bash
+if [[ $# != 1 ]]; then
+    echo "USAGE: $(basename "$0") <input_file>"
+    exit 1
+fi
+
+FILE1=$1
+
+if [[ ! -e $FILE1 ]]; then
+    echo "ERROR: '$1' file not found"
+    exit 1
+fi
+
+# xsd is a non-final command, so just treated as a warning when compiling:
+/usr/bin/xmllint --schema "/home/johneortega/software/apertium/local"/share/lttoolbox/dix.xsd --noout "$FILE1" 2>&1 | grep -ve ' validates$' -e ' fails to validate$'
+/usr/bin/xmllint --dtdvalid "/home/johneortega/software/apertium/local"/share/lttoolbox/dix.dtd --noout "$FILE1"

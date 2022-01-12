@@ -1,0 +1,34 @@
+K 10
+svn:ignore
+V 529
+.deps
+.libs
+Makefile
+Makefile.in
+stamp-*
+apertium
+apertium-[dfgilprtv]*[!1]
+apertium_config.h
+apertium_config.h.in
+apertium_deshtml.cc
+apertium_desmediawiki.cc
+apertium_desodt.cc
+apertium_despptx.cc
+apertium_desrtf.cc
+apertium_destxt.cc
+apertium_deswxml.cc
+apertium_desxlsx.cc
+apertium_desxpresstag.cc
+apertium_rehtml.cc
+apertium_remediawiki.cc
+apertium_reodt.cc
+apertium_repptx.cc
+apertium_rertf.cc
+apertium_retxt.cc
+apertium_rewxml.cc
+apertium_rexlsx.cc
+apertium_rexpresstag.cc
+apertium-multiple-translations
+apertium-unformat
+
+END

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modes>
+  <mode name="pt-es-morph" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="pt-es.automorf.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+   
+  <mode name="pt-es-tagger" install="no">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="pt-es.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="pt-es.prob"/>
+      </program>
+    </pipeline>
+  </mode>
+  
+  <mode name="pt-es-biltrans" install="no">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="pt-es.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="pt-es.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="pt-es.autobil.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+   
+  <mode name="pt-es-transfer" install="no">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="pt-es.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="pt-es.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="pt-es.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="pt-es.t1x"/>
+        <file name="pt-es.t1x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+ 
+  <mode name="pt-es" install="yes">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="pt-es.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="pt-es.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="pt-es.t1x"/>
+        <file name="pt-es.t1x.bin"/>
+        <file name="pt-es.autobil.bin"/>
+      </program>
+      <program name="lt-proc $1">
+        <file name="pt-es.autogen.bin"/>
+      </program>
+      <program name="lt-proc -p">
+        <file name="pt-es.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+  
+  <mode name="es-pt" install="yes">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="es-pt.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="es-pt.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="es-pt.t1x"/>
+        <file name="es-pt.t1x.bin"/>
+        <file name="es-pt.autobil.bin"/>
+      </program>
+      <program name="lt-proc $1">
+        <file name="es-pt.autogen.bin"/>
+      </program>
+      <program name="lt-proc -p">
+        <file name="es-pt.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="es-pt-tagger" install="no">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="es-pt.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="es-pt.prob"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="es-pt_BR" install="yes">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="es-pt.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="es-pt.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="es-pt_BR.t1x"/>
+        <file name="es-pt_BR.t1x.bin"/>
+        <file name="es-pt_BR.autobil.bin"/>
+      </program>
+      <program name="lt-proc $1">
+        <file name="es-pt_BR.autogen.bin"/>
+      </program>
+      <program name="lt-proc -p">
+        <file name="es-pt_BR.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+</modes>

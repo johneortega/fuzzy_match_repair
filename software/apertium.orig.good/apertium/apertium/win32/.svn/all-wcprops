@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/apertium/svn/!svn/ver/17290/trunk/apertium/apertium/win32
+END
+regex.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/win32/regex.h
+END
+libgen.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/win32/libgen.c
+END
+getopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/win32/getopt.c
+END
+snprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/apertium/svn/!svn/ver/17290/trunk/apertium/apertium/win32/snprintf.c
+END
+libgen.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/win32/libgen.h
+END
+getopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/win32/getopt.h
+END
+snprintf.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/apertium/svn/!svn/ver/17290/trunk/apertium/apertium/win32/snprintf.h
+END
+regex.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/win32/regex.c
+END
+unistd.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/apertium/svn/!svn/ver/14532/trunk/apertium/apertium/win32/unistd.h
+END
+runner_skeleton.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/apertium/svn/!svn/ver/9833/trunk/apertium/apertium/win32/runner_skeleton.c
+END

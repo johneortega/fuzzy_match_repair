@@ -1,0 +1,6 @@
+DELIMITERS = "<$.>" ;
+
+SUBSTITUTE REPEAT (/hubba\\d/r) (*) (before) ;
+
+SECTION
+SUBSTITUTE ITERATE (/wanted\\d/r) (*) (before) ;

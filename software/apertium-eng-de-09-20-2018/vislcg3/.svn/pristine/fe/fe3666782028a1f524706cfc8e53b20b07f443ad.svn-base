@@ -1,0 +1,13 @@
+DELIMITERS = "<$.>" ;
+
+LIST ASet = wanted ;
+LIST BSet = @A @B @C ;
+LIST CSet = (@D @E) @F ;
+
+ADD (£affected) (notwanted) (-1A (wanted)) ;
+
+SECTION
+
+SELECT ASet ;
+SELECT BSet ;
+SELECT CSet ;

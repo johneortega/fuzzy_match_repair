@@ -1,0 +1,22 @@
+K 10
+svn:ignore
+V 178
+.deps
+aclocal.m4
+autom4te.cache
+config.log
+config.status
+configure
+depcomp
+INSTALL
+install-sh
+lrx-comp
+lrx-proc
+lrx_config.h
+lrx_config.h.in
+Makefile
+Makefile.in
+missing
+stamp-*
+
+END
