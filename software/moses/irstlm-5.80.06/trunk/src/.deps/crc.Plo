@@ -1,0 +1,5 @@
+crc.lo: crc.cpp /usr/include/stdc-predef.h crc.h
+
+/usr/include/stdc-predef.h:
+
+crc.h:

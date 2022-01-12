@@ -1,0 +1,17 @@
+STDOUT_1=---- Shift Beta check-prob test.txt without backoff with singleton pruning
+STDOUT_2=n=270 LP=1186.522565 PP=81.00638823 OVVRate=0.1074074074
+STDOUT_3=---- Shift Beta check-prob test.ngt without backoff with singleton pruning
+STDOUT_4=n=270 LP=1227.197686 PP=94.17705869 OVVRate=0.1074074074
+STDOUT_5=---- Shift Beta check-prob test.txt with backoff with singleton pruning
+STDOUT_6=n=270 LP=1225.634733 PP=93.63346938 OVVRate=0.1074074074
+STDOUT_7=---- Shift Beta check-prob test.ngt with backoff with singleton pruning
+STDOUT_8=n=270 LP=1234.990272 PP=96.93474752 OVVRate=0.1074074074
+STDOUT_9=---- Shift Beta check-prob test.txt without backoff without singleton pruning
+STDOUT_10=n=270 LP=1170.995907 PP=76.47943479 OVVRate=0.1074074074
+STDOUT_11=---- Shift Beta check-prob test.ngt without backoff without singleton pruning
+STDOUT_12=n=270 LP=1206.010557 PP=87.06942302 OVVRate=0.1074074074
+STDOUT_13=---- Shift Beta check-prob test.txt with backoff without singleton pruning
+STDOUT_14=n=270 LP=1225.391259 PP=93.54907306 OVVRate=0.1074074074
+STDOUT_15=---- Shift Beta check-prob test.ngt with backoff without singleton pruning
+STDOUT_16=n=270 LP=1226.944533 PP=94.08879951 OVVRate=0.1074074074
+TOTAL_WALLTIME ~ 44

@@ -1,0 +1,14 @@
+#! /bin/sh
+
+bin=$IRSTLM/bin
+
+testdir=$1
+cd $testdir
+
+inputfile=input.gz
+outputfile=output
+
+rm dict model
+$bin/plsa.sh -c "gunzip -c $inputfile" -d dict -m model -i 10 -k 4 -n 30 -r $outputfile -s 50 -p 2 > /dev/null 2>&1 
+cat $outputfile
+rm $outputfile dict model

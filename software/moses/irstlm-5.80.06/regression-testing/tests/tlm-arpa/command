@@ -1,0 +1,13 @@
+#! /bin/sh
+
+bin=$IRSTLM/bin
+
+testdir=$1
+cd $testdir
+
+inputfile=input.gz
+outputfile=output
+
+$bin/tlm -lm=msb -n=4 -tr='gunzip -c input.gz' -oarpa=$outputfile > /dev/null 2>&1 
+cat $outputfile
+rm $outputfile 

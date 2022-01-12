@@ -1,0 +1,14 @@
+#! /bin/sh
+
+bin=$IRSTLM/bin
+
+testdir=$1
+cd $testdir
+
+inputfile=input.gz
+outputfile=output.gz
+
+$bin/prune-lm --threshold=1e-5,1e-6 $inputfile /dev/stdout | gzip -c > $outputfile
+gunzip -c $outputfile
+rm $outputfile
+
